@@ -1,8 +1,25 @@
+# Translations template for addons-server.
+# Copyright (C) 2025 Mozilla
+# This file is distributed under the same license as the addons-server project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-20 18:24+0000\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
+
 msgid "There was a problem contacting the server."
 msgstr ""
 
 msgid "Select a file..."
-msgstr ""
+msgstr "Kies 'n lêer..."
 
 msgid "Your add-on should end with .zip, .xpi or .crx"
 msgstr ""
@@ -17,7 +34,7 @@ msgid "{0} of {1}"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 #, python-brace-format
 msgid "Uploading {0}"
@@ -134,11 +151,11 @@ msgid_plural "{0} downloads"
 msgstr[0] ""
 msgstr[1] ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{0} user"
 msgid_plural "{0} users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} ster"
+msgstr[1] "{0} sterre"
 
 msgid "Downloads"
 msgstr ""
@@ -155,25 +172,25 @@ msgid "Details for {0}"
 msgstr ""
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 msgid "Sunbird"
-msgstr ""
+msgstr "Sunbird"
 
 msgid "SeaMonkey"
-msgstr ""
+msgstr "SeaMonkey"
 
 msgid "Fennec"
-msgstr ""
+msgstr "Fennec"
 
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #. L10n: {0} is an integer.
 #, python-brace-format
@@ -276,9 +293,9 @@ msgid "Download Mediums from {0} to {1}"
 msgstr ""
 
 #. L10n: {0} is an integer.
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Download Contents, last {0} days"
-msgstr ""
+msgstr "Laai in elk geval af vir {0}"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #, python-brace-format
@@ -317,7 +334,7 @@ msgid "Date"
 msgstr ""
 
 msgid "Other"
-msgstr ""
+msgstr "Ander"
 
 msgid "Copied"
 msgstr ""
@@ -340,23 +357,23 @@ msgstr[1] ""
 msgid "Image changes being processed"
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "<b>{0}</b> character"
 msgid_plural "<b>{0}</b> characters"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<b>{0}</b> karakter oor."
+msgstr[1] "<b>{0}</b> karakters oor."
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "<b>{0}</b> character left"
 msgid_plural "<b>{0}</b> characters left"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<b>{0}</b> karakter oor."
+msgstr[1] "<b>{0}</b> karakters oor."
 
 msgid "This feature is temporarily disabled while we perform website maintenance. Please check back a little later."
 msgstr ""
 
 msgid "Remove this localization"
-msgstr ""
+msgstr "Verwyder hierdie lokalisering"
 
 #, python-brace-format
 msgid "{name} was viewing this page first."
@@ -370,7 +387,7 @@ msgid "{name} was viewing this add-on first."
 msgstr ""
 
 msgid "Loading&hellip;"
-msgstr ""
+msgstr "Laai tans&hellip;"
 
 msgid "Version Notes"
 msgstr ""
@@ -428,10 +445,10 @@ msgid "Tests"
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 msgid "Warning"
-msgstr ""
+msgstr "Waarskuwing"
 
 #, python-brace-format
 msgid "{0} line {1} column {2}"
@@ -450,14 +467,14 @@ msgstr ""
 #, python-brace-format
 msgid "{0} error"
 msgid_plural "{0} errors"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} fout"
+msgstr[1] "{0} foute"
 
 #, python-brace-format
 msgid "{0} warning"
 msgid_plural "{0} warnings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} waarskuwing"
+msgstr[1] "{0} waarskuwings"
 
 #, python-brace-format
 msgid "{0} notice"
@@ -469,4 +486,4 @@ msgid "Validation task could not complete or completed with errors"
 msgstr ""
 
 msgid "Internal server error"
-msgstr ""
+msgstr "Interne bedienerfout"

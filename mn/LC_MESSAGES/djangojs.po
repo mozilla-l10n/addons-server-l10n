@@ -1,3 +1,20 @@
+# Translations template for addons-server.
+# Copyright (C) 2025 Mozilla
+# This file is distributed under the same license as the addons-server project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-20 18:24+0000\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
+
 msgid "There was a problem contacting the server."
 msgstr ""
 
@@ -17,7 +34,7 @@ msgid "{0} of {1}"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Цуцлах"
 
 #, python-brace-format
 msgid "Uploading {0}"
@@ -116,7 +133,7 @@ msgid "Your file exceeds the maximum size of {0}."
 msgstr ""
 
 msgid "You cancelled the upload."
-msgstr ""
+msgstr "Байршуулалтыг цуцаллаа."
 
 msgid "Images must be either PNG or JPG."
 msgstr ""
@@ -128,26 +145,26 @@ msgstr ""
 msgid "Week of {0}"
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{0} download"
 msgid_plural "{0} downloads"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] " татаж авсан файлууд"
+msgstr[1] " татаж авсан файлууд"
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{0} user"
 msgid_plural "{0} users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{0} од"
+msgstr[1] "{0} од"
 
 msgid "Downloads"
-msgstr ""
+msgstr "Татаж авсан файлууд"
 
 msgid "Daily Users"
 msgstr ""
 
 msgid "More Info..."
-msgstr ""
+msgstr "Нэмэлт мэдээлэл…"
 
 #. L10n: {0} is an ISO-formatted date.
 #, python-brace-format
@@ -155,25 +172,25 @@ msgid "Details for {0}"
 msgstr ""
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 msgid "Sunbird"
-msgstr ""
+msgstr "Sunbird"
 
 msgid "SeaMonkey"
-msgstr ""
+msgstr "SeaMonkey"
 
 msgid "Fennec"
-msgstr ""
+msgstr "Fennec"
 
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #. L10n: {0} is an integer.
 #, python-brace-format
@@ -317,7 +334,7 @@ msgid "Date"
 msgstr ""
 
 msgid "Other"
-msgstr ""
+msgstr "Төрөл бүрийн"
 
 msgid "Copied"
 msgstr ""
@@ -370,7 +387,7 @@ msgid "{name} was viewing this add-on first."
 msgstr ""
 
 msgid "Loading&hellip;"
-msgstr ""
+msgstr "Ачаалж байна&hellip;"
 
 msgid "Version Notes"
 msgstr ""

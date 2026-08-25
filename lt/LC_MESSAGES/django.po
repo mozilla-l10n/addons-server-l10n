@@ -1,3 +1,20 @@
+# Translations template for addons-server.
+# Copyright (C) 2025 Mozilla
+# This file is distributed under the same license as the addons-server project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-20 18:24+0000\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Generated-By: Pontoon\n"
+
 #, python-brace-format
 msgid "Mozilla Add-ons: {} [{}]"
 msgstr ""
@@ -68,7 +85,7 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision  that this content adheres to Mozilla's policies (%(policy_document_url)s)  was correct. For that reason we will not be "
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
 "taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
@@ -167,14 +184,15 @@ msgid "Please use images smaller than %dMB."
 msgstr ""
 
 msgid "Need help?"
-msgstr ""
+msgstr "Reikia pagalbos?"
 
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr ""
 
+#, fuzzy
 msgid "Add-ons Review Team"
-msgstr ""
+msgstr "Neperžiūrėtas"
 
 msgid "Review"
 msgstr ""
@@ -184,9 +202,11 @@ msgid "Version {0}"
 msgid_plural "Versions {0}"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
+#, fuzzy
 msgid "Review note"
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
 msgid "Request content length is too large."
 msgstr ""
@@ -246,7 +266,7 @@ msgid "Images must be smaller than %dMB"
 msgstr ""
 
 msgid "Listed"
-msgstr ""
+msgstr "Išvardinta"
 
 msgid "Built in licenses can not be updated."
 msgstr ""
@@ -350,19 +370,19 @@ msgid "My Themes"
 msgstr ""
 
 msgid "Tools"
-msgstr ""
+msgstr "Priemonės"
 
 msgid "My Profile"
-msgstr ""
+msgstr "Mano profilis"
 
 msgid "Account Settings"
-msgstr ""
+msgstr "Paskyros nuostatos"
 
 msgid "My Collections"
-msgstr ""
+msgstr "Mano rinkiniai"
 
 msgid "Log out"
-msgstr ""
+msgstr "Atsijungti"
 
 msgid "Manage My Submissions"
 msgstr ""
@@ -379,11 +399,12 @@ msgstr ""
 msgid "Manage API Keys"
 msgstr ""
 
+#, fuzzy
 msgid "Reviewer Tools"
-msgstr ""
+msgstr "Plėtojimo kanalas"
 
 msgid "Admin Tools"
-msgstr ""
+msgstr "Administratoriaus priemonės"
 
 msgid "Positive integer"
 msgstr ""
@@ -442,7 +463,7 @@ msgid ""
 msgstr ""
 
 msgid "Not Found"
-msgstr ""
+msgstr "Tinklalapis nerastas"
 
 #, python-format
 msgid ""
@@ -454,7 +475,7 @@ msgid ""
 msgstr ""
 
 msgid "Oops"
-msgstr ""
+msgstr "Oi"
 
 #, python-format
 msgid ""
@@ -464,10 +485,10 @@ msgstr ""
 
 #. abbreviation of 'previous'
 msgid "Prev"
-msgstr ""
+msgstr "Ankst."
 
 msgid "Next"
-msgstr ""
+msgstr "Kitas"
 
 #, python-format
 msgid "Results <strong>%(begin)s</strong>&ndash;<strong>%(end)s</strong> of <strong>%(count)s</strong>"
@@ -490,7 +511,7 @@ msgstr ""
 
 #, python-brace-format
 msgid "Add-ons for {0}"
-msgstr ""
+msgstr "Priedai, skirti {0}"
 
 #. L10n: relative time in the past, like '4 days ago'
 #, python-brace-format
@@ -573,23 +594,24 @@ msgstr ""
 msgid "The custom URL must consist of letters, numbers, underscores or hyphens."
 msgstr ""
 
+#, fuzzy
 msgid "This custom URL cannot be used."
-msgstr ""
+msgstr "„{0}“ yra rezervuota gairė ir negali būti naudojama."
 
 msgid "This add-on already belongs to the collection"
 msgstr ""
 
 #, python-brace-format
 msgid "{addon} was created."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
 #, python-brace-format
 msgid "{addon} properties edited."
-msgstr ""
+msgstr "Priedo „{addon}“ savybės pakeistos."
 
 #, python-brace-format
 msgid "{addon} description edited."
-msgstr ""
+msgstr "Priedo „{addon}“ aprašymas pakeistas."
 
 #, python-brace-format
 msgid "Categories edited for {addon}."
@@ -726,9 +748,9 @@ msgstr ""
 msgid "{addon} policy changed."
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} icon or previews changed."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
 #, python-brace-format
 msgid "{rating} for {addon} approved."
@@ -750,7 +772,7 @@ msgid "Email sent to Author about add-on compatibility."
 msgstr ""
 
 msgid "Password changed."
-msgstr ""
+msgstr "Slaptažodis pakeistas."
 
 #, python-brace-format
 msgid "{addon} {version} approved but waiting to be made public."
@@ -791,15 +813,17 @@ msgstr ""
 msgid "Reply by developer on {addon} {version}."
 msgstr ""
 
+#, fuzzy
 msgid "Developer Reply"
-msgstr ""
+msgstr "Plėtojimo kanalas"
 
 #, python-brace-format
 msgid "Reply by reviewer on {addon} {version}."
 msgstr ""
 
+#, fuzzy
 msgid "Reviewer Reply"
-msgstr ""
+msgstr "Plėtojimo kanalas"
 
 #, python-brace-format
 msgid "Notes for reviewers changed for {addon} {version}."
@@ -815,42 +839,43 @@ msgstr ""
 msgid "Source code uploaded"
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} {version} re-enabled."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} {version} disabled."
-msgstr ""
+msgstr "Priedo „{addon}“ aprašymas pakeistas."
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} {version} content rejected."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
 msgid "Content rejected"
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} {version} admin theme-review requested."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
+#, fuzzy
 msgid "Admin theme-review requested"
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
 #, python-brace-format
 msgid "{addon} was migrated from a lightweight theme."
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} {version} content reject scheduled."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
 msgid "Content reject scheduled"
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "{addon} {version} reject scheduled."
-msgstr ""
+msgstr "Priedas „{addon}“ sukurtas."
 
 msgid "Rejection scheduled"
 msgstr ""
@@ -859,8 +884,9 @@ msgstr ""
 msgid "{addon} {version} automatically created and signed from {0}."
 msgstr ""
 
+#, fuzzy
 msgid "Version re-signed"
-msgstr ""
+msgstr "Versijos pastabos"
 
 #, python-brace-format
 msgid "{addon} force-disabled"
@@ -1019,7 +1045,7 @@ msgid "Deleted"
 msgstr ""
 
 msgid "Unlisted"
-msgstr ""
+msgstr "Nerodomas sąraše"
 
 msgid "Enterprise"
 msgstr ""
@@ -1073,7 +1099,7 @@ msgid "Deprecated Site Permission"
 msgstr ""
 
 msgid "Extensions"
-msgstr ""
+msgstr "Plėtiniai"
 
 msgid "Deprecated Complete Themes"
 msgstr ""
@@ -1097,7 +1123,7 @@ msgid "Deprecated LWTs"
 msgstr ""
 
 msgid "Themes"
-msgstr ""
+msgstr "Temos"
 
 msgid "Deprecated Site Permissions"
 msgstr ""
@@ -1157,14 +1183,15 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
+#, fuzzy
 msgid "Privacy & Security"
-msgstr ""
+msgstr "Privatumo politika"
 
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
 msgstr ""
 
 msgid "Search Tools"
-msgstr ""
+msgstr "Paieškos priemonės"
 
 msgid "Download Firefox extensions for search and look-up. This category includes extensions that highlight and search text, lookup IP addresses/domains, and more."
 msgstr ""
@@ -1187,8 +1214,9 @@ msgstr ""
 msgid "Download Firefox extension to customize tabs and the new tab page. Discover extensions that can control tabs, change the way you interact with them, and more."
 msgstr ""
 
+#, fuzzy
 msgid "Web Development"
-msgstr ""
+msgstr "Rodyti negalutinę versiją"
 
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr ""
@@ -1214,7 +1242,7 @@ msgstr ""
 msgid "Fashion"
 msgstr ""
 
-msgid "Download Firefox themes that celebrate style of all formspatterns, florals, textures, models, and more."
+msgid "Download Firefox themes that celebrate style of all forms—patterns, florals, textures, models, and more."
 msgstr ""
 
 msgid "Film and TV"
@@ -1235,7 +1263,7 @@ msgstr ""
 msgid "Holiday"
 msgstr ""
 
-msgid "Download Firefox themes with holidays. This category includes Christmas, Halloween, Thanksgiving, St. Patricks Day, Easter, Fourth of July, and more."
+msgid "Download Firefox themes with holidays. This category includes Christmas, Halloween, Thanksgiving, St. Patrick’s Day, Easter, Fourth of July, and more."
 msgstr ""
 
 msgid "Music"
@@ -1244,8 +1272,9 @@ msgstr ""
 msgid "Download Firefox themes for musical interests and artists. This category includes popular bands like Nirvana and BTS, instruments, music videos, and much more."
 msgstr ""
 
+#, fuzzy
 msgid "Nature"
-msgstr ""
+msgstr "Rekomenduojamas"
 
 msgid "Download Firefox themes with animals and natural landscapes. This category includes flowers, sunsets, foxes, seasons, planets, kittens, birds, and more."
 msgstr ""
@@ -1262,7 +1291,7 @@ msgstr ""
 msgid "Seasonal"
 msgstr ""
 
-msgid "Download Firefox themes for all four seasonsfall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
+msgid "Download Firefox themes for all four seasons—fall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
 msgstr ""
 
 msgid "Solid"
@@ -1277,10 +1306,11 @@ msgstr ""
 msgid "Download Firefox themes that feature a variety of sports. This category includes country flags, sports teams, soccer, hockey, and more."
 msgstr ""
 
+#, fuzzy
 msgid "Websites"
-msgstr ""
+msgstr "Svetainė"
 
-msgid "Download Firefox themes that capture the essence of the webcaptivating, unusual, and distinctive."
+msgid "Download Firefox themes that capture the essence of the web—captivating, unusual, and distinctive."
 msgstr ""
 
 msgid "General"
@@ -1383,11 +1413,12 @@ msgstr ""
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Priedui galite priskirti ne daugiau kaip {0} kategoriją."
+msgstr[1] "Priedui galite priskirti ne daugiau kaip {0} kategorijas."
+msgstr[2] "Priedui galite priskirti ne daugiau kaip {0} kategorijų."
 
 msgid "The miscellaneous category cannot be combined with additional categories."
-msgstr ""
+msgstr "The miscellaneous category cannot be combined with additional categories."
 
 msgid "There was an error uploading your image."
 msgstr ""
@@ -1399,12 +1430,13 @@ msgstr ""
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Jūs turite {0} gaire per daug."
+msgstr[1] "Jūs turite {0} gairėmis per daug."
+msgstr[2] "Jūs turite {0} gairių per daug."
 
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
-msgstr ""
+msgstr "Prieš keisdami savo numatytąją lokalę, turite turėti pavadinimą, santrauką bei aprašymą toje lokalėje. Jums trūksta %s."
 
 msgid "Users can not be added directly"
 msgstr ""
@@ -1504,7 +1536,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
-"on manifests <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
+"on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
 
 msgid ""
@@ -1600,7 +1632,7 @@ msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-o
 msgstr ""
 
 msgid "Updated"
-msgstr ""
+msgstr "Atnaujinta"
 
 msgid "Name"
 msgstr ""
@@ -1761,8 +1793,9 @@ msgstr ""
 msgid "Add-on uploads are temporarily unavailable"
 msgstr ""
 
+#, fuzzy
 msgid "Review requested."
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
 msgid "You must provide further details to proceed."
 msgstr ""
@@ -1795,7 +1828,7 @@ msgid "Your support request has been submitted. We will be in touch soon."
 msgstr ""
 
 msgid "My add-on doesn't fit into any of the categories"
-msgstr ""
+msgstr "Mano priedas netinka nė į vieną iš esamų kategorijų"
 
 msgid "Firefox Add-on Distribution Agreement"
 msgstr ""
@@ -1821,8 +1854,9 @@ msgstr ""
 msgid "more add-ons..."
 msgstr ""
 
+#, fuzzy
 msgid "Extension Workshop"
-msgstr ""
+msgstr "Plėtiniai"
 
 msgid "Documentation"
 msgstr ""
@@ -1830,8 +1864,9 @@ msgstr ""
 msgid "Extension Development"
 msgstr ""
 
+#, fuzzy
 msgid "Developer Policies"
-msgstr ""
+msgstr "Plėtojimo kanalas"
 
 msgid "Add-on Validator"
 msgstr ""
@@ -1989,6 +2024,7 @@ msgid "<b>{0}</b> add-on"
 msgid_plural "<b>{0}</b> add-ons"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 msgid "Recent Activity"
 msgstr ""
@@ -2006,6 +2042,7 @@ msgid "<b>{0}</b> theme"
 msgid_plural "<b>{0}</b> themes"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 msgid "Edit Product Page"
 msgstr ""
@@ -2016,8 +2053,9 @@ msgstr ""
 msgid "Preview"
 msgstr ""
 
+#, fuzzy
 msgid "Preview of listed version"
-msgstr ""
+msgstr "Peržiūrėti kitas versijas"
 
 msgid "Preview still being generated - come back later or refresh the page."
 msgstr ""
@@ -2075,9 +2113,9 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Additional Details for {0}"
-msgstr ""
+msgstr "Priedai, skirti {0}"
 
 msgid "Tags"
 msgstr ""
@@ -2090,8 +2128,9 @@ msgstr ""
 msgid "Limit {0} tags."
 msgstr ""
 
+#, fuzzy
 msgid "Contributions URL"
-msgstr ""
+msgstr "Paaukoti"
 
 msgid "If you would like to request monetary contributions from your users, set this to a page where they can do so."
 msgstr ""
@@ -2115,18 +2154,19 @@ msgid ""
 msgstr ""
 
 msgid "or"
-msgstr ""
+msgstr "arba"
 
 msgid "Cancel"
 msgstr ""
 
+#, fuzzy
 msgid "Describe Add-on"
-msgstr ""
+msgstr "Daugiau priedų"
 
 #. {0} is the addon name
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Describe {0}"
-msgstr ""
+msgstr "Daugiau priedų"
 
 msgid "Name and Summary"
 msgstr ""
@@ -2174,8 +2214,9 @@ msgstr ""
 msgid "If your add-on on is experimental or otherwise not ready for general use.  The add-on will be listed but will have reduced visibility. "
 msgstr ""
 
+#, fuzzy
 msgid "This add-on is experimental."
-msgstr ""
+msgstr "Autorius pašalino šį priedą."
 
 msgid "This add-on is ready for general use."
 msgstr ""
@@ -2193,7 +2234,7 @@ msgid "This add-on doesn't require any additional payments, paid services or sof
 msgstr ""
 
 msgid "Categories"
-msgstr ""
+msgstr "Kategorijos"
 
 msgid "Categories are the primary way users browse through add-ons. Choose any that fit your add-on's functionality for the most exposure."
 msgstr ""
@@ -2207,7 +2248,7 @@ msgid ""
 msgstr ""
 
 msgid "Website"
-msgstr ""
+msgstr "Svetainė"
 
 msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
@@ -2443,8 +2484,9 @@ msgstr ""
 msgid "This add-on is missing some required information before it can be submitted for publication."
 msgstr ""
 
+#, fuzzy
 msgid "This add-on doesn't have any versions."
-msgstr ""
+msgstr "Šis priedas nėra suderinamas su jūsų turima %(app)s versija."
 
 #. {0} is the number of downloads.
 #, python-brace-format
@@ -2452,6 +2494,7 @@ msgid "<strong>{0}</strong> weekly download"
 msgid_plural "<strong>{0}</strong> weekly downloads"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #. {0} is the number of active users.
 #, python-brace-format
@@ -2459,6 +2502,7 @@ msgid "<strong>{0}</strong> active user"
 msgid_plural "<strong>{0}</strong> active users"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 msgid "Submit a New Version"
 msgstr ""
@@ -2487,8 +2531,9 @@ msgid ""
 "submission process is complete."
 msgstr ""
 
+#, fuzzy
 msgid "Add-on URL:"
-msgstr ""
+msgstr "Priedai"
 
 msgid "Please use only letters, numbers, underscores, and dashes in your URL."
 msgstr ""
@@ -2502,11 +2547,13 @@ msgstr ""
 msgid "Summary:"
 msgstr ""
 
+#, fuzzy
 msgid "Description:"
-msgstr ""
+msgstr "Daugiau priedų"
 
+#, fuzzy
 msgid "This add-on is experimental"
-msgstr ""
+msgstr "Autorius pašalino šį priedą."
 
 msgid "Check this option if your add-on is experimental or otherwise not ready for general use.  The add-on will be listed but will have reduced visibility.  You can change this setting later."
 msgstr ""
@@ -2517,8 +2564,9 @@ msgstr ""
 msgid "Support website:"
 msgstr ""
 
+#, fuzzy
 msgid "License:"
-msgstr ""
+msgstr "Licencija"
 
 msgid "Please choose a license appropriate for the rights you grant."
 msgstr ""
@@ -2526,8 +2574,9 @@ msgstr ""
 msgid "If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used."
 msgstr ""
 
+#, fuzzy
 msgid "Notes to Reviewer:"
-msgstr ""
+msgstr "Neperžiūrėtas"
 
 msgid "Is there anything our reviewers should bear in mind when reviewing this add-on?"
 msgstr ""
@@ -2544,11 +2593,13 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
 msgid "Submit Version"
-msgstr ""
+msgstr "Neperžiūrėtas"
 
+#, fuzzy
 msgid "Describe Version"
-msgstr ""
+msgstr "Daugiau priedų"
 
 msgid "Release Notes:"
 msgstr ""
@@ -2570,24 +2621,26 @@ msgid "You can learn more about these options by reading <a %(a_attrs)s>Add-on D
 msgstr ""
 
 #, python-format
-msgid "All add-ons must comply with <a %(a_attrs)s>Mozillas Add-on Policies</a> and are subject to manual review at any time after submission."
+msgid "All add-ons must comply with <a %(a_attrs)s>Mozilla’s Add-on Policies</a> and are subject to manual review at any time after submission."
 msgstr ""
 
 msgid "Submission Complete"
 msgstr ""
 
+#, fuzzy
 msgid "Version Submitted"
-msgstr ""
+msgstr "Versijos pastabos"
 
+#, fuzzy
 msgid "Preview of the version submitted"
-msgstr ""
+msgstr "Versijos pastabos"
 
-msgid "Youre done! This version will be available after it passes review. You will be notified when it is reviewed."
+msgid "You’re done! This version will be available after it passes review. You will be notified when it is reviewed."
 msgstr ""
 
 #, python-format
 msgid ""
-"Youre done!  You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
+"You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
 
@@ -2605,9 +2658,9 @@ msgstr ""
 msgid "You can also edit this version to add version notes, or source code if your submission includes minified, concatenated or otherwise machine-generated code."
 msgstr ""
 
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Edit version {0}"
-msgstr ""
+msgstr "Versija {0}:"
 
 msgid "As a reminder, your add-on is subject to manual review at any time."
 msgstr ""
@@ -2621,7 +2674,7 @@ msgstr ""
 msgid "Do You Need to Submit Source Code?"
 msgstr ""
 
-msgid "Mozillas add-on reviewers need to be able to read and reproduce the code in your extension. If they cant, your extension may be rejected."
+msgid "Mozilla’s add-on reviewers need to be able to read and reproduce the code in your extension. If they can’t, your extension may be rejected."
 msgstr ""
 
 msgid "Do you use any of the following in your extension?"
@@ -2639,7 +2692,7 @@ msgstr ""
 msgid "Any other tool that takes code or files, applies processing, and generates code or file(s) to include in the extension"
 msgstr ""
 
-msgid "You do not need to submit Source Code, and youre ready for the next step."
+msgid "You do not need to submit Source Code, and you’re ready for the next step."
 msgstr ""
 
 msgid "You must submit your extension's source code."
@@ -2677,8 +2730,9 @@ msgstr ""
 msgid "Add-on Distribution Agreement"
 msgstr ""
 
+#, fuzzy
 msgid "Upload Add-on"
-msgstr ""
+msgstr "Daugiau priedų"
 
 msgid "Where to Host Version"
 msgstr ""
@@ -2686,8 +2740,9 @@ msgstr ""
 msgid "Change"
 msgstr ""
 
+#, fuzzy
 msgid "Upload Version"
-msgstr ""
+msgstr "Versija"
 
 msgid "Use the fields below to upload your add-on package. After upload, a series of automated validation tests will be run on your file."
 msgstr ""
@@ -2702,8 +2757,9 @@ msgstr ""
 msgid "Administrative overrides"
 msgstr ""
 
+#, fuzzy
 msgid "Create a Theme Version"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 msgid "You can upload a finished theme using the upload option above, or you can build it yourself using this tool."
 msgstr ""
@@ -2720,8 +2776,9 @@ msgstr ""
 msgid "Warning: the following manifest properties that your most recent version upload used in its manifest are unsupported in this wizard and will be ignored:"
 msgstr ""
 
+#, fuzzy
 msgid "Theme name"
-msgstr ""
+msgstr "Temos"
 
 msgid "Select a header image for your theme"
 msgstr ""
@@ -2744,17 +2801,21 @@ msgstr ""
 msgid "Select colors for your theme"
 msgstr ""
 
+#, fuzzy
 msgid "optional"
-msgstr ""
+msgstr "(nebūtina)"
 
+#, fuzzy
 msgid "Browser preview"
-msgstr ""
+msgstr "Užveskite pelę peržiūrai"
 
+#, fuzzy
 msgid "Uploading Theme"
-msgstr ""
+msgstr "Keisti grafinį apvalkalą"
 
+#, fuzzy
 msgid "Finish Theme"
-msgstr ""
+msgstr "Keisti grafinį apvalkalą"
 
 msgid "Back"
 msgstr ""
@@ -2835,7 +2896,7 @@ msgid ""
 "Dear add-on developer,\n"
 "\n"
 "We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
-"have gone ahead and revoked the affected credentials. There is nothing wrong on your end  this just happens sometimes, and we are here to help you get back on track.\n"
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
 "To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
@@ -2901,16 +2962,18 @@ msgstr ""
 msgid "Listed on this site after passing code review. Automatic updates are handled by this site"
 msgstr ""
 
+#, fuzzy
 msgid "Listed Version:"
-msgstr ""
+msgstr "Daugiau priedų"
 
 msgid "This is the version of your add-on that will be installed if someone clicks the Install button on addons.mozilla.org"
 msgstr ""
 
+#, fuzzy
 msgid "Next Listed Version:"
-msgstr ""
+msgstr "Daugiau priedų"
 
-msgid "This is the newest uploaded version, however it isnt live on the site yet"
+msgid "This is the newest uploaded version, however it isn’t live on the site yet"
 msgstr ""
 
 msgid "Signed for self-distribution. Updates are handled by you."
@@ -2934,8 +2997,9 @@ msgstr ""
 msgid "View All"
 msgstr ""
 
+#, fuzzy
 msgid "Listed Review Page"
-msgstr ""
+msgstr "Neperžiūrėtas"
 
 msgid "Unlisted Review Page"
 msgstr ""
@@ -2955,8 +3019,9 @@ msgid ""
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
+#, fuzzy
 msgid "Review Policies and Rules"
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
 msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr ""
@@ -2979,7 +3044,7 @@ msgid ""
 "documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
-msgid "Yes, Ive tested my extension with Firefox for Android"
+msgid "Yes, I’ve tested my extension with Firefox for Android"
 msgstr ""
 
 msgid "No, I have not tested"
@@ -3006,23 +3071,25 @@ msgstr ""
 msgid "I confirm I have addressed the issues, and request a review"
 msgstr ""
 
+#, fuzzy
 msgid "Version Signature Pending"
-msgstr ""
+msgstr "Versijos pastabos"
 
-msgid "Youre done!  You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
+msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
 
 msgid "License"
-msgstr ""
+msgstr "Licencija"
 
 msgid "Please choose a license appropriate for the rights you grant on your source code. It is only relevant for listed add-ons."
 msgstr ""
 
 msgid "Sort by:"
-msgstr ""
+msgstr "Rušiuoti pagal:"
 
+#, fuzzy
 msgid "Listing visibility"
-msgstr ""
+msgstr "Matomumas"
 
 #, python-brace-format
 msgid "{label_open}Visible:{label_close} Visible to everyone on {site_url} and included in search results and product pages."
@@ -3045,6 +3112,7 @@ msgid "Select a category for this add-on:"
 msgid_plural "Select <b>up to {0}</b> categories for this add-on:"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 msgid "Roll back to a previous version"
 msgstr ""
@@ -3060,7 +3128,7 @@ msgid "Distribution channel"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "Versija"
 
 msgid "New version number"
 msgstr ""
@@ -3072,13 +3140,13 @@ msgid "Roll back"
 msgstr ""
 
 msgid "End-User License Agreement"
-msgstr ""
+msgstr "Galutinio naudotojo licencijos sutikimas (EULA)"
 
 msgid "Please note that a EULA is not the same as a code license, such as the GPL or MPL. It is only relevant for listed add-ons."
 msgstr ""
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privatumo politika"
 
 msgid "If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used. It is only relevant for listed add-ons."
 msgstr ""
@@ -3095,11 +3163,12 @@ msgstr ""
 msgid "Build best-in-class extensions and themes"
 msgstr ""
 
-msgid "Whether youre new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, weve got the resources to support you."
+msgid "Whether you’re new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, we’ve got the resources to support you."
 msgstr ""
 
+#, fuzzy
 msgid "Visit the Firefox Extension Workshop"
-msgstr ""
+msgstr "Plėtiniai"
 
 msgid "Connect with us"
 msgstr ""
@@ -3120,23 +3189,25 @@ msgid "Email Address"
 msgstr ""
 
 #, python-format
-msgid "Im okay with Mozilla handling my info as explained in this %(link_open)sPrivacy Notice%(link_close)s."
+msgid "I’m okay with Mozilla handling my info as explained in this %(link_open)sPrivacy Notice%(link_close)s."
 msgstr ""
 
+#, fuzzy
 msgid "Sign Up"
-msgstr ""
+msgstr "Priedai"
 
 msgid "Thanks!"
 msgstr ""
 
-msgid "If you havent previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us."
+msgid "If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us."
 msgstr ""
 
 msgid "Resources"
 msgstr ""
 
+#, fuzzy
 msgid "WebExtensions API"
-msgstr ""
+msgstr "Plėtiniai"
 
 msgid "Web-Ext: build & test extensions"
 msgstr ""
@@ -3151,7 +3222,7 @@ msgid "Recommended Extensions program"
 msgstr ""
 
 msgid "Contribute"
-msgstr ""
+msgstr "Paaukoti"
 
 msgid "Write Some Code"
 msgstr ""
@@ -3162,8 +3233,9 @@ msgstr ""
 msgid "Get started"
 msgstr ""
 
+#, fuzzy
 msgid "More Ways to Participate"
-msgstr ""
+msgstr "Daugiau  šio kūrėjo darbų"
 
 msgid "You don't need coding skills to help keep Firefox the most customizable browser available!"
 msgstr ""
@@ -3184,8 +3256,9 @@ msgid "Listed on this site after passing code review. Automatic updates are hand
 msgstr ""
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
+#, fuzzy
 msgid "View All Submissions"
-msgstr ""
+msgstr "Rodyti visas versijas"
 
 msgid "This is where you view and manage your add-ons and themes. To publish your first add-on, click \"Submit Your First Add-on\" or \"Submit Your First Theme\"."
 msgstr ""
@@ -3205,8 +3278,9 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 
+#, fuzzy
 msgid "Sign Out"
-msgstr ""
+msgstr "Priedai"
 
 msgid "No Photo"
 msgstr ""
@@ -3214,8 +3288,9 @@ msgstr ""
 msgid "User Photo"
 msgstr ""
 
+#, fuzzy
 msgid "Profile"
-msgstr ""
+msgstr "Mano profilis"
 
 msgid "Submit or Manage Extensions"
 msgstr ""
@@ -3223,8 +3298,9 @@ msgstr ""
 msgid "Customize Firefox"
 msgstr ""
 
+#, fuzzy
 msgid "Learn how to make an extension"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 msgid "Ready to submit or manage your extension?"
 msgstr ""
@@ -3257,7 +3333,7 @@ msgid "Add Another Application&hellip;"
 msgstr ""
 
 msgid "Version Notes"
-msgstr ""
+msgstr "Versijos pastabos"
 
 msgid ""
 "Information about changes in this release, new features, known bugs, and other useful information specific to this release/version. This information is also shown in the Add-ons Manager when "
@@ -3301,16 +3377,19 @@ msgid "Re-enable Version"
 msgstr ""
 
 msgid "Review History"
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
+#, fuzzy
 msgid "Close Review History"
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
+#, fuzzy
 msgid "Request Review"
-msgstr ""
+msgstr "Neperžiūrėtas"
 
+#, fuzzy
 msgid "Loading Review History..."
-msgstr ""
+msgstr "Apžvalgų žurnalas"
 
 msgid "We had a problem retrieving review notes"
 msgstr ""
@@ -3319,7 +3398,7 @@ msgid "Load older..."
 msgstr ""
 
 msgid "by"
-msgstr ""
+msgstr "sukūrė"
 
 msgid "Additional comments:"
 msgstr ""
@@ -3330,8 +3409,9 @@ msgstr ""
 msgid "Reply"
 msgstr ""
 
+#, fuzzy
 msgid "Listed versions"
-msgstr ""
+msgstr "Peržiūrėti kitas versijas"
 
 msgid "Currently on AMO"
 msgstr ""
@@ -3345,11 +3425,13 @@ msgstr ""
 msgid "Next version of this add-on"
 msgstr ""
 
+#, fuzzy
 msgid "Other versions"
-msgstr ""
+msgstr "Peržiūrėti kitas versijas"
 
+#, fuzzy
 msgid "All versions"
-msgstr ""
+msgstr "Rodyti visas versijas"
 
 msgid "Rollback to a previous version"
 msgstr ""
@@ -3409,6 +3491,7 @@ msgid "{0} error"
 msgid_plural "{0} errors"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #. L10n: first parameter is the number of warnings
 #, python-brace-format
@@ -3416,6 +3499,7 @@ msgid "{0} warning"
 msgid_plural "{0} warnings"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -3439,7 +3523,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how youre tracked on the internet."
+msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3449,7 +3533,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate container to prevent Facebook from tracking you around the web."
+msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3477,7 +3561,7 @@ msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, D
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Up your emoji game. Dozens of amazing emojis for every occasionalways just a click away."
+msgid "Up your emoji game. Dozens of amazing emojis for every occasion—always just a click away."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3523,7 +3607,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-msgid "Get grammar help anywhere you write on the websocial media, email, docs, and more."
+msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3532,7 +3616,7 @@ msgid "Display current worldwide times in Firefox's status bar."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Easy translations. Highlight text on any webpageor select the entire page to translate instantly."
+msgid "Easy translations. Highlight text on any webpage—or select the entire page— to translate instantly."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3568,7 +3652,7 @@ msgid "Automatically erase cookies after you close a tab."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "A simple way to adjust the size of any page's textor even enlarge the page itself."
+msgid "A simple way to adjust the size of any page's text—or even enlarge the page itself."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3616,7 +3700,7 @@ msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Read ePub files right in Firefoxincrease font size, page dimensions, and more."
+msgid "Read ePub files right in Firefox—increase font size, page dimensions, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3662,11 +3746,11 @@ msgid "Find out who's tracking you and where they may be sharing your informatio
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Surf anonymously. Browse the web with disguised identityeven appear as if you're browsing from another country."
+msgid "Surf anonymously. Browse the web with disguised identity—even appear as if you're browsing from another country."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Enjoy visual bookmarks. Access your favorite sites, recently closed tabs, and moreall from a gorgeous tile layout."
+msgid "Enjoy visual bookmarks. Access your favorite sites, recently closed tabs, and more—all from a gorgeous tile layout."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3844,7 +3928,7 @@ msgid "Strip away unnecessary formatting and copy just the plain text."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Convert an entire webpage to your preferred languagewith the click of a button."
+msgid "Convert an entire webpage to your preferred language—with the click of a button."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3947,7 +4031,7 @@ msgid "Gain an Amazon edge. When looking at product pages on other online shops,
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Enjoy ultimate tab controlclose duplicate tabs, merge windows, copy the tab title, and more."
+msgid "Enjoy ultimate tab control—close duplicate tabs, merge windows, copy the tab title, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3975,7 +4059,7 @@ msgid "Lots of open tabs? Skip the scrolling and search via keyboard shortcuts."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Stop redirects so you can access the site you wantfaster."
+msgid "Stop redirects so you can access the site you want—faster."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4059,7 +4143,7 @@ msgid "Fix annoying audio. Is the volume on a website too quiet? Too loud? Sound
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Edit a web page before printing. Make sweeping visual changesremove ads or unsavory contentto any web page you want to print."
+msgid "Edit a web page before printing. Make sweeping visual changes—remove ads or unsavory content—to any web page you want to print."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4098,15 +4182,15 @@ msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save complete pagesor just portionsas a single HTML file."
+msgid "Save complete pages—or just portions—as a single HTML file."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Cut through the nonsense of typical TOS agreements. This clever extension helps you quickly understand what youre being asked to agree to."
+msgid "Cut through the nonsense of typical TOS agreements. This clever extension helps you quickly understand what you’re being asked to agree to."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Get grammar help anywhere you write on the web  social media, email, docs, and more."
+msgid "Get grammar help anywhere you write on the web — social media, email, docs, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4125,7 +4209,7 @@ msgid "Enjoy multi-threading download support. Automatically detect different ty
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save images easilyjust grab them from your current tab."
+msgid "Save images easily—just grab them from your current tab."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4209,11 +4293,11 @@ msgid "Create and customize tab groups."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save an entire web pageincluding images and stylingas a single HTML file."
+msgid "Save an entire web page—including images and styling—as a single HTML file."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Block all adsvideo, pop-ups, banners & more."
+msgid "Block all ads—video, pop-ups, banners & more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4256,7 +4340,7 @@ msgid "The easiest way to manage YouTube subscriptions."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Get the mouse scrollbar you've always wantedspecify width and color."
+msgid "Get the mouse scrollbar you've always wanted—specify width and color."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4269,7 +4353,7 @@ msgid "Goodbye, annoying cookie warnings!"
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "All your emoji needsalways just a click away."
+msgid "All your emoji needs—always just a click away."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4305,7 +4389,7 @@ msgid "Changes the color of Firefox to match the appearance of any website."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Protect your privacy against a unique form of JavaScript fingerprinting."
+msgid "Protect your privacy against a unique form of JavaScript “fingerprinting”."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4337,7 +4421,7 @@ msgid "Track the time you spend on the web, analyze your habits, block distracti
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Improve your writing  get instant access to the power of synonyms."
+msgid "Improve your writing — get instant access to the power of synonyms."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4353,7 +4437,7 @@ msgid "Discover and download higher quality versions of interesting images and v
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save and organize anything you find on the web  articles, media, PDFs & more."
+msgid "Save and organize anything you find on the web — articles, media, PDFs & more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4365,7 +4449,7 @@ msgid "Eliminate YouTube distractions like recommendations, end-screen suggestio
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "\"Better Twitch TV\"  enhance Twitch and YouTube with a slew of new features."
+msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new features."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4377,15 +4461,15 @@ msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Save images easily  just grab them from your current tab."
+msgid "Save images easily — just grab them from your current tab."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Enjoy ultimate tab control  close duplicate tabs, merge windows, copy the tab title & more."
+msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Read ePUB files right in Firefoxincrease font size, page dimensions & more."
+msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4405,7 +4489,7 @@ msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "A simple way to adjust the size of any page's text  or even enlarge the page itself."
+msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4413,7 +4497,7 @@ msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Save an entire web page  including images and styling  as a single HTML file."
+msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4449,11 +4533,11 @@ msgid "Begone, annoying cookie warnings!"
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Return to a simpler time  when your top search results stood above the ads (Google and Bing search engine compatible)."
+msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Get the mouse scrollbar you've always wanted  specify width and color."
+msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4525,7 +4609,7 @@ msgid "Thumbs-up to bringing back thumbs-down."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Translate websites in Firefox  privately  without using the cloud."
+msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4533,11 +4617,11 @@ msgid "Block time-wasting websites. Block them completely or just during time fr
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web  without sacrificing your privacy."
+msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Youre in control. Turn off VPN when a website wont work and set different locations for different websites. Windows only."
+msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4625,8 +4709,9 @@ msgid "They add features to Firefox to make browsing faster, safer, or just plai
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
+#, fuzzy
 msgid "See all extensions"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the secondary hero shelves.
 msgid "Extension Starter Pack"
@@ -4641,12 +4726,14 @@ msgid "See staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Recommended extensions"
-msgstr ""
+msgstr "Komentuoti"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more recommended extensions"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Popular themes"
@@ -4665,16 +4752,19 @@ msgid "See more privacy staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Popular extensions"
-msgstr ""
+msgstr "Plėtiniai"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more popular extensions"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Recommended themes"
-msgstr ""
+msgstr "Komentuoti"
 
 #. editorial content for the homepage shelves.
 msgid "See more recommended themes"
@@ -4685,98 +4775,113 @@ msgid "Strong password managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more password manager staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Translation tools"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more translation tool staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Social streaming"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more social streaming staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Tab managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more tab management staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 #, python-brace-format
-msgid "{tag} tagged extensions"
+msgid "“{tag}” tagged extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Elite ad blockers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more ad blocker staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "YouTube customization"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more YouTube extension staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Trending themes"
-msgstr ""
+msgstr "Komentuoti"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more trending themes"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Top rated themes"
-msgstr ""
+msgstr "Komentuoti"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more top rated themes"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Trending extensions"
-msgstr ""
+msgstr "Komentuoti"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more trending extensions"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Steam enhancers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more Steam staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "Creativity extensions"
-msgstr ""
+msgstr "Komentuoti"
 
 #. editorial content for the homepage shelves.
+#, fuzzy
 msgid "See more creativity staff picks"
-msgstr ""
+msgstr "Populiarūs plėtiniai"
 
 #. editorial content for the homepage shelves.
 msgid "Social media extensions"
@@ -4965,6 +5070,7 @@ msgid "The review text cannot contain the word: \"{0}\""
 msgid_plural "The review text cannot contain any of the words: \"{0}\""
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 msgid "This field is required."
 msgstr ""
@@ -5002,9 +5108,10 @@ msgid "{num} review"
 msgid_plural "{num} reviews"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 msgid "Not yet rated"
-msgstr ""
+msgstr "Dar neįvertintas"
 
 #, python-brace-format
 msgid "Rated {0} out of 5 stars"
@@ -5078,14 +5185,15 @@ msgstr ""
 msgid "by Medium"
 msgstr ""
 
+#, fuzzy
 msgid "by Content"
-msgstr ""
+msgstr "Patvirtinti / atmesti"
 
 msgid "by Campaign"
 msgstr ""
 
 msgid "Daily Users"
-msgstr ""
+msgstr "Kasdienių naudotojų"
 
 msgid "by Add-on Version"
 msgstr ""
@@ -5181,7 +5289,7 @@ msgid "No data available."
 msgstr ""
 
 msgid "Previous"
-msgstr ""
+msgstr "Ankstenis"
 
 msgid "This dashboard is <b>private</b>."
 msgstr ""
@@ -5265,7 +5373,7 @@ msgid "Return to the {0} Add-ons homepage"
 msgstr ""
 
 msgid "Add-ons"
-msgstr ""
+msgstr "Priedai"
 
 msgid "Go to Mozilla's homepage"
 msgstr ""
@@ -5282,8 +5390,9 @@ msgstr ""
 msgid "Forum"
 msgstr ""
 
+#, fuzzy
 msgid "Report a bug"
-msgstr ""
+msgstr "Pranešti apie piktnaudžiavimą"
 
 msgid "Review Guide"
 msgstr ""
@@ -5370,7 +5479,7 @@ msgid "Required fields"
 msgstr ""
 
 msgid "(optional)"
-msgstr ""
+msgstr "(nebūtina)"
 
 msgid "Other languages"
 msgstr ""

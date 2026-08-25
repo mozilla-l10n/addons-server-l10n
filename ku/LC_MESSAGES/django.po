@@ -1,3 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version:  0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-08-20 18:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.2.0\n"
+
 #, python-brace-format
 msgid "Mozilla Add-ons: {} [{}]"
 msgstr ""
@@ -68,7 +82,7 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision  that this content adheres to Mozilla's policies (%(policy_document_url)s)  was correct. For that reason we will not be "
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
 "taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
@@ -1214,7 +1228,7 @@ msgstr ""
 msgid "Fashion"
 msgstr ""
 
-msgid "Download Firefox themes that celebrate style of all formspatterns, florals, textures, models, and more."
+msgid "Download Firefox themes that celebrate style of all forms—patterns, florals, textures, models, and more."
 msgstr ""
 
 msgid "Film and TV"
@@ -1235,7 +1249,7 @@ msgstr ""
 msgid "Holiday"
 msgstr ""
 
-msgid "Download Firefox themes with holidays. This category includes Christmas, Halloween, Thanksgiving, St. Patricks Day, Easter, Fourth of July, and more."
+msgid "Download Firefox themes with holidays. This category includes Christmas, Halloween, Thanksgiving, St. Patrick’s Day, Easter, Fourth of July, and more."
 msgstr ""
 
 msgid "Music"
@@ -1262,7 +1276,7 @@ msgstr ""
 msgid "Seasonal"
 msgstr ""
 
-msgid "Download Firefox themes for all four seasonsfall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
+msgid "Download Firefox themes for all four seasons—fall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
 msgstr ""
 
 msgid "Solid"
@@ -1280,7 +1294,7 @@ msgstr ""
 msgid "Websites"
 msgstr ""
 
-msgid "Download Firefox themes that capture the essence of the webcaptivating, unusual, and distinctive."
+msgid "Download Firefox themes that capture the essence of the web—captivating, unusual, and distinctive."
 msgstr ""
 
 msgid "General"
@@ -1504,7 +1518,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
-"on manifests <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
+"on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
 
 msgid ""
@@ -2570,7 +2584,7 @@ msgid "You can learn more about these options by reading <a %(a_attrs)s>Add-on D
 msgstr ""
 
 #, python-format
-msgid "All add-ons must comply with <a %(a_attrs)s>Mozillas Add-on Policies</a> and are subject to manual review at any time after submission."
+msgid "All add-ons must comply with <a %(a_attrs)s>Mozilla’s Add-on Policies</a> and are subject to manual review at any time after submission."
 msgstr ""
 
 msgid "Submission Complete"
@@ -2582,12 +2596,12 @@ msgstr ""
 msgid "Preview of the version submitted"
 msgstr ""
 
-msgid "Youre done! This version will be available after it passes review. You will be notified when it is reviewed."
+msgid "You’re done! This version will be available after it passes review. You will be notified when it is reviewed."
 msgstr ""
 
 #, python-format
 msgid ""
-"Youre done!  You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
+"You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
 
@@ -2621,7 +2635,7 @@ msgstr ""
 msgid "Do You Need to Submit Source Code?"
 msgstr ""
 
-msgid "Mozillas add-on reviewers need to be able to read and reproduce the code in your extension. If they cant, your extension may be rejected."
+msgid "Mozilla’s add-on reviewers need to be able to read and reproduce the code in your extension. If they can’t, your extension may be rejected."
 msgstr ""
 
 msgid "Do you use any of the following in your extension?"
@@ -2639,7 +2653,7 @@ msgstr ""
 msgid "Any other tool that takes code or files, applies processing, and generates code or file(s) to include in the extension"
 msgstr ""
 
-msgid "You do not need to submit Source Code, and youre ready for the next step."
+msgid "You do not need to submit Source Code, and you’re ready for the next step."
 msgstr ""
 
 msgid "You must submit your extension's source code."
@@ -2835,7 +2849,7 @@ msgid ""
 "Dear add-on developer,\n"
 "\n"
 "We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
-"have gone ahead and revoked the affected credentials. There is nothing wrong on your end  this just happens sometimes, and we are here to help you get back on track.\n"
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
 "To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
@@ -2910,7 +2924,7 @@ msgstr ""
 msgid "Next Listed Version:"
 msgstr ""
 
-msgid "This is the newest uploaded version, however it isnt live on the site yet"
+msgid "This is the newest uploaded version, however it isn’t live on the site yet"
 msgstr ""
 
 msgid "Signed for self-distribution. Updates are handled by you."
@@ -2979,7 +2993,7 @@ msgid ""
 "documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
-msgid "Yes, Ive tested my extension with Firefox for Android"
+msgid "Yes, I’ve tested my extension with Firefox for Android"
 msgstr ""
 
 msgid "No, I have not tested"
@@ -3009,7 +3023,7 @@ msgstr ""
 msgid "Version Signature Pending"
 msgstr ""
 
-msgid "Youre done!  You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
+msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
 
 msgid "License"
@@ -3095,7 +3109,7 @@ msgstr ""
 msgid "Build best-in-class extensions and themes"
 msgstr ""
 
-msgid "Whether youre new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, weve got the resources to support you."
+msgid "Whether you’re new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, we’ve got the resources to support you."
 msgstr ""
 
 msgid "Visit the Firefox Extension Workshop"
@@ -3120,7 +3134,7 @@ msgid "Email Address"
 msgstr ""
 
 #, python-format
-msgid "Im okay with Mozilla handling my info as explained in this %(link_open)sPrivacy Notice%(link_close)s."
+msgid "I’m okay with Mozilla handling my info as explained in this %(link_open)sPrivacy Notice%(link_close)s."
 msgstr ""
 
 msgid "Sign Up"
@@ -3129,7 +3143,7 @@ msgstr ""
 msgid "Thanks!"
 msgstr ""
 
-msgid "If you havent previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us."
+msgid "If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us."
 msgstr ""
 
 msgid "Resources"
@@ -3439,7 +3453,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how youre tracked on the internet."
+msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3449,7 +3463,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate container to prevent Facebook from tracking you around the web."
+msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3477,7 +3491,7 @@ msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, D
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Up your emoji game. Dozens of amazing emojis for every occasionalways just a click away."
+msgid "Up your emoji game. Dozens of amazing emojis for every occasion—always just a click away."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3523,7 +3537,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-msgid "Get grammar help anywhere you write on the websocial media, email, docs, and more."
+msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3532,7 +3546,7 @@ msgid "Display current worldwide times in Firefox's status bar."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Easy translations. Highlight text on any webpageor select the entire page to translate instantly."
+msgid "Easy translations. Highlight text on any webpage—or select the entire page— to translate instantly."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3568,7 +3582,7 @@ msgid "Automatically erase cookies after you close a tab."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "A simple way to adjust the size of any page's textor even enlarge the page itself."
+msgid "A simple way to adjust the size of any page's text—or even enlarge the page itself."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3616,7 +3630,7 @@ msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Read ePub files right in Firefoxincrease font size, page dimensions, and more."
+msgid "Read ePub files right in Firefox—increase font size, page dimensions, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3662,11 +3676,11 @@ msgid "Find out who's tracking you and where they may be sharing your informatio
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Surf anonymously. Browse the web with disguised identityeven appear as if you're browsing from another country."
+msgid "Surf anonymously. Browse the web with disguised identity—even appear as if you're browsing from another country."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Enjoy visual bookmarks. Access your favorite sites, recently closed tabs, and moreall from a gorgeous tile layout."
+msgid "Enjoy visual bookmarks. Access your favorite sites, recently closed tabs, and more—all from a gorgeous tile layout."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3844,7 +3858,7 @@ msgid "Strip away unnecessary formatting and copy just the plain text."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Convert an entire webpage to your preferred languagewith the click of a button."
+msgid "Convert an entire webpage to your preferred language—with the click of a button."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3947,7 +3961,7 @@ msgid "Gain an Amazon edge. When looking at product pages on other online shops,
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Enjoy ultimate tab controlclose duplicate tabs, merge windows, copy the tab title, and more."
+msgid "Enjoy ultimate tab control—close duplicate tabs, merge windows, copy the tab title, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -3975,7 +3989,7 @@ msgid "Lots of open tabs? Skip the scrolling and search via keyboard shortcuts."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Stop redirects so you can access the site you wantfaster."
+msgid "Stop redirects so you can access the site you want—faster."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4059,7 +4073,7 @@ msgid "Fix annoying audio. Is the volume on a website too quiet? Too loud? Sound
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Edit a web page before printing. Make sweeping visual changesremove ads or unsavory contentto any web page you want to print."
+msgid "Edit a web page before printing. Make sweeping visual changes—remove ads or unsavory content—to any web page you want to print."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4098,15 +4112,15 @@ msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save complete pagesor just portionsas a single HTML file."
+msgid "Save complete pages—or just portions—as a single HTML file."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Cut through the nonsense of typical TOS agreements. This clever extension helps you quickly understand what youre being asked to agree to."
+msgid "Cut through the nonsense of typical TOS agreements. This clever extension helps you quickly understand what you’re being asked to agree to."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Get grammar help anywhere you write on the web  social media, email, docs, and more."
+msgid "Get grammar help anywhere you write on the web — social media, email, docs, and more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4125,7 +4139,7 @@ msgid "Enjoy multi-threading download support. Automatically detect different ty
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save images easilyjust grab them from your current tab."
+msgid "Save images easily—just grab them from your current tab."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4209,11 +4223,11 @@ msgid "Create and customize tab groups."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save an entire web pageincluding images and stylingas a single HTML file."
+msgid "Save an entire web page—including images and styling—as a single HTML file."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Block all adsvideo, pop-ups, banners & more."
+msgid "Block all ads—video, pop-ups, banners & more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4256,7 +4270,7 @@ msgid "The easiest way to manage YouTube subscriptions."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Get the mouse scrollbar you've always wantedspecify width and color."
+msgid "Get the mouse scrollbar you've always wanted—specify width and color."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4269,7 +4283,7 @@ msgid "Goodbye, annoying cookie warnings!"
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "All your emoji needsalways just a click away."
+msgid "All your emoji needs—always just a click away."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4305,7 +4319,7 @@ msgid "Changes the color of Firefox to match the appearance of any website."
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Protect your privacy against a unique form of JavaScript fingerprinting."
+msgid "Protect your privacy against a unique form of JavaScript “fingerprinting”."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4337,7 +4351,7 @@ msgid "Track the time you spend on the web, analyze your habits, block distracti
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Improve your writing  get instant access to the power of synonyms."
+msgid "Improve your writing — get instant access to the power of synonyms."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4353,7 +4367,7 @@ msgid "Discover and download higher quality versions of interesting images and v
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "Save and organize anything you find on the web  articles, media, PDFs & more."
+msgid "Save and organize anything you find on the web — articles, media, PDFs & more."
 msgstr ""
 
 #. editorial content for the discovery pane.
@@ -4365,7 +4379,7 @@ msgid "Eliminate YouTube distractions like recommendations, end-screen suggestio
 msgstr ""
 
 #. editorial content for the discovery pane.
-msgid "\"Better Twitch TV\"  enhance Twitch and YouTube with a slew of new features."
+msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new features."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4377,15 +4391,15 @@ msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Save images easily  just grab them from your current tab."
+msgid "Save images easily — just grab them from your current tab."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Enjoy ultimate tab control  close duplicate tabs, merge windows, copy the tab title & more."
+msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Read ePUB files right in Firefoxincrease font size, page dimensions & more."
+msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4405,7 +4419,7 @@ msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "A simple way to adjust the size of any page's text  or even enlarge the page itself."
+msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4413,7 +4427,7 @@ msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Save an entire web page  including images and styling  as a single HTML file."
+msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4449,11 +4463,11 @@ msgid "Begone, annoying cookie warnings!"
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Return to a simpler time  when your top search results stood above the ads (Google and Bing search engine compatible)."
+msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Get the mouse scrollbar you've always wanted  specify width and color."
+msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4525,7 +4539,7 @@ msgid "Thumbs-up to bringing back thumbs-down."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Translate websites in Firefox  privately  without using the cloud."
+msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4533,11 +4547,11 @@ msgid "Block time-wasting websites. Block them completely or just during time fr
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web  without sacrificing your privacy."
+msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-msgid "Youre in control. Turn off VPN when a website wont work and set different locations for different websites. Windows only."
+msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
@@ -4714,7 +4728,7 @@ msgstr ""
 
 #. editorial content for the homepage shelves.
 #, python-brace-format
-msgid "{tag} tagged extensions"
+msgid "“{tag}” tagged extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
