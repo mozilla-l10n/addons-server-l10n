@@ -60,7 +60,7 @@ msgid "Your add-on failed validation with {0} error."
 msgid_plural "Your add-on failed validation with {0} errors."
 msgstr[0] "Ваш додаток не пройшов перевірку з {0} помилкою."
 msgstr[1] "Ваш додаток не пройшов перевірку з {0} помилками."
-msgstr[2] ""
+msgstr[2] "Ваш додаток не пройшов перевірку з {0} помилками."
 
 #: static/js/common/upload-addon.js:266
 #, python-brace-format
@@ -68,7 +68,7 @@ msgid "&hellip;and {0} more"
 msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip;і ще {0}"
 msgstr[1] "&hellip;і ще {0}"
-msgstr[2] ""
+msgstr[2] "&hellip;і ще {0}"
 
 #: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
 msgid "See full validation report"
@@ -116,7 +116,7 @@ msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "Ваш додаток пройшов перевірку без помилок і з {0} попередженням."
 msgstr[1] "Ваш додаток пройшов перевірку без помилок і з {0} попередженнями."
-msgstr[2] ""
+msgstr[2] "Ваш додаток пройшов перевірку без помилок і з {0} попередженнями."
 
 #: static/js/common/upload-addon.js:582
 #, python-brace-format
@@ -124,7 +124,7 @@ msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "Ваш додаток пройшов перевірку без помилок і з {0} повідомленням."
 msgstr[1] "Ваш додаток пройшов перевірку без помилок і з {0} повідомленнями."
-msgstr[2] ""
+msgstr[2] "Ваш додаток пройшов перевірку без помилок і з {0} повідомленнями."
 
 #: static/js/common/upload-addon.js:590
 msgid "Your add-on was validated with no errors or warnings."
@@ -191,7 +191,7 @@ msgid "{0} download"
 msgid_plural "{0} downloads"
 msgstr[0] "{0} завантаження"
 msgstr[1] "{0} завантаження"
-msgstr[2] ""
+msgstr[2] "{0} завантажень"
 
 #: static/js/stats/chart.js:298
 #, python-brace-format
@@ -199,7 +199,7 @@ msgid "{0} user"
 msgid_plural "{0} users"
 msgstr[0] "{0} користувач"
 msgstr[1] "{0} користувача"
-msgstr[2] ""
+msgstr[2] "{0} користувачів"
 
 #: static/js/stats/chart.js:362 static/js/stats/csv_keys.js:3 static/js/stats/csv_keys.js:9
 msgid "Downloads"
@@ -443,7 +443,7 @@ msgid "{files} file"
 msgid_plural "{files} files"
 msgstr[0] "{files} файл"
 msgstr[1] "{files} файли"
-msgstr[2] ""
+msgstr[2] "{files} файлів"
 
 #: static/js/zamboni/devhub.js:1233
 msgid "Image changes being processed"
@@ -455,7 +455,7 @@ msgid "<b>{0}</b> character"
 msgid_plural "<b>{0}</b> characters"
 msgstr[0] "<b>{0}</b> символ"
 msgstr[1] "<b>{0}</b> символи"
-msgstr[2] ""
+msgstr[2] "<b>{0}</b> символів"
 
 #: static/js/zamboni/global.js:472
 #, python-brace-format
@@ -463,7 +463,7 @@ msgid "<b>{0}</b> character left"
 msgid_plural "<b>{0}</b> characters left"
 msgstr[0] "Залишився <b>{0}</b> символ"
 msgstr[1] "Залишилось <b>{0}</b> символи"
-msgstr[2] ""
+msgstr[2] "Залишилось <b>{0}</b> символів"
 
 #: static/js/zamboni/init.js:12
 msgid "This feature is temporarily disabled while we perform website maintenance. Please check back a little later."
@@ -596,7 +596,7 @@ msgid "{0} error"
 msgid_plural "{0} errors"
 msgstr[0] "{0} помилка"
 msgstr[1] "{0} помилки"
-msgstr[2] ""
+msgstr[2] "{0} помилок"
 
 #: static/js/zamboni/validator.js:394
 #, python-brace-format
@@ -604,7 +604,7 @@ msgid "{0} warning"
 msgid_plural "{0} warnings"
 msgstr[0] "{0} попередження"
 msgstr[1] "{0} попередження"
-msgstr[2] ""
+msgstr[2] "{0} попереджень"
 
 #: static/js/zamboni/validator.js:397
 #, python-brace-format
@@ -612,7 +612,7 @@ msgid "{0} notice"
 msgid_plural "{0} notices"
 msgstr[0] "{0} повідомлення"
 msgstr[1] "{0} повідомлення"
-msgstr[2] ""
+msgstr[2] "{0} повідомлень"
 
 #: static/js/zamboni/validator.js:494
 msgid "Validation task could not complete or completed with errors"

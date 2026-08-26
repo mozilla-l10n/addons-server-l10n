@@ -246,7 +246,7 @@ msgid "Version {0}"
 msgid_plural "Versions {0}"
 msgstr[0] "Wersja {0}"
 msgstr[1] "Wersje {0}"
-msgstr[2] ""
+msgstr[2] "Wersje {0}"
 
 #: src/olympia/activity/serializers.py:56
 msgid "Review note"
@@ -1839,7 +1839,7 @@ msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Można wybrać tylko {0} kategorię."
 msgstr[1] "Można wybrać tylko {0} kategorie."
-msgstr[2] ""
+msgstr[2] "Można wybrać tylko {0} kategorii."
 
 #: src/olympia/devhub/forms.py:230
 msgid "The miscellaneous category cannot be combined with additional categories."
@@ -1860,7 +1860,7 @@ msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "Masz zbyt dużo etykiet o {0}."
 msgstr[1] "Masz zbyt dużo etykiet o {0}."
-msgstr[2] ""
+msgstr[2] "Masz zbyt dużo etykiet o {0}."
 
 #: src/olympia/devhub/forms.py:340
 #, python-format
@@ -2645,7 +2645,7 @@ msgid "<b>{0}</b> add-on"
 msgid_plural "<b>{0}</b> add-ons"
 msgstr[0] "<b>{0}</b> dodatek"
 msgstr[1] "<b>{0}</b> dodatki"
-msgstr[2] ""
+msgstr[2] "<b>{0}</b> dodatków"
 
 #: src/olympia/devhub/templates/devhub/addons/dashboard.html:32
 msgid "Recent Activity"
@@ -2667,7 +2667,7 @@ msgid "<b>{0}</b> theme"
 msgid_plural "<b>{0}</b> themes"
 msgstr[0] "<b>{0}</b> motyw"
 msgstr[1] "<b>{0}</b> motywy"
-msgstr[2] ""
+msgstr[2] "<b>{0}</b> motywów"
 
 #: src/olympia/devhub/templates/devhub/addons/edit.html:3 src/olympia/devhub/templates/devhub/addons/listing/item_actions.html:31 src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:2
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:29 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:38
@@ -3283,7 +3283,7 @@ msgid "<strong>{0}</strong> weekly download"
 msgid_plural "<strong>{0}</strong> weekly downloads"
 msgstr[0] "<strong>{0}</strong> pobranie tygodniowo"
 msgstr[1] "<strong>{0}</strong> pobrania tygodniowo"
-msgstr[2] ""
+msgstr[2] "<strong>{0}</strong> pobrań tygodniowo"
 
 #. {0} is the number of active users.
 #: src/olympia/devhub/templates/devhub/addons/listing/macros.html:28
@@ -3292,7 +3292,7 @@ msgid "<strong>{0}</strong> active user"
 msgid_plural "<strong>{0}</strong> active users"
 msgstr[0] "<strong>{0}</strong> aktywny użytkownik"
 msgstr[1] "<strong>{0}</strong> aktywnych użytkowników"
-msgstr[2] ""
+msgstr[2] "<strong>{0}</strong> aktywnych użytkowników"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/base.html:4
 msgid "Submit a New Version"
@@ -4058,7 +4058,7 @@ msgid "Select a category for this add-on:"
 msgid_plural "Select <b>up to {0}</b> categories for this add-on:"
 msgstr[0] "Wybierz kategorię dla tego dodatku:"
 msgstr[1] "Wybierz <b>do {0}</b> kategorii dla tego dodatku:"
-msgstr[2] ""
+msgstr[2] "Wybierz <b>do {0}</b> kategorii dla tego dodatku:"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:2
 msgid "Roll back to a previous version"
@@ -4549,7 +4549,7 @@ msgid "{0} error"
 msgid_plural "{0} errors"
 msgstr[0] "{0} błąd"
 msgstr[1] "{0} błędy"
-msgstr[2] ""
+msgstr[2] "{0} błędów"
 
 #. L10n: first parameter is the number of warnings
 #: src/olympia/devhub/templatetags/jinja_helpers.py:84
@@ -4558,7 +4558,7 @@ msgid "{0} warning"
 msgid_plural "{0} warnings"
 msgstr[0] "{0} ostrzeżenie"
 msgstr[1] "{0} ostrzeżenia"
-msgstr[2] ""
+msgstr[2] "{0} ostrzeżeń"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -6488,7 +6488,7 @@ msgid "The review text cannot contain the word: \"{0}\""
 msgid_plural "The review text cannot contain any of the words: \"{0}\""
 msgstr[0] "Tekst recenzji nie może zawierać słowa: „{0}”"
 msgstr[1] "Tekst recenzji nie może zawierać słów: „{0}”"
-msgstr[2] ""
+msgstr[2] "Tekst recenzji nie może zawierać słów: „{0}”"
 
 #: src/olympia/ratings/serializers.py:119
 msgid "This field is required."
@@ -6537,7 +6537,7 @@ msgid "{num} review"
 msgid_plural "{num} reviews"
 msgstr[0] "{num} opinia"
 msgstr[1] "{num} opinie"
-msgstr[2] ""
+msgstr[2] "{num} opinii"
 
 #: src/olympia/ratings/templates/ratings/impala/reviews_link.html:12 src/olympia/ratings/templates/ratings/reviews_link.html:17 src/olympia/ratings/templatetags/jinja_helpers.py:13
 msgid "Not yet rated"
