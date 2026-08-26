@@ -274,7 +274,7 @@ msgid "Version {0}"
 msgid_plural "Versions {0}"
 msgstr[0] "Версия {0}"
 msgstr[1] "Версия {0}"
-msgstr[2] "Версия {0}"
+msgstr[2] ""
 
 #: src/olympia/activity/serializers.py:56
 msgid "Review note"
@@ -1863,7 +1863,7 @@ msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "У вас может быть только {0} категория."
 msgstr[1] "У вас может быть только {0} категории."
-msgstr[2] "У вас может быть только {0} категорий."
+msgstr[2] ""
 
 #: src/olympia/devhub/forms.py:230
 msgid "The miscellaneous category cannot be combined with additional categories."
@@ -1884,7 +1884,7 @@ msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "У вас на {0} метку больше допустимых."
 msgstr[1] "У вас на {0} метки больше допустимых."
-msgstr[2] "У вас на {0} меток больше допустимых."
+msgstr[2] ""
 
 #: src/olympia/devhub/forms.py:340
 #, python-format
@@ -2674,7 +2674,7 @@ msgid "<b>{0}</b> add-on"
 msgid_plural "<b>{0}</b> add-ons"
 msgstr[0] "<b>{0}</b> дополнение"
 msgstr[1] "<b>{0}</b> дополнения"
-msgstr[2] "<b>{0}</b> дополнений"
+msgstr[2] ""
 
 #: src/olympia/devhub/templates/devhub/addons/dashboard.html:32
 msgid "Recent Activity"
@@ -2696,7 +2696,7 @@ msgid "<b>{0}</b> theme"
 msgid_plural "<b>{0}</b> themes"
 msgstr[0] "<b>{0}</b> тема"
 msgstr[1] "<b>{0}</b> темы"
-msgstr[2] "<b>{0}</b> тем"
+msgstr[2] ""
 
 #: src/olympia/devhub/templates/devhub/addons/edit.html:3 src/olympia/devhub/templates/devhub/addons/listing/item_actions.html:31 src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:2
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:29 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:38
@@ -3316,7 +3316,7 @@ msgid "<strong>{0}</strong> weekly download"
 msgid_plural "<strong>{0}</strong> weekly downloads"
 msgstr[0] "<strong>{0}</strong> скачивание за неделю"
 msgstr[1] "<strong>{0}</strong> скачивания за неделю"
-msgstr[2] "<strong>{0}</strong> скачиваний за неделю"
+msgstr[2] ""
 
 #. {0} is the number of active users.
 #: src/olympia/devhub/templates/devhub/addons/listing/macros.html:28
@@ -3325,7 +3325,7 @@ msgid "<strong>{0}</strong> active user"
 msgid_plural "<strong>{0}</strong> active users"
 msgstr[0] "<strong>{0}</strong> активный пользователь"
 msgstr[1] "<strong>{0}</strong> активных пользователя"
-msgstr[2] "<strong>{0}</strong> активных пользователей"
+msgstr[2] ""
 
 #: src/olympia/devhub/templates/devhub/addons/submit/base.html:4
 msgid "Submit a New Version"
@@ -4161,7 +4161,7 @@ msgid "Select a category for this add-on:"
 msgid_plural "Select <b>up to {0}</b> categories for this add-on:"
 msgstr[0] "Выберите категорию для этого дополнения:"
 msgstr[1] "Выберите <b>до {0}</b> категорий для этого дополнения:"
-msgstr[2] "Выберите <b>до {0}</b> категорий для этого дополнения:"
+msgstr[2] ""
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:2
 msgid "Roll back to a previous version"
@@ -4654,7 +4654,7 @@ msgid "{0} error"
 msgid_plural "{0} errors"
 msgstr[0] "{0} ошибка"
 msgstr[1] "{0} ошибки"
-msgstr[2] "{0} ошибок"
+msgstr[2] ""
 
 #. L10n: first parameter is the number of warnings
 #: src/olympia/devhub/templatetags/jinja_helpers.py:84
@@ -4663,7 +4663,7 @@ msgid "{0} warning"
 msgid_plural "{0} warnings"
 msgstr[0] "{0} предупреждение"
 msgstr[1] "{0} предупреждения"
-msgstr[2] "{0} предупреждений"
+msgstr[2] ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -6590,7 +6590,7 @@ msgid "The review text cannot contain the word: \"{0}\""
 msgid_plural "The review text cannot contain any of the words: \"{0}\""
 msgstr[0] "Текст отзыва не может содержать это слово: «{0}»"
 msgstr[1] "Текст отзыва не может содержать эти слова: «{0}»"
-msgstr[2] "Текст отзыва не может содержать эти слова: «{0}»"
+msgstr[2] ""
 
 #: src/olympia/ratings/serializers.py:119
 msgid "This field is required."
@@ -6639,7 +6639,7 @@ msgid "{num} review"
 msgid_plural "{num} reviews"
 msgstr[0] "{num} отзыв"
 msgstr[1] "{num} отзыва"
-msgstr[2] "{num} отзывов"
+msgstr[2] ""
 
 #: src/olympia/ratings/templates/ratings/impala/reviews_link.html:12 src/olympia/ratings/templates/ratings/reviews_link.html:17 src/olympia/ratings/templatetags/jinja_helpers.py:13
 msgid "Not yet rated"
