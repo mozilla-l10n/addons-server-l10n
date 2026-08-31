@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-20 18:24+0000\n"
+"POT-Creation-Date: 2026-08-31 09:12+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6192,11 +6192,12 @@ msgid "See all extensions"
 msgstr "Pogledajte sve dodatke"
 
 #. editorial content for the secondary hero shelves.
-msgid "Extension Starter Pack"
-msgstr "Početni paket dodataka"
+#. editorial content for the homepage shelves.
+msgid "YouTube customization"
+msgstr "Prilagođavanje YouTube-a"
 
 #. editorial content for the secondary hero shelves.
-msgid "Productivity extensions"
+msgid "Reddit extensions"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
@@ -6292,10 +6293,6 @@ msgstr "Vrhunski blokatori reklama"
 #. editorial content for the homepage shelves.
 msgid "See more ad blocker staff picks"
 msgstr "Pogledajte još preporuka osoblja za blokatore reklama"
-
-#. editorial content for the homepage shelves.
-msgid "YouTube customization"
-msgstr "Prilagođavanje YouTube-a"
 
 #. editorial content for the homepage shelves.
 msgid "See more YouTube extension staff picks"
