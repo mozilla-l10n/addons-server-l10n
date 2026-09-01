@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-01 15:13+0000\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "Tu complemento debería terminar con .zip, .xpi o .crx"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% completado"
 
@@ -148,8 +150,8 @@ msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"Los binarios compilados, así como los scripts minificados u ofuscados (excluyendo bibliotecas conocidas) deben ser enviados por separado para su revisión. Asegúrate de que utilizas el campo de subir"
-" código fuente para evitar que tu envío sea rechazado."
+"Los binarios compilados, así como los scripts minificados u ofuscados (excluyendo bibliotecas conocidas) deben ser enviados por separado para su revisión. Asegúrate de que utilizas el campo de "
+"subir código fuente para evitar que tu envío sea rechazado."
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
@@ -473,32 +475,32 @@ msgstr "{name} estuvo viendo esta página antes."
 msgid "Review page polling failed."
 msgstr "Falló la recuperación de la página de revisión."
 
-#: static/js/zamboni/reviewers.js:653
+#: static/js/zamboni/reviewers.js:670
 #, python-brace-format
 msgid "{name} was viewing this add-on first."
 msgstr "{name} fue el primero en ver este complemento."
 
-#: static/js/zamboni/reviewers.js:666 static/js/zamboni/reviewers.js:692
+#: static/js/zamboni/reviewers.js:683 static/js/zamboni/reviewers.js:709
 msgid "Loading&hellip;"
 msgstr "Cargando &hellip;"
 
-#: static/js/zamboni/reviewers.js:671
+#: static/js/zamboni/reviewers.js:688
 msgid "Version Notes"
 msgstr "Notas de la versión"
 
-#: static/js/zamboni/reviewers.js:678
+#: static/js/zamboni/reviewers.js:695
 msgid "Notes for Reviewers"
 msgstr "Notas para los revisores"
 
-#: static/js/zamboni/reviewers.js:685
+#: static/js/zamboni/reviewers.js:702
 msgid "No version notes found"
 msgstr "No se han encontrado las notas de la versión"
 
-#: static/js/zamboni/reviewers.js:697
+#: static/js/zamboni/reviewers.js:714
 msgid "Review Text"
 msgstr "Revisar texto"
 
-#: static/js/zamboni/reviewers.js:704
+#: static/js/zamboni/reviewers.js:721
 msgid "Review notes found"
 msgstr "Revisar las notas encontradas"
 

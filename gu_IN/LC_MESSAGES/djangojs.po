@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-01 15:13+0000\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "તમારું એડ-ઓન .zip, .xpi અથવા .crx સાથ�
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% પૂર્ણ"
 
@@ -148,8 +150,8 @@ msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"સંકલિત દ્વિસંગીઓ, તેમજ minified અથવા obfuscated સ્ક્રિપ્ટો(જાણીતા લાઈબ્રેરીઓ સિવાય) તેમના સ્રોતો સમીક્ષા માટે અલગ સબમિટ કરવાની જરૂર છે. તમારી રજૂઆત નકારવાથી ટાળવા માટે તમે સ્ત્રોત કોડ અપલોડ ફીલ્ડનો "
-"ઉપયોગ કરો છો તેની ખાતરી કરો."
+"સંકલિત દ્વિસંગીઓ, તેમજ minified અથવા obfuscated સ્ક્રિપ્ટો(જાણીતા લાઈબ્રેરીઓ સિવાય) તેમના સ્રોતો સમીક્ષા માટે અલગ સબમિટ કરવાની જરૂર છે. તમારી રજૂઆત નકારવાથી ટાળવા માટે તમે સ્ત્રોત કોડ અપલોડ ફીલ્ડનો ઉપયોગ કરો છો તેની "
+"ખાતરી કરો."
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
@@ -473,32 +475,32 @@ msgstr ""
 msgid "Review page polling failed."
 msgstr ""
 
-#: static/js/zamboni/reviewers.js:653
+#: static/js/zamboni/reviewers.js:670
 #, python-brace-format
 msgid "{name} was viewing this add-on first."
 msgstr ""
 
-#: static/js/zamboni/reviewers.js:666 static/js/zamboni/reviewers.js:692
+#: static/js/zamboni/reviewers.js:683 static/js/zamboni/reviewers.js:709
 msgid "Loading&hellip;"
 msgstr ""
 
-#: static/js/zamboni/reviewers.js:671
+#: static/js/zamboni/reviewers.js:688
 msgid "Version Notes"
 msgstr "આવૃત્તિની નોંધો"
 
-#: static/js/zamboni/reviewers.js:678
+#: static/js/zamboni/reviewers.js:695
 msgid "Notes for Reviewers"
 msgstr "સમીક્ષકો માટે નોંધો"
 
-#: static/js/zamboni/reviewers.js:685
+#: static/js/zamboni/reviewers.js:702
 msgid "No version notes found"
 msgstr "કોઈ આવૃત્તિની નોંધો મળી નથી"
 
-#: static/js/zamboni/reviewers.js:697
+#: static/js/zamboni/reviewers.js:714
 msgid "Review Text"
 msgstr "લખાણની સમીક્ષા કરો"
 
-#: static/js/zamboni/reviewers.js:704
+#: static/js/zamboni/reviewers.js:721
 msgid "Review notes found"
 msgstr "સમીક્ષાની નોંધો મળી"
 

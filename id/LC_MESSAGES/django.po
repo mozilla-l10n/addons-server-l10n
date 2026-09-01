@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-01 15:13+0000\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -34,11 +36,11 @@ msgstr "Alasan banding"
 msgid "Please explain why you believe that this decision was made in error, and/or does not align with the applicable policy or law."
 msgstr "Silakan jelaskan mengapa Anda meyakini keputusan ini salah, dan/atau tidak sejalan dengan kebijakan atau hukum yang berlaku."
 
-#: src/olympia/abuse/models.py:1125
+#: src/olympia/abuse/models.py:1132
 msgid "User profile"
 msgstr "Profil pengguna"
 
-#: src/olympia/abuse/models.py:1565
+#: src/olympia/abuse/models.py:1582
 #, python-brace-format
 msgid "\"{}\" for {}"
 msgstr "\"{}\" untuk {}"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -118,7 +121,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -127,7 +131,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -136,14 +141,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -152,7 +158,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -161,7 +168,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -477,12 +485,12 @@ msgid "Manage My Submissions"
 msgstr "Mengelola Pendaftaran Saya"
 
 #: src/olympia/amo/context_processors.py:65 src/olympia/devhub/templates/devhub/addons/dashboard.html:24 src/olympia/devhub/templates/devhub/addons/submit/base.html:8
-#: src/olympia/devhub/templates/devhub/nav.html:28 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:97
+#: src/olympia/devhub/templates/devhub/nav.html:28 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:113
 msgid "Submit a New Add-on"
 msgstr "Mengajukan Pengaya Baru"
 
 #: src/olympia/amo/context_processors.py:71 src/olympia/devhub/templates/devhub/addons/dashboard.html:28 src/olympia/devhub/templates/devhub/addons/submit/base.html:6
-#: src/olympia/devhub/templates/devhub/nav.html:30 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:98
+#: src/olympia/devhub/templates/devhub/nav.html:30 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:114
 msgid "Submit a New Theme"
 msgstr "Mengajukan Tema Baru"
 
@@ -594,12 +602,12 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>Mohon maaf, tapi kami tidak dapat menemukan yang Anda cari.</h1> <p> Laman atau berjas yang Anda minta tidak ditemukan di situs kami. Barangkali Anda mengeklik tautan yang sudah usang atau salah"
-" mengetikkan alamatnya. </p> <ul> <li>Jika Anda mengetikkan alamatnya, periksa lagi ejaannya.</li> <li> Jika Anda menelusuri tautan dari tempat lain, silakan %(open_bug_link)sdaftarkan "
+"<h1>Mohon maaf, tapi kami tidak dapat menemukan yang Anda cari.</h1> <p> Laman atau berjas yang Anda minta tidak ditemukan di situs kami. Barangkali Anda mengeklik tautan yang sudah usang atau "
+"salah mengetikkan alamatnya. </p> <ul> <li>Jika Anda mengetikkan alamatnya, periksa lagi ejaannya.</li> <li> Jika Anda menelusuri tautan dari tempat lain, silakan %(open_bug_link)sdaftarkan "
 "masalah%(close_bug_link)s. Harap beri tahu kami dari mana Anda datang dan apa yang Anda cari, dan kami akan berusaha sebaik mungkin memperbaikinya. </li> </ul> <p>Atau Anda dapat langsung menuju "
 "laman populer di situs kami.</p> <ul> <li>Apakah Anda tertarik melihat <a href=\"%(rec)s\">daftar pengaya unggulan</a>?</li> <li> Apakah Anda ingin <a href=\"%(search)s\">mencari pengaya</a>? Anda "
-"dapat menuju <a href=\"%(search)s\">laman pencarian</a> atau menggunakan bidang pencarian di atas. </li> <li> Jika Anda ingin memulai dari awal, silakan menuju <a href=\"%(home)s\">beranda "
-"pengaya</a>. </li> </ul>"
+"dapat menuju <a href=\"%(search)s\">laman pencarian</a> atau menggunakan bidang pencarian di atas. </li> <li> Jika Anda ingin memulai dari awal, silakan menuju <a href=\"%(home)s\">beranda pengaya</"
+"a>. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -1518,7 +1526,7 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr "Unduh ekstensi Firefox yang meningkatkan pengalaman foto, musik, dan video. Ekstensi dalam kategori ini memodifikasi audio dan video, membalikkan pencarian gambar, dan banyak lagi."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1129
+#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1132
 msgid "Privacy & Security"
 msgstr "Keamanan dan Privasi"
 
@@ -2080,15 +2088,15 @@ msgstr ""
 msgid "Invalid or corrupt add-on file."
 msgstr "Berkas pengaya rusak atau tidak valid."
 
-#: src/olympia/devhub/tasks.py:379
+#: src/olympia/devhub/tasks.py:381
 msgid "Your developer API key was found in the submitted file. To protect your account, the key will be revoked."
 msgstr "Kunci API pengembang Anda ditemukan dalam berkas terkirim. Untuk melindungi akun Anda, kunci itu akan dicabut."
 
-#: src/olympia/devhub/tasks.py:386
+#: src/olympia/devhub/tasks.py:388
 msgid "The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked."
 msgstr "Kunci API pengembang salah satu pembuat ditemukan dalam berkas terkirim. Untuk melindungi pengaya Anda, kunci itu akan dicabut. "
 
-#: src/olympia/devhub/tasks.py:691
+#: src/olympia/devhub/tasks.py:693
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Pemberitahuan Keamanan Mozilla: Kredensial AMO API Anda telah dicabut"
 
@@ -2455,8 +2463,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2916,8 +2924,8 @@ msgstr "Surel"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Jika anda ingin menampilkan alamat surel untuk mendukung \n"
 "                          permintaan, masukkan di sini. Jika anda memiliki alamat\n"
@@ -2986,8 +2994,8 @@ msgstr "Papan tulis"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
@@ -3456,8 +3464,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Selesai! Anda akan menerima surel konfirmasi saat versi ini dipublikasikan di %(site_domain)s. Perhatikan bahwa mungkin diperlukan waktu hingga 24 jam sebelum publikasi terjadi, atau lebih lama jika"
-" pengaya Anda dipilih untuk tinjauan manual. Jika Anda tidak melihat surel setelah 24 jam, silakan periksa folder spam Anda."
+"Selesai! Anda akan menerima surel konfirmasi saat versi ini dipublikasikan di %(site_domain)s. Perhatikan bahwa mungkin diperlukan waktu hingga 24 jam sebelum publikasi terjadi, atau lebih lama "
+"jika pengaya Anda dipilih untuk tinjauan manual. Jika Anda tidak melihat surel setelah 24 jam, silakan periksa folder spam Anda."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3691,8 +3699,8 @@ msgstr "Kembali"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3773,10 +3781,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3838,12 +3848,12 @@ msgid "Your add-on won't be included in search results, and its listing page wil
 msgstr "Pengaya Anda tidak akan disertakan dalam hasil pencarian, dan halaman daftar yang akan menunjukkan Anda menonaktifkannya. Versi pengajuan baru untuk daftar tidak akan diterima di negara ini."
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:42 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:85
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:42 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:101
 msgid "Created:"
 msgstr "Dibuat:"
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:48 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:81
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:48 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:97
 msgid "Last Updated:"
 msgstr "Terakhir Diperbarui:"
 
@@ -3881,7 +3891,8 @@ msgstr "Versi Terbaru:"
 msgid "This is the newest uploaded unlisted version"
 msgstr "Ini adalah versi terbaru yang sudah diunggah dan tak terdaftar."
 
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/versions/list.html:32
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:82
+#: src/olympia/devhub/templates/devhub/versions/list.html:32
 msgid "Signed for enterprise."
 msgstr ""
 
@@ -3951,8 +3962,8 @@ msgstr "Kompatibilitas Firefox untuk Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -4238,19 +4249,19 @@ msgid "Listed on this site after passing code review. Automatic updates are hand
 msgstr "Akan tercantum di situs ini setelah melewati peninjauan kode. Pembaruan otomatis ditangani oleh situs ini."
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:95
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:111
 msgid "View All Submissions"
 msgstr "Tampilkan Semua Pengajuan"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:103
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:119
 msgid "This is where you view and manage your add-ons and themes. To publish your first add-on, click \"Submit Your First Add-on\" or \"Submit Your First Theme\"."
 msgstr "Ini adalah di mana Anda melihat dan mengelola pengaya dan tema. Untuk menayangkan pengaya pertama Anda, klik \"Ajukan Pengaya Pertama Anda\" atau \"Ajukan Tema Pertama Anda\"."
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:109
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:125
 msgid "Submit Your First Add-on"
 msgstr "Ajukan Pengaya Pertama Anda"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:110
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:126
 msgid "Submit Your First Theme"
 msgstr "Ajukan Tema Pertama Anda"
 
@@ -4481,8 +4492,8 @@ msgstr "Hapus Versi {version}"
 msgid ""
 "You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on."
 msgstr ""
-"Anda akan menghapus versi pengaya anda saat ini. Hal ini bisa menyebabkan status pengaya anda berubah, atau daftar anda kehilangan pandangan publik, jika ini adalah satu-satunya versi publik pengaya"
-" anda."
+"Anda akan menghapus versi pengaya anda saat ini. Hal ini bisa menyebabkan status pengaya anda berubah, atau daftar anda kehilangan pandangan publik, jika ini adalah satu-satunya versi publik "
+"pengaya anda."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:275
 msgid "Deleting this version will permanently delete:"
@@ -4549,55 +4560,55 @@ msgstr[0] "{0} pesan peringatan"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:800
+#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:803
 msgid "Block invisible trackers and spying ads that follow you around the web."
 msgstr "Blokir pelacak tak terlihat dan iklan pengintai yang mengikuti Anda di seantero web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:893
+#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:896
 msgid "Enjoy a beautiful new page with customizable backgrounds, local weather info, and more."
 msgstr "Nikmati laman baru yang cantik dengan latar yang dapat diubahsuaikan, info cuaca lokal, dan banyak lagi."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:803
+#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:806
 msgid "Highlight any text, right-click, and translate instantly."
 msgstr "Sorot teks apapun, klik kanan, dan terjemahkan seketika."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:887
+#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:890
 msgid "Perform reverse image searches from an array of engines."
 msgstr "Melakukan pencarian gambar terbalik dari serangkaian mesin-mesin."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:848
+#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:851
 msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr "Pemblokiran iklan dan perlindungan privasi. Pengaturan sederhana memungkinkan Anda mengendalikan iklan yang Anda lihat dan bagaimana Anda dilacak di internet."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:851
+#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:854
 msgid "Do you have a ton of open tabs? Organize them in a tidy sidebar."
 msgstr "Punya banyak tab terbuka? Kelola semuanya di bilah samping yang rapi."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:836
+#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:839
 msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr "Hentikan pelacakan Facebook. Tampung identitas Facebook Anda ke dalam \"kontainer\" terpisah untuk mencegah Facebook melacak Anda di web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:890
+#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:893
 msgid "Simplify search by highlighting text on any web page to search the phrase from an array of engines."
 msgstr "Sederhanakan pencarian dengan menyorot teks pada halaman web apa saja untuk mencari frase dari berbagai mesin."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:827
+#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:830
 msgid "Instant weather updates from around the world."
 msgstr "Pembaruan cuaca instan dari seluruh dunia."
 
@@ -4608,13 +4619,13 @@ msgstr "Pilih laman yang Anda lihat tiap kali membuka tab baru."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:806
+#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:809
 msgid "See an interesting picture on the web and want to learn more about it? Try this image search tool."
 msgstr "Menemukan gambar menarik di web dan ingin mengetahuinya lebih lanjut? Coba alat pencari gambar ini."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:809
+#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:812
 msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, and hundreds of other video sites."
 msgstr "Unduh video dengan mudah. Berfungsi dengan Youtube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, dan ratusan situs video lainnya."
 
@@ -4630,7 +4641,7 @@ msgstr "Pengelolaan sandi tersederhanakan. Sinkronkan seluruh log masuk Anda di 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:815
+#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:818
 msgid "Effective, lightweight ad blocker. uBlock Origin enforces thousands of content filters without chewing up a bunch of memory."
 msgstr "Pemblokir iklan yang efektif dan ringan. uBlock Origin memberlakukan ribuan filter konten tanpa memakai banyak memori."
 
@@ -4676,13 +4687,13 @@ msgstr "Hentikan situs web berbahaya yang berusaha menggunakan daya komputer And
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:749
+#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:752
 msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr "Dapatkan bantuan tata bahasa di mana pun Anda menulis di web—media sosial, surel, dokumen, dan yang lainnya."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:833
+#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:836
 msgid "Display current worldwide times in Firefox's status bar."
 msgstr "Tampilkan waktu saat ini di seantero dunia pada bilah status Firefox."
 
@@ -4704,7 +4715,7 @@ msgstr "Temukan cara baru dalam mengarahkan dengan bantuan 50+ gestur tetikus."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:944
+#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:947
 msgid "Darken the page around video players for a focused viewing experience."
 msgstr "Gelapkan laman sekitar pemutar video untuk pengalaman menonton yang terfokus."
 
@@ -4721,13 +4732,13 @@ msgstr "Laman yang Anda cari tidak tersedia? Temukan versi arsip/singgahannya."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:812
+#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:815
 msgid "Hover over an image to magnify it."
 msgstr "Layangkan pada gambar untuk memperbesarnya."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:884
+#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:887
 msgid "Automatically erase cookies after you close a tab."
 msgstr "Otomatis menghapus kuki selepas Anda menutup tab."
 
@@ -4738,26 +4749,26 @@ msgstr "Cara simpel menyesuaikan ukuran teks laman—atau bahkan memperbesar lam
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:845
+#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:848
 msgid "Stop trackers in their tracks and learn more about them."
 msgstr "Hentikan kegiatan pelacak dan pelajari lebih lanjut tentang mereka."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:905
+#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:908
 #, fuzzy
 msgid "Leave a clean digital trail. Make Firefox forget website data like cookies and local storage, but only for domains you choose."
 msgstr "Buat Firefox melupakan data situs seperti kuki dan penyimpanan lokal, tapi hanya untuk domain yang Anda pilih."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:875
+#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:878
 msgid "No need to write the same thing over and over. Save frequently-entered text to paste anytime."
 msgstr "Tidak perlu menuliskan hal yang sama berulang kali. Simpan teks yang sering dipakai kemudian tempel kapan saja."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:842
+#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:845
 msgid "Get more screen space by removing ads from your web-based inbox."
 msgstr "Dapatkan lebih banyak ruang layar dengan menghapus iklan dari kotak masuk berbasis web Anda."
 
@@ -4768,26 +4779,26 @@ msgstr "Kelola tab terbuka Anda dalam bilah samping yang rapi."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:947
+#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:950
 #, fuzzy
 msgid "Avoid sneaky trackers and restrictions. Disguise your navigation by cloaking the identity of your browser and operating system."
 msgstr "Samarkan navigasi dengan menyembunyikan identitas peramban dan sistem operasi Anda."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:839
+#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:842
 msgid "Automatically reload tabs based on time intervals you set."
 msgstr "Mulai ulang tab secara otomatis berdasarkan interval waktu yang Anda atur."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1013
+#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1016
 msgid "Keep parts of your online life separated into color-coded and cookie separated tabs. Now integrated with Mozilla VPN for an extra layer of privacy."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:824
+#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:827
 msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr "Dapatkan lapisan perlindungan tambahan dari pelacakan saat anda menjelajahi web."
 
@@ -4798,7 +4809,7 @@ msgstr "Baca berkas ePub langsung di Firefox—perbesar ukuran huruf, dimensi la
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:941
+#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:944
 msgid "Play YouTube videos by default in the highest quality, turn off annotations, and more."
 msgstr "Putar video YouTube secara otomatis dengan kualitas tertinggi, matikan anotasi, dan lainnya."
 
@@ -4819,7 +4830,7 @@ msgstr "Tingkatkan pengalaman menonton Anda dengan menyesuaikan kecepatan video 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:830
+#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:833
 msgid "Add encrypted security to any site that supports HTTPS. Browse securely."
 msgstr "Tambahkan keamanan terenkripsi ke tiap situs yang mendukung HTTPS. Merambanlah dengan aman."
 
@@ -4867,13 +4878,13 @@ msgstr "Tentukan beranda yang terubahsuaikan untuk tab baru Anda."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:872
+#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:875
 msgid "Convert all your open tabs into a list to easily manage them and speed up Firefox."
 msgstr "Konversikan semua tab terbuka Anda menjadi daftar agar dapat mengelolanya dengan mudah dan mempercepat Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:794
+#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:797
 msgid "Robust download management. Check the state of your downloads through a status bar, download history page, and more."
 msgstr "Manajemen unduhan yang andal. Periksa status unduhan Anda melalui bilah status, laman riwayat unduhan, dan lainnya."
 
@@ -4905,7 +4916,7 @@ msgstr "Jadikan web lebih nyaman dipandang dengan menggelapkan tampilan."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:791
+#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:794
 msgid "Block all pop-ups by default, then decide which ones you'd like to open."
 msgstr "Blokir semua pop-up secara baku, lalu putuskan mana yang lebih Anda sukai untuk dibuka."
 
@@ -4937,7 +4948,7 @@ msgstr "Tingkatkan pengalaman membaca Anda. Jadikan teks yang Anda baca lebih me
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:866
+#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:869
 msgid "Right-click and drag links you want open in new tabs."
 msgstr "Klik kanan dan seret tautan yang ingin Anda buka di tab baru."
 
@@ -4979,7 +4990,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:788
+#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:791
 msgid "Make it your YouTube. Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more."
 msgstr ""
 
@@ -5062,7 +5073,7 @@ msgstr "Periksa seluruh umpan RSS favorit Anda dalam satu laman tunggal."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:785
+#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:788
 msgid "Enable night mode for a better viewing experience."
 msgstr "Aktifkan mode malam untuk pengalaman melihat yang lebih baik."
 
@@ -5118,13 +5129,13 @@ msgstr "Buat catatan umum dan spesifik-situs untuk ditinjau kemudian."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:764
+#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:767
 msgid "Phone-like scrolling for your desktop. Features \"grab-n-drag\" style mouse movement."
 msgstr "Pengguliran mirip ponsel untuk desktop Anda. Menampilkan gerakan mouse gaya \"grab-n-drag\"."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:935
+#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:938
 msgid "Clear your browser cache with a click or keystroke."
 msgstr "Bersihkan tembolok peramban Anda dengan sekali klik atau ketukan tombol."
 
@@ -5135,13 +5146,13 @@ msgstr "Sorot teks pada halaman web untuk disimpan dan diakses nanti."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:761
+#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:764
 msgid "Enjoy music from 30,000+ radio stations from all over the globe."
 msgstr "Nikmati musik dari 30,000+ stasiun radio dari seluruh penjuru dunia."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:932
+#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:935
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
 msgstr "Hemat lebar pita dengan pengaliran audio saja dari klip YouTube."
 
@@ -5152,13 +5163,13 @@ msgstr "Ubah kata-kata menjadi tajuk berita dan hamparan gambar yang indah."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:782
+#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:785
 msgid "Automatically navigate to the secure version of a website if it's available."
 msgstr "Secara otomatis menavigasi ke versi situs web yang aman jika tersedia."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:863
+#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:866
 msgid "Delete your navigation history. Specify a custom number of days to retain browser history before it's automatically cleared."
 msgstr "Hapus riwayat navigasi Anda. Tentukan jumlah hari untuk menyimpan riwayat browser sebelum secara otomatis dihapus."
 
@@ -5184,7 +5195,7 @@ msgstr "Cari secara pribadi hanya dengan satu klik."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:896
+#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:899
 msgid "Put an end to tab hijacking. Don't let clicked links take control of your current tab and load content you didn't ask for."
 msgstr "Akhiri pembajakan tab. Jangan biarkan tautan yang diklik mengendalikan tab Anda saat ini dan memuat konten yang tidak Anda minta."
 
@@ -5298,13 +5309,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:899
+#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:902
 msgid "Only allow web content to run from sites you trust. Surf securely."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:770
+#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:773
 msgid "Take full control of the cookies you've accumulated while browsing."
 msgstr "Dapatkan kendali penuh atas kuki yang telah Anda kumpulkan selama menjelajah."
 
@@ -5315,7 +5326,7 @@ msgstr "Hapus otomatis riwayat peramban untuk situs web yang Anda pilih."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:860
+#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:863
 msgid "Password-protect your personal bookmarks."
 msgstr "Lindungi markah pribadi Anda dengan sandi."
 
@@ -5342,7 +5353,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:755
+#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:758
 msgid "Learn where any website's server is geographically located. Be an informed web traveler."
 msgstr ""
 
@@ -5363,13 +5374,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:926
+#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:929
 msgid "Adjust browser audio settings with extreme clarity."
 msgstr "Sesuaikan setelan audio peramban dengan kejernihan ekstrem."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:752
+#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:755
 msgid "Defend yourself against the sneakiest trackers."
 msgstr "Lindungi diri Anda dari para pelacak licik."
 
@@ -5396,7 +5407,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:902
+#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:905
 msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr ""
 
@@ -5417,19 +5428,19 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:746
+#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:749
 msgid "Read with more clarity and ease. Remove the clutter around text on web pages."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:743
+#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:746
 msgid "Block ads and get enhanced protection against malware and ad tracking."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:923
+#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:926
 msgid "Enjoy multi-threading download support. Automatically detect different types of media available for download."
 msgstr ""
 
@@ -5450,19 +5461,19 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:773
+#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:776
 msgid "Customize shades of light and dark to make web pages more visually pleasing."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:920
+#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:923
 msgid "Block distracting websites. Simply list the sites you want the extension to block. Instant discipline!"
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:767
+#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:770
 msgid "Change your browser's appearance. Easily design your own visual themes to make Firefox look as you please."
 msgstr ""
 
@@ -5483,13 +5494,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:740
+#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:743
 msgid "Turn the web dark or select a custom color scheme to visually tailor the internet to your own taste."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:959
+#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:962
 msgid "Get a more advanced search page on Firefox for Android."
 msgstr ""
 
@@ -5515,7 +5526,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:854
+#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:857
 msgid "Remove tracking elements from web links."
 msgstr ""
 
@@ -5526,13 +5537,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:917
+#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:920
 msgid "Easily organize tons of open tabs."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:857
+#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:860
 msgid "Create and customize tab groups."
 msgstr ""
 
@@ -5548,13 +5559,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:911
+#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:914
 msgid "Watch streaming media with friends and family anywhere."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:953
+#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:956
 msgid "Skip over sponsored portions of YouTube videos."
 msgstr ""
 
@@ -5565,31 +5576,31 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:950
+#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:953
 msgid "Double-click any word to instantly see its definition."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:992
+#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:995
 msgid "Save batches of tabs as convenient bookmarks."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:995
+#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:998
 msgid "Tabs and bookmarks neatly organized in a Firefox side view."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:974
+#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:977
 msgid "Thousands of GIFs at your fingertips."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:980
+#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:983
 msgid "The easiest way to manage YouTube subscriptions."
 msgstr ""
 
@@ -5600,7 +5611,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:989
+#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:992
 msgid "Save and restore tabs. Includes auto-save and cloud sync features."
 msgstr ""
 
@@ -5736,600 +5747,596 @@ msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new fe
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:737
+#: src/olympia/discovery/strings.jinja2:740
 msgid "Some websites have difficulty playing videos on Android. Here's a fix."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:758
+#: src/olympia/discovery/strings.jinja2:761
 msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:776
+#: src/olympia/discovery/strings.jinja2:779
 msgid "Save images easily — just grab them from your current tab."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:779
+#: src/olympia/discovery/strings.jinja2:782
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:797
+#: src/olympia/discovery/strings.jinja2:800
 #, fuzzy
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr "Baca berkas ePub langsung di Firefox—perbesar ukuran huruf, dimensi laman, dan banyak lagi."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:818
+#: src/olympia/discovery/strings.jinja2:821
 #, fuzzy
 msgid "Customize mouse gestures. Discover new ways to navigate with 50+ configurations."
 msgstr "Temukan cara baru dalam mengarahkan dengan bantuan 50+ gestur tetikus."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:821
+#: src/olympia/discovery/strings.jinja2:824
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:869
+#: src/olympia/discovery/strings.jinja2:872
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:878
+#: src/olympia/discovery/strings.jinja2:881
 #, fuzzy
 msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr "Gunakan gestur tetikus untuk menutup tab, mengarahkan laman, dan banyak lagi."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:881
+#: src/olympia/discovery/strings.jinja2:884
 msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:908
+#: src/olympia/discovery/strings.jinja2:911
 msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr "Nikmati gambar keluku situs seiring tampilan hasil pencarian Anda."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:914
+#: src/olympia/discovery/strings.jinja2:917
 msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:929
+#: src/olympia/discovery/strings.jinja2:932
 msgid "Edit a web page before printing. Remove ads or any unwanted content."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:938
+#: src/olympia/discovery/strings.jinja2:941
 msgid "Advanced reader for aggregating all of your RSS/Atom/RDF sources."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:956
+#: src/olympia/discovery/strings.jinja2:959
 msgid "Web pages read aloud. 40+ languages supported."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:962
+#: src/olympia/discovery/strings.jinja2:965
 msgid "Removes those long tracking parameters from Google search result URL's."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:965
+#: src/olympia/discovery/strings.jinja2:968
 msgid "Get weather updates directly from Firefox."
 msgstr "Dapatkan pembaruan cuaca langsung dari Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:968
+#: src/olympia/discovery/strings.jinja2:971
 msgid "Manage your time better with a browser clock that charts work intervals."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:971
+#: src/olympia/discovery/strings.jinja2:974
 msgid "Tired of that \"Video paused. Continue watching?\" message? Listen to your favorite music uninterrupted on YouTube."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:977
+#: src/olympia/discovery/strings.jinja2:980
 msgid "Begone, annoying cookie warnings!"
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:983
+#: src/olympia/discovery/strings.jinja2:986
 msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:986
+#: src/olympia/discovery/strings.jinja2:989
 msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:998
+#: src/olympia/discovery/strings.jinja2:1001
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1001
+#: src/olympia/discovery/strings.jinja2:1004
 msgid "Instantly translate any selected text on web pages."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1004
+#: src/olympia/discovery/strings.jinja2:1007
 msgid "Make Firefox change colors based on time of day."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1007
+#: src/olympia/discovery/strings.jinja2:1010
 msgid "Eliminate YouTube distractions. Remove related and recommended video suggestions, comments & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1010
+#: src/olympia/discovery/strings.jinja2:1013
 msgid "Take emojis with you everywhere on the web."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1016
+#: src/olympia/discovery/strings.jinja2:1019
 msgid "Put restrictions on distracting, time-wasting websites."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1019
+#: src/olympia/discovery/strings.jinja2:1022
 msgid "Remove clutter from your Twitter."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1022
+#: src/olympia/discovery/strings.jinja2:1025
 msgid "Customize YouTube to taste."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1025
+#: src/olympia/discovery/strings.jinja2:1028
 msgid "Delete browsing data directly from the browser toolbar."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1028
+#: src/olympia/discovery/strings.jinja2:1031
 msgid "Get RSS feed auto-updates direct to your bookmark folders."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1031
+#: src/olympia/discovery/strings.jinja2:1034
 msgid "Effective blocker against all types of ads."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1034
+#: src/olympia/discovery/strings.jinja2:1037
 msgid "Mass download manager makes extreme downloading extremely easy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1037
+#: src/olympia/discovery/strings.jinja2:1040
 msgid "Remove ads & receive better protection against malware."
 msgstr "Hapus iklan & dapatkan perlindungan yang lebih kuat dari malware."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1040
+#: src/olympia/discovery/strings.jinja2:1043
 msgid "Remove formatting from copied Clipboard text."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1043
+#: src/olympia/discovery/strings.jinja2:1046
 msgid "Fingerprinting privacy protection."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1046
+#: src/olympia/discovery/strings.jinja2:1049
 msgid "Enhance your gaming experience on Steam."
 msgstr "Tingkatkan pengalaman bermain Anda di Steam."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1049
+#: src/olympia/discovery/strings.jinja2:1052
 msgid "Thumbs-up to bringing back thumbs-down."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1052
+#: src/olympia/discovery/strings.jinja2:1055
 msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1055
+#: src/olympia/discovery/strings.jinja2:1058
 msgid "Block time-wasting websites. Block them completely or just during time frames of your choosing."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1058
+#: src/olympia/discovery/strings.jinja2:1061
 msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1061
+#: src/olympia/discovery/strings.jinja2:1064
 msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1064
+#: src/olympia/discovery/strings.jinja2:1067
 msgid "Automatically handle GDPR consent forms."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1067
+#: src/olympia/discovery/strings.jinja2:1070
 msgid "Block malicious websites from port scanning."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1070
+#: src/olympia/discovery/strings.jinja2:1073
 msgid "Enhance your Twitch experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1073
+#: src/olympia/discovery/strings.jinja2:1076
 msgid "Re-take control of Twitter/X and customize your experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1076
+#: src/olympia/discovery/strings.jinja2:1079
 msgid "Translate text without leaving the page you're on (PDF compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1079
+#: src/olympia/discovery/strings.jinja2:1082
 msgid "Change the color of Firefox to match every website you visit."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1082
+#: src/olympia/discovery/strings.jinja2:1085
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1085
+#: src/olympia/discovery/strings.jinja2:1088
 msgid "Pack a powerful thesaurus right inside Firefox."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1088
+#: src/olympia/discovery/strings.jinja2:1091
 msgid "Hover over web images to enlarge their appearance."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1091
+#: src/olympia/discovery/strings.jinja2:1094
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1094
+#: src/olympia/discovery/strings.jinja2:1097
 msgid "Track the time you spend on every website you visit."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1097
+#: src/olympia/discovery/strings.jinja2:1100
 msgid "Manage your Gmail (even multiple accounts) right from a handy pop-up accessible from the Firefox toolbar."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1100
+#: src/olympia/discovery/strings.jinja2:1103
 msgid "De-clutter YouTube. Strip away unwanted elements like related videos, shorts & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1103
+#: src/olympia/discovery/strings.jinja2:1106
 msgid "Leave yourself little notes on any web page."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1106
+#: src/olympia/discovery/strings.jinja2:1109
 msgid "Serenity for your Reddit experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1109
+#: src/olympia/discovery/strings.jinja2:1112
 msgid "Save and organize anything you find on the web."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1112
+#: src/olympia/discovery/strings.jinja2:1115
 msgid "WebM video controls at your fingertips."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1115
+#: src/olympia/discovery/strings.jinja2:1118
 msgid "Disguise Firefox as the Chrome browser to spoof websites that try to block Firefox."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1118
+#: src/olympia/discovery/strings.jinja2:1121
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1121
+#: src/olympia/discovery/strings.jinja2:1124
 #, fuzzy
 msgid "Extensions are like apps for Firefox."
 msgstr "Ekstensi lawas tidak didukung lagi di Firefox."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1123
+#: src/olympia/discovery/strings.jinja2:1126
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1125
+#: src/olympia/discovery/strings.jinja2:1128
 msgid "See all extensions"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1127
-msgid "Extension Starter Pack"
+#. editorial content for the homepage shelves.
+#: src/olympia/discovery/strings.jinja2:1130 src/olympia/discovery/strings.jinja2:1198
+msgid "YouTube customization"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1131
-msgid "Productivity extensions"
+#: src/olympia/discovery/strings.jinja2:1134
+msgid "Reddit extensions"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1133 src/olympia/discovery/strings.jinja2:1135 src/olympia/discovery/strings.jinja2:1137
+#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
 msgid "See staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1143
 #, fuzzy
 msgid "Recommended extensions"
 msgstr "Disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1142
+#: src/olympia/discovery/strings.jinja2:1145
 #, fuzzy
 msgid "See more recommended extensions"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1145
+#: src/olympia/discovery/strings.jinja2:1148
 msgid "Popular themes"
 msgstr "Tema populer"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1147
+#: src/olympia/discovery/strings.jinja2:1150
 #, fuzzy
 msgid "See more popular themes"
 msgstr "Pilih warna untuk tema Anda"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1150
+#: src/olympia/discovery/strings.jinja2:1153
 msgid "Privacy & security"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1152
+#: src/olympia/discovery/strings.jinja2:1155
 msgid "See more privacy staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1155
+#: src/olympia/discovery/strings.jinja2:1158
 #, fuzzy
 msgid "Popular extensions"
 msgstr "Jelajahi ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1157
+#: src/olympia/discovery/strings.jinja2:1160
 #, fuzzy
 msgid "See more popular extensions"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1160
+#: src/olympia/discovery/strings.jinja2:1163
 #, fuzzy
 msgid "Recommended themes"
 msgstr "Disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1162
+#: src/olympia/discovery/strings.jinja2:1165
 msgid "See more recommended themes"
 msgstr "Lihat lebih banyak tema yang disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1165
+#: src/olympia/discovery/strings.jinja2:1168
 msgid "Strong password managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1167
+#: src/olympia/discovery/strings.jinja2:1170
 #, fuzzy
 msgid "See more password manager staff picks"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1170
+#: src/olympia/discovery/strings.jinja2:1173
 msgid "Translation tools"
 msgstr "Alat penerjemahan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1172
+#: src/olympia/discovery/strings.jinja2:1175
 #, fuzzy
 msgid "See more translation tool staff picks"
 msgstr "berdasarkan Versi Pengaya"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1175
+#: src/olympia/discovery/strings.jinja2:1178
 #, fuzzy
 msgid "Social streaming"
 msgstr "Jejaring Sosial"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1177
+#: src/olympia/discovery/strings.jinja2:1180
 #, fuzzy
 msgid "See more social streaming staff picks"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1180
+#: src/olympia/discovery/strings.jinja2:1183
 msgid "Tab managers"
 msgstr "Pengelola tab"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1182
+#: src/olympia/discovery/strings.jinja2:1185
 #, fuzzy
 msgid "See more tab management staff picks"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1185
+#: src/olympia/discovery/strings.jinja2:1188
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1187
+#: src/olympia/discovery/strings.jinja2:1190
 #, fuzzy, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1190
+#: src/olympia/discovery/strings.jinja2:1193
 msgid "Elite ad blockers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1192
+#: src/olympia/discovery/strings.jinja2:1195
 #, fuzzy
 msgid "See more ad blocker staff picks"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1195
-msgid "YouTube customization"
-msgstr ""
-
-#. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1197
+#: src/olympia/discovery/strings.jinja2:1200
 #, fuzzy
 msgid "See more YouTube extension staff picks"
 msgstr "berdasarkan Versi Pengaya"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1200
+#: src/olympia/discovery/strings.jinja2:1203
 #, fuzzy
 msgid "Trending themes"
 msgstr "Disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1202
+#: src/olympia/discovery/strings.jinja2:1205
 #, fuzzy
 msgid "See more trending themes"
 msgstr "Pilih warna untuk tema Anda"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1205 src/olympia/discovery/strings.jinja2:1250
+#: src/olympia/discovery/strings.jinja2:1208 src/olympia/discovery/strings.jinja2:1253
 #, fuzzy
 msgid "Top rated themes"
 msgstr "Disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1207 src/olympia/discovery/strings.jinja2:1252
+#: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
 #, fuzzy
 msgid "See more top rated themes"
 msgstr "Pilih warna untuk tema Anda"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1210
+#: src/olympia/discovery/strings.jinja2:1213
 #, fuzzy
 msgid "Trending extensions"
 msgstr "Disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1212
+#: src/olympia/discovery/strings.jinja2:1215
 #, fuzzy
 msgid "See more trending extensions"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1215
+#: src/olympia/discovery/strings.jinja2:1218
 msgid "Steam enhancers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1217
+#: src/olympia/discovery/strings.jinja2:1220
 #, fuzzy
 msgid "See more Steam staff picks"
 msgstr "Lihat semua ekstensi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1220
+#: src/olympia/discovery/strings.jinja2:1223
 #, fuzzy
 msgid "Creativity extensions"
 msgstr "Disarankan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1222
+#: src/olympia/discovery/strings.jinja2:1225
 #, fuzzy
 msgid "See more creativity staff picks"
 msgstr "berdasarkan Versi Pengaya"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1225
+#: src/olympia/discovery/strings.jinja2:1228
 msgid "Social media extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1227
+#: src/olympia/discovery/strings.jinja2:1230
 msgid "See more social media staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1230
+#: src/olympia/discovery/strings.jinja2:1233
 msgid "Top download managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1232
+#: src/olympia/discovery/strings.jinja2:1235
 msgid "See more download manager staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1235
+#: src/olympia/discovery/strings.jinja2:1238
 msgid "Accessibility extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1237
+#: src/olympia/discovery/strings.jinja2:1240
 msgid "See more accessibility staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1240
+#: src/olympia/discovery/strings.jinja2:1243
 msgid "Extension starter pack"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1242
+#: src/olympia/discovery/strings.jinja2:1245
 msgid "See more starter extension staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1245
+#: src/olympia/discovery/strings.jinja2:1248
 msgid "Twitch extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1247
+#: src/olympia/discovery/strings.jinja2:1250
 msgid "See more Twitch extension staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1255
+#: src/olympia/discovery/strings.jinja2:1258
 msgid "Gaming & media extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1257
+#: src/olympia/discovery/strings.jinja2:1260
 msgid "See more staff picks"
 msgstr ""
 
@@ -7128,8 +7135,8 @@ msgstr ""
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Sebelum memulai, baca dan terima Perjanjian Distribusi Pengaya Firefox serta Kebijakan dan juga Aturan Peninjauan kami. Perjanjian Distribusi Pengaya Firefox juga terhubung ke Pemberitahuan Privasi "
 "kami yang menjelaskan bagaimana kami menangani informasi Anda."
@@ -7242,7 +7249,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"

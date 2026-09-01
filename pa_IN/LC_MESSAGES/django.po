@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-01 15:13+0000\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -34,11 +36,11 @@ msgstr "ਅਪੀਲ ਦਾ ਕਾਰਨ"
 msgid "Please explain why you believe that this decision was made in error, and/or does not align with the applicable policy or law."
 msgstr ""
 
-#: src/olympia/abuse/models.py:1125
+#: src/olympia/abuse/models.py:1132
 msgid "User profile"
 msgstr "ਵਰਤੋਂਕਾਰ ਪਰੋਫਾਇਲ"
 
-#: src/olympia/abuse/models.py:1565
+#: src/olympia/abuse/models.py:1582
 #, python-brace-format
 msgid "\"{}\" for {}"
 msgstr "{} ਲਈ \"{}\""
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -116,7 +119,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -125,7 +129,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -134,14 +139,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -150,7 +156,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -159,7 +166,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -475,12 +483,12 @@ msgid "Manage My Submissions"
 msgstr "ਮੇਰੀਆਂ ਪੇਸ਼ਕਸ਼ਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ"
 
 #: src/olympia/amo/context_processors.py:65 src/olympia/devhub/templates/devhub/addons/dashboard.html:24 src/olympia/devhub/templates/devhub/addons/submit/base.html:8
-#: src/olympia/devhub/templates/devhub/nav.html:28 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:97
+#: src/olympia/devhub/templates/devhub/nav.html:28 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:113
 msgid "Submit a New Add-on"
 msgstr "ਨਵਾਂ ਐਡ-ਆਨ ਭੇਜੋ"
 
 #: src/olympia/amo/context_processors.py:71 src/olympia/devhub/templates/devhub/addons/dashboard.html:28 src/olympia/devhub/templates/devhub/addons/submit/base.html:6
-#: src/olympia/devhub/templates/devhub/nav.html:30 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:98
+#: src/olympia/devhub/templates/devhub/nav.html:30 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:114
 msgid "Submit a New Theme"
 msgstr "ਇੱਕ ਨਵਾਂ ਥੀਮ ਭੇਜੋ"
 
@@ -562,8 +570,8 @@ msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
 msgstr ""
-"ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਇਸ HTTPS ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵੈਬ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਭੇਜੇ ਜਾਣ ਵਾਲੇ 'ਰੈਫਰਰ ਹੈਡਰ' ਦੀ ਲੋੜ ਹੈ, ਪਰ ਕੋਈ ਵੀ ਨਹੀਂ ਭੇਜਿਆ ਗਿਆ ਸੀ। ਇਹ ਸਿਰਲੇਖ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ"
-" ਲਈ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
+"ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਇਸ HTTPS ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵੈਬ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਭੇਜੇ ਜਾਣ ਵਾਲੇ 'ਰੈਫਰਰ ਹੈਡਰ' ਦੀ ਲੋੜ ਹੈ, ਪਰ ਕੋਈ ਵੀ ਨਹੀਂ ਭੇਜਿਆ ਗਿਆ ਸੀ। ਇਹ ਸਿਰਲੇਖ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ "
+"ਦੁਆਰਾ ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -573,9 +581,7 @@ msgstr "ਜੇ ਤੁਸੀਂ 'ਸੁਧਾਰਕ' ਸਿਰਲੇਖ ਨੂੰ
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when submitting forms. This cookie is required for security reasons, to ensure that your browser is not being hijacked by third "
 "parties."
-msgstr ""
-"ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਫਾਰਮ ਜਮ੍ਹਾਂ ਕਰਦੇ ਸਮੇਂ ਇਸ ਸਾਈਟ ਨੂੰ ਸੀਐਸਆਰਐਫ ਕੂਕੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਇਹ ਕੂਕੀ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਸੁਨਿਸਚਿਤ ਕਰਨ ਲਈ ਕਿ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ "
-"ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
+msgstr "ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਫਾਰਮ ਜਮ੍ਹਾਂ ਕਰਦੇ ਸਮੇਂ ਇਸ ਸਾਈਟ ਨੂੰ ਸੀਐਸਆਰਐਫ ਕੂਕੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਇਹ ਕੂਕੀ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਸੁਨਿਸਚਿਤ ਕਰਨ ਲਈ ਕਿ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
 
 #: src/olympia/amo/templates/amo/404.html:3
 msgid "Not Found"
@@ -590,12 +596,11 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ, ਪਰ ਤੁਸੀਂ ਜਿਸਦੀ ਭਾਲ ਕਰ ਰਹੇ ਹੋ ਅਸੀਂ ਉਹ ਲੱਭ ਨਹੀਂ ਸਕੇ।</h1> <p> ਜਿਸ ਵਰਕੇ ਜਾਂ ਫ਼ਾਈਲ ਦੀ ਬੇਨਤੀ ਤੁਸੀਂ ਕੀਤੀ ਸੀ, ਉਹ ਸਾਡੀ ਸਾਈਟ ਤੇ ਨਹੀਂ ਲੱਭੀ। ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੇਲਾ ਵਿਹਾ ਚੁੱਕੀ ਕਿਸੇ ਤੰਦ"
-" ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਹੋਵੇ, ਜਾਂ ਫਿਰ ਤੁਸੀਂ ਗਲਤ ਪਤਾ ਲਿਖ ਦਿੱਤਾ ਹੋਵੇ। </p> <ul> <li>ਜੇਕਰ ਤੁਸੀਂ ਪਤਾ ਲਿਖਿਆ ਹੈ ਤਾਂ ਸ਼ਬਦ ਜੋੜ ਦੀ ਪੜਤਾਲ ਕਰੋ।</li> <li> ਜੇਕਰ ਤੁਸੀਂ ਤੰਦ ਕਿਸੇ ਹੋਰ ਥਾਂ ਤੋਂ ਲਈ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ "
-"%(open_bug_link)sਮਾਮਲਾ ਦਰਜ ਕਰਾਉ%(close_bug_link)s। ਸਾਨੂੰ ਦੱਸੋ ਤੁਸੀਂ ਕਿੱਥੋਂ ਆਏ ਅਤੇ ਕੀ ਭਾਲ ਰਹੇ ਸੀ, ਅਤੇ ਅਸੀਂ ਇਸਦੀ ਮੁਰੰਮਤ ਲਈ ਪੂਰਾ ਜ਼ੋਰ ਲਾਵਾਂਗੇ। </li> </ul> <p>ਜਾਂ ਫਿਰ ਤੁਸੀਂ ਸਾਡੀ ਸਾਈਟ ਦੇ ਕੁੱਝ ਮਸ਼ਹੂਰ "
-"ਸਫ਼ਿਆਂ ਨੂੰ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।</p> <ul> <li>ਕੀ ਤੁਹਾਨੂੰ <a href=\"%(rec)s\">ਪੇਸ਼ ਕੀਤੇ ਐਡ-ਆਨਾਂ ਦੀ ਸੂਚੀ</a> ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੈ?</li> <li> ਕੀ ਤੁਸੀਂ <a href=\"%(search)s\">ਐਡ-ਆਨਾਂ ਲਈ ਖੋਜ</a> ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? "
-"ਤੁਸੀਂ <a href=\"%(search)s\">ਖੋਜ ਸਫ਼ੇ</a> ਤੇ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫਿਰ ਉੱਪਰ ਦਿੱਤਾ ਖੋਜ ਖਾਨਾ ਵਰਤ ਸਕਦੇ ਹੋ। </li> <li> ਜੇਕਰ ਤੁਸੀਂ ਮੁੜ ਤੋਂ ਸ਼ੁਰੂਆਤ ਕਰਨ ਨੂੰ ਤਰਜੀਹ ਦੇਣੀ ਚਾਹੋ, ਤਾਂ ਤੁਸੀਂ <a href=\"%(home)s\">ਐਡ-ਆਨ ਦੇ "
-"ਮੁੱਖ ਸਫ਼ੇ</a> ਤੇ ਜਾਉ।</li> </ul>"
+"<h1>ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ, ਪਰ ਤੁਸੀਂ ਜਿਸਦੀ ਭਾਲ ਕਰ ਰਹੇ ਹੋ ਅਸੀਂ ਉਹ ਲੱਭ ਨਹੀਂ ਸਕੇ।</h1> <p> ਜਿਸ ਵਰਕੇ ਜਾਂ ਫ਼ਾਈਲ ਦੀ ਬੇਨਤੀ ਤੁਸੀਂ ਕੀਤੀ ਸੀ, ਉਹ ਸਾਡੀ ਸਾਈਟ ਤੇ ਨਹੀਂ ਲੱਭੀ। ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੇਲਾ ਵਿਹਾ ਚੁੱਕੀ ਕਿਸੇ ਤੰਦ ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਹੋਵੇ, ਜਾਂ ਫਿਰ ਤੁਸੀਂ "
+"ਗਲਤ ਪਤਾ ਲਿਖ ਦਿੱਤਾ ਹੋਵੇ। </p> <ul> <li>ਜੇਕਰ ਤੁਸੀਂ ਪਤਾ ਲਿਖਿਆ ਹੈ ਤਾਂ ਸ਼ਬਦ ਜੋੜ ਦੀ ਪੜਤਾਲ ਕਰੋ।</li> <li> ਜੇਕਰ ਤੁਸੀਂ ਤੰਦ ਕਿਸੇ ਹੋਰ ਥਾਂ ਤੋਂ ਲਈ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ %(open_bug_link)sਮਾਮਲਾ ਦਰਜ ਕਰਾਉ%(close_bug_link)s। ਸਾਨੂੰ ਦੱਸੋ ਤੁਸੀਂ ਕਿੱਥੋਂ ਆਏ "
+"ਅਤੇ ਕੀ ਭਾਲ ਰਹੇ ਸੀ, ਅਤੇ ਅਸੀਂ ਇਸਦੀ ਮੁਰੰਮਤ ਲਈ ਪੂਰਾ ਜ਼ੋਰ ਲਾਵਾਂਗੇ। </li> </ul> <p>ਜਾਂ ਫਿਰ ਤੁਸੀਂ ਸਾਡੀ ਸਾਈਟ ਦੇ ਕੁੱਝ ਮਸ਼ਹੂਰ ਸਫ਼ਿਆਂ ਨੂੰ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।</p> <ul> <li>ਕੀ ਤੁਹਾਨੂੰ <a href=\"%(rec)s\">ਪੇਸ਼ ਕੀਤੇ ਐਡ-ਆਨਾਂ ਦੀ ਸੂਚੀ</a> ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੈ?"
+"</li> <li> ਕੀ ਤੁਸੀਂ <a href=\"%(search)s\">ਐਡ-ਆਨਾਂ ਲਈ ਖੋਜ</a> ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਸੀਂ <a href=\"%(search)s\">ਖੋਜ ਸਫ਼ੇ</a> ਤੇ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫਿਰ ਉੱਪਰ ਦਿੱਤਾ ਖੋਜ ਖਾਨਾ ਵਰਤ ਸਕਦੇ ਹੋ। </li> <li> ਜੇਕਰ ਤੁਸੀਂ ਮੁੜ ਤੋਂ ਸ਼ੁਰੂਆਤ ਕਰਨ ਨੂੰ ਤਰਜੀਹ "
+"ਦੇਣੀ ਚਾਹੋ, ਤਾਂ ਤੁਸੀਂ <a href=\"%(home)s\">ਐਡ-ਆਨ ਦੇ ਮੁੱਖ ਸਫ਼ੇ</a> ਤੇ ਜਾਉ।</li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -606,8 +611,7 @@ msgstr "ਓ ਹੋ"
 msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
-msgstr ""
-"<h1>ਓ ਹੋ!  ਸਾਨੂੰ ਗ਼ਲਤੀ ਮਿਲੀ।</h1> <p>ਅਸੀਂ ਛੇਤੀ ਹੋ ਇਸਨੂੰ ਸੋਧਣ ਵਿੱਚ ਲੱਗ ਜਾਵਾਂਗੇ।</ p> <p> ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਨੂੰ ਤਾਜਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ <a href=\"%(home)s\">ਐਡਆਨ ਮੁੱਖ-ਸਫ਼ੇ</a> ਤੇ ਵਾਪਸ ਜਾਓ। </p>"
+msgstr "<h1>ਓ ਹੋ!  ਸਾਨੂੰ ਗ਼ਲਤੀ ਮਿਲੀ।</h1> <p>ਅਸੀਂ ਛੇਤੀ ਹੋ ਇਸਨੂੰ ਸੋਧਣ ਵਿੱਚ ਲੱਗ ਜਾਵਾਂਗੇ।</ p> <p> ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਨੂੰ ਤਾਜਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ <a href=\"%(home)s\">ਐਡਆਨ ਮੁੱਖ-ਸਫ਼ੇ</a> ਤੇ ਵਾਪਸ ਜਾਓ। </p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1456,9 +1460,7 @@ msgstr "ਚੇਤਾਵਨੀਆਂ ਅਤੇ ਅੱਪਡੇਟ"
 
 #: src/olympia/constants/categories.py:70
 msgid "Download Firefox extensions that help you stay up-to-date, track tasks, improve efficiency. Find extensions that reload tabs, manage productivity, and more."
-msgstr ""
-"Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਤੁਹਾਨੂੰ ਅਪ-ਟੂ-ਡੇਟ ਰਹਿਣ, ਕੰਮ ਨੂੰ ਟਰੈਕ ਕਰਨ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ, ਜੋ ਟੈਬਾਂ ਮੁੜ ਲੋਡ ਕਰਦੀਆਂ ਹਨ, ਪਰਦਰਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦੀਆਂ "
-"ਹਨ, ਅਤੇ ਹੋਰ ਵੀ।"
+msgstr "Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਤੁਹਾਨੂੰ ਅਪ-ਟੂ-ਡੇਟ ਰਹਿਣ, ਕੰਮ ਨੂੰ ਟਰੈਕ ਕਰਨ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ, ਜੋ ਟੈਬਾਂ ਮੁੜ ਲੋਡ ਕਰਦੀਆਂ ਹਨ, ਪਰਦਰਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦੀਆਂ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ।"
 
 #: src/olympia/constants/categories.py:78
 msgid "Appearance"
@@ -1482,9 +1484,7 @@ msgstr "ਡਾਊਨਲੋਡ ਇੰਤਜ਼ਾਮ"
 
 #: src/olympia/constants/categories.py:99
 msgid "Download Firefox extensions that can help download web, music and video content. You can also find extensions to manage downloads, share files, and more."
-msgstr ""
-"Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਵੈੱਬ, ਸੰਗੀਤ ਅਤੇ ਵਿਡੀਓ ਸਮੱਗਰੀ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਡਾਊਨਲੋਡ ਦੇ ਇੰਤਜ਼ਾਮ, ਫਾਇਲਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਕਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਲੱਭ "
-"ਸਕਦੇ ਹੋ।"
+msgstr "Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਵੈੱਬ, ਸੰਗੀਤ ਅਤੇ ਵਿਡੀਓ ਸਮੱਗਰੀ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਡਾਊਨਲੋਡ ਦੇ ਇੰਤਜ਼ਾਮ, ਫਾਇਲਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਕਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਲੱਭ ਸਕਦੇ ਹੋ।"
 
 #: src/olympia/constants/categories.py:106
 msgid "Feeds, News & Blogging"
@@ -1519,14 +1519,13 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr "Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ ਜੋ ਫੋਟੋ, ਸੰਗੀਤ ਅਤੇ ਵੀਡੀਓ ਤਜਰਬੇ ਵਧਾਉਂਦੇ ਹਨ। ਇਸ ਕੈਟਾਗਰੀ ਵਿੱਚ ਇਕਸਟੈਨਸ਼ਨਾਂ ਵਿੱਚ ਆਡੀਓ ਅਤੇ ਵੀਡੀਓ, ਉਲਟ ਚਿੱਤਰ ਖੋਜ ਅਤੇ ਹੋਰ ਸ਼ਾਮਲ ਹਨ।"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1129
+#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1132
 msgid "Privacy & Security"
 msgstr "ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ"
 
 #: src/olympia/constants/categories.py:144
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
-msgstr ""
-"ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਇਸ ਵਰਗ ਵਿੱਚ ਤੰਗ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਰੋਕਣ, ਟਰੈਕਿੰਗ ਨੂੰ ਰੋਕਣ, ਰੀਡਾਇਰੈਕਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਸ਼ਾਮਲ ਹਨ।"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਇਸ ਵਰਗ ਵਿੱਚ ਤੰਗ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਰੋਕਣ, ਟਰੈਕਿੰਗ ਨੂੰ ਰੋਕਣ, ਰੀਡਾਇਰੈਕਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਸ਼ਾਮਲ ਹਨ।"
 
 #: src/olympia/constants/categories.py:152
 msgid "Search Tools"
@@ -1558,8 +1557,7 @@ msgstr "ਟੈਬਾਂ"
 
 #: src/olympia/constants/categories.py:181
 msgid "Download Firefox extension to customize tabs and the new tab page. Discover extensions that can control tabs, change the way you interact with them, and more."
-msgstr ""
-"ਟੈਬਾਂ ਅਤੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ਾ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਖੋਜੋ, ਜੋ ਟੈਬਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਸਕਦੀਆਂ ਹਨ, ਉਨ੍ਹਾਂ ਨਾਲ ਕਿਵੇਂ ਤਾਲਮੇਲ ਬਿਠਾ ਸਕਦੀਆਂ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ।"
+msgstr "ਟੈਬਾਂ ਅਤੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ਾ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਖੋਜੋ, ਜੋ ਟੈਬਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਸਕਦੀਆਂ ਹਨ, ਉਨ੍ਹਾਂ ਨਾਲ ਕਿਵੇਂ ਤਾਲਮੇਲ ਬਿਠਾ ਸਕਦੀਆਂ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ।"
 
 #: src/olympia/constants/categories.py:188
 msgid "Web Development"
@@ -2082,15 +2080,15 @@ msgstr ""
 msgid "Invalid or corrupt add-on file."
 msgstr "ਗ਼ਲਤ ਜਾਂ ਖਰਾਬ ਐਡ-ਆਨ ਫ਼ਾਇਲ ਹੈ।"
 
-#: src/olympia/devhub/tasks.py:379
+#: src/olympia/devhub/tasks.py:381
 msgid "Your developer API key was found in the submitted file. To protect your account, the key will be revoked."
 msgstr "ਤੁਹਾਡੀ ਡਿਵੈਲਪਰ API ਕੁੰਜੀ ਦਰਜ ਕੀਤੀ ਗਈ ਫਾਇਲ ਵਿੱਚ ਮਿਲੀ ਸੀ। ਆਪਣੇ ਖਾਤੇ ਦੀ ਰੱਖਿਆ ਕਰਨ ਲਈ, ਕੁੰਜੀ ਨੂੰ ਰੱਦ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
-#: src/olympia/devhub/tasks.py:386
+#: src/olympia/devhub/tasks.py:388
 msgid "The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked."
 msgstr "ਕੋਆਪਟਰ ਦੀ ਡਿਵੈਲਪਰ API ਕੁੰਜੀ ਜਮ੍ਹਾ ਹੋਈ ਫਾਈਲ ਵਿੱਚ ਲੱਭੀ ਗਈ ਸੀ। ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦੀ ਸੁਰੱਖਿਆ ਲਈ, ਕੁੰਜੀ ਨੂੰ ਰੱਦ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
-#: src/olympia/devhub/tasks.py:691
+#: src/olympia/devhub/tasks.py:693
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "ਮੋਜ਼ੀਲਾ ਸੁਰੱਖਿਆ ਸੂਚਨਾ: ਤੁਹਾਡੇ AMO API ਪ੍ਰਮਾਣ-ਪੱਤਰਾਂ ਨੂੰ ਰੱਦ ਕੀਤਾ ਗਿਆ ਹੈ"
 
@@ -2457,8 +2455,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2720,8 +2718,8 @@ msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
-"<p>ਐਡਆਨ ਕੋਲ 2 ਸੰਭਾਵਿਤ ਭੂਮਿਕਾਵਾਂ ਦੇ ਨਾਲ ਕੋਈ ਵੀ ਲੇਖਕ ਹੋ ਸਕਦੇ ਹਨ:</p> <ul> <li><b>ਮਾਲਕ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ ਹੈ, ਸ਼ਾਮਲ ਅਤੇ </li> <li><b>ਡਿਵੈਲਪਰ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ "
-"ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ ਹੈ, ਹੋਰ ਲੇਖਕਾਂ ਨੂੰ ਜੋੜਨ ਅਤੇ ਹਟਾਉਣ ਤੋਂ ਇਲਾਵਾ</li> </ul>"
+"<p>ਐਡਆਨ ਕੋਲ 2 ਸੰਭਾਵਿਤ ਭੂਮਿਕਾਵਾਂ ਦੇ ਨਾਲ ਕੋਈ ਵੀ ਲੇਖਕ ਹੋ ਸਕਦੇ ਹਨ:</p> <ul> <li><b>ਮਾਲਕ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ ਹੈ, ਸ਼ਾਮਲ ਅਤੇ </li> <li><b>ਡਿਵੈਲਪਰ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ "
+"ਹੈ, ਹੋਰ ਲੇਖਕਾਂ ਨੂੰ ਜੋੜਨ ਅਤੇ ਹਟਾਉਣ ਤੋਂ ਇਲਾਵਾ</li> </ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2785,9 +2783,7 @@ msgstr "ਮੁੱਖ ਸਫ਼ਾ"
 msgid ""
 "If your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-"
 "ons."
-msgstr ""
-"ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦਾ ਕੋਈ ਹੋਰ ਵੀ ਮੁੱਖ-ਸਫ਼ਾ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਤਰਜਮਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਹੋਇਆ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ "
-"ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+msgstr "ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦਾ ਕੋਈ ਹੋਰ ਵੀ ਮੁੱਖ-ਸਫ਼ਾ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਤਰਜਮਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਹੋਇਆ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:96 src/olympia/devhub/templates/devhub/addons/edit/describe.html:272
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:84 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:174
@@ -2823,9 +2819,7 @@ msgstr "ਨਾਂ ਅਤੇ ਸੰਖੇਪ"
 msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
-msgstr ""
-"ਸੰਖੇਪ ਵਿੱਚ ਇਹ ਦੱਸਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਐਡ-ਆਨ ਕੀ ਕਰਦੀ ਹੈ, ਸਪਸ਼ਟ ਅਤੇ ਸੰਖੇਪ ਰੂਪ ਵਿੱਚ। ਦੋਵੇਂ ਨਾਮ ਅਤੇ ਸੰਖੇਪ ਤੁਹਾਡੇ ਉਤਪਾਦ ਪੇਜ ਅਤੇ ਖੋਜ ਨਤੀਜਿਆਂ ਤੇ ਦਿਖਾਈ ਦੇਣਗੇ। ਉਨ੍ਹਾਂ ਕੋਲ ਹਰੇਕ ਲਈ 70 ਅੱਖਰਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ "
-"ਲੰਬਾਈ ਅਤੇ ਘੱਟੋ ਘੱਟ 2 ਅੱਖਰਾਂ ਦੀ ਲੰਬਾਈ ਹੈ।"
+msgstr "ਸੰਖੇਪ ਵਿੱਚ ਇਹ ਦੱਸਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਐਡ-ਆਨ ਕੀ ਕਰਦੀ ਹੈ, ਸਪਸ਼ਟ ਅਤੇ ਸੰਖੇਪ ਰੂਪ ਵਿੱਚ। ਦੋਵੇਂ ਨਾਮ ਅਤੇ ਸੰਖੇਪ ਤੁਹਾਡੇ ਉਤਪਾਦ ਪੇਜ ਅਤੇ ਖੋਜ ਨਤੀਜਿਆਂ ਤੇ ਦਿਖਾਈ ਦੇਣਗੇ। ਉਨ੍ਹਾਂ ਕੋਲ ਹਰੇਕ ਲਈ 70 ਅੱਖਰਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਲੰਬਾਈ ਅਤੇ ਘੱਟੋ ਘੱਟ 2 ਅੱਖਰਾਂ ਦੀ ਲੰਬਾਈ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2915,11 +2909,9 @@ msgstr "ਈਮੇਲ"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
-msgstr ""
-"ਜੇਕਰ ਤੁਸੀਂ ਸਹਿਯੋਗ ਪੁੱਛਗਿੱਛਾਂ ਲਈ ਇੱਕ ਈਮੇਲ ਪਤਾ ਵਿਖਾਉਣ ਦੇ ਚਾਹਵਾਨ ਹੋ, ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਹਰੇਕ ਭਾਸ਼ਾ ਲਈ ਵੱਖ-ਵੱਖ ਪਤੇ ਹਨ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-"
-"ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
+msgstr "ਜੇਕਰ ਤੁਸੀਂ ਸਹਿਯੋਗ ਪੁੱਛਗਿੱਛਾਂ ਲਈ ਇੱਕ ਈਮੇਲ ਪਤਾ ਵਿਖਾਉਣ ਦੇ ਚਾਹਵਾਨ ਹੋ, ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਹਰੇਕ ਭਾਸ਼ਾ ਲਈ ਵੱਖ-ਵੱਖ ਪਤੇ ਹਨ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -2929,9 +2921,7 @@ msgstr "ਵੈਬਸਾਈਟ"
 msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
-msgstr ""
-"ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦੀ ਇੱਕ ਸਹਿਯੋਗ ਵੈੱਬਸਾਈਟ ਜਾਂ ਫੋਰਮ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਤਰਜਮਾ ਹੋਇਆ, ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ"
-" ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+msgstr "ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦੀ ਇੱਕ ਸਹਿਯੋਗ ਵੈੱਬਸਾਈਟ ਜਾਂ ਫੋਰਮ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਤਰਜਮਾ ਹੋਇਆ, ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -2956,8 +2946,8 @@ msgid ""
 "Any information end users may want to know that isn't necessarily applicable to the add-on summary or description. Common uses include listing known major bugs, information on how to report bugs, "
 "anticipated release date of a new version, etc. It is only relevant for listed add-ons."
 msgstr ""
-"ਅੰਤ ਵਰਤੋਂਕਾਰ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋਣ ਜੋ ਜ਼ਰੂਰੀ ਨਹੀਂ ਐਡ-ਆਨ ਦੇ ਸੰਖੇਪ ਵਰਣਨ ਜਾਂ ਵੇਰਵੇ ਤੇ ਲਾਗੂ ਹੋਵੋ। ਆਮ ਵਰਤੋਂ ਵਿੱਚ ਸ਼ਾਮਲ ਮੁੱਖ ਜਾਣੂ ਬੱਗਾਂ ਦੀ ਸੂਚੀ, ਬੱਗਾਂ ਦੀ ਸੂਚਨਾ ਕਿਵੇਂ ਭੇਜੀਏ ਦੀ ਜਾਣਕਾਰੀ, ਨਵੇਂ ਵਰਜਨ "
-"ਦੇ ਜਾਰੀ ਹੋਣ ਦੀ ਤਰੀਕ ਦਾ ਅਨੁਮਾਨ, ਆਦਿ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+"ਅੰਤ ਵਰਤੋਂਕਾਰ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋਣ ਜੋ ਜ਼ਰੂਰੀ ਨਹੀਂ ਐਡ-ਆਨ ਦੇ ਸੰਖੇਪ ਵਰਣਨ ਜਾਂ ਵੇਰਵੇ ਤੇ ਲਾਗੂ ਹੋਵੋ। ਆਮ ਵਰਤੋਂ ਵਿੱਚ ਸ਼ਾਮਲ ਮੁੱਖ ਜਾਣੂ ਬੱਗਾਂ ਦੀ ਸੂਚੀ, ਬੱਗਾਂ ਦੀ ਸੂਚਨਾ ਕਿਵੇਂ ਭੇਜੀਏ ਦੀ ਜਾਣਕਾਰੀ, ਨਵੇਂ ਵਰਜਨ ਦੇ ਜਾਰੀ ਹੋਣ ਦੀ ਤਰੀਕ ਦਾ ਅਨੁਮਾਨ, ਆਦਿ। ਇਹ ਕੇਵਲ "
+"ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:46
 msgid "Universally unique identifier"
@@ -2977,8 +2967,8 @@ msgstr "ਵਾਇਟਬੋਰਡ"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
@@ -2995,8 +2985,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਇੱਕ ਆਈਕਾਨ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਸਾਡਿਆਂ ਵਿੱਚ ਇੱਕ ਚੁਣੋ। ਆਈਕਾਨ ਲਗਭਗ ਹਰੇਕ ਥਾਂ ਵਿਖਾਇਆ ਜਾਏਗਾ ਜਿੱਥੇ ਵੀ ਤੁਹਾਡਾ ਐਡ-ਆਨ ਹੈ। ਅੱਪਲੋਡ ਕੀਤੀਆਂ ਤਸਵੀਰਾਂ ਅੱਗੇ ਦਿੱਤੀਆਂ ਤਸਵੀਰ ਕਿਸਮਾਂ ਵਿੱਚ ਇੱਕ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ: "
-".png, .jpg। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+"ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਇੱਕ ਆਈਕਾਨ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਸਾਡਿਆਂ ਵਿੱਚ ਇੱਕ ਚੁਣੋ। ਆਈਕਾਨ ਲਗਭਗ ਹਰੇਕ ਥਾਂ ਵਿਖਾਇਆ ਜਾਏਗਾ ਜਿੱਥੇ ਵੀ ਤੁਹਾਡਾ ਐਡ-ਆਨ ਹੈ। ਅੱਪਲੋਡ ਕੀਤੀਆਂ ਤਸਵੀਰਾਂ ਅੱਗੇ ਦਿੱਤੀਆਂ ਤਸਵੀਰ ਕਿਸਮਾਂ ਵਿੱਚ ਇੱਕ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ: .png, .jpg। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ "
+"ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3165,9 +3155,7 @@ msgstr "ਚੋਟੀ ਦੇ"
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:1
 #, fuzzy
 msgid "Deleting your add-on will permanently delete all versions and files you have submitted for this add-on, listed or not."
-msgstr ""
-"ਆਪਣੇ ਐਡ-ਆਨ ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਤੁਸੀਂ ਇਸ ਐਡ-ਆਨ ਲਈ ਸੂਚੀਬੱਧ ਸਾਰੇ ਸੰਸਕਰਣ ਅਤੇ ਫਾਈਲਾਂ ਨੂੰ ਪੱਕੇ ਤੌਰ ਤੇ ਮਿਟਾ ਦੇਗੇ। ਐਡ-ਆਨ ਆਈਡੀ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਜੋੜਿਆ ਜਾਣਾ ਜਾਰੀ ਰੱਖੇਗਾ, ਤਾਂ ਕਿ ਹੋਰ ਉਹੀ ਆਈਡੀ ਦੀ ਵਰਤੋਂ ਨਾਲ ਵਰਜਨ ਨੂੰ "
-"ਜਮ੍ਹਾਂ ਨਾ ਕਰ ਸਕਣ।"
+msgstr "ਆਪਣੇ ਐਡ-ਆਨ ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਤੁਸੀਂ ਇਸ ਐਡ-ਆਨ ਲਈ ਸੂਚੀਬੱਧ ਸਾਰੇ ਸੰਸਕਰਣ ਅਤੇ ਫਾਈਲਾਂ ਨੂੰ ਪੱਕੇ ਤੌਰ ਤੇ ਮਿਟਾ ਦੇਗੇ। ਐਡ-ਆਨ ਆਈਡੀ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਜੋੜਿਆ ਜਾਣਾ ਜਾਰੀ ਰੱਖੇਗਾ, ਤਾਂ ਕਿ ਹੋਰ ਉਹੀ ਆਈਡੀ ਦੀ ਵਰਤੋਂ ਨਾਲ ਵਰਜਨ ਨੂੰ ਜਮ੍ਹਾਂ ਨਾ ਕਰ ਸਕਣ।"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:6
 msgid "All versions will be Restricted, which will disable and prevent any further installation in Firefox. Existing users can choose to re-enable the add-on."
@@ -3304,9 +3292,7 @@ msgstr "ਜ਼ਰੂਰਤ"
 msgid ""
 "Warning: you have name/summary values in other locales that will be automatically cropped to fit under the limit of %(max_length)s characters.  To edit these go to Edit Product Page after the "
 "submission process is complete."
-msgstr ""
-"ਚੇਤਾਵਨੀ: ਤੁਹਾਡੇ ਕੋਲ ਹੋਰ ਲੋਕਲ ਵਿੱਚ ਨਾਮ/summary ਮੁੱਲ ਹਨ ਜੋ ਕਿ ਆਟੋਮੈਟਿਕ ਹੀ %(max_length)s ਦੇ ਅੱਖਰਾਂ ਦੇ ਅਨੁਸਾਰ ਫਿੱਟ ਕੀਤੇ ਜਾਣਗੇ।  ਸਬਮਿਸ਼ਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਪੂਰੀ ਹੋਣ ਤੋਂ ਬਾਦ ਇਨ੍ਹਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ ਲਈ Edit "
-"Product Page ਵੱਲ ਜਾਓ।"
+msgstr "ਚੇਤਾਵਨੀ: ਤੁਹਾਡੇ ਕੋਲ ਹੋਰ ਲੋਕਲ ਵਿੱਚ ਨਾਮ/summary ਮੁੱਲ ਹਨ ਜੋ ਕਿ ਆਟੋਮੈਟਿਕ ਹੀ %(max_length)s ਦੇ ਅੱਖਰਾਂ ਦੇ ਅਨੁਸਾਰ ਫਿੱਟ ਕੀਤੇ ਜਾਣਗੇ।  ਸਬਮਿਸ਼ਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਪੂਰੀ ਹੋਣ ਤੋਂ ਬਾਦ ਇਨ੍ਹਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ ਲਈ Edit Product Page ਵੱਲ ਜਾਓ।"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:52 src/olympia/devhub/templates/devhub/addons/submit/describe.html:73
 msgid "Add-on URL:"
@@ -3540,8 +3526,8 @@ msgstr "ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਅਤੇ ਵਾਤਾਵਰਨ
 #, fuzzy
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
 msgstr ""
-"ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ (ਲੋੜੀਂਦੀ ਵਰਜਨ ਅਤੇ ਇੰਸਟਾਲੇਸ਼ਨ ਹਦਾਇਤ ਸਮੇਤ), ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ ਵਿਚ ਵਰਤੇ ਗਏ ਕਿਸੇ ਵੀ ਪ੍ਰੋਗ੍ਰਾਮ ਦੇ (ਉਦਾਹਰਨ ਲਈ: <span class=\"tech-emphasis\">node</span> ਅਤੇ <span class=\"tech-"
-"emphasis\">npm</span> ਵਰਜ਼ਨ ਵਰਤਿਆ ਗਿਆ ਹੈ)।"
+"ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ (ਲੋੜੀਂਦੀ ਵਰਜਨ ਅਤੇ ਇੰਸਟਾਲੇਸ਼ਨ ਹਦਾਇਤ ਸਮੇਤ), ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ ਵਿਚ ਵਰਤੇ ਗਏ ਕਿਸੇ ਵੀ ਪ੍ਰੋਗ੍ਰਾਮ ਦੇ (ਉਦਾਹਰਨ ਲਈ: <span class=\"tech-emphasis\">node</span> ਅਤੇ <span class=\"tech-emphasis\">npm</span> ਵਰਜ਼ਨ ਵਰਤਿਆ "
+"ਗਿਆ ਹੈ)।"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 #, fuzzy
@@ -3678,8 +3664,8 @@ msgstr "ਪਿੱਛੇ ਜਾਉ"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3760,10 +3746,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3823,12 +3811,12 @@ msgid "Your add-on won't be included in search results, and its listing page wil
 msgstr "ਤੁਹਾਡੇ ਐਡਆਨ ਨੂੰ ਖੋਜ ਪਰਿਣਾਮਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਇਸ ਦੀ ਸੂਚੀ ਪੰਨੇ ਇਹ ਸੰਕੇਤ ਦੇਵੇਗੀ ਕਿ ਤੁਸੀਂ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਸੂਚੀ ਲਈ ਨਵੀਂ ਵਰਜਨ ਲਈ ਸਬਮਿਸ਼ਨ ਇਸ ਰਾਜ ਵਿੱਚ ਸਵੀਕਾਰ ਨਹੀਂ ਕੀਤੇ ਜਾਣਗੇ।"
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:42 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:85
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:42 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:101
 msgid "Created:"
 msgstr "ਰਚਿਆ:"
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:48 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:81
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:48 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:97
 msgid "Last Updated:"
 msgstr "ਆਖਰੀ ਵਾਰ ਨਵਿਆਇਆ ਗਿਆ:"
 
@@ -3866,7 +3854,8 @@ msgstr "ਤਾਜ਼ਾ ਵਰਜਨ:"
 msgid "This is the newest uploaded unlisted version"
 msgstr "ਇਹ ਨਵੀਨਤਮ ਅਪਲੋਡ ਕੀਤੀ ਗੈਰ-ਸੂਚਿਤ ਵਰਜਨ ਹੈ"
 
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/versions/list.html:32
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:82
+#: src/olympia/devhub/templates/devhub/versions/list.html:32
 msgid "Signed for enterprise."
 msgstr ""
 
@@ -3936,8 +3925,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -4010,9 +3999,7 @@ msgstr "{label_open}ਦ੍ਰਿਸ਼ਮਾਨ:{label_close} {site_url} ਤੇ 
 #, python-brace-format
 msgid ""
 "{label_open}Invisible:{label_close} Won't be included in search results, and its product page will indicate you disabled it. New version submissions for product won't be accepted in this state."
-msgstr ""
-"{label_open}ਅਦਿੱਖ:{label_close} ਖੋਜ ਪਰਿਣਾਮਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਇਸ ਦੀ ਉਤਪਾਦ ਪੰਨੇ ਇਹ ਸੰਕੇਤ ਦੇਵੇਗੀ ਕਿ ਤੁਸੀਂ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਇਆ ਹੈ। ਉਤਪਾਦ ਲਈ ਨਵੀਆਂ ਵਰਜਨ ਬੇਨਤੀਆਂ ਨੂੰ ਇਸ ਰਾਜ ਵਿੱਚ ਸਵੀਕਾਰ "
-"ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।"
+msgstr "{label_open}ਅਦਿੱਖ:{label_close} ਖੋਜ ਪਰਿਣਾਮਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਇਸ ਦੀ ਉਤਪਾਦ ਪੰਨੇ ਇਹ ਸੰਕੇਤ ਦੇਵੇਗੀ ਕਿ ਤੁਸੀਂ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਇਆ ਹੈ। ਉਤਪਾਦ ਲਈ ਨਵੀਆਂ ਵਰਜਨ ਬੇਨਤੀਆਂ ਨੂੰ ਇਸ ਰਾਜ ਵਿੱਚ ਸਵੀਕਾਰ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
 #: src/olympia/devhub/templates/devhub/includes/macros.html:5
 msgid "Some Markdown supported."
@@ -4216,19 +4203,19 @@ msgid "Listed on this site after passing code review. Automatic updates are hand
 msgstr "ਕੋਡ ਰਿਵਿਊ ਪਾਸ ਕਰਨ ਤੋਂ ਬਾਅਦ ਇਸ ਸਾਈਟ ਤੇ ਸੂਚੀਬੱਧ। ਇਸ ਸਾਈਟ ਦੁਆਰਾ ਆਟੋਮੈਟਿਕ ਅਪਡੇਟਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:95
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:111
 msgid "View All Submissions"
 msgstr "ਸਾਰੀਆਂ ਪੇਸ਼ਕਸ਼ਾਂ ਵੇਖੋ"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:103
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:119
 msgid "This is where you view and manage your add-ons and themes. To publish your first add-on, click \"Submit Your First Add-on\" or \"Submit Your First Theme\"."
 msgstr "ਇਹ ਉਹ ਥਾਂ ਹੈ ਜਿੱਥੇ ਤੁਸੀਂ ਆਪਣੇ ਐਡਆਨ ਅਤੇ ਥੀਮ ਵੇਖੋ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰਦੇ ਹੋ। ਆਪਣਾ ਪਹਿਲਾ ਐਡਆਨ ਪਬਲਿਸ਼ ਕਰਨ ਲਈ,\"ਆਪਣੀ ਪਹਿਲੀ ਐਡਆਨ ਜਮ੍ਹਾਂ ਕਰੋ\" ਜਾਂ \"ਆਪਣੀ ਪਹਿਲੀ ਥੀਮ ਭੇਜੋ\" ਤੇ ਕਲਿੱਕ ਕਰੋ।"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:109
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:125
 msgid "Submit Your First Add-on"
 msgstr "ਆਪਣਾ ਪਹਿਲਾ ਐਡ-ਆਨ ਦਾਖਲ ਕਰੋ"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:110
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:126
 msgid "Submit Your First Theme"
 msgstr "ਆਪਣੀ ਪਹਿਲੀ ਥੀਮ ਦਾਖਲ ਕਰੋ"
 
@@ -4524,57 +4511,57 @@ msgstr[1] "{0} ਚੇਤਾਵਨੀਆਂ"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:800
+#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:803
 msgid "Block invisible trackers and spying ads that follow you around the web."
 msgstr "ਬਲਾਕ ਅਵਿਵਹਾਰਕ ਟ੍ਰੈਕਕਰਸ ਅਤੇ ਜਾਸੂਸੀ ਦੀ ਵੈੱਬਸਾਈਟ ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਵੈਬ ਦੇ ਦੁਆਲੇ ਪਾਲਣਾ ਕਰਦੇ ਹਨ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:893
+#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:896
 msgid "Enjoy a beautiful new page with customizable backgrounds, local weather info, and more."
 msgstr "ਅਨੁਕੂਲ ਬੈਕਗਰਾਊਂਡ, ਸਥਾਨਕ ਮੌਸਮ ਜਾਣਕਾਰੀ, ਅਤੇ ਹੋਰ ਦੇ ਨਾਲ ਇੱਕ ਸੁੰਦਰ ਨਵੇਂ ਪੰਨੇ ਦਾ ਆਨੰਦ ਮਾਣੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:803
+#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:806
 msgid "Highlight any text, right-click, and translate instantly."
 msgstr "ਕੋਈ ਵੀ ਪਾਠ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ, ਸੱਜਾ ਕਲਿਕ ਕਰੋ ਅਤੇ ਤੁਰੰਤ ਅਨੁਵਾਦ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:887
+#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:890
 msgid "Perform reverse image searches from an array of engines."
 msgstr "ਇੰਜਣਾਂ ਦੀ ਇੱਕ ਲੜੀ ਤੋਂ ਉਲਟ ਚਿੱਤਰ ਖੋਜ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:848
+#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:851
 msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr "ਇਸ਼ਤਿਹਾਰ ਪਾਬੰਦੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ। ਸਧਾਰਨ ਸੈੱਟ-ਅੱਪ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਦੁਆਰਾ ਦੇਖਾਏ ਇਸ਼ਤਿਹਾਰਾਂ ਨਾਂ ਤੇ ਕੰਟਰੋਲ ਅਤੇ ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਤੇ ਕਿਵੇਂ ਟਰੈਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:851
+#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:854
 msgid "Do you have a ton of open tabs? Organize them in a tidy sidebar."
 msgstr "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਖੁਲ੍ਹੀਆਂ ਟੈਬਾਂ ਹਨ? ਇਕ ਸਾਫ਼ ਸਪਰਸ਼ ਵਿਚ ਉਨ੍ਹਾਂ ਨੂੰ ਸੰਗਠਿਤ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:836
+#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:839
 #, fuzzy
 msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr "ਆਪਣੀ Facebook ਪਛਾਣ ਨੂੰ ਅਲੱਗ “container” ਵਿੱਚ ਅਲੱਗ ਕਰੋ ਜੋ ਕਿ ਫੇਸਬੁੱਕ ਨੂੰ ਵੈਬ ਦੇ ਆਲੇ ਦੁਆਲੇ ਤੁਹਾਡੀਆਂ ਅੰਦੋਲਨਾਂ ਨੂੰ ਟਰੈਕ ਕਰਨਾ ਔਖਾ ਬਣਾਉਂਦੀ ਹੈ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:890
+#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:893
 #, fuzzy
 msgid "Simplify search by highlighting text on any web page to search the phrase from an array of engines."
 msgstr "ਕਿਸੇ ਵੀ ਵੈਬ ਪੰਨੇ ਤੇ ਸ਼ਬਦ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ ਤਾਂ ਕਿ ਇਹ ਇੰਜਣਾਂ ਦੀ ਲੜੀ ਤੋਂ ਸ਼ਬਦ ਲੱਭ ਸਕੇ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:827
+#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:830
 msgid "Instant weather updates from around the world."
 msgstr "ਵਿਸ਼ਵ ਭਰ ਤੋਂ ਤੁਰੰਤ ਮੌਸਮ ਦੇ ਅਪਡੇਟਸ।"
 
@@ -4585,13 +4572,13 @@ msgstr "ਜਦੋਂ ਤੁਸੀਂ ਕੋਈ ਨਵੀਂ ਟੈਬ ਖੋਲ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:806
+#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:809
 msgid "See an interesting picture on the web and want to learn more about it? Try this image search tool."
 msgstr "ਵੈਬ ਤੇ ਇਕ ਦਿਲਚਸਪ ਤਸਵੀਰ ਦੇਖੋ ਅਤੇ ਇਸ ਬਾਰੇ ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਚਿੱਤਰ ਖੋਜ ਲਈ ਸੰਦ ਨੂੰ ਅਜ਼ਮਾਓ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:809
+#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:812
 #, fuzzy
 msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, and hundreds of other video sites."
 msgstr "YouTube, Facebook, Vimeo, Twitch, ਡੇਲੀਮੋਸ਼ਨ, ਪੇਰੀਸਕੋਪ ਅਤੇ ਹੋਰ ਸੈਂਕੜੇ ਹੋਰ ਵੀਡੀਓ ਸਾਈਟਾਂ ਦੇ ਨਾਲ ਕੰਮ ਕਰਦਾ ਹੈ।"
@@ -4610,7 +4597,7 @@ msgstr "ਸਾਰੇ ਸਾਧਨਾਂ ਤੇ ਰਾਜ ਕਰਨ ਲਈ ਇੱ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:815
+#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:818
 msgid "Effective, lightweight ad blocker. uBlock Origin enforces thousands of content filters without chewing up a bunch of memory."
 msgstr "ਹਲਕਾ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ। uBlock Origin ਬਹੁਤੀ ਮੈਮੋਰੀ ਵਰਤੇ ਬਿਨਾਂ ਹਜ਼ਾਰਾਂ ਸਮੱਗਰੀ ਫਿਲਟਰਾਂ ਨੂੰ ਲਾਗੂ ਕਰਦਾ ਹੈ।"
 
@@ -4656,13 +4643,13 @@ msgstr "ਕ੍ਰਿਪਟੁਕੁਰੰਜਾਈ ਲਈ ਖਰਾਬ ਕੰਪ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:749
+#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:752
 msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr "ਕਿਤੇ ਵੀ ਤੁਸੀਂ ਵੈਬ-ਸੋਸ਼ਲ ਮੀਡੀਆ, ਈਮੇਲ, ਦਸਤਾਵੇਜ਼, ਅਤੇ ਹੋਰ ਤੇ ਲਿਖਣ ਲਈ ਵਿਆਕਰਣ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:833
+#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:836
 msgid "Display current worldwide times in Firefox's status bar."
 msgstr "Firefox ਦੇ ਹਾਲਤ ਪੱਟੀ ਵਿੱਚ ਮੌਜੂਦਾ ਸੰਸਾਰਕ ਸਮਾਂ ਵਿਖਾਓ।"
 
@@ -4686,7 +4673,7 @@ msgstr "50+ ਮਦਦਗਾਰ ਮਾਊਸ ਸੰਕੇਤਾਂ ਦੇ ਨਾ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:944
+#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:947
 msgid "Darken the page around video players for a focused viewing experience."
 msgstr "ਫੋਕਸਡ ਦੇਖਣ ਦੇ ਅਨੁਭਵ ਲਈ ਵੀਡੀਓ ਖਿਡਾਰੀਆਂ ਦੇ ਦੁਆਲੇ ਪੰਨੇ ਨੂੰ ਗੂੜ੍ਹਾ ਕਰੋ।"
 
@@ -4703,14 +4690,14 @@ msgstr "ਕੀ ਉਹ ਪੇਜ ਹੈ ਜੋ ਤੁਸੀਂ ਅਣਉਪਲਬ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:812
+#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:815
 #, fuzzy
 msgid "Hover over an image to magnify it."
 msgstr "ਬਸ ਇਸ ਨੂੰ ਵਧਾਉਣ ਲਈ ਇੱਕ ਚਿੱਤਰ ਉੱਤੇ ਜਾਓ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:884
+#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:887
 msgid "Automatically erase cookies after you close a tab."
 msgstr "ਇੱਕ ਟੈਬ ਬੰਦ ਕਰਨ ਤੋਂ ਬਾਅਦ ਕੁਕੀਜ਼ ਨੂੰ ਆਟੋਮੈਟਿਕਲੀ ਮਿਟਾਓ।"
 
@@ -4721,26 +4708,26 @@ msgstr "ਕਿਸੇ ਸਫੇ ਦੇ ਪਾਠ ਦੇ ਅਕਾਰ ਨੂੰ �
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:845
+#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:848
 msgid "Stop trackers in their tracks and learn more about them."
 msgstr "ਉਹਨਾਂ ਦੇ ਟਰੈਕਾਂ ਵਿੱਚ ਟਰੈਕਰਾਂ ਨੂੰ ਰੋਕੋ ਅਤੇ ਉਨ੍ਹਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:905
+#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:908
 #, fuzzy
 msgid "Leave a clean digital trail. Make Firefox forget website data like cookies and local storage, but only for domains you choose."
 msgstr "ਫਾਇਰਫਾਕਸ ਨੂੰ ਵੈਬਸਾਈਟ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਥਾਨਕ ਸਟੋਰੇਜ ਜਿਵੇਂ ਡਾਟਾਬੇਸ ਨੂੰ ਭੁੱਲ ਦਿਓ, ਪਰ ਸਿਰਫ ਉਹਨਾਂ ਡੋਮੇਨ ਲਈ ਜੋ ਤੁਸੀਂ ਚੁਣਦੇ ਹੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:875
+#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:878
 msgid "No need to write the same thing over and over. Save frequently-entered text to paste anytime."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:842
+#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:845
 msgid "Get more screen space by removing ads from your web-based inbox."
 msgstr "ਆਪਣੇ ਵੈਬ-ਅਧਾਰਿਤ ਇਨਬਾਕਸ ਤੋਂ ਇਸ਼ਤਿਹਾਰ ਹਟਾ ਕੇ ਹੋਰ ਸਕਰੀਨ ਥਾਂ ਲਵੋ।"
 
@@ -4751,26 +4738,26 @@ msgstr "ਸੁਥਰੇ ਸਾਈਡਬਾਰ ਵਿਚ ਆਪਣੇ ਖੁੱ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:947
+#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:950
 #, fuzzy
 msgid "Avoid sneaky trackers and restrictions. Disguise your navigation by cloaking the identity of your browser and operating system."
 msgstr "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਅਤੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਦੀ ਪਹਿਚਾਣ ਨੂੰ ਦਬਾ ਕੇ ਆਪਣਾ ਨੇਵੀਗੇਸ਼ਨ ਭੰਗ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:839
+#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:842
 msgid "Automatically reload tabs based on time intervals you set."
 msgstr "ਆਪਣੇ ਦੁਆਰਾ ਸੈਟ ਕੀਤੇ ਗਏ ਸਮਾਂ ਅੰਤਰਾਲਾਂ ਦੇ ਅਧਾਰ ਤੇ ਟੈਬਾਂ ਨੂੰ ਸਵੈਚਲ ਰੂਪ ਤੋਂ ਮੁੜ ਲੋਡ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1013
+#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1016
 msgid "Keep parts of your online life separated into color-coded and cookie separated tabs. Now integrated with Mozilla VPN for an extra layer of privacy."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:824
+#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:827
 msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr "ਜਦੋਂ ਤੁਸੀਂ ਵੈਬ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਦੀ ਇੱਕ ਵਾਧੂ ਪਰਤ ਹਾਸਲ ਕਰੋ।"
 
@@ -4782,7 +4769,7 @@ msgstr "ਫਾਇਰਫਾਕਸ ਵਿਚ ਈਪੱਬ ਫਾਈਲਾਂ ਦ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:941
+#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:944
 #, fuzzy
 msgid "Play YouTube videos by default in the highest quality, turn off annotations, and more."
 msgstr "ਸਭ ਤੋਂ ਉੱਚੇ ਕੁਆਲਿਟੀ ਵਿੱਚ ਵੀਡੀਓ ਚਲਾਓ, ਐਨੋਟੇਸ਼ਨ ਬੰਦ ਕਰੋ, ਅਤੇ ਹੋਰ।"
@@ -4806,7 +4793,7 @@ msgstr "ਵਿਡੀਓ ਦੀ ਗਤੀ ਅਤੇ ਹੋਰ ਵਿਵਸਥਿ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:830
+#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:833
 #, fuzzy
 msgid "Add encrypted security to any site that supports HTTPS. Browse securely."
 msgstr "HTTPS ਲਈ ਸਹਾਇਕ ਹੈ, ਜੋ ਕਿ ਕਿਸੇ ਵੀ ਸਾਈਟ ਨੂੰ ਇੰਕ੍ਰਿਪਟਡ ਸੁਰੱਖਿਆ ਨੂੰ ਸ਼ਾਮਿਲ।"
@@ -4855,13 +4842,13 @@ msgstr "ਆਪਣੀਆਂ ਨਵੀਆਂ ਟੈਬਾਂ ਲਈ ਇੱਕ ਕ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:872
+#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:875
 msgid "Convert all your open tabs into a list to easily manage them and speed up Firefox."
 msgstr "Firefox ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਖੁੱਲੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਕ ਲਿਸਟ ਵਿੱਚ ਬਦਲੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:794
+#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:797
 #, fuzzy
 msgid "Robust download management. Check the state of your downloads through a status bar, download history page, and more."
 msgstr "ਸਥਿਤੀ ਬਾਰ ਦੁਆਰਾ, ਡਾਉਨਲੋਡ ਇਤਿਹਾਸ ਪੰਨੇ ਅਤੇ ਹੋਰ ਦੇ ਜ਼ਰੀਏ ਤੁਹਾਡੇ ਡਾਉਨਲੋਡਸ ਦੀ ਸਥਿਤੀ ਵੇਖੋ।"
@@ -4896,7 +4883,7 @@ msgstr "ਇਸਦੇ ਡਿਸਪਲੇ ਨੂੰ ਗੂੜਾਪਨ ਕਰਕ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:791
+#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:794
 msgid "Block all pop-ups by default, then decide which ones you'd like to open."
 msgstr "ਡਿਫੌਲਟ ਤੌਰ ਤੇ ਸਾਰੇ ਪੌਪ-ਅਪਸ ਨੂੰ ਬਲੌਕ ਕਰੋ, ਫਿਰ ਇਹ ਨਿਸ਼ਚਤ ਕਰੋ ਕਿ ਤੁਸੀਂ ਕਿਨ੍ਹਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ।"
 
@@ -4931,7 +4918,7 @@ msgstr "ਉਸਦੇ ਆਲੇ-ਦੁਆਲੇ ਕਲਿਟਰ ਨੂੰ ਹਟ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:866
+#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:869
 msgid "Right-click and drag links you want open in new tabs."
 msgstr "ਉਹ ਨਵੀਆਂ ਟੈਬਾਂ ਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਖੋਲੋ ਜੋ ਤੁਸੀਂ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ।"
 
@@ -4973,7 +4960,7 @@ msgstr "ਇਤਿਹਾਸਕ ਕੀਮਤਾਂ ਤੇ ਟ੍ਰੈਕ ਕਰ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:788
+#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:791
 msgid "Make it your YouTube. Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more."
 msgstr "ਆਪਣਾ YouTube ਬਣਾਓ। ਪੌਪ-ਆਉਟ ਵਿੰਡੋ ਵਿੱਚ ਵਿਡੀਓਜ਼ਚਲਾਓ, ਸਿਰਫ ਮੈਂਬਰ ਚੈਨਲਾਂ ਵਿੱਚ ਇਸ਼ਤਿਕਾਰ ਦੇਖੋ, ਵਿਡੀਓ ਸਕਰੀਨਸ਼ਾਟ ਲਓ, ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ।"
 
@@ -5060,7 +5047,7 @@ msgstr "ਆਪਣੇ ਪਸੰਦੀਦਾ RSS ਦੇ ਫੀਡਸ ਨੂੰ ਇ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:785
+#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:788
 msgid "Enable night mode for a better viewing experience."
 msgstr "ਬਿਹਤਰ ਦੇਖੇ ਗਏ ਅਨੁਭਵ ਲਈ ਰਾਤ ਦਾ ਮੋਡ ਸਮਰੱਥ ਬਣਾਓ।"
 
@@ -5119,13 +5106,13 @@ msgstr "ਬਾਅਦ ਵਿੱਚ ਸਮੀਖਿਆ ਕਰਨ ਲਈ ਆਮ ਅ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:764
+#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:767
 msgid "Phone-like scrolling for your desktop. Features \"grab-n-drag\" style mouse movement."
 msgstr "ਤੁਹਾਡੇ ਡੈਸਕਟਾਪ ਲਈ ਫੋਨ-ਵਰਗੇ ਸਕ੍ਰੌਲਿੰਗ। \"ਗ੍ਰੈਬ-ਐਨ-ਡ੍ਰੈਗ\" ਸ਼ੈਲੀ ਦੇ ਮਾਓਸ ਦੀ ਹਰਕਤ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:935
+#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:938
 msgid "Clear your browser cache with a click or keystroke."
 msgstr "ਇੱਕ ਕਲਿਕ ਜਾਂ ਕੀਸਟਰੋਕ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਕੈਸ਼ ਨੂੰ ਸਾਫ਼ ਕਰੋ।"
 
@@ -5136,14 +5123,14 @@ msgstr "ਸੁਰੱਖਿਅਤ ਕਰਨ ਅਤੇ ਬਾਅਦ ਵਿੱਚ �
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:761
+#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:764
 #, fuzzy
 msgid "Enjoy music from 30,000+ radio stations from all over the globe."
 msgstr "ਦੁਨੀਆ ਭਰ ਤੋਂ 30,000+ ਰੇਡੀਓ ਸਟੇਸ਼ਨਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:932
+#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:935
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
 msgstr "ਸਿਰਫ YouTube ਕਲਿੱਪਾਂ ਤੋਂ ਆਡੀਓ ਸਟਰੀਮ ਕਰਕੇ ਬੈਂਡਵਿਡਥ ਬਚਾਓ।"
 
@@ -5154,13 +5141,13 @@ msgstr "ਸੁੰਦਰ ਸਿਰਲੇਖਾਂ ਅਤੇ ਚਿੱਤਰ ਓ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:782
+#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:785
 msgid "Automatically navigate to the secure version of a website if it's available."
 msgstr "ਕਿਸੇ ਵੈਬਸਾਈਟ ਦੇ ਸੁਰੱਖਿਅਤ ਸੰਸਕਰਣ ਉੱਤੇ ਜਾਓ ਜੇਕਰ ਇਹ ਉਪਲਬਧ ਹੈ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:863
+#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:866
 #, fuzzy
 msgid "Delete your navigation history. Specify a custom number of days to retain browser history before it's automatically cleared."
 msgstr "ਬ੍ਰਾਉਜ਼ਰ ਅਤੀਤ ਨੂੰ ਆਪਣੇ-ਆਪ ਸਾਫ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਉਸ ਦਿਨ ਦੀ ਇੱਕ ਕਸਟਮ ਨੰਬਰ ਨਿਸ਼ਚਿਤ ਕਰੋ।"
@@ -5188,7 +5175,7 @@ msgstr "ਸਿਰਫ ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਨਿਜੀ ਤੌਰ 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:896
+#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:899
 #, fuzzy
 msgid "Put an end to tab hijacking. Don't let clicked links take control of your current tab and load content you didn't ask for."
 msgstr "ਕਲਿਕ ਕਰੋ ਲਿੰਕ ਨੂੰ ਆਪਣੇ ਮੌਜੂਦਾ ਟੈਬ ਤੇ ਕੰਟਰੋਲ ਨਾ ਕਰੋ ਅਤੇ ਉਸ ਸਮੱਗਰੀ ਨੂੰ ਲੋਡ ਨਾ ਕਰੋ ਜਿਸ ਲਈ ਤੁਸੀਂ ਨਹੀਂ ਪੁਛਿਆ।"
@@ -5306,14 +5293,14 @@ msgstr "ਵਿਅਕਤੀਗਤ ਪ੍ਰਾਜੈਕਟਾਂ ਜਾਂ ਰੀ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:899
+#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:902
 #, fuzzy
 msgid "Only allow web content to run from sites you trust. Surf securely."
 msgstr "ਸਿਰਫ਼ ਉਹਨਾਂ ਵੈਬ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ ਜਿਹਨਾਂ ਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰਦੇ ਹੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:770
+#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:773
 msgid "Take full control of the cookies you've accumulated while browsing."
 msgstr "ਬ੍ਰਾਉਜ਼ਿੰਗ ਕਰਦੇ ਸਮੇਂ ਤੁਹਾਡੇ ਦੁਆਰਾ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਕੂਕੀਜ਼ ਦਾ ਪੂਰਾ ਨਿਯੰਤਰਣ ਰੱਖੋ।"
 
@@ -5324,7 +5311,7 @@ msgstr "ਤੁਹਾਡੇ ਦੁਆਰਾ ਚੁਣੀਆਂ ਗਈਆਂ ਵ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:860
+#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:863
 msgid "Password-protect your personal bookmarks."
 msgstr "ਪਾਸਵਰਡ-ਆਪਣੇ ਨਿੱਜੀ ਬੁਕਮਾਰਕ ਦੀ ਰੱਖਿਆ ਕਰੋ।"
 
@@ -5351,7 +5338,7 @@ msgstr "ਵੀਡੀਓ ਅਤੇ/ਜਾਂ ਆਡੀਓ ਨੂੰ ਕਈ ਫਾ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:755
+#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:758
 msgid "Learn where any website's server is geographically located. Be an informed web traveler."
 msgstr "ਜਾਣੋ ਕਿ ਕਿਸੇ ਵੀ ਵੈਬਸਾਈਟ ਦਾ ਸਰਵਰ ਭੂਗੋਲਿਕ ਤੌਰ ਤੇ ਕਿੱਥੇ ਸਥਿਤ ਹੈ। ਇੱਕ ਸੂਚਿਤ ਵੈਬ ਯਾਤਰੀ ਬਣੋ।"
 
@@ -5373,13 +5360,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:926
+#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:929
 msgid "Adjust browser audio settings with extreme clarity."
 msgstr "ਬਹੁਤ ਸਪੱਸ਼ਟਤਾ ਨਾਲ ਬਰਾਊਜ਼ਰ ਆਡੀਓ ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਓ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:752
+#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:755
 msgid "Defend yourself against the sneakiest trackers."
 msgstr "ਆਪਣੇ ਆਪ ਨੂੰ sneakiest ਟਰੈਕਰਜ ਦੇ ਵਿਰੁੱਧ ਬਚਾਓ।"
 
@@ -5407,7 +5394,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:902
+#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:905
 msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr "ਨਾ-ਸਰਗਰਮ ਟੈਬਾਂ ਨਾਲ ਕੀਮਤੀ ਮੈਮੋਰੀ ਥਾਂ ਨੂੰ ਬਰਬਾਦ ਹੋਣ ਤੋਂ ਰੋਕੋ"
 
@@ -5428,19 +5415,19 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:746
+#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:749
 msgid "Read with more clarity and ease. Remove the clutter around text on web pages."
 msgstr "ਹੋਰ ਸਫ਼ਾਈ ਅਤੇ ਸੌਖੀ ਤਰ੍ਹਾਂ ਪੜ੍ਹੋ। ਵੈੱਬ ਸਫ਼ਿਆਂ ਉੱਤੇ ਲਿਖਤ ਦੁਆਲੇ ਘੜਮਸ ਹਟਾਓ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:743
+#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:746
 msgid "Block ads and get enhanced protection against malware and ad tracking."
 msgstr "ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਰੋਕ ਲਾਓ ਅਤੇ ਮਾਲਵੇਅਰ ਅਤੇ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਿੰਗ ਵਿਰੁੱਧ ਵਾਧਾ ਕੀਤੀ ਸੁਰੱਖਿਆ ਲਵੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:923
+#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:926
 msgid "Enjoy multi-threading download support. Automatically detect different types of media available for download."
 msgstr "ਬਹੁ-ਥ੍ਰੈਡਿੰਗ ਡਾਉਨਲੋਡ ਸਹਾਇਤਾ ਦਾ ਅਨੰਦ ਮਾਣੋ। ਡਾਉਨਲੋਡ ਲਈ ਆਟੋਮੈਟਿਕ ਵੱਖ-ਵੱਖ ਮੀਡੀਆ ਉਪਲਬਧਾਂ ਦਾ ਪਤਾ ਲਗਾਓ।"
 
@@ -5461,19 +5448,19 @@ msgstr "ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਇੰਤਜ਼ਾਮ ਦੇ ਫਾਇ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:773
+#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:776
 msgid "Customize shades of light and dark to make web pages more visually pleasing."
 msgstr "ਵੈਬ ਪੇਜਜ਼ ਨੂੰ ਵਧੇਰੇ ਨੇਤਰਹੀਣ ਬਣਾਉਣ ਲਈ ਹਲਕੇ ਅਤੇ ਹਨੇਰਾ ਦੇ ਸ਼ੇਡ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ।"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:920
+#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:923
 msgid "Block distracting websites. Simply list the sites you want the extension to block. Instant discipline!"
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:767
+#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:770
 msgid "Change your browser's appearance. Easily design your own visual themes to make Firefox look as you please."
 msgstr ""
 
@@ -5494,13 +5481,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:740
+#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:743
 msgid "Turn the web dark or select a custom color scheme to visually tailor the internet to your own taste."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:959
+#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:962
 msgid "Get a more advanced search page on Firefox for Android."
 msgstr "Android ਲਈ Firefox ਉੱਤੇ ਇੱਕ ਹੋਰ ਤਕਨੀਕੀ ਖੋਜ ਸਫ਼ਾ ਪ੍ਰਾਪਤ ਕਰੋ।"
 
@@ -5527,7 +5514,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:854
+#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:857
 msgid "Remove tracking elements from web links."
 msgstr ""
 
@@ -5538,13 +5525,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:917
+#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:920
 msgid "Easily organize tons of open tabs."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:857
+#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:860
 msgid "Create and customize tab groups."
 msgstr ""
 
@@ -5561,13 +5548,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:911
+#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:914
 msgid "Watch streaming media with friends and family anywhere."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:953
+#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:956
 msgid "Skip over sponsored portions of YouTube videos."
 msgstr ""
 
@@ -5578,31 +5565,31 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:950
+#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:953
 msgid "Double-click any word to instantly see its definition."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:992
+#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:995
 msgid "Save batches of tabs as convenient bookmarks."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:995
+#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:998
 msgid "Tabs and bookmarks neatly organized in a Firefox side view."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:974
+#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:977
 msgid "Thousands of GIFs at your fingertips."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:980
+#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:983
 msgid "The easiest way to manage YouTube subscriptions."
 msgstr ""
 
@@ -5613,7 +5600,7 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:989
+#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:992
 msgid "Save and restore tabs. Includes auto-save and cloud sync features."
 msgstr ""
 
@@ -5749,584 +5736,580 @@ msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new fe
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:737
+#: src/olympia/discovery/strings.jinja2:740
 #, fuzzy
 msgid "Some websites have difficulty playing videos on Android. Here's a fix."
 msgstr "ਕੁਝ ਸਾਈਟਸ ਨੂੰ ਐਡਰਾਇਡ ਲਈ ਫਾਇਰਫਾਕਸ ਉੱਤੇ ਵੀਡੀਓ ਖੇਡਣ ਵਿੱਚ ਮੁਸ਼ਕਲ ਆਉਂਦੀ ਹੈ। ਇਹ ਐਕਸਟੈਂਸ਼ਨ ਫਿਕਸ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:758
+#: src/olympia/discovery/strings.jinja2:761
 msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:776
+#: src/olympia/discovery/strings.jinja2:779
 msgid "Save images easily — just grab them from your current tab."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:779
+#: src/olympia/discovery/strings.jinja2:782
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:797
+#: src/olympia/discovery/strings.jinja2:800
 #, fuzzy
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr "ਫਾਇਰਫਾਕਸ ਵਿਚ ਈਪੱਬ ਫਾਈਲਾਂ ਦਾ ਅਨੰਦ ਮਾਣੋ ਫੌਂਟ ਸਾਈਜ਼ ਵਧਾਓ, ਪੇਜ ਮਾਪ, ਅਤੇ ਹੋਰ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:818
+#: src/olympia/discovery/strings.jinja2:821
 #, fuzzy
 msgid "Customize mouse gestures. Discover new ways to navigate with 50+ configurations."
 msgstr "50+ ਮਦਦਗਾਰ ਮਾਊਸ ਸੰਕੇਤਾਂ ਦੇ ਨਾਲ ਨੈਵੀਗੇਟ ਕਰਨ ਦਾ ਇੱਕ ਨਵਾਂ ਤਰੀਕਾ ਲੱਭੋ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:821
+#: src/olympia/discovery/strings.jinja2:824
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:869
+#: src/olympia/discovery/strings.jinja2:872
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:878
+#: src/olympia/discovery/strings.jinja2:881
 #, fuzzy
 msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr "ਟੈਬਸ ਬੰਦ ਕਰਨ ਲਈ, ਮਾਉਸ ਸੰਕੇਤ ਦੀ ਵਰਤੋਂ ਕਰੋ, ਇਕ ਪੰਨੇ ਤੇ ਵਾਪਸ ਜਾਓ, ਦੁਬਾਰਾ ਲੋਡ ਕਰੋ, ਅਤੇ ਹੋਰ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:881
+#: src/olympia/discovery/strings.jinja2:884
 msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:908
+#: src/olympia/discovery/strings.jinja2:911
 #, fuzzy
 msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr "ਆਪਣੀ ਖੋਜ ਰਿਟਰਨਾਂ ਦੇ ਨਾਲ ਥੰਬਨੇਲ ਚਿੱਤਰਾਂ ਦਾ ਅਨੰਦ ਮਾਣੋ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:914
+#: src/olympia/discovery/strings.jinja2:917
 msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:929
+#: src/olympia/discovery/strings.jinja2:932
 msgid "Edit a web page before printing. Remove ads or any unwanted content."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:938
+#: src/olympia/discovery/strings.jinja2:941
 msgid "Advanced reader for aggregating all of your RSS/Atom/RDF sources."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:956
+#: src/olympia/discovery/strings.jinja2:959
 msgid "Web pages read aloud. 40+ languages supported."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:962
+#: src/olympia/discovery/strings.jinja2:965
 msgid "Removes those long tracking parameters from Google search result URL's."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:965
+#: src/olympia/discovery/strings.jinja2:968
 #, fuzzy
 msgid "Get weather updates directly from Firefox."
 msgstr "ਵਿਸ਼ਵ ਭਰ ਤੋਂ ਤੁਰੰਤ ਮੌਸਮ ਦੇ ਅਪਡੇਟਸ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:968
+#: src/olympia/discovery/strings.jinja2:971
 msgid "Manage your time better with a browser clock that charts work intervals."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:971
+#: src/olympia/discovery/strings.jinja2:974
 msgid "Tired of that \"Video paused. Continue watching?\" message? Listen to your favorite music uninterrupted on YouTube."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:977
+#: src/olympia/discovery/strings.jinja2:980
 msgid "Begone, annoying cookie warnings!"
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:983
+#: src/olympia/discovery/strings.jinja2:986
 msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:986
+#: src/olympia/discovery/strings.jinja2:989
 msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:998
+#: src/olympia/discovery/strings.jinja2:1001
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1001
+#: src/olympia/discovery/strings.jinja2:1004
 msgid "Instantly translate any selected text on web pages."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1004
+#: src/olympia/discovery/strings.jinja2:1007
 msgid "Make Firefox change colors based on time of day."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1007
+#: src/olympia/discovery/strings.jinja2:1010
 msgid "Eliminate YouTube distractions. Remove related and recommended video suggestions, comments & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1010
+#: src/olympia/discovery/strings.jinja2:1013
 msgid "Take emojis with you everywhere on the web."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1016
+#: src/olympia/discovery/strings.jinja2:1019
 msgid "Put restrictions on distracting, time-wasting websites."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1019
+#: src/olympia/discovery/strings.jinja2:1022
 msgid "Remove clutter from your Twitter."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1022
+#: src/olympia/discovery/strings.jinja2:1025
 msgid "Customize YouTube to taste."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1025
+#: src/olympia/discovery/strings.jinja2:1028
 msgid "Delete browsing data directly from the browser toolbar."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1028
+#: src/olympia/discovery/strings.jinja2:1031
 msgid "Get RSS feed auto-updates direct to your bookmark folders."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1031
+#: src/olympia/discovery/strings.jinja2:1034
 msgid "Effective blocker against all types of ads."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1034
+#: src/olympia/discovery/strings.jinja2:1037
 msgid "Mass download manager makes extreme downloading extremely easy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1037
+#: src/olympia/discovery/strings.jinja2:1040
 #, fuzzy
 msgid "Remove ads & receive better protection against malware."
 msgstr "ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਰੋਕ ਲਾਓ ਅਤੇ ਮਾਲਵੇਅਰ ਅਤੇ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਿੰਗ ਵਿਰੁੱਧ ਵਾਧਾ ਕੀਤੀ ਸੁਰੱਖਿਆ ਲਵੋ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1040
+#: src/olympia/discovery/strings.jinja2:1043
 msgid "Remove formatting from copied Clipboard text."
 msgstr "ਕਾਪੀ ਕੀਤੀ ਕਲਿੱਪਬੋਰਡ ਲਿਖਤ ਵਿੱਚੋਂ ਫਾਰਮੈਟ ਨੂੰ ਹਟਾਓ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1043
+#: src/olympia/discovery/strings.jinja2:1046
 msgid "Fingerprinting privacy protection."
 msgstr "ਫਿੰਫਿੰਗਰ-ਪਰਿੰਟਿੰਗ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ।"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1046
+#: src/olympia/discovery/strings.jinja2:1049
 msgid "Enhance your gaming experience on Steam."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1049
+#: src/olympia/discovery/strings.jinja2:1052
 msgid "Thumbs-up to bringing back thumbs-down."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1052
+#: src/olympia/discovery/strings.jinja2:1055
 msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1055
+#: src/olympia/discovery/strings.jinja2:1058
 msgid "Block time-wasting websites. Block them completely or just during time frames of your choosing."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1058
+#: src/olympia/discovery/strings.jinja2:1061
 msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1061
+#: src/olympia/discovery/strings.jinja2:1064
 msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1064
+#: src/olympia/discovery/strings.jinja2:1067
 msgid "Automatically handle GDPR consent forms."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1067
+#: src/olympia/discovery/strings.jinja2:1070
 msgid "Block malicious websites from port scanning."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1070
+#: src/olympia/discovery/strings.jinja2:1073
 msgid "Enhance your Twitch experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1073
+#: src/olympia/discovery/strings.jinja2:1076
 msgid "Re-take control of Twitter/X and customize your experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1076
+#: src/olympia/discovery/strings.jinja2:1079
 msgid "Translate text without leaving the page you're on (PDF compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1079
+#: src/olympia/discovery/strings.jinja2:1082
 msgid "Change the color of Firefox to match every website you visit."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1082
+#: src/olympia/discovery/strings.jinja2:1085
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1085
+#: src/olympia/discovery/strings.jinja2:1088
 msgid "Pack a powerful thesaurus right inside Firefox."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1088
+#: src/olympia/discovery/strings.jinja2:1091
 msgid "Hover over web images to enlarge their appearance."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1091
+#: src/olympia/discovery/strings.jinja2:1094
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1094
+#: src/olympia/discovery/strings.jinja2:1097
 msgid "Track the time you spend on every website you visit."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1097
+#: src/olympia/discovery/strings.jinja2:1100
 msgid "Manage your Gmail (even multiple accounts) right from a handy pop-up accessible from the Firefox toolbar."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1100
+#: src/olympia/discovery/strings.jinja2:1103
 msgid "De-clutter YouTube. Strip away unwanted elements like related videos, shorts & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1103
+#: src/olympia/discovery/strings.jinja2:1106
 msgid "Leave yourself little notes on any web page."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1106
+#: src/olympia/discovery/strings.jinja2:1109
 msgid "Serenity for your Reddit experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1109
+#: src/olympia/discovery/strings.jinja2:1112
 msgid "Save and organize anything you find on the web."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1112
+#: src/olympia/discovery/strings.jinja2:1115
 msgid "WebM video controls at your fingertips."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1115
+#: src/olympia/discovery/strings.jinja2:1118
 msgid "Disguise Firefox as the Chrome browser to spoof websites that try to block Firefox."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1118
+#: src/olympia/discovery/strings.jinja2:1121
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1121
+#: src/olympia/discovery/strings.jinja2:1124
 msgid "Extensions are like apps for Firefox."
 msgstr "ਇਕਸਟੈਸ਼ਨਾਂ Firefox ਲਈ ਐਪਾਂ ਵਰਗੀਆਂ ਹਨ।"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1123
+#: src/olympia/discovery/strings.jinja2:1126
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr "ਇਹ Firefox ਵਿੱਚ ਫ਼ੀਚਰ ਜੋੜਦੇ ਹਨ, ਜੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਹੋਰ ਵੱਧ ਤੇਜ਼, ਵੱਧ ਸੁਰੱਖਿਅਤ ਜਾਂ ਸਿਰਫ਼ ਆਨੰਦ ਬਣਾਓ।"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1125
+#: src/olympia/discovery/strings.jinja2:1128
 msgid "See all extensions"
 msgstr "ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਵੇਖੋ"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1127
-msgid "Extension Starter Pack"
+#. editorial content for the homepage shelves.
+#: src/olympia/discovery/strings.jinja2:1130 src/olympia/discovery/strings.jinja2:1198
+msgid "YouTube customization"
+msgstr "ਯੂਟਿਊਬ ਕਸਟਮਾਈਜ਼ ਕਰਨ"
+
+#. editorial content for the secondary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1134
+msgid "Reddit extensions"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1131
-msgid "Productivity extensions"
-msgstr ""
-
-#. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1133 src/olympia/discovery/strings.jinja2:1135 src/olympia/discovery/strings.jinja2:1137
+#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
 msgid "See staff picks"
 msgstr "ਸਟਾਫ਼ ਦੀਆਂ ਚੋਣਾਂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1143
 msgid "Recommended extensions"
 msgstr "ਸਿਫਾਰਸ਼ੀ ਇਕਸਟੈਨਸ਼ਨਾਂ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1142
+#: src/olympia/discovery/strings.jinja2:1145
 msgid "See more recommended extensions"
 msgstr "ਹੋਰ ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1145
+#: src/olympia/discovery/strings.jinja2:1148
 msgid "Popular themes"
 msgstr "ਹਰਮਨਪਿਆਰੇ ਥੀਮ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1147
+#: src/olympia/discovery/strings.jinja2:1150
 msgid "See more popular themes"
 msgstr "ਵਧੇਰੇ ਪ੍ਰਸਿੱਧ ਥੀਮ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1150
+#: src/olympia/discovery/strings.jinja2:1153
 msgid "Privacy & security"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1152
+#: src/olympia/discovery/strings.jinja2:1155
 msgid "See more privacy staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1155
+#: src/olympia/discovery/strings.jinja2:1158
 msgid "Popular extensions"
 msgstr "ਹਰਮਨਪਿਆਰੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1157
+#: src/olympia/discovery/strings.jinja2:1160
 msgid "See more popular extensions"
 msgstr "ਹੋਰ ਹਰਮਨਪਿਆਰੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1160
+#: src/olympia/discovery/strings.jinja2:1163
 msgid "Recommended themes"
 msgstr "ਸਿਫਾਰਸ਼ੀ ਥੀਮ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1162
+#: src/olympia/discovery/strings.jinja2:1165
 msgid "See more recommended themes"
 msgstr "ਹੋਰ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਥੀਮ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1165
+#: src/olympia/discovery/strings.jinja2:1168
 msgid "Strong password managers"
 msgstr "ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਮੈਨੇਜਰ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1167
+#: src/olympia/discovery/strings.jinja2:1170
 msgid "See more password manager staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਪਾਸਵਰਡ ਮੈਨੇਜਰਾਂ ਨੂੰ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1170
+#: src/olympia/discovery/strings.jinja2:1173
 msgid "Translation tools"
 msgstr "ਉਲੱਥਾ ਟੂਲ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1172
+#: src/olympia/discovery/strings.jinja2:1175
 msgid "See more translation tool staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਉਲੱਥਾ ਟੂਲ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1175
+#: src/olympia/discovery/strings.jinja2:1178
 msgid "Social streaming"
 msgstr "ਸਮਾਜਿਕ ਸਟਰੀਮਿੰਗ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1177
+#: src/olympia/discovery/strings.jinja2:1180
 msgid "See more social streaming staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਸ਼ੋਸ਼ਲ ਸਟਰੀਮਿੰਗ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1180
+#: src/olympia/discovery/strings.jinja2:1183
 msgid "Tab managers"
 msgstr "ਟੈਬ ਮੈਨੇਜਰ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1182
+#: src/olympia/discovery/strings.jinja2:1185
 msgid "See more tab management staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਟੈਬ ਇੰਤਜ਼ਾਮ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1185
+#: src/olympia/discovery/strings.jinja2:1188
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr "“{tag}” ਟੈਗ  ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1187
+#: src/olympia/discovery/strings.jinja2:1190
 #, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "\"{tag}\" ਟੈਗ ਵਾਲੀਆਂ ਹੋਰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1190
+#: src/olympia/discovery/strings.jinja2:1193
 msgid "Elite ad blockers"
 msgstr "ਬੇਹਤਰੀਨ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1192
+#: src/olympia/discovery/strings.jinja2:1195
 msgid "See more ad blocker staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1195
-msgid "YouTube customization"
-msgstr "ਯੂਟਿਊਬ ਕਸਟਮਾਈਜ਼ ਕਰਨ"
-
-#. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1197
+#: src/olympia/discovery/strings.jinja2:1200
 msgid "See more YouTube extension staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਯੂਟਿਊਬ ਇਕਸਟੈਨਸ਼ਨਾਂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1200
+#: src/olympia/discovery/strings.jinja2:1203
 msgid "Trending themes"
 msgstr "ਰੁਝਾਨ ਵਾਲੇ ਥੀਮ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1202
+#: src/olympia/discovery/strings.jinja2:1205
 msgid "See more trending themes"
 msgstr "ਹੋਰ ਰੁਝਾਨ ਵਾਲੇ ਥੀਮ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1205 src/olympia/discovery/strings.jinja2:1250
+#: src/olympia/discovery/strings.jinja2:1208 src/olympia/discovery/strings.jinja2:1253
 msgid "Top rated themes"
 msgstr "ਚੋਟੀ ਦੇ ਰੇਟ ਕੀਤੇ ਥੀਮ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1207 src/olympia/discovery/strings.jinja2:1252
+#: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
 msgid "See more top rated themes"
 msgstr "ਹੋਰ ਚੋਟੀ ਦੇ ਰੇਟ ਕੀਤੇ ਥੀਮ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1210
+#: src/olympia/discovery/strings.jinja2:1213
 msgid "Trending extensions"
 msgstr "ਰੁਝਾਨ ਵਾਲੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1212
+#: src/olympia/discovery/strings.jinja2:1215
 msgid "See more trending extensions"
 msgstr "ਹੋਰ ਰੁਝਾਨ ਵਾਲੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1215
+#: src/olympia/discovery/strings.jinja2:1218
 msgid "Steam enhancers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1217
+#: src/olympia/discovery/strings.jinja2:1220
 #, fuzzy
 msgid "See more Steam staff picks"
 msgstr "ਸਾਰੇ ਐਕਸਟੈਂਸ਼ਨਾਂ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1220
+#: src/olympia/discovery/strings.jinja2:1223
 #, fuzzy
 msgid "Creativity extensions"
 msgstr "ਸਿਫਾਰਸ਼ੀ ({0})"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1222
+#: src/olympia/discovery/strings.jinja2:1225
 #, fuzzy
 msgid "See more creativity staff picks"
 msgstr "ਐਡ-ਆਨ ਨਾਂ ਉਲੱਥੇ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1225
+#: src/olympia/discovery/strings.jinja2:1228
 msgid "Social media extensions"
 msgstr "ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਇਕਸਟੈਨਸ਼ਨ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1227
+#: src/olympia/discovery/strings.jinja2:1230
 msgid "See more social media staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1230
+#: src/olympia/discovery/strings.jinja2:1233
 msgid "Top download managers"
 msgstr "ਸਿਖਰਲੇ ਡਾਊਨਲੋਡ ਮੈਨੇਜਰ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1232
+#: src/olympia/discovery/strings.jinja2:1235
 msgid "See more download manager staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਡਾਊਨਲੋਡ ਮੈਨੇਜਰਾਂ ਨੂੰ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1235
+#: src/olympia/discovery/strings.jinja2:1238
 msgid "Accessibility extensions"
 msgstr "ਅਸੈਸਬਿਲਟੀ ਇਕਸਟੈਨਸ਼ਨ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1237
+#: src/olympia/discovery/strings.jinja2:1240
 msgid "See more accessibility staff picks"
 msgstr "ਸਟਾਫ਼ ਵਲੋਂ ਚੁਣੇ ਹੋਰ ਅਸੈਸਬਿਲਟੀ ਵੇਖੋ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1240
+#: src/olympia/discovery/strings.jinja2:1243
 msgid "Extension starter pack"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1242
+#: src/olympia/discovery/strings.jinja2:1245
 msgid "See more starter extension staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1245
+#: src/olympia/discovery/strings.jinja2:1248
 msgid "Twitch extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1247
+#: src/olympia/discovery/strings.jinja2:1250
 msgid "See more Twitch extension staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1255
+#: src/olympia/discovery/strings.jinja2:1258
 msgid "Gaming & media extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1257
+#: src/olympia/discovery/strings.jinja2:1260
 msgid "See more staff picks"
 msgstr ""
 
@@ -7126,11 +7109,11 @@ msgstr ""
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
-"ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ Firefox ਐਡ-ਆਨ ਵੰਡ ਪ੍ਰਣਾਲੀ ਦੇ ਨਾਲ ਸਾਡੀ ਸਮੀਖਿਆ ਦੀਆਂ ਨੀਤੀਆਂ ਅਤੇ ਨਿਯਮਾਂ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। Firefox ਐਡ-ਆਨ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਇਕਰਾਰਨਾਮਾ ਵੀ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ "
-"ਜੁੜਦਾ ਹੈ, ਜੋ ਦੱਸਦੀ ਹੈ ਕਿ ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਚਲਾਉਂਦੇ ਹਾਂ।"
+"ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ Firefox ਐਡ-ਆਨ ਵੰਡ ਪ੍ਰਣਾਲੀ ਦੇ ਨਾਲ ਸਾਡੀ ਸਮੀਖਿਆ ਦੀਆਂ ਨੀਤੀਆਂ ਅਤੇ ਨਿਯਮਾਂ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। Firefox ਐਡ-ਆਨ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਇਕਰਾਰਨਾਮਾ ਵੀ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ ਜੁੜਦਾ ਹੈ, ਜੋ ਦੱਸਦੀ ਹੈ ਕਿ ਅਸੀਂ "
+"ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਚਲਾਉਂਦੇ ਹਾਂ।"
 
 #: src/olympia/users/models.py:1377
 #, python-brace-format
@@ -7238,7 +7221,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"

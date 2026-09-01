@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-01 15:13+0000\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -34,11 +36,11 @@ msgstr "Λόγος ένστασης"
 msgid "Please explain why you believe that this decision was made in error, and/or does not align with the applicable policy or law."
 msgstr "Εξηγήστε γιατί πιστεύετε ότι αυτή η απόφαση λήφθηκε κατά λάθος ή/και γιατί δεν συμμορφώνεται με την ισχύουσα πολιτική ή νομοθεσία."
 
-#: src/olympia/abuse/models.py:1125
+#: src/olympia/abuse/models.py:1132
 msgid "User profile"
 msgstr "Προφίλ χρήστη"
 
-#: src/olympia/abuse/models.py:1565
+#: src/olympia/abuse/models.py:1582
 #, python-brace-format
 msgid "\"{}\" for {}"
 msgstr "«{}» για {}"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -114,7 +117,8 @@ msgstr ""
 "\n"
 "Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για τον χρόνο που αφιερώσατε για να μας εξηγήσετε αναλυτικότερα τις ανησυχίες σας.\n"
 "\n"
-"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν ορθή. Ως εκ τούτου, δεν θα προβούμε σε καμία ενέργεια κατά του λογαριασμού ή του περιεχομένου.\n"
+"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla "
+"(%(policy_document_url)s), ήταν ορθή. Ως εκ τούτου, δεν θα προβούμε σε καμία ενέργεια κατά του λογαριασμού ή του περιεχομένου.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Σας ευχαριστούμε και πάλι που μας βοηθάτε να διατηρούμε τα Πρόσθετα Mozilla ασφαλή.\n"
@@ -125,12 +129,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για τον χρόνο που αφιερώσατε για να μας εξηγήσετε αναλυτικότερα τις ανησυχίες σας.\n"
 "\n"
-"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε πλέον αφαιρέσει το περιεχόμενο και ειδοποιήσει τον χρήστη. Σας ευχαριστούμε που μας βοηθήσατε να λάβουμε τη σωστή απόφαση.\n"
+"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla "
+"(%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε πλέον αφαιρέσει το περιεχόμενο και ειδοποιήσει τον χρήστη. Σας ευχαριστούμε που μας βοηθήσατε να λάβουμε τη σωστή απόφαση.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -138,12 +144,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για την παροχή περισσότερων πληροφοριών σχετικά με τις ανησυχίες σας.\n"
 "\n"
-"Αφού εξετάσαμε την ένστασή σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν ενημερώσει το περιεχόμενό του, θα το αφαιρέσουμε.\n"
+"Αφού εξετάσαμε την ένστασή σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν "
+"εσφαλμένη. Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν ενημερώσει το περιεχόμενό του, θα το αφαιρέσουμε.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -151,21 +159,23 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το %(name)s, στη διεύθυνση %(target_url)s.\n"
 "\n"
-"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), επομένως δεν θα εφαρμοστεί καμία ενέργεια συντονισμού. Ωστόσο, εκτιμούμε το γεγονός ότι μας το επισημάνατε.\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), επομένως δεν θα εφαρμοστεί καμία ενέργεια "
+"συντονισμού. Ωστόσο, εκτιμούμε το γεγονός ότι μας το επισημάνατε.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
-"Εάν θεωρείτε ότι το περιεχόμενο δεν συμμορφώνεται με τις πολιτικές της Mozilla, έχετε το δικαίωμα να ασκήσετε ένσταση για αυτήν την απόφαση εντός 6 μηνών από την ημερομηνία λήψης του παρόντος email."
-" Δείτε το %(appeal_url)s για λεπτομέρειες σχετικά με τη διαδικασία ένστασης, καθώς και τον τρόπο υποβολής ένστασης για τη συγκεκριμένη απόφαση."
+"Εάν θεωρείτε ότι το περιεχόμενο δεν συμμορφώνεται με τις πολιτικές της Mozilla, έχετε το δικαίωμα να ασκήσετε ένσταση για αυτήν την απόφαση εντός 6 μηνών από την ημερομηνία λήψης του παρόντος "
+"email. Δείτε το %(appeal_url)s για λεπτομέρειες σχετικά με τη διαδικασία ένστασης, καθώς και τον τρόπο υποβολής ένστασης για τη συγκεκριμένη απόφαση."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -173,12 +183,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το ακόλουθο πρόσθετο στα Πρόσθετα Mozilla: %(name)s.\n"
 "\n"
-"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Ως εκ τούτου, έχουμε αφαιρέσει το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Ως εκ τούτου, έχουμε αφαιρέσει το περιεχόμενο. "
+"Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -186,12 +198,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το ακόλουθο πρόσθετο στα Πρόσθετα Mozilla: %(name)s.\n"
 "\n"
-"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν επιλύσει το ζήτημα, θα αφαιρέσουμε το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Έχουμε ζητήσει από τον προγραμματιστή να προβεί "
+"σε αλλαγές και, αν δεν επιλύσει το ζήτημα, θα αφαιρέσουμε το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -521,12 +535,12 @@ msgid "Manage My Submissions"
 msgstr "Διαχείριση των υποβολών μου"
 
 #: src/olympia/amo/context_processors.py:65 src/olympia/devhub/templates/devhub/addons/dashboard.html:24 src/olympia/devhub/templates/devhub/addons/submit/base.html:8
-#: src/olympia/devhub/templates/devhub/nav.html:28 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:97
+#: src/olympia/devhub/templates/devhub/nav.html:28 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:113
 msgid "Submit a New Add-on"
 msgstr "Υποβολή νέου προσθέτου"
 
 #: src/olympia/amo/context_processors.py:71 src/olympia/devhub/templates/devhub/addons/dashboard.html:28 src/olympia/devhub/templates/devhub/addons/submit/base.html:6
-#: src/olympia/devhub/templates/devhub/nav.html:30 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:98
+#: src/olympia/devhub/templates/devhub/nav.html:30 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:114
 msgid "Submit a New Theme"
 msgstr "Υποβολή νέου θέματος"
 
@@ -1532,8 +1546,8 @@ msgstr "Διαχείριση λήψεων"
 #: src/olympia/constants/categories.py:99
 msgid "Download Firefox extensions that can help download web, music and video content. You can also find extensions to manage downloads, share files, and more."
 msgstr ""
-"Κάντε λήψη επεκτάσεων του Firefox που μπορούν να σας βοηθήσουν να κάνετε λήψη περιεχομένου ιστού, μουσικής και βίντεο. Μπορείτε επίσης να βρείτε επεκτάσεις για διαχείριση λήψεων, κοινή χρήση αρχείων"
-" και πολλά άλλα."
+"Κάντε λήψη επεκτάσεων του Firefox που μπορούν να σας βοηθήσουν να κάνετε λήψη περιεχομένου ιστού, μουσικής και βίντεο. Μπορείτε επίσης να βρείτε επεκτάσεις για διαχείριση λήψεων, κοινή χρήση "
+"αρχείων και πολλά άλλα."
 
 #: src/olympia/constants/categories.py:106
 msgid "Feeds, News & Blogging"
@@ -1572,7 +1586,7 @@ msgstr ""
 "εικόνων και πολλά άλλα."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1129
+#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1132
 msgid "Privacy & Security"
 msgstr "Απόρρητο και ασφάλεια"
 
@@ -2068,8 +2082,8 @@ msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
-"Ένα εταιρικό πρόσθετο. <span class=\"helptext\">Αφού υπογραφεί το αίτημά σας από τη Mozilla, μπορείτε να κάνετε λήψη του αρχείου .xpi από το Κέντρο Προγραμματιστών και να το διανείμετε στο κοινό σας"
-" μέσω της πολιτικής του Firefox για επιχειρήσεις.</span>"
+"Ένα εταιρικό πρόσθετο. <span class=\"helptext\">Αφού υπογραφεί το αίτημά σας από τη Mozilla, μπορείτε να κάνετε λήψη του αρχείου .xpi από το Κέντρο Προγραμματιστών και να το διανείμετε στο κοινό "
+"σας μέσω της πολιτικής του Firefox για επιχειρήσεις.</span>"
 
 #: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
@@ -2164,15 +2178,15 @@ msgstr "Περιγράψτε το ζήτημα"
 msgid "Invalid or corrupt add-on file."
 msgstr "Άκυρο ή κατεστραμμένο αρχείο προσθέτου."
 
-#: src/olympia/devhub/tasks.py:379
+#: src/olympia/devhub/tasks.py:381
 msgid "Your developer API key was found in the submitted file. To protect your account, the key will be revoked."
 msgstr "Το κλειδί API προγραμματιστή σας βρέθηκε στο υποβεβλημένο αρχείο. Για την προστασία του λογαριασμού σας, το κλειδί θα ανακληθεί."
 
-#: src/olympia/devhub/tasks.py:386
+#: src/olympia/devhub/tasks.py:388
 msgid "The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked."
 msgstr "Το κλειδί API προγραμματιστή του συνδημιουργού βρέθηκε στο υποβεβλημένο αρχείο. Για να προστατεύσετε το πρόσθετό σας, το κλειδί θα ανακληθεί."
 
-#: src/olympia/devhub/tasks.py:691
+#: src/olympia/devhub/tasks.py:693
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Σημείωση ασφαλείας της Mozilla: Τα διαπιστευτήρια του AMO API σας έχουν ανακληθεί"
 
@@ -2541,11 +2555,11 @@ msgstr "Λάβετε υποστήριξη για επεκτάσεις και θ�
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
-"Χρησιμοποιήστε αυτήν τη φόρμα για υποστήριξη που σχετίζεται με τον λογαριασμό σας, ζητήματα συμμόρφωσης με τις πολιτικές και άλλα. Όσο περισσότερες λεπτομέρειες μοιραστείτε, τόσο πιο εύκολο θα είναι"
-" να σας βοηθήσουμε. Για απορίες σχετικά με τις κριτικές για τα πρόσθετά σας, ανατρέξτε στο ιστορικό εκδόσεων των προσθέτων σας. Θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατό."
+"Χρησιμοποιήστε αυτήν τη φόρμα για υποστήριξη που σχετίζεται με τον λογαριασμό σας, ζητήματα συμμόρφωσης με τις πολιτικές και άλλα. Όσο περισσότερες λεπτομέρειες μοιραστείτε, τόσο πιο εύκολο θα "
+"είναι να σας βοηθήσουμε. Για απορίες σχετικά με τις κριτικές για τα πρόσθετά σας, ανατρέξτε στο ιστορικό εκδόσεων των προσθέτων σας. Θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατό."
 
 #: src/olympia/devhub/templates/devhub/support.html:17
 msgid "Send request"
@@ -2811,8 +2825,8 @@ msgid ""
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
 "<p>Τα πρόσθετα μπορούν να έχουν οποιονδήποτε αριθμό δημιουργών με 2 πιθανούς ρόλους:</p> <ul> <li><b>Ιδιοκτήτης:</b> Μπορεί να διαχειριστεί κάθε πτυχή της καταχώρισης του προσθέτου, όπως την "
-"προσθήκη και αφαίρεση άλλων δημιουργών</li> <li><b>Προγραμματιστής:</b> Μπορεί να διαχειριστεί κάθε πτυχή της καταχώρισης του προσθέτου, εκτός από την προσθήκη και αφαίρεση άλλων δημιουργών</li> "
-"</ul>"
+"προσθήκη και αφαίρεση άλλων δημιουργών</li> <li><b>Προγραμματιστής:</b> Μπορεί να διαχειριστεί κάθε πτυχή της καταχώρισης του προσθέτου, εκτός από την προσθήκη και αφαίρεση άλλων δημιουργών</li> </"
+"ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -3011,11 +3025,11 @@ msgstr "Email"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
-"Εάν θέλετε να γίνεται προβολή ενός email για απορίες υποστήριξης, εισαγάγετέ το εδώ. Αν έχετε διαφορετικές διευθύνσεις για κάθε γλώσσα, μπορείτε να προσθέσετε πολλαπλές μεταφράσεις αυτού του πεδίου."
-" Αυτό ισχύει μόνο για τα καταχωρισμένα πρόσθετα."
+"Εάν θέλετε να γίνεται προβολή ενός email για απορίες υποστήριξης, εισαγάγετέ το εδώ. Αν έχετε διαφορετικές διευθύνσεις για κάθε γλώσσα, μπορείτε να προσθέσετε πολλαπλές μεταφράσεις αυτού του "
+"πεδίου. Αυτό ισχύει μόνο για τα καταχωρισμένα πρόσθετα."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -3073,8 +3087,8 @@ msgstr "Πίνακας"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Ο λευκός πίνακας παρέχει πληροφορίες σχετικά με το πρόσθετό σας, για οποιαδήποτε έκδοση, στους ελεγκτές. Χρησιμοποιήστε τον για να παρέχετε τρόπους δοκιμής του προσθέτου, καθώς και τυχόν "
 "επιπρόσθετες πληροφορίες που ενδέχεται να φανούν χρήσιμες. Αυτός ο λευκός πίνακας μπορεί να επεξεργαστεί και από τους ελεγκτές."
@@ -3777,8 +3791,8 @@ msgstr "Πίσω"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Για να εκτελέσετε πιστοποιημένες κλήσεις έναντι του <a %(a_attrs)s href=\"%(docs_url)s\">API</a> ως εξωτερικού πελάτη, θα πρέπει να συμπεριλάβετε ένα <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web "
 "Token (JWT)</a> στην κεφαλίδα <code>Authorization</code> για κάθε αίτημα."
@@ -3819,7 +3833,8 @@ msgid ""
 msgstr ""
 "Γεια σας,\n"
 "\n"
-"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε νέα κλειδιά API προγραμματιστή για το %(domain)s. Για να ολοκληρώσετε τη ρύθμισή τους, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε νέα κλειδιά API προγραμματιστή για το %(domain)s. Για να ολοκληρώσετε τη ρύθμισή τους, κάντε απλώς "
+"κλικ στον παρακάτω σύνδεσμο:\n"
 "\n"
 "%(api_key_confirmation_link)s\n"
 "\n"
@@ -3899,20 +3914,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Αγαπητέ προγραμματιστή προσθέτων,\n"
 "\n"
-"Θέλαμε να σας ενημερώσουμε άμεσα: διαπιστώσαμε ότι τα απόρρητα διαπιστευτήριά σας για το AMO API περιλαμβάνονταν σε ένα πρόσθετο που υποβλήθηκε στο addons.mozilla.org. Για την προστασία του λογαριασμού και των προσθέτων σας, ανακαλέσαμε ήδη τα επηρεασμένα διαπιστευτήρια. Δεν κάνατε κάτι λάθος, αυτό συμβαίνει μερικές φορές και είμαστε εδώ για να σας βοηθήσουμε να επανέλθετε.\n"
+"Θέλαμε να σας ενημερώσουμε άμεσα: διαπιστώσαμε ότι τα απόρρητα διαπιστευτήριά σας για το AMO API περιλαμβάνονταν σε ένα πρόσθετο που υποβλήθηκε στο addons.mozilla.org. Για την προστασία του "
+"λογαριασμού και των προσθέτων σας, ανακαλέσαμε ήδη τα επηρεασμένα διαπιστευτήρια. Δεν κάνατε κάτι λάθος, αυτό συμβαίνει μερικές φορές και είμαστε εδώ για να σας βοηθήσουμε να επανέλθετε.\n"
 "Μπορείτε να δημιουργήσετε νέα διαπιστευτήρια API ανά πάσα στιγμή στη διεύθυνση %(api_keys_url)s\n"
 "\n"
-"Για να διατηρήσετε ασφαλή τα διαπιστευτήριά σας από εδώ και στο εξής, είναι προτιμότερο να παραμένουν απόρρητα και να μην τα συμπεριλαμβάνετε σε δημόσια αποθετήρια, πρόσθετα ή άλλα δημόσια μέρη. Όποτε ευκαιρήσετε, καλό είναι να ελέγξετε τα αποθετήρια κώδικα και τις επεκτάσεις σας για να αφαιρέσετε τυχόν αναφορές στα διαπιστευτήριά σας για το AMO.\n"
+"Για να διατηρήσετε ασφαλή τα διαπιστευτήριά σας από εδώ και στο εξής, είναι προτιμότερο να παραμένουν απόρρητα και να μην τα συμπεριλαμβάνετε σε δημόσια αποθετήρια, πρόσθετα ή άλλα δημόσια μέρη. "
+"Όποτε ευκαιρήσετε, καλό είναι να ελέγξετε τα αποθετήρια κώδικα και τις επεκτάσεις σας για να αφαιρέσετε τυχόν αναφορές στα διαπιστευτήριά σας για το AMO.\n"
 "\n"
 "Ευχαριστούμε,\n"
 "Η ομάδα των Προσθέτων Mozilla"
@@ -3949,7 +3968,8 @@ msgid ""
 msgstr ""
 "Γεια σας,\n"
 "\n"
-"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε την επαλήθευση της διεύθυνσης email σας. Για να ολοκληρώσετε τη διαδικασία, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε την επαλήθευση της διεύθυνσης email σας. Για να ολοκληρώσετε τη διαδικασία, κάντε απλώς κλικ στον "
+"παρακάτω σύνδεσμο:\n"
 "\n"
 "%(confirmation_link)s\n"
 "\n"
@@ -3990,12 +4010,12 @@ msgstr ""
 "αποδεκτές σε αυτήν την κατάσταση."
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:42 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:85
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:42 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:101
 msgid "Created:"
 msgstr "Δημιουργήθηκε:"
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:48 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:81
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:48 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:97
 msgid "Last Updated:"
 msgstr "Τελευταία ενημέρωση:"
 
@@ -4033,7 +4053,8 @@ msgstr "Τελευταία έκδοση:"
 msgid "This is the newest uploaded unlisted version"
 msgstr "Αυτή είναι η νεότερη μεταφορτωμένη έκδοση που δεν έχει καταχωριστεί"
 
-#: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/versions/list.html:32
+#: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:82
+#: src/olympia/devhub/templates/devhub/versions/list.html:32
 msgid "Signed for enterprise."
 msgstr "Εγκρίθηκε για επιχειρήσεις."
 
@@ -4075,8 +4096,8 @@ msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
-"Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, τις πολιτικές και τους κανόνες αξιολόγησης, καθώς και τις <a %(a_attrs)s href=\"%(faq_url)s\">συχνές "
-"ερωτήσεις</a>. Η Συμφωνία διανομής προσθέτων του Firefox συνδέεται επίσης με τη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
+"Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, τις πολιτικές και τους κανόνες αξιολόγησης, καθώς και τις <a %(a_attrs)s href=\"%(faq_url)s\">συχνές ερωτήσεις</"
+"a>. Η Συμφωνία διανομής προσθέτων του Firefox συνδέεται επίσης με τη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -4105,12 +4126,11 @@ msgstr "Συμβατότητα με το Firefox για Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Δοκιμάσατε την επέκτασή σας για να εξασφαλίσετε ότι λειτουργεί όπως πρέπει στο Firefox για Android; Αν όχι, διαβάστε το <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> για οδηγίες σχετικά με τις δοκιμές, προτού "
-"κάνετε υποβολή."
+"Δοκιμάσατε την επέκτασή σας για να εξασφαλίσετε ότι λειτουργεί όπως πρέπει στο Firefox για Android; Αν όχι, διαβάστε το <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> για οδηγίες σχετικά με τις δοκιμές, προτού κάνετε υποβολή."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4393,21 +4413,21 @@ msgid "Listed on this site after passing code review. Automatic updates are hand
 msgstr "Καταχωρίζεται σε αυτόν τον ιστότοπο μετά τον επιτυχή έλεγχο του κώδικα. Η διαχείριση των αυτόματων ενημερώσεων πραγματοποιείται από αυτόν τον ιστότοπο."
 
 #. {0} is a date. dennis-ignore: E201,E202,W202
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:95
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:111
 msgid "View All Submissions"
 msgstr "Προβολή όλων των υποβολών"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:103
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:119
 msgid "This is where you view and manage your add-ons and themes. To publish your first add-on, click \"Submit Your First Add-on\" or \"Submit Your First Theme\"."
 msgstr ""
 "Εδώ μπορείτε να δείτε και να διαχειριστείτε τα πρόσθετα και τα θέματά σας. Για να δημοσιεύσετε το πρώτο σας πρόσθετο, κάντε κλικ στο «Υποβολή του πρώτου σας προσθέτου» ή στο «Υποβολή του πρώτου σας "
 "θέματος»."
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:109
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:125
 msgid "Submit Your First Add-on"
 msgstr "Υποβολή του πρώτου σας προσθέτου"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:110
+#: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:126
 msgid "Submit Your First Theme"
 msgstr "Υποβολή του πρώτου σας θέματος"
 
@@ -4710,55 +4730,55 @@ msgstr[1] "{0} προειδοποιήσεις"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:800
+#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:803
 msgid "Block invisible trackers and spying ads that follow you around the web."
 msgstr "Φραγή αόρατων ιχνηλατών και κατασκοπευτικών διαφημίσεων που σας ακολουθούν στο διαδίκτυο."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:893
+#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:896
 msgid "Enjoy a beautiful new page with customizable backgrounds, local weather info, and more."
 msgstr "Απολαύστε μια όμορφη νέα σελίδα με προσαρμόσιμα φόντα, πληροφορίες τοπικού καιρού και πολλά άλλα."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:803
+#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:806
 msgid "Highlight any text, right-click, and translate instantly."
 msgstr "Επισημάνετε οποιοδήποτε κείμενο, κάντε δεξί κλικ και δείτε άμεσα τη μετάφραση."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:887
+#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:890
 msgid "Perform reverse image searches from an array of engines."
 msgstr "Εκτελέστε αντίστροφες αναζητήσεις εικόνων από μια σειρά μηχανών."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:848
+#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:851
 msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr "Φραγή διαφημίσεων και προστασία απορρήτου. Μια απλή ρύθμιση σάς επιτρέπει να ελέγξετε τις διαφημίσεις που βλέπετε και το πώς καταγράφεστε στο διαδίκτυο."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:851
+#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:854
 msgid "Do you have a ton of open tabs? Organize them in a tidy sidebar."
 msgstr "Έχετε πολλές ανοικτές καρτέλες; Οργανώστε τις σε μια τακτοποιημένη πλευρική γραμμή."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:836
+#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:839
 msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr "Αποτρέψτε την καταγραφή του Facebook. Απομονώστε την ταυτότητά σας στο Facebook σε έναν ξεχωριστό χώρο, εμποδίζοντας το Facebook από το να καταγράψει τη διαδικτυακή δραστηριότητά σας."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:890
+#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:893
 msgid "Simplify search by highlighting text on any web page to search the phrase from an array of engines."
 msgstr "Απλοποιήστε τις αναζητήσεις κάνοντας απλά επισήμανση κειμένου σε οποιαδήποτε ιστοσελίδα για αναζήτηση της φράσης από μια σειρά μηχανών."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:827
+#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:830
 msgid "Instant weather updates from around the world."
 msgstr "Άμεσες ενημερώσεις καιρού από όλο τον κόσμο."
 
@@ -4769,13 +4789,13 @@ msgstr "Επιλέξτε τη σελίδα που θα βλέπετε όταν �
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:806
+#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:809
 msgid "See an interesting picture on the web and want to learn more about it? Try this image search tool."
 msgstr "Βλέπετε μια ενδιαφέρουσα εικόνα στο διαδίκτυο και θέλετε να μάθετε περισσότερα σχετικά με αυτή; Δοκιμάστε αυτό το εργαλείο αναζήτησης εικόνων."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:809
+#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:812
 msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, and hundreds of other video sites."
 msgstr "Κάντε λήψη βίντεο με άνεση. Λειτουργεί με YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope και εκατοντάδες άλλους ιστοτόπους βίντεο."
 
@@ -4791,7 +4811,7 @@ msgstr "Απλοποιημένη διαχείριση κωδικών πρόσβ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:815
+#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:818
 msgid "Effective, lightweight ad blocker. uBlock Origin enforces thousands of content filters without chewing up a bunch of memory."
 msgstr "Ελαφρύ και αποτελεσματικό πρόσθετο φραγής διαφημίσεων. Το uBlock Origin εξαναγκάζει χιλιάδες φίλτρα περιεχομένου χωρίς να καταναλώνει υπερβολική μνήμη."
 
@@ -4837,13 +4857,13 @@ msgstr "Σταματήστε τη χρήση ισχύος του υπολογι�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:749
+#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:752
 msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr "Λάβετε βοήθεια οπουδήποτε γράφετε στο διαδίκτυο: μέσα κοινωνικής δικτύωσης, email, έγγραφα και άλλα."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:833
+#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:836
 msgid "Display current worldwide times in Firefox's status bar."
 msgstr "Εμφάνιση παγκόσμιας ώρας στη γραμμή κατάστασης του Firefox."
 
@@ -4864,7 +4884,7 @@ msgstr "Προσαρμογή κινήσεων ποντικιού. Ανακαλύ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:944
+#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:947
 msgid "Darken the page around video players for a focused viewing experience."
 msgstr "Κάντε σκοτεινή τη σελίδα γύρω από τα βίντεο για μια εστιασμένη εμπειρία προβολής."
 
@@ -4881,13 +4901,13 @@ msgstr "Δεν είναι διαθέσιμη η σελίδα που ψάχνετ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:812
+#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:815
 msgid "Hover over an image to magnify it."
 msgstr "Μετακινήστε τον κέρσορα πάνω σε μια εικόνα για μεγέθυνση."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:884
+#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:887
 msgid "Automatically erase cookies after you close a tab."
 msgstr "Αυτόματη διαγραφή cookie αφού κλείσετε μια καρτέλα."
 
@@ -4898,25 +4918,25 @@ msgstr "Ένας απλός τρόπος για να προσαρμόσετε τ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:845
+#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:848
 msgid "Stop trackers in their tracks and learn more about them."
 msgstr "Σταματήστε τους ιχνηλάτες και μάθετε περισσότερα σχετικά με αυτούς."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:905
+#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:908
 msgid "Leave a clean digital trail. Make Firefox forget website data like cookies and local storage, but only for domains you choose."
 msgstr "Αφήστε καθαρό ψηφιακό μονοπάτι. Κάντε το Firefox να ξεχάσει τα δεδομένα ιστοτόπων, όπως cookie και τοπική αποθήκευση, αλλά μόνο για τους τομείς που θα επιλέξετε."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:875
+#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:878
 msgid "No need to write the same thing over and over. Save frequently-entered text to paste anytime."
 msgstr "Δεν χρειάζεται να γράφετε το ίδιο ξανά και ξανά. Αποθηκεύστε το κείμενο που εισάγετε συχνά για επικόλληση ανά πάσα στιγμή."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:842
+#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:845
 msgid "Get more screen space by removing ads from your web-based inbox."
 msgstr "Αποκτήστε περισσότερο χώρο στην οθόνη αφαιρώντας διαφημίσεις από τα διαδικτυακά σας εισερχόμενα."
 
@@ -4927,25 +4947,25 @@ msgstr "Διαχειριστείτε τις ανοικτές σας καρτέλ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:947
+#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:950
 msgid "Avoid sneaky trackers and restrictions. Disguise your navigation by cloaking the identity of your browser and operating system."
 msgstr "Αποφύγετε πονηρούς ιχνηλάτες και περιορισμούς. Μεταμφιέστε την πλοήγησή σας καλύπτοντας την ταυτότητα του προγράμματος περιήγησης και του λειτουργικού σας συστήματος."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:839
+#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:842
 msgid "Automatically reload tabs based on time intervals you set."
 msgstr "Αυτόματη ανανέωση καρτελών βάσει των χρονικών διαστημάτων που έχετε ορίσει."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1013
+#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1016
 msgid "Keep parts of your online life separated into color-coded and cookie separated tabs. Now integrated with Mozilla VPN for an extra layer of privacy."
 msgstr "Διατηρήστε τμήματα της διαδικτυακής σας ζωής χωρισμένα σε χρωματιστές καρτέλες με διαχωρισμό των cookie. Πλέον με ενσωμάτωση του Mozilla VPN για ένα ακόμα επίπεδο απορρήτου."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:824
+#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:827
 msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr "Αποκτήστε ένα επιπλέον επίπεδο προστασίας από καταγραφή ενώ περιηγείστε στο διαδίκτυο."
 
@@ -4956,7 +4976,7 @@ msgstr "Διαβάστε αρχεία ePub απευθείας στο Firefox—�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:941
+#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:944
 msgid "Play YouTube videos by default in the highest quality, turn off annotations, and more."
 msgstr "Αναπαραγωγή YouTube βίντεο από προεπιλογή στην υψηλότερη ποιότητα, απενεργοποίηση σχολιασμών και πολλά άλλα."
 
@@ -4977,7 +4997,7 @@ msgstr "Βελτίωση εμπειρίας θέασης με προσαρμογ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:830
+#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:833
 msgid "Add encrypted security to any site that supports HTTPS. Browse securely."
 msgstr "Προσθήκη κρυπτογραφημένης ασφάλειας σε κάθε ιστότοπο που υποστηρίζει HTTPS. Ασφαλής περιήγηση."
 
@@ -5023,13 +5043,13 @@ msgstr "Ορίστε μια προσαρμοσμένη αρχική σελίδα
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:872
+#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:875
 msgid "Convert all your open tabs into a list to easily manage them and speed up Firefox."
 msgstr "Μετατρέψτε όλες τις ανοικτές καρτέλες σας σε μια λίστα για εύκολη διαχείριση και επιτάχυνση του Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:794
+#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:797
 msgid "Robust download management. Check the state of your downloads through a status bar, download history page, and more."
 msgstr "Πανίσχυρη διαχείριση λήψεων. Ελέγξτε την κατάσταση των λήψεών σας μέσω της γραμμής κατάστασης, της σελίδας ιστορικού λήψεων και πολλά άλλα."
 
@@ -5060,7 +5080,7 @@ msgstr "Καταστήστε τον ιστό πιο άνετο για τα μά�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:791
+#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:794
 msgid "Block all pop-ups by default, then decide which ones you'd like to open."
 msgstr "Αποκλείστε όλα τα αναδυόμενα από προεπιλογή και αποφασίστε έπειτα ποια θέλετε να ανοίξετε."
 
@@ -5091,7 +5111,7 @@ msgstr "Βελτιώστε την εμπειρία ανάγνωσής σας. Κ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:866
+#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:869
 msgid "Right-click and drag links you want open in new tabs."
 msgstr "Κάντε δεξί κλικ και σύρετε τους συνδέσμους που θέλετε να ανοίξετε σε νέες καρτέλες."
 
@@ -5132,7 +5152,7 @@ msgstr "Δείτε το ιστορικό τιμής, βρείτε ανταγων
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:788
+#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:791
 msgid "Make it your YouTube. Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more."
 msgstr "Φέρετε το YouTube στα μέτρα σας. Αναπαραγωγή βίντεο σε αποσπώμενο παράθυρο, προβολή διαφημίσεων μόνο σε κανάλια που έχετε κάνει εγγραφή, λήψη στιγμιότυπων βίντεο και πολλά άλλα."
 
@@ -5213,7 +5233,7 @@ msgstr "Δείτε τις αγαπημένες ροές RSS σας, όλες σ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:785
+#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:788
 msgid "Enable night mode for a better viewing experience."
 msgstr "Ενεργοποιήστε τη νυχτερινή λειτουργία για καλύτερη εμπειρία θέασης."
 
@@ -5269,13 +5289,13 @@ msgstr "Δημιουργήστε γενικές, αλλά και ειδικές 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:764
+#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:767
 msgid "Phone-like scrolling for your desktop. Features \"grab-n-drag\" style mouse movement."
 msgstr "Δυνατότητες κύλισης τηλεφώνου στον υπολογιστή σας. Δυνατότητες, όπως επιλογή και απόθεση, με το ποντίκι."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:935
+#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:938
 msgid "Clear your browser cache with a click or keystroke."
 msgstr "Καθαρίστε την κρυφή μνήμη του προγράμματος περιήγησής σας με ένα κλικ ή ένα πλήκτρο."
 
@@ -5286,13 +5306,13 @@ msgstr "Επισημάνετε κείμενο σε ιστοσελίδες για
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:761
+#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:764
 msgid "Enjoy music from 30,000+ radio stations from all over the globe."
 msgstr "Απολαύστε μουσική από 30.000+ ραδιοφωνικούς σταθμούς από όλο τον κόσμο."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:932
+#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:935
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
 msgstr "Εξοικονομήστε εύρος ζώνης με τη ροή ήχου από τα βίντεο στο YouTube."
 
@@ -5303,13 +5323,13 @@ msgstr "Μετατρέψτε τις λέξεις σε όμορφες επικε�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:782
+#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:785
 msgid "Automatically navigate to the secure version of a website if it's available."
 msgstr "Αυτόματη πλοήγηση στην ασφαλή έκδοση ενός ιστοτόπου αν είναι διαθέσιμη."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:863
+#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:866
 msgid "Delete your navigation history. Specify a custom number of days to retain browser history before it's automatically cleared."
 msgstr "Διαγράψτε το ιστορικό περιήγησής σας. Καθορίστε έναν αριθμό ημερών που θα διατηρείται το ιστορικό του προγράμματος περιήγησης σας πριν από την αυτόματη διαγραφή."
 
@@ -5335,7 +5355,7 @@ msgstr "Ιδιωτική αναζήτηση με ένα μόνο κλικ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:896
+#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:899
 msgid "Put an end to tab hijacking. Don't let clicked links take control of your current tab and load content you didn't ask for."
 msgstr "Δώστε ένα τέλος στην παραβίαση των καρτελών. Εμποδίστε την κατάληψη καρτελών και τη φόρτωση ανεπιθύμητου περιεχομένου από συνδέσμους που κάνατε κλικ."
 
@@ -5447,13 +5467,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:899
+#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:902
 msgid "Only allow web content to run from sites you trust. Surf securely."
 msgstr "Επιτρέψτε την εκτέλεση περιεχομένου ιστού, μόνο από τους ιστοτόπους που εμπιστεύεστε. Σερφάρετε με ασφάλεια."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:770
+#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:773
 msgid "Take full control of the cookies you've accumulated while browsing."
 msgstr "Πάρτε τον πλήρη έλεγχο των cookie που συγκεντρώνετε κατά την περιήγηση."
 
@@ -5464,7 +5484,7 @@ msgstr "Διαγράψτε αυτόματα το ιστορικό περιήγη
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:860
+#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:863
 msgid "Password-protect your personal bookmarks."
 msgstr "Προστασία σελιδοδεικτών με κωδικό πρόσβασης."
 
@@ -5490,7 +5510,7 @@ msgstr "Αξιοποιήστε τη δυνατότητα λήψης βίντεο
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:755
+#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:758
 msgid "Learn where any website's server is geographically located. Be an informed web traveler."
 msgstr "Μάθετε πού βρίσκεται γεωγραφικά ο διακομιστής κάθε ιστοτόπου. Γίνετε ενημερωμένοι ταξιδιώτες του ιστού."
 
@@ -5511,13 +5531,13 @@ msgstr "Παρακολούθηση ιστορικού τιμών στο Amazon. 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:926
+#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:929
 msgid "Adjust browser audio settings with extreme clarity."
 msgstr "Προσαρμόστε τις ρυθμίσεις ήχου του προγράμματος περιήγησής σας με εξαιρετική ευκρίνεια."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:752
+#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:755
 msgid "Defend yourself against the sneakiest trackers."
 msgstr "Αμυνθείτε από τους πιο ύπουλους ιχνηλάτες."
 
@@ -5543,7 +5563,7 @@ msgstr "Με ένα απλό κλικ, μπορείτε να παρακολου�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:902
+#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:905
 msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr "Σταματήστε να σπαταλάτε πολύτιμη μνήμη σε ανενεργές καρτέλες."
 
@@ -5564,19 +5584,19 @@ msgstr "Λάβετε βοήθεια οπουδήποτε γράφετε στο �
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:746
+#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:749
 msgid "Read with more clarity and ease. Remove the clutter around text on web pages."
 msgstr "Διαβάστε με περισσότερη ευκολία και ευκρίνεια. Καταργήστε τα περιττά στοιχεία των ιστοσελίδων γύρω από το κείμενο."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:743
+#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:746
 msgid "Block ads and get enhanced protection against malware and ad tracking."
 msgstr "Φραγή διαφημίσεων και ενισχυμένη προστασία από κακόβουλο λογισμικό και καταγραφή διαφημίσεων."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:923
+#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:926
 msgid "Enjoy multi-threading download support. Automatically detect different types of media available for download."
 msgstr "Απολαύστε την υποστήριξη λήψεων με πολλαπλά thread. Αυτόματη ανίχνευση διαφορετικών τύπων πολυμέσων που διατίθενται για λήψη."
 
@@ -5597,19 +5617,19 @@ msgstr "Απολαύστε τα οφέλη της ισχυρής διαχείρ�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:773
+#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:776
 msgid "Customize shades of light and dark to make web pages more visually pleasing."
 msgstr "Προσαρμογή φωτεινών και σκούρων αποχρώσεων για πιο ευχάριστες οπτικά ιστοσελίδες."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:920
+#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:923
 msgid "Block distracting websites. Simply list the sites you want the extension to block. Instant discipline!"
 msgstr "Φραγή ενοχλητικών ιστοτόπων. Απλά καταγράψτε τους ιστοτόπους που θέλετε να αποκλειστούν από την επέκταση. Άμεση πειθαρχία!"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:767
+#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:770
 msgid "Change your browser's appearance. Easily design your own visual themes to make Firefox look as you please."
 msgstr "Αλλάξτε την εμφάνιση του προγράμματος περιήγησής σας. Σχεδιάστε εύκολα τα δικά σας θέματα και διαμορφώστε όπως θέλετε το Firefox."
 
@@ -5630,13 +5650,13 @@ msgstr "Παρακολούθηση προϊόντων που σας ενδιαφ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:740
+#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:743
 msgid "Turn the web dark or select a custom color scheme to visually tailor the internet to your own taste."
 msgstr "Κάντε εναλλαγή σε σκούρο θέμα ή επιλέξτε ένα προσαρμοσμένο σύνολο χρωμάτων για να προσαρμόσετε το διαδίκτυο σύμφωνα με τα γούστα σας."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:959
+#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:962
 msgid "Get a more advanced search page on Firefox for Android."
 msgstr "Αποκτήστε μια πιο προηγμένη σελίδα αναζήτησης στο Firefox για Android."
 
@@ -5662,7 +5682,7 @@ msgstr "Διαγράψτε τα cookie, το ιστορικό περιήγηση
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:854
+#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:857
 msgid "Remove tracking elements from web links."
 msgstr "Αφαίρεση στοιχείων καταγραφής από διαδικτυακούς συνδέσμους."
 
@@ -5673,13 +5693,13 @@ msgstr "Λάβετε φακέλους σελιδοδεικτών με αυτόμ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:917
+#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:920
 msgid "Easily organize tons of open tabs."
 msgstr "Οργανώστε εύκολα πολλές ανοικτές καρτέλες."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:857
+#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:860
 msgid "Create and customize tab groups."
 msgstr "Δημιουργήστε και προσαρμόστε ομάδες καρτελών."
 
@@ -5695,13 +5715,13 @@ msgstr "Φραγή όλων των διαφημίσεων — βίντεο, αν
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:911
+#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:914
 msgid "Watch streaming media with friends and family anywhere."
 msgstr "Παρακολουθήστε ροή πολυμέσων με φίλους και συγγενείς οπουδήποτε."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:953
+#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:956
 msgid "Skip over sponsored portions of YouTube videos."
 msgstr "Παράλειψη των χορηγούμενων μερών των βίντεο στο YouTube."
 
@@ -5712,31 +5732,31 @@ msgstr "Ανάγνωση ιστοσελίδων από τη συσκευή σα�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:950
+#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:953
 msgid "Double-click any word to instantly see its definition."
 msgstr "Κάντε διπλό κλικ σε οποιαδήποτε λέξη για να δείτε άμεσα τον ορισμό της."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:992
+#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:995
 msgid "Save batches of tabs as convenient bookmarks."
 msgstr "Αποθήκευση πολλαπλών καρτελών σε βολικούς σελιδοδείκτες."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:995
+#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:998
 msgid "Tabs and bookmarks neatly organized in a Firefox side view."
 msgstr "Οργάνωση καρτελών και σελιδοδεικτών σε μια πλαϊνή προβολή του Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:974
+#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:977
 msgid "Thousands of GIFs at your fingertips."
 msgstr "Χιλιάδες GIFs στα δάχτυλά σας."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:980
+#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:983
 msgid "The easiest way to manage YouTube subscriptions."
 msgstr "Ο πιο εύκολος τρόπος διαχείρισης συνδρομών στο YouTube."
 
@@ -5747,7 +5767,7 @@ msgstr "Αποκτήστε τη γραμμή κύλισης που πάντα θ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:989
+#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:992
 msgid "Save and restore tabs. Includes auto-save and cloud sync features."
 msgstr "Αποθήκευση και επαναφορά καρτελών. Περιλαμβάνει λειτουργίες αυτόματης αποθήκευσης και συγχρονισμού cloud."
 
@@ -5882,574 +5902,570 @@ msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new fe
 msgstr "«Better Twitch TV»: βελτίωση των Twitch και YouTube με μια σειρά από νέες λειτουργίες."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:737
+#: src/olympia/discovery/strings.jinja2:740
 msgid "Some websites have difficulty playing videos on Android. Here's a fix."
 msgstr "Ορισμένοι ιστότοποι δυσκολεύονται με την αναπαραγωγή βίντεο στο Firefox για Android. Αυτή η επέκταση διορθώνει το σφάλμα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:758
+#: src/olympia/discovery/strings.jinja2:761
 msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr "Βρήκατε μια ενδιαφέρουσα εικόνα στο διαδίκτυο; Ανακαλύψτε την προέλευσή της με το TinEye."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:776
+#: src/olympia/discovery/strings.jinja2:779
 msgid "Save images easily — just grab them from your current tab."
 msgstr "Εύκολη αποθήκευση εικόνων — απλά «αρπάξτε» τις από την τρέχουσα καρτέλα σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:779
+#: src/olympia/discovery/strings.jinja2:782
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr "Απολαύστε τον απόλυτο έλεγχο καρτελών — κλείστε τις διπλές καρτέλες, συγχωνεύστε παράθυρα, αντιγράψτε τον τίτλο της καρτέλας και άλλα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:797
+#: src/olympia/discovery/strings.jinja2:800
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr "Διαβάστε αρχεία ePub απευθείας στο Firefox—μεγέθυνση γραμματοσειράς, διαστάσεις σελίδας και άλλα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:818
+#: src/olympia/discovery/strings.jinja2:821
 msgid "Customize mouse gestures. Discover new ways to navigate with 50+ configurations."
 msgstr "Προσαρμογή κινήσεων ποντικιού. Ανακαλύψτε νέους τρόπους πλοήγησης με 50+ ρυθμίσεις."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:821
+#: src/olympia/discovery/strings.jinja2:824
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
 msgstr "Εξαλείψτε τους περισπασμούς, προσαρμόστε την εμπειρία θέασης, αλλάξτε την ταχύτητα αναπαραγωγής και πολλά ακόμη."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:869
+#: src/olympia/discovery/strings.jinja2:872
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
 msgstr "Προσαρμόστε την εμφάνιση όλων των ιστοτόπων. Αλλάξτε χρώματα, φόντα σελίδων και πολλά άλλα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:878
+#: src/olympia/discovery/strings.jinja2:881
 msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr "Χρησιμοποιήστε κινήσεις ποντικιού για κλείσιμο καρτελών, πλοήγηση σε σελίδες και πολλά άλλα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:881
+#: src/olympia/discovery/strings.jinja2:884
 msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr "Ένας απλός τρόπος για να προσαρμόσετε το μέγεθος του κειμένου οποιασδήποτε σελίδας — ή ακόμη και να μεγεθύνετε την ίδια τη σελίδα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:908
+#: src/olympia/discovery/strings.jinja2:911
 msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr "Απολαύστε μικρογραφίες ιστοτόπων δίπλα στα αποτελέσματα αναζήτησής σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:914
+#: src/olympia/discovery/strings.jinja2:917
 msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr "Αποθηκεύστε μια ολόκληρη ιστοσελίδα —μαζί με τις εικόνες και τη μορφοποίησή της— σε ένα αρχείο HTML."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:929
+#: src/olympia/discovery/strings.jinja2:932
 msgid "Edit a web page before printing. Remove ads or any unwanted content."
 msgstr "Επεξεργαστείτε μια ιστοσελίδα πριν από την εκτύπωση. Αφαιρέστε τις διαφημίσεις ή το ανεπιθύμητο περιεχόμενο."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:938
+#: src/olympia/discovery/strings.jinja2:941
 msgid "Advanced reader for aggregating all of your RSS/Atom/RDF sources."
 msgstr "Προηγμένο εργαλείο ανάγνωσης για τη συγκέντρωση όλων των ροών RSS/Atom/RDF σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:956
+#: src/olympia/discovery/strings.jinja2:959
 msgid "Web pages read aloud. 40+ languages supported."
 msgstr "Εκφώνηση ιστοσελίδων. Υποστήριξη για 40+ γλώσσες."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:962
+#: src/olympia/discovery/strings.jinja2:965
 msgid "Removes those long tracking parameters from Google search result URL's."
 msgstr "Αφαιρεί τις μεγάλες παραμέτρους καταγραφής από τα URL των αποτελεσμάτων αναζήτησης Google."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:965
+#: src/olympia/discovery/strings.jinja2:968
 msgid "Get weather updates directly from Firefox."
 msgstr "Λάβετε ενημερώσεις καιρού απευθείας από το Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:968
+#: src/olympia/discovery/strings.jinja2:971
 msgid "Manage your time better with a browser clock that charts work intervals."
 msgstr "Διαχειριστείτε καλύτερα τον χρόνο σας με ένα ρολόι που χαρτογραφεί τα διαστήματα εργασίας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:971
+#: src/olympia/discovery/strings.jinja2:974
 msgid "Tired of that \"Video paused. Continue watching?\" message? Listen to your favorite music uninterrupted on YouTube."
 msgstr "Σας κούρασε το μήνυμα «Το βίντεο διακόπηκε. Συνέχεια παρακολούθησης;»; Ακούστε την αγαπημένη σας μουσική χωρίς διακοπή στο YouTube."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:977
+#: src/olympia/discovery/strings.jinja2:980
 msgid "Begone, annoying cookie warnings!"
 msgstr "Εξαφανιστείτε, ενοχλητικές προειδοποιήσεις cookie!"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:983
+#: src/olympia/discovery/strings.jinja2:986
 msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr "Επιστρέψτε σε πιο απλές εποχές — όταν τα κορυφαία αποτελέσματα αναζήτησης βρίσκονταν πάνω από τις διαφημίσεις (συμβατό με τις μηχανές αναζήτησης Google και Bing)."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:986
+#: src/olympia/discovery/strings.jinja2:989
 msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr "Αποκτήστε τη γραμμή κύλισης που πάντα θέλατε — επιλέξτε πλάτος και χρώμα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:998
+#: src/olympia/discovery/strings.jinja2:1001
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
 msgstr "Κρύψτε το email σας για να προστατέψετε την ταυτότητά σας και να αποτρέψετε την ανεπιθύμητη αλληλογραφία. Οι νέες ενημερώσεις κάνουν το Firefox Relay ακόμα πιο εύκολο στη χρήση."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1001
+#: src/olympia/discovery/strings.jinja2:1004
 msgid "Instantly translate any selected text on web pages."
 msgstr "Άμεση μετάφραση επιλεγμένου κειμένου σε ιστοσελίδες."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1004
+#: src/olympia/discovery/strings.jinja2:1007
 msgid "Make Firefox change colors based on time of day."
 msgstr "Αλλαγή των χρωμάτων του Firefox βάσει της ώρας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1007
+#: src/olympia/discovery/strings.jinja2:1010
 msgid "Eliminate YouTube distractions. Remove related and recommended video suggestions, comments & more."
 msgstr "Αποφύγετε τους περισπασμούς από το YouTube. Καταργήστε τις σχετικές και προτεινόμενες προτάσεις βίντεο, σχόλια και άλλα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1010
+#: src/olympia/discovery/strings.jinja2:1013
 msgid "Take emojis with you everywhere on the web."
 msgstr "Πάρτε τα emoji μαζί σας οπουδήποτε στο διαδίκτυο."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1016
+#: src/olympia/discovery/strings.jinja2:1019
 msgid "Put restrictions on distracting, time-wasting websites."
 msgstr "Βάλτε περιορισμούς σε ιστοτόπους που σας αποσπούν την προσοχή και σπαταλούν τον χρόνο σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1019
+#: src/olympia/discovery/strings.jinja2:1022
 msgid "Remove clutter from your Twitter."
 msgstr "Αφαιρέστε τα περιττά στοιχεία από το Twitter σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1022
+#: src/olympia/discovery/strings.jinja2:1025
 msgid "Customize YouTube to taste."
 msgstr "Προσαρμόστε το YouTube στα μέτρα σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1025
+#: src/olympia/discovery/strings.jinja2:1028
 msgid "Delete browsing data directly from the browser toolbar."
 msgstr "Διαγράψτε τα δεδομένα περιήγησης απευθείας από τη γραμμή εργαλείων του προγράμματος περιήγησής σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1028
+#: src/olympia/discovery/strings.jinja2:1031
 msgid "Get RSS feed auto-updates direct to your bookmark folders."
 msgstr "Λήψη αυτόματων ενημερώσεων για ροές RSS, απευθείας στους φακέλους σελιδοδεικτών σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1031
+#: src/olympia/discovery/strings.jinja2:1034
 msgid "Effective blocker against all types of ads."
 msgstr "Αποτελεσματική φραγή για όλους τους τύπους διαφημίσεων."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1034
+#: src/olympia/discovery/strings.jinja2:1037
 msgid "Mass download manager makes extreme downloading extremely easy."
 msgstr "Η διαχείριση μαζικών λήψεων καθιστά εξαιρετικά εύκολες τις πολλαπλές λήψεις."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1037
+#: src/olympia/discovery/strings.jinja2:1040
 msgid "Remove ads & receive better protection against malware."
 msgstr "Αφαίρεση διαφημίσεων και ενισχυμένη προστασία από κακόβουλο λογισμικό."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1040
+#: src/olympia/discovery/strings.jinja2:1043
 msgid "Remove formatting from copied Clipboard text."
 msgstr "Κατάργηση μορφοποίησης από το αντιγραμμένο κείμενο του πρόχειρου."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1043
+#: src/olympia/discovery/strings.jinja2:1046
 msgid "Fingerprinting privacy protection."
 msgstr "Προστασία απορρήτου με δακτυλικό αποτύπωμα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1046
+#: src/olympia/discovery/strings.jinja2:1049
 msgid "Enhance your gaming experience on Steam."
 msgstr "Βελτιώστε την εμπειρία σας με τα παιχνίδια στο Steam."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1049
+#: src/olympia/discovery/strings.jinja2:1052
 msgid "Thumbs-up to bringing back thumbs-down."
 msgstr "«Μου αρέσει» η επιστροφή του «Δεν μου αρέσει»."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1052
+#: src/olympia/discovery/strings.jinja2:1055
 msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr "Μετάφραση ιστοτόπων στο Firefox — ιδιωτικά — χωρίς τη χρήση του cloud."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1055
+#: src/olympia/discovery/strings.jinja2:1058
 msgid "Block time-wasting websites. Block them completely or just during time frames of your choosing."
 msgstr "Αποκλεισμός ιστοτόπων που σπαταλούν τον χρόνο σας. Αποκλείστε τους εντελώς ή μόνο με χρονικό περιορισμό της επιλογής σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1058
+#: src/olympia/discovery/strings.jinja2:1061
 msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr "Συνοψίστε εύκολα τα email, τα έγγραφα, τα άρθρα και τις μεταγραφές βίντεο στα αγγλικά σε όλο το διαδίκτυο, χωρίς να θυσιάσετε το απόρρητό σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1061
+#: src/olympia/discovery/strings.jinja2:1064
 msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr "Εσείς έχετε τον έλεγχο. Απενεργοποιήστε το VPN όταν ένας ιστότοπος δεν λειτουργεί και ορίστε διαφορετικές τοποθεσίες για διαφορετικούς ιστοτόπους. Μόνο στα Windows."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1064
+#: src/olympia/discovery/strings.jinja2:1067
 msgid "Automatically handle GDPR consent forms."
 msgstr "Αυτόματος χειρισμός των φορμών συγκατάθεσης για τον GDPR."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1067
+#: src/olympia/discovery/strings.jinja2:1070
 msgid "Block malicious websites from port scanning."
 msgstr "Αποτρέψτε τη σάρωση θυρών από κακόβουλους ιστοτόπους."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1070
+#: src/olympia/discovery/strings.jinja2:1073
 msgid "Enhance your Twitch experience."
 msgstr "Βελτιώστε την εμπειρία σας στο Twitch."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1073
+#: src/olympia/discovery/strings.jinja2:1076
 msgid "Re-take control of Twitter/X and customize your experience."
 msgstr "Ανακτήστε τον έλεγχο του Twitter/X και προσαρμόστε την εμπειρία σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1076
+#: src/olympia/discovery/strings.jinja2:1079
 msgid "Translate text without leaving the page you're on (PDF compatible)."
 msgstr "Μεταφράστε κείμενο χωρίς να αποχωρήσετε από τη σελίδα (συμβατό και με PDF)."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1079
+#: src/olympia/discovery/strings.jinja2:1082
 msgid "Change the color of Firefox to match every website you visit."
 msgstr "Αλλάξτε το χρώμα του Firefox για να ταιριάζει με κάθε ιστότοπο που επισκέπτεστε."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1082
+#: src/olympia/discovery/strings.jinja2:1085
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
 msgstr "Μαθαίνετε μια νέα γλώσσα; Το Yomitan είναι το ιδανικό εργαλείο λεξικού."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1085
+#: src/olympia/discovery/strings.jinja2:1088
 msgid "Pack a powerful thesaurus right inside Firefox."
 msgstr "Ενσωματώστε ένα ισχυρό λεξικό συνωνύμων στο Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1088
+#: src/olympia/discovery/strings.jinja2:1091
 msgid "Hover over web images to enlarge their appearance."
 msgstr "Τοποθετήστε τον κέρσορα πάνω σε εικόνες του ιστού για να μεγεθύνετε την εμφάνισή τους."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1091
+#: src/olympia/discovery/strings.jinja2:1094
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
 msgstr "Εργαλείο μετάφρασης με πληθώρα δυνατοτήτων. Λειτουργεί σε όλο τον ιστό, σε ηλεκτρονικά βιβλία, σε PDF, ακόμα και σε υπότιτλους βίντεο."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1094
+#: src/olympia/discovery/strings.jinja2:1097
 msgid "Track the time you spend on every website you visit."
 msgstr "Παρακολουθήστε το χρόνο που αφιερώνετε σε κάθε ιστότοπο που επισκέπτεστε."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1097
+#: src/olympia/discovery/strings.jinja2:1100
 msgid "Manage your Gmail (even multiple accounts) right from a handy pop-up accessible from the Firefox toolbar."
 msgstr "Διαχειριστείτε το Gmail σας (ακόμα και πολλαπλούς λογαριασμούς) απευθείας από ένα βολικό αναδυόμενο παράθυρο, προσβάσιμο από τη γραμμή εργαλείων του Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1100
+#: src/olympia/discovery/strings.jinja2:1103
 msgid "De-clutter YouTube. Strip away unwanted elements like related videos, shorts & more."
 msgstr "Αφαιρέστε τα περιττά στοιχεία του YouTube. Απομακρύνετε τα ανεπιθύμητα στοιχεία, όπως σχετικά βίντεο, shorts και πολλά άλλα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1103
+#: src/olympia/discovery/strings.jinja2:1106
 msgid "Leave yourself little notes on any web page."
 msgstr "Αφήστε στον εαυτό σας μικρές σημειώσεις, σε οποιαδήποτε ιστοσελίδα."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1106
+#: src/olympia/discovery/strings.jinja2:1109
 msgid "Serenity for your Reddit experience."
 msgstr "Απολαύστε μια γαλήνια εμπειρία στο Reddit."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1109
+#: src/olympia/discovery/strings.jinja2:1112
 msgid "Save and organize anything you find on the web."
 msgstr "Αποθηκεύστε και οργανώστε οτιδήποτε βρείτε στο διαδίκτυο."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1112
+#: src/olympia/discovery/strings.jinja2:1115
 msgid "WebM video controls at your fingertips."
 msgstr "Στοιχεία ελέγχου για βίντεο WebM στα χέρια σας."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1115
+#: src/olympia/discovery/strings.jinja2:1118
 msgid "Disguise Firefox as the Chrome browser to spoof websites that try to block Firefox."
 msgstr "Μεταμφιέστε το Firefox σε Chrome για να παρακάμψετε τους περιορισμούς των ιστοτόπων που προσπαθούν να αποκλείσουν το Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1118
+#: src/olympia/discovery/strings.jinja2:1121
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr "Αφαιρέστε τους περισπασμούς, αλλάξτε τις επιλογές προβολής, την ταχύτητα αναπαραγωγής και πολλά άλλα."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1121
+#: src/olympia/discovery/strings.jinja2:1124
 msgid "Extensions are like apps for Firefox."
 msgstr "Οι επεκτάσεις είναι σαν εφαρμογές για το Firefox."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1123
+#: src/olympia/discovery/strings.jinja2:1126
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr "Προσθέτουν λειτουργίες στο Firefox για ταχύτερη, ασφαλέστερη και πιο διασκεδιαστική περιήγηση."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1125
+#: src/olympia/discovery/strings.jinja2:1128
 msgid "See all extensions"
 msgstr "Προβολή όλων των επεκτάσεων"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1127
-msgid "Extension Starter Pack"
-msgstr "Βασικό πακέτο επεκτάσεων"
+#. editorial content for the homepage shelves.
+#: src/olympia/discovery/strings.jinja2:1130 src/olympia/discovery/strings.jinja2:1198
+msgid "YouTube customization"
+msgstr "Προσαρμογή YouTube"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1131
-msgid "Productivity extensions"
-msgstr "Επεκτάσεις παραγωγικότητας"
+#: src/olympia/discovery/strings.jinja2:1134
+msgid "Reddit extensions"
+msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1133 src/olympia/discovery/strings.jinja2:1135 src/olympia/discovery/strings.jinja2:1137
+#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
 msgid "See staff picks"
 msgstr "Προβολή επιλογών προσωπικού"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1143
 msgid "Recommended extensions"
 msgstr "Προτεινόμενες επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1142
+#: src/olympia/discovery/strings.jinja2:1145
 msgid "See more recommended extensions"
 msgstr "Περισσότερες προτεινόμενες επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1145
+#: src/olympia/discovery/strings.jinja2:1148
 msgid "Popular themes"
 msgstr "Δημοφιλή θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1147
+#: src/olympia/discovery/strings.jinja2:1150
 msgid "See more popular themes"
 msgstr "Περισσότερα δημοφιλή θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1150
+#: src/olympia/discovery/strings.jinja2:1153
 msgid "Privacy & security"
 msgstr "Απόρρητο και ασφάλεια"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1152
+#: src/olympia/discovery/strings.jinja2:1155
 msgid "See more privacy staff picks"
 msgstr "Περισσότερες επιλογές απορρήτου συντακτών"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1155
+#: src/olympia/discovery/strings.jinja2:1158
 msgid "Popular extensions"
 msgstr "Δημοφιλείς επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1157
+#: src/olympia/discovery/strings.jinja2:1160
 msgid "See more popular extensions"
 msgstr "Περισσότερες δημοφιλείς επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1160
+#: src/olympia/discovery/strings.jinja2:1163
 msgid "Recommended themes"
 msgstr "Προτεινόμενα θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1162
+#: src/olympia/discovery/strings.jinja2:1165
 msgid "See more recommended themes"
 msgstr "Περισσότερα προτεινόμενα θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1165
+#: src/olympia/discovery/strings.jinja2:1168
 msgid "Strong password managers"
 msgstr "Ισχυρά πρόσθετα διαχείρισης κωδικών πρόσβασης"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1167
+#: src/olympia/discovery/strings.jinja2:1170
 msgid "See more password manager staff picks"
 msgstr "Περισσότερες επιλεγμένες επεκτάσεις διαχείρισης κωδικών πρόσβασης"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1170
+#: src/olympia/discovery/strings.jinja2:1173
 msgid "Translation tools"
 msgstr "Εργαλεία μετάφρασης"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1172
+#: src/olympia/discovery/strings.jinja2:1175
 msgid "See more translation tool staff picks"
 msgstr "Περισσότερα επιλεγμένα εργαλεία μετάφρασης"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1175
+#: src/olympia/discovery/strings.jinja2:1178
 msgid "Social streaming"
 msgstr "Μετάδοση σε κοινωνικά δίκτυα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1177
+#: src/olympia/discovery/strings.jinja2:1180
 msgid "See more social streaming staff picks"
 msgstr "Περισσότερες επιλεγμένες επεκτάσεις μετάδοσης κοινωνικών δικτύων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1180
+#: src/olympia/discovery/strings.jinja2:1183
 msgid "Tab managers"
 msgstr "Εργαλεία διαχείρισης καρτελών"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1182
+#: src/olympia/discovery/strings.jinja2:1185
 msgid "See more tab management staff picks"
 msgstr "Περισσότερες επιλεγμένες επεκτάσεις διαχείρισης καρτελών"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1185
+#: src/olympia/discovery/strings.jinja2:1188
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr "Επεκτάσεις με ετικέτα «{tag}»"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1187
+#: src/olympia/discovery/strings.jinja2:1190
 #, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "Περισσότερες επεκτάσεις με ετικέτα «{tag}»"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1190
+#: src/olympia/discovery/strings.jinja2:1193
 msgid "Elite ad blockers"
 msgstr "Επίλεκτα πρόσθετα φραγής διαφημίσεων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1192
+#: src/olympia/discovery/strings.jinja2:1195
 msgid "See more ad blocker staff picks"
 msgstr "Περισσότερες επιλεγμένες επεκτάσεις φραγής διαφημίσεων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1195
-msgid "YouTube customization"
-msgstr "Προσαρμογή YouTube"
-
-#. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1197
+#: src/olympia/discovery/strings.jinja2:1200
 msgid "See more YouTube extension staff picks"
 msgstr "Περισσότερες επιλεγμένες επεκτάσεις YouTube"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1200
+#: src/olympia/discovery/strings.jinja2:1203
 msgid "Trending themes"
 msgstr "Δημοφιλή θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1202
+#: src/olympia/discovery/strings.jinja2:1205
 msgid "See more trending themes"
 msgstr "Περισσότερα δημοφιλή θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1205 src/olympia/discovery/strings.jinja2:1250
+#: src/olympia/discovery/strings.jinja2:1208 src/olympia/discovery/strings.jinja2:1253
 msgid "Top rated themes"
 msgstr "Πιο υψηλά βαθμολογημένα θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1207 src/olympia/discovery/strings.jinja2:1252
+#: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
 msgid "See more top rated themes"
 msgstr "Περισσότερα υψηλά βαθμολογημένα θέματα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1210
+#: src/olympia/discovery/strings.jinja2:1213
 msgid "Trending extensions"
 msgstr "Δημοφιλείς επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1212
+#: src/olympia/discovery/strings.jinja2:1215
 msgid "See more trending extensions"
 msgstr "Περισσότερες δημοφιλείς επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1215
+#: src/olympia/discovery/strings.jinja2:1218
 msgid "Steam enhancers"
 msgstr "Επεκτάσεις βελτίωσης του Steam"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1217
+#: src/olympia/discovery/strings.jinja2:1220
 msgid "See more Steam staff picks"
 msgstr "Περισσότερες επιλογές συντακτών για το Steam"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1220
+#: src/olympia/discovery/strings.jinja2:1223
 msgid "Creativity extensions"
 msgstr "Επεκτάσεις δημιουργικότητας"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1222
+#: src/olympia/discovery/strings.jinja2:1225
 msgid "See more creativity staff picks"
 msgstr "Περισσότερες επιλογές συντακτών για δημιουργικότητα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1225
+#: src/olympia/discovery/strings.jinja2:1228
 msgid "Social media extensions"
 msgstr "Επεκτάσεις κοινωνικών δικτύων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1227
+#: src/olympia/discovery/strings.jinja2:1230
 msgid "See more social media staff picks"
 msgstr "Περισσότερες επιλογές συντακτών για κοινωνικά δίκτυα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1230
+#: src/olympia/discovery/strings.jinja2:1233
 msgid "Top download managers"
 msgstr "Κορυφαίες επεκτάσεις διαχείρισης λήψεων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1232
+#: src/olympia/discovery/strings.jinja2:1235
 msgid "See more download manager staff picks"
 msgstr "Περισσότερες επιλεγμένες επεκτάσεις διαχείρισης λήψεων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1235
+#: src/olympia/discovery/strings.jinja2:1238
 msgid "Accessibility extensions"
 msgstr "Επεκτάσεις προσβασιμότητας"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1237
+#: src/olympia/discovery/strings.jinja2:1240
 msgid "See more accessibility staff picks"
 msgstr "Περισσότερες επιλογές συντακτών για προσβασιμότητα"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1240
+#: src/olympia/discovery/strings.jinja2:1243
 msgid "Extension starter pack"
 msgstr "Βασικό πακέτο επεκτάσεων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1242
+#: src/olympia/discovery/strings.jinja2:1245
 msgid "See more starter extension staff picks"
 msgstr "Περισσότερες επιλογές συντακτών για βασικές επεκτάσεις"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1245
+#: src/olympia/discovery/strings.jinja2:1248
 msgid "Twitch extensions"
 msgstr "Επεκτάσεις Twitch"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1247
+#: src/olympia/discovery/strings.jinja2:1250
 msgid "See more Twitch extension staff picks"
 msgstr "Περισσότερες επιλογές συντακτών για επεκτάσεις Twitch"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1255
+#: src/olympia/discovery/strings.jinja2:1258
 msgid "Gaming & media extensions"
 msgstr "Επεκτάσεις παιχνιδιών και πολυμέσων"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1257
+#: src/olympia/discovery/strings.jinja2:1260
 msgid "See more staff picks"
 msgstr "Περισσότερες επιλογές συντακτών"
 
@@ -7157,8 +7173,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Εκτός από τα μέρη όπου υπάρχει σχετική <a href=\"https://www.mozilla.org/about/legal/\">διευκρίνιση</a>, το περιεχόμενο αυτού του ιστοτόπου διατίθεται στο πλαίσιο της άδειας <a "
-"href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution Share-Alike License v3.0</a> ή οποιασδήποτε νεότερης έκδοσης."
+"Εκτός από τα μέρη όπου υπάρχει σχετική <a href=\"https://www.mozilla.org/about/legal/\">διευκρίνιση</a>, το περιεχόμενο αυτού του ιστοτόπου διατίθεται στο πλαίσιο της άδειας <a href=\"https://"
+"creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution Share-Alike License v3.0</a> ή οποιασδήποτε νεότερης έκδοσης."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7243,8 +7259,8 @@ msgstr "Το λογισμικό ή η συσκευή που χρησιμοποι
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, καθώς και τις πολιτικές και τους κανόνες αξιολόγησης. Η Συμφωνία διανομής προσθέτων του Firefox θα σας "
 "παραπέμψει στη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
@@ -7345,7 +7361,8 @@ msgid ""
 msgstr ""
 "Γεια σας %(author_name)s,\n"
 "\n"
-"Έχουμε ευχάριστα νέα: έχετε προσκληθεί να γίνετε δημιουργός του %(addon_name)s στο %(domain)s. Εάν αποδεχτείτε την πρόσκληση, θα μπορείτε να επεξεργάζεστε το πρόσθετο, ενώ το όνομά σας ενδέχεται να εμφανίζεται στη λίστα δημιουργών στον ιστότοπο.\n"
+"Έχουμε ευχάριστα νέα: έχετε προσκληθεί να γίνετε δημιουργός του %(addon_name)s στο %(domain)s. Εάν αποδεχτείτε την πρόσκληση, θα μπορείτε να επεξεργάζεστε το πρόσθετο, ενώ το όνομά σας ενδέχεται να "
+"εμφανίζεται στη λίστα δημιουργών στον ιστότοπο.\n"
 "\n"
 "Εάν επιθυμείτε να αποδεχτείτε την πρόσκληση, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
 "\n"
@@ -7383,7 +7400,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7393,7 +7411,8 @@ msgid ""
 msgstr ""
 "Γεια σας,\n"
 "\n"
-"Σας ενημερώνουμε ότι ο λογαριασμός χρήστη %(name)s στο %(site_url)s έχει διαγραφεί. Εάν διαγράψατε πρόσφατα τον λογαριασμό Mozilla σας, η διαγραφή αυτή ενδέχεται να πραγματοποιήθηκε αυτόματα στο πλαίσιο της συγκεκριμένης διαδικασίας.\n"
+"Σας ενημερώνουμε ότι ο λογαριασμός χρήστη %(name)s στο %(site_url)s έχει διαγραφεί. Εάν διαγράψατε πρόσφατα τον λογαριασμό Mozilla σας, η διαγραφή αυτή ενδέχεται να πραγματοποιήθηκε αυτόματα στο "
+"πλαίσιο της συγκεκριμένης διαδικασίας.\n"
 "\n"
 "Σας ευχαριστούμε που υπήρξατε μέλος της κοινότητας προσθέτων του Firefox. Εάν θεωρείτε ότι η διαγραφή έγινε κατά λάθος ή έχετε οποιαδήποτε απορία, επικοινωνήστε μαζί μας.\n"
 "\n"
