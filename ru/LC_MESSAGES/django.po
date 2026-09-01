@@ -6173,7 +6173,7 @@ msgstr "Настройка YouTube"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Расширения Reddit"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
