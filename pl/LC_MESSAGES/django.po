@@ -5770,7 +5770,7 @@ msgstr "Personalizuj gesty myszki. Odkrywaj nowe sposoby nawigacji dzięki ponad
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:824
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
-msgstr ""
+msgstr "Usuń elementy rozpraszające uwagę, dostosuj sposób oglądania, zmień prędkość odtwarzania i wiele więcej."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:872
@@ -5865,7 +5865,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1010
 msgid "Eliminate YouTube distractions. Remove related and recommended video suggestions, comments & more."
-msgstr ""
+msgstr "Pozbądź się rozpraszających elementów z YouTube. Ukryj propozycje podobnych i polecanych filmów, komentarze i nie tylko."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1013
@@ -6045,7 +6045,7 @@ msgstr "Spraw, by Firefox podszywał się pod przeglądarkę Chrome, aby oszuka�
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1121
 msgid "Remove distractions, change viewing options, alter playback speed & more."
-msgstr ""
+msgstr "Usuń elementy rozpraszające uwagę, zmień opcje oglądania i prędkość odtwarzania oraz wiele więcej."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
