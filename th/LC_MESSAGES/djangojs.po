@@ -6,11 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-01 15:13+0000\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -29,7 +27,7 @@ msgstr "ส่วนเสริมของคุณควรลงท้าย
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-format, python-brace-format
+#, python-brace-format, python-format
 msgid "{0}% complete"
 msgstr "เสร็จสมบูรณ์ {0}%"
 
@@ -144,7 +142,9 @@ msgstr "โปรดตรวจสอบหัวข้อต่าง ๆ ก�
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
-msgstr "สคริปต์ที่มีการย่อ เชื่อมโยงกัน หรือสร้างขึ้นด้วยเครื่อง (ยกเว้นไลบรารีที่รู้จัก) ต้องส่งซอร์สแยกต่างหากเพื่อใช้สำหรับตรวจทาน ตรวจสอบให้แน่ใจว่า คุณใช้ช่องอัปโหลดซอร์สโค้ดเพื่อหลีกเลี่ยงไม่ให้ข้อมูลที่คุณส่งถูกปฏิเสธ"
+msgstr ""
+"สคริปต์ที่มีการย่อ เชื่อมโยงกัน หรือสร้างขึ้นด้วยเครื่อง (ยกเว้นไลบรารีที่รู้จัก) ต้องส่งซอร์สแยกต่างหากเพื่อใช้สำหรับตรวจทาน ตรวจสอบให้แน่ใจว่า "
+"คุณใช้ช่องอัปโหลดซอร์สโค้ดเพื่อหลีกเลี่ยงไม่ให้ข้อมูลที่คุณส่งถูกปฏิเสธ"
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
