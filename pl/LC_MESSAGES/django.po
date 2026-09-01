@@ -4884,7 +4884,7 @@ msgstr "Przekształć wszystkie otwarte karty w listę, aby łatwo nimi zarządz
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:797
 msgid "Robust download management. Check the state of your downloads through a status bar, download history page, and more."
-msgstr ""
+msgstr "Zaawansowane zarządzanie pobieraniem. Monitoruj stan pobierania plików przy użyciu paska stanu, strony historii pobierania i innych narzędzi."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:182
@@ -4940,7 +4940,7 @@ msgstr "Dowiedz się, gdzie jesteś w sieci. Sprawdź lokalizację kraju, w któ
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:212
 msgid "Enhance your reading experience. Make the text you're reading more appealing by removing the clutter around it."
-msgstr ""
+msgstr "Zwiększ komfort czytania. Usuń zbędne elementy wokół tekstu, aby przyjemniej się czytało."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5012,7 +5012,7 @@ msgstr "Ukryj fragmenty wyświetlanej witryny."
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:254
 msgid "Download images you find on the web."
-msgstr ""
+msgstr "Pobieraj obrazy, które znajdujesz w sieci."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:257
@@ -6071,7 +6071,7 @@ msgstr "Personalizowanie YouTube"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Rozszerzenia do Reddita"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
