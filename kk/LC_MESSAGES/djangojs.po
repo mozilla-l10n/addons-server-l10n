@@ -497,7 +497,7 @@ msgstr ""
 
 #: static/js/zamboni/themes_review.js:199
 msgid "Requested Info"
-msgstr ""
+msgstr "Сұралған ақпарат"
 
 #: static/js/zamboni/themes_review.js:200
 msgid "Flagged"

@@ -111,6 +111,13 @@ msgid ""
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για τον χρόνο που αφιερώσατε για να μας εξηγήσετε αναλυτικότερα τις ανησυχίες σας.\n"
+"\n"
+"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν ορθή. Ως εκ τούτου, δεν θα προβούμε σε καμία ενέργεια κατά του λογαριασμού ή του περιεχομένου.\n"
+"%(manual_reasoning_text)s.\n"
+"\n"
+"Σας ευχαριστούμε και πάλι που μας βοηθάτε να διατηρούμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
@@ -120,6 +127,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
+"\n"
+"Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για τον χρόνο που αφιερώσατε για να μας εξηγήσετε αναλυτικότερα τις ανησυχίες σας.\n"
+"\n"
+"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε πλέον αφαιρέσει το περιεχόμενο και ειδοποιήσει τον χρήστη. Σας ευχαριστούμε που μας βοηθήσατε να λάβουμε τη σωστή απόφαση.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -129,6 +140,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για την παροχή περισσότερων πληροφοριών σχετικά με τις ανησυχίες σας.\n"
+"\n"
+"Αφού εξετάσαμε την ένστασή σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν ενημερώσει το περιεχόμενό του, θα το αφαιρέσουμε.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -138,6 +153,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το %(name)s, στη διεύθυνση %(target_url)s.\n"
+"\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), επομένως δεν θα εφαρμοστεί καμία ενέργεια συντονισμού. Ωστόσο, εκτιμούμε το γεγονός ότι μας το επισημάνατε.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
@@ -145,6 +164,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"Εάν θεωρείτε ότι το περιεχόμενο δεν συμμορφώνεται με τις πολιτικές της Mozilla, έχετε το δικαίωμα να ασκήσετε ένσταση για αυτήν την απόφαση εντός 6 μηνών από την ημερομηνία λήψης του παρόντος email."
+" Δείτε το %(appeal_url)s για λεπτομέρειες σχετικά με τη διαδικασία ένστασης, καθώς και τον τρόπο υποβολής ένστασης για τη συγκεκριμένη απόφαση."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -154,6 +175,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το ακόλουθο πρόσθετο στα Πρόσθετα Mozilla: %(name)s.\n"
+"\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Ως εκ τούτου, έχουμε αφαιρέσει το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -163,6 +188,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το ακόλουθο πρόσθετο στα Πρόσθετα Mozilla: %(name)s.\n"
+"\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν επιλύσει το ζήτημα, θα αφαιρέσουμε το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -1294,11 +1323,11 @@ msgstr "Ζητήθηκε έλεγχος καταχώρισης"
 #: src/olympia/constants/activity.py:1334
 #, python-brace-format
 msgid "Decision on {addon} made with no new action taken."
-msgstr ""
+msgstr "Η απόφαση για το {addon} ελήφθη χωρίς καμία νέα ενέργεια."
 
 #: src/olympia/constants/activity.py:1335
 msgid "Decision made"
-msgstr ""
+msgstr "Ελήφθη απόφαση"
 
 #: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:244
 msgid "Firefox"
@@ -3788,6 +3817,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε νέα κλειδιά API προγραμματιστή για το %(domain)s. Για να ολοκληρώσετε τη ρύθμισή τους, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"\n"
+"%(api_key_confirmation_link)s\n"
+"\n"
+"Εάν δεν ζητήσατε εσείς αυτά τα κλειδιά, μπορείτε να αγνοήσετε με ασφάλεια αυτό το email και δεν θα δημιουργηθεί κανένα κλειδί.\n"
+"\n"
+"\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/new-key-email.ltxt:14
 #, python-format
@@ -3807,6 +3846,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Μόλις προστέθηκε ένα νέο κλειδί API στον λογαριασμό σας:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Εάν το κάνατε εσείς, δεν απαιτείται καμία περαιτέρω ενέργεια.\n"
+"Εάν πιστεύετε ότι αυτό το κλειδί δημιουργήθηκε κατά λάθος, μπορείτε να το αφαιρέσετε και να απενεργοποιήσετε την πρόσβαση από εδώ:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Σας ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox,\n"
+"\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/revoked-key-email.ltxt:14
 #, python-format
@@ -3826,6 +3879,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Το παρακάτω κλειδί API ανακλήθηκε από τον λογαριασμό σας και δεν είναι πλέον διαθέσιμο προς χρήση:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Εάν το περιμένατε, δεν απαιτείται καμία περαιτέρω ενέργεια. \n"
+"Εάν πιστεύετε ότι το κλειδί ανακλήθηκε κατά λάθος, μπορείτε να δημιουργήσετε ένα νέο από εδώ:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Είμαστε στη διάθεσή σας αν κάτι δεν φαίνεται σωστό,\n"
+"\n"
+"Η ομάδα των Πρόσθετων Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/submission_api_key_revocation.txt:9
 #, python-format
@@ -3840,6 +3907,15 @@ msgid ""
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
+"Αγαπητέ προγραμματιστή προσθέτων,\n"
+"\n"
+"Θέλαμε να σας ενημερώσουμε άμεσα: διαπιστώσαμε ότι τα απόρρητα διαπιστευτήριά σας για το AMO API περιλαμβάνονταν σε ένα πρόσθετο που υποβλήθηκε στο addons.mozilla.org. Για την προστασία του λογαριασμού και των προσθέτων σας, ανακαλέσαμε ήδη τα επηρεασμένα διαπιστευτήρια. Δεν κάνατε κάτι λάθος, αυτό συμβαίνει μερικές φορές και είμαστε εδώ για να σας βοηθήσουμε να επανέλθετε.\n"
+"Μπορείτε να δημιουργήσετε νέα διαπιστευτήρια API ανά πάσα στιγμή στη διεύθυνση %(api_keys_url)s\n"
+"\n"
+"Για να διατηρήσετε ασφαλή τα διαπιστευτήριά σας από εδώ και στο εξής, είναι προτιμότερο να παραμένουν απόρρητα και να μην τα συμπεριλαμβάνετε σε δημόσια αποθετήρια, πρόσθετα ή άλλα δημόσια μέρη. Όποτε ευκαιρήσετε, καλό είναι να ελέγξετε τα αποθετήρια κώδικα και τις επεκτάσεις σας για να αφαιρέσετε τυχόν αναφορές στα διαπιστευτήριά σας για το AMO.\n"
+"\n"
+"Ευχαριστούμε,\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-completed.ltxt:6
 msgid ""
@@ -3850,6 +3926,12 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Η διεύθυνση email σας επαληθεύτηκε και όλα είναι έτοιμα. Σας ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox!\n"
+"\n"
+"\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-requested.ltxt:10
 #, python-format
@@ -3865,6 +3947,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε την επαλήθευση της διεύθυνσης email σας. Για να ολοκληρώσετε τη διαδικασία, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"\n"
+"%(confirmation_link)s\n"
+"\n"
+"Εάν δεν ζητήσατε εσείς την επαλήθευση, μπορείτε να αγνοήσετε με ασφάλεια αυτό το email.\n"
+"\n"
+"\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:6 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:4
 msgid "Invisible"
@@ -3984,7 +4076,7 @@ msgid ""
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 "Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, τις πολιτικές και τους κανόνες αξιολόγησης, καθώς και τις <a %(a_attrs)s href=\"%(faq_url)s\">συχνές "
-"ερωτήσεις</a>. Η Συμφωνία διανομής προσθέτων του Firefox συνδέεται επίσης με τη Σημείωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
+"ερωτήσεις</a>. Η Συμφωνία διανομής προσθέτων του Firefox συνδέεται επίσης με τη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -4216,7 +4308,7 @@ msgstr "Διεύθυνση email"
 #: src/olympia/devhub/templates/devhub/new-landing/components/connect.html:31
 #, python-format
 msgid "I’m okay with Mozilla handling my info as explained in this %(link_open)sPrivacy Notice%(link_close)s."
-msgstr "Δέχομαι την επεξεργασία των πληροφοριών μου από τη Mozilla, όπως εξηγεί η %(link_open)sΣημείωση απορρήτου%(link_close)s."
+msgstr "Δέχομαι την επεξεργασία των πληροφοριών μου από τη Mozilla, όπως εξηγεί η %(link_open)sΔήλωση απορρήτου%(link_close)s."
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/connect.html:40
 msgid "Sign Up"
@@ -5822,7 +5914,7 @@ msgstr "Προσαρμογή κινήσεων ποντικιού. Ανακαλύ
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:821
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
-msgstr ""
+msgstr "Εξαλείψτε τους περισπασμούς, προσαρμόστε την εμπειρία θέασης, αλλάξτε την ταχύτητα αναπαραγωγής και πολλά ακόμη."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:869
@@ -6663,7 +6755,7 @@ msgstr "Μη έγκυρο ID προσθέτου στο URL ή στο πακέτ�
 
 #: src/olympia/signing/views.py:209
 msgid "Only API v5+ supports enterprise channels."
-msgstr ""
+msgstr "Μόνο το API v5+ υποστηρίζει εταιρικά κανάλια."
 
 #: src/olympia/signing/views.py:222
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
@@ -7154,8 +7246,8 @@ msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
 " which explains how we handle your information."
 msgstr ""
-"Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, καθώς και τις Πολιτικές και τους Κανόνες αξιολόγησης. Η συμφωνία διανομής προσθέτων του Firefox θα σας "
-"παραπέμψει στη Σημείωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
+"Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, καθώς και τις πολιτικές και τους κανόνες αξιολόγησης. Η Συμφωνία διανομής προσθέτων του Firefox θα σας "
+"παραπέμψει στη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
 
 #: src/olympia/users/models.py:1377
 #, python-brace-format
@@ -7224,6 +7316,16 @@ msgid ""
 "Thanks for building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Ένας νέος δημιουργός προστέθηκε στο πρόσθετό σας %(addon_name)s ( %(addon_url)s ):\n"
+"\n"
+"%(author_name)s ( %(author_url)s ): %(author_role)s\n"
+"\n"
+"Εάν δεν αναμένατε αυτήν την αλλαγή, ελέγξτε τις ρυθμίσεις δημιουργών του προσθέτου σας στην παραπάνω σελίδα.\n"
+"\n"
+"Σας ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox,\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_added_confirmation.ltxt:12
 #, python-format
@@ -7241,6 +7343,18 @@ msgid ""
 "We are glad to have you building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας %(author_name)s,\n"
+"\n"
+"Έχουμε ευχάριστα νέα: έχετε προσκληθεί να γίνετε δημιουργός του %(addon_name)s στο %(domain)s. Εάν αποδεχτείτε την πρόσκληση, θα μπορείτε να επεξεργάζεστε το πρόσθετο, ενώ το όνομά σας ενδέχεται να εμφανίζεται στη λίστα δημιουργών στον ιστότοπο.\n"
+"\n"
+"Εάν επιθυμείτε να αποδεχτείτε την πρόσκληση, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"\n"
+"%(author_confirmation_link)s\n"
+"\n"
+"Εάν δεν περιμένατε αυτήν την πρόσκληση, μπορείτε να αγνοήσετε με ασφάλεια αυτό το email.\n"
+"\n"
+"Χαιρόμαστε που αναπτύσσετε περιεχόμενο για το Firefox,\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_changed.ltxt:3
 #, python-format
@@ -7277,6 +7391,15 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Γεια σας,\n"
+"\n"
+"Σας ενημερώνουμε ότι ο λογαριασμός χρήστη %(name)s στο %(site_url)s έχει διαγραφεί. Εάν διαγράψατε πρόσφατα τον λογαριασμό Mozilla σας, η διαγραφή αυτή ενδέχεται να πραγματοποιήθηκε αυτόματα στο πλαίσιο της συγκεκριμένης διαδικασίας.\n"
+"\n"
+"Σας ευχαριστούμε που υπήρξατε μέλος της κοινότητας προσθέτων του Firefox. Εάν θεωρείτε ότι η διαγραφή έγινε κατά λάθος ή έχετε οποιαδήποτε απορία, επικοινωνήστε μαζί μας.\n"
+"\n"
+"Με εκτίμηση,\n"
+"\n"
+"Η ομάδα των Προσθέτων Mozilla"
 
 #: src/olympia/versions/models.py:1140
 #, python-format

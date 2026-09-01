@@ -6313,12 +6313,12 @@ msgstr "Больше набирающих популярность тем"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1205 src/olympia/discovery/strings.jinja2:1250
 msgid "Top rated themes"
-msgstr "Самые высоко оцененные темы"
+msgstr "Самые высоко оценённые темы"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1207 src/olympia/discovery/strings.jinja2:1252
 msgid "See more top rated themes"
-msgstr "Больше самых высоко оцененных тем"
+msgstr "Больше самых высоко оценённых тем"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1210
