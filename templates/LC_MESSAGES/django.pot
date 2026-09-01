@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-01 15:13+0000\n"
+"POT-Creation-Date: 2026-09-01 16:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -369,6 +369,14 @@ msgstr ""
 msgid "Images must be smaller than %dMB"
 msgstr ""
 
+#: src/olympia/addons/filters.py:19 src/olympia/search/filters.py:45
+#: src/olympia/search/filters.py:58 src/olympia/search/filters.py:91
+#: src/olympia/search/filters.py:166 src/olympia/search/filters.py:206
+#: src/olympia/search/filters.py:352 src/olympia/search/filters.py:457
+#, python-format
+msgid "Invalid \"%s\" parameter."
+msgstr ""
+
 #: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438
 #: src/olympia/constants/base.py:72
 msgid "Listed"
@@ -386,7 +394,7 @@ msgstr ""
 msgid "File is already disabled."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:559 src/olympia/addons/views.py:780
+#: src/olympia/addons/serializers.py:559 src/olympia/addons/views.py:811
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted because the "
@@ -7338,14 +7346,6 @@ msgstr ""
 
 #: src/olympia/scanners/templates/admin/scanners/scannerresult/pagination.html:12
 msgid "Save"
-msgstr ""
-
-#: src/olympia/search/filters.py:45 src/olympia/search/filters.py:58
-#: src/olympia/search/filters.py:91 src/olympia/search/filters.py:166
-#: src/olympia/search/filters.py:206 src/olympia/search/filters.py:352
-#: src/olympia/search/filters.py:457
-#, python-format
-msgid "Invalid \"%s\" parameter."
 msgstr ""
 
 #: src/olympia/search/filters.py:210 src/olympia/search/filters.py:330

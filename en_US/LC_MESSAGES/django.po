@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-01 15:13+0000\n"
+"POT-Creation-Date: 2026-09-01 16:22+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -373,6 +373,12 @@ msgstr "Can not override compatibility information set in the manifest for this 
 msgid "Images must be smaller than %dMB"
 msgstr "Images must be smaller than %dMB"
 
+#: src/olympia/addons/filters.py:19 src/olympia/search/filters.py:45 src/olympia/search/filters.py:58 src/olympia/search/filters.py:91 src/olympia/search/filters.py:166
+#: src/olympia/search/filters.py:206 src/olympia/search/filters.py:352 src/olympia/search/filters.py:457
+#, fuzzy, python-format
+msgid "Invalid \"%s\" parameter."
+msgstr "Invalid version range."
+
 # Column name in a table.
 #: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -390,7 +396,7 @@ msgstr "Upload is not valid."
 msgid "File is already disabled."
 msgstr "File is already disabled."
 
-#: src/olympia/addons/serializers.py:559 src/olympia/addons/views.py:780
+#: src/olympia/addons/serializers.py:559 src/olympia/addons/views.py:811
 #, python-format
 msgid "The latest approved version of this %s add-on cannot be deleted because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr "The latest approved version of this %s add-on cannot be deleted because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
@@ -6967,12 +6973,6 @@ msgstr "Show all"
 #: src/olympia/scanners/templates/admin/scanners/scannerresult/pagination.html:12
 msgid "Save"
 msgstr "Save"
-
-#: src/olympia/search/filters.py:45 src/olympia/search/filters.py:58 src/olympia/search/filters.py:91 src/olympia/search/filters.py:166 src/olympia/search/filters.py:206
-#: src/olympia/search/filters.py:352 src/olympia/search/filters.py:457
-#, fuzzy, python-format
-msgid "Invalid \"%s\" parameter."
-msgstr "Invalid version range."
 
 #: src/olympia/search/filters.py:210 src/olympia/search/filters.py:330
 #, python-format
