@@ -6183,7 +6183,7 @@ msgstr "Personalización de YouTube"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Extensiones de Reddit"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
@@ -6720,7 +6720,7 @@ msgstr "ID de complemento no válido en URL o paquete"
 
 #: src/olympia/signing/views.py:209
 msgid "Only API v5+ supports enterprise channels."
-msgstr ""
+msgstr "Solo la API v5 o posterior soporta canales empresariales."
 
 #: src/olympia/signing/views.py:222
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
