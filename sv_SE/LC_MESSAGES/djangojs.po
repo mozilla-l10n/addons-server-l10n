@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-02 14:05+0000\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "Ditt tillägg bör sluta med .zip, .xpi eller .crx"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% klart"
 
@@ -437,7 +439,7 @@ msgid_plural "{files} files"
 msgstr[0] "{files} fil"
 msgstr[1] "{files} filer"
 
-#: static/js/zamboni/devhub.js:1233
+#: static/js/zamboni/devhub.js:1244
 msgid "Image changes being processed"
 msgstr "Bildändringar behandlas"
 

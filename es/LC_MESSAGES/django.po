@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-02 11:36+0000\n"
+"POT-Creation-Date: 2026-09-02 14:05+0000\n"
 "PO-Revision-Date: 2024-01-15 13:27+0000\n"
 "Last-Translator: Bund10z <abu.avila@gmail.com>\n"
 "Language-Team: Español (España) <nave@elistas.net>\n"
@@ -262,7 +262,7 @@ msgstr ""
 msgid "Add-on"
 msgstr "Complemento"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr ""
 
@@ -284,11 +284,11 @@ msgstr ""
 msgid "URL domain must be one of [{domains}]."
 msgstr ""
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "La ruta URL para los patrocinadores de GitHub debe contener /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "URLs debe comenzar con https://."
 
@@ -302,7 +302,7 @@ msgstr ""
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr ""
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Archivo no válido o efectivo."
 
@@ -335,7 +335,7 @@ msgid "Invalid \"%s\" parameter."
 msgstr "Parámetro \"%s\" inválido."
 
 # Column name in a table.
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "Listado"
 
@@ -369,7 +369,7 @@ msgstr ""
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr ""
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
@@ -386,11 +386,11 @@ msgstr ""
 msgid "Account not found."
 msgstr "Cuenta no encontrada."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Un autor sólo puede ser listado una vez."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "La cuenta necesita un nombre para mostrar antes de poder agregarla como autor."
 
@@ -511,7 +511,7 @@ msgstr "Enviar un nuevo tema"
 msgid "Developer Hub"
 msgstr "Centro de Desarrolladores"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "Administrar llaves API"
 
@@ -1599,7 +1599,7 @@ msgstr "Desarrollo web"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Descarga extensiones de Firefox que promocionan herramientas de desarrollo web. Esta categoría incluye extensiones para GitHub, gestión de cookies y mucho más."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Otro"
 
@@ -1849,264 +1849,256 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Este slug no puede ser \"%(slug)s\". Por favor, elige otro."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Solo puedes tener {0} categoría."
 msgstr[1] "Solo puedes tener {0} categorías."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "La categoría miscelánea no puede combinarse con categorías adicionales."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, fuzzy, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "La URL del dominio tiene que ser una de [%s] o un subdominio."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "Tienes {0} etiquetas de más."
 msgstr[1] "Tienes {0} etiquetas de más."
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Antes de cambiar tu idioma predeterminado, debes tener un nombre, un resumen y una descripción en dicho idioma. Te falta %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "Los usuarios no se pueden agregar directamente"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Debe tener al menos un propietario."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Debe listarse al menos un autor."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Slug incorrecto."
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Detalles"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "¿Cuál es el nombre de tu licencia?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Licencia personalizada"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Proporciona el texto de tu licencia."
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "Cuando se elige Otro, el texto de la licencia es obligatorio."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "Este complemento tiene una Licencia de Usuario Final"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Especifica la Licencia de Usuario Final de tu complemento:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "Este complemento tiene una política de privacidad"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Especifica la política de privacidad del complemento:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "No se admite ese tipo de archivo. Por favor, sube un archivo con formato {extensions}."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Ver actual"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Rango de versión incorrecto."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Es necesaria al menos una aplicación compatible."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "Hay un error con tu envío. Vuelve a intentarlo."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "Ignorar error en la validación"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Es necesario seleccionar al menos una aplicación."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Has enviado demasiadas subidas últimamente. Vuelve a intentarlo dentro de poco."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "La versión {version} fue cargada anteriormente y eliminada."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "La versión {version} ya existe."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "¿Continuar con la carga ya existente?"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Sí"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "No"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "No has enviado un archivo de código fuente."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Se subió el archivo fuente, pero nos indicaste que no se requería una fuente."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Asegúrate de que el nombre y la descripción, combinados, tienen como mucho {limit_value} caracteres (ahora mismo tienen {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
 "on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Nombre para mostrar"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Generar nuevas credenciales"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Revocar y generar credenciales"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Revocar"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "No tienes credenciales API."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr ""
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr ""
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr ""
 
@@ -2290,108 +2282,108 @@ msgstr "Esta subida ha fallado la validación y puede carecer de resultados de v
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr ""
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "Fondo del área del título"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "El color de fondo del área del título, que aparece en la parte del título que no está cubierta o visible a través de la imagen. Campo del manifiesto:  frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Texto e iconos del área del título"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "El color del texto y los iconos del área del título, excepto en la pestaña activa. Campo del manifiesto:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Fondo del área de la barra de herramientas"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 #, fuzzy
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "El color de fondo de la barra de navegación, barra de marcadores y la pestaña seleccionada.  Campo de manifiesto:  toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Texto e iconos de la barra de herramientas"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "El color del texto y de los iconos en la barra de herramientas y la pestaña activa. Campo del manifiesto:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Fondo de los campos de la barra de herramientas"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "El color de fondo de los campos de la barra de herramientas, como el de la barra de URL. Campo del manifiesto:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Texto de los campos de la barra de herramientas"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "El color del texto de los campos de la barra de herramientas, como la barra de URL. Campo del manifiesto:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr ""
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr ""
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Revisión solicitada."
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "Debes proporcionar más detalles para continuar."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr ""
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Se han revocado tus antiguas credenciales y ya no son válidas."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr ""
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Nueva clave API creada"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "Clave API revocada"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr ""
 
@@ -2838,7 +2830,7 @@ msgstr "o"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -4116,19 +4108,19 @@ msgid "Distribution channel"
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Versión"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr ""
 

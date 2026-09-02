@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-02 14:05+0000\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -28,7 +30,7 @@ msgstr "आपके ऐड-ऑन के आखिर में .zip, .xpi, .cr
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% पूर्ण"
 
@@ -133,9 +135,7 @@ msgstr "विस्तृत संस्करण नोट्स शामि
 
 #: static/js/common/upload-addon.js:654
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
-msgstr ""
-"यदि आपके ऐड-ऑन को पूरी तरह से परीक्षण करने के लिए किसी वेबसाइट पर एक खाता की आवश्यकता होती है, तो रिव्यूर हेतु नोट्स में एक टेस्ट उपयोगकर्ता नाम और पासवर्ड शामिल करें (यह अगले चरण में किया जा सकता "
-"है)."
+msgstr "यदि आपके ऐड-ऑन को पूरी तरह से परीक्षण करने के लिए किसी वेबसाइट पर एक खाता की आवश्यकता होती है, तो रिव्यूर हेतु नोट्स में एक टेस्ट उपयोगकर्ता नाम और पासवर्ड शामिल करें (यह अगले चरण में किया जा सकता है)."
 
 #: static/js/common/upload-addon.js:660
 msgid "Add-on submission checklist"
@@ -151,8 +151,8 @@ msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"संकलित बाइनरी, साथ ही minified या obfuscated स्क्रिप्ट (ज्ञात पुस्तकालयों को छोड़कर) को अपने स्रोतों को समीक्षा के लिए अलग से सबमिट करने की आवश्यकता है. सुनिश्चित करें कि आप अपना सबमिशन अस्वीकार "
-"होने से बचने के लिए सोर्स कोड अपलोड फ़ील्ड का उपयोग करते हैं."
+"संकलित बाइनरी, साथ ही minified या obfuscated स्क्रिप्ट (ज्ञात पुस्तकालयों को छोड़कर) को अपने स्रोतों को समीक्षा के लिए अलग से सबमिट करने की आवश्यकता है. सुनिश्चित करें कि आप अपना सबमिशन अस्वीकार होने से बचने के लिए सोर्स कोड "
+"अपलोड फ़ील्ड का उपयोग करते हैं."
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
@@ -441,7 +441,7 @@ msgid_plural "{files} files"
 msgstr[0] "{files} फ़ाइल"
 msgstr[1] "{files} फ़ाइलें"
 
-#: static/js/zamboni/devhub.js:1233
+#: static/js/zamboni/devhub.js:1244
 msgid "Image changes being processed"
 msgstr "छवि परिवर्तनो को संसाधित किया जा रहा है"
 

@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-02 14:05+0000\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -116,7 +119,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -125,7 +129,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -134,14 +139,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -150,7 +156,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -159,7 +166,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -246,7 +254,7 @@ msgstr "ਮੰਗ ਕੀਤੀ ਸਮਗੱਰੀ ਦੀ ਲੰਬਾਈ ਬਹ�
 msgid "Add-on"
 msgstr "ਐਡ-ਆਨ"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr ""
 
@@ -268,11 +276,11 @@ msgstr "ਕੈਟਾਗਰੀ ਨਾਂ ਗਲਤ ਹੈ।"
 msgid "URL domain must be one of [{domains}]."
 msgstr "URL ਡੋਮਨ [{domains}] ਵਿੱਚੋਂ ਇੱਕ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr ""
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "URL https:// ਨਾਲ ਸ਼ੁਰੂ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।"
 
@@ -286,7 +294,7 @@ msgstr ""
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr ""
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "ਅਵੈਧ ਜਾਂ ਖਰਾਬ ਆਰਕਾਈਵ।"
 
@@ -318,7 +326,7 @@ msgstr ""
 msgid "Invalid \"%s\" parameter."
 msgstr "ਗਲਤ \"%s\" ਪੈਰਾਮੀਟਰ ਹੈ।"
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "ਸੂਚੀਬੱਧ"
 
@@ -352,7 +360,7 @@ msgstr ""
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr ""
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
@@ -369,11 +377,11 @@ msgstr ""
 msgid "Account not found."
 msgstr "ਖਾਤਾ ਨਹੀਂ ਲੱਭਿਆ।"
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "ਇੱਕ ਲੇਖਕ ਸਿਰਫ ਇੱਕ ਵਾਰ ਮੌਜੂਦ ਹੋ ਸਕਦਾ ਹੈ।"
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "ਇਸ ਨੂੰ ਲੇਖਕ ਦੇ ਤੌਰ ਤੇ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਖਾਤੇ ਨੂੰ ਪ੍ਰਦਰਸ਼ਤ ਨਾਮ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ।"
 
@@ -494,7 +502,7 @@ msgstr "ਇੱਕ ਨਵਾਂ ਥੀਮ ਭੇਜੋ"
 msgid "Developer Hub"
 msgstr "ਡਿਵੈਲਪਰ ਸੱਥ"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "API ਕੁੰਜੀਆਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ"
 
@@ -568,8 +576,8 @@ msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
 msgstr ""
-"ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਇਸ HTTPS ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵੈਬ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਭੇਜੇ ਜਾਣ ਵਾਲੇ 'ਰੈਫਰਰ ਹੈਡਰ' ਦੀ ਲੋੜ ਹੈ, ਪਰ ਕੋਈ ਵੀ ਨਹੀਂ ਭੇਜਿਆ ਗਿਆ ਸੀ। ਇਹ ਸਿਰਲੇਖ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ"
-" ਲਈ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
+"ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਇਸ HTTPS ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵੈਬ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਭੇਜੇ ਜਾਣ ਵਾਲੇ 'ਰੈਫਰਰ ਹੈਡਰ' ਦੀ ਲੋੜ ਹੈ, ਪਰ ਕੋਈ ਵੀ ਨਹੀਂ ਭੇਜਿਆ ਗਿਆ ਸੀ। ਇਹ ਸਿਰਲੇਖ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ "
+"ਦੁਆਰਾ ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -579,9 +587,7 @@ msgstr "ਜੇ ਤੁਸੀਂ 'ਸੁਧਾਰਕ' ਸਿਰਲੇਖ ਨੂੰ
 msgid ""
 "You are seeing this message because this site requires a CSRF cookie when submitting forms. This cookie is required for security reasons, to ensure that your browser is not being hijacked by third "
 "parties."
-msgstr ""
-"ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਫਾਰਮ ਜਮ੍ਹਾਂ ਕਰਦੇ ਸਮੇਂ ਇਸ ਸਾਈਟ ਨੂੰ ਸੀਐਸਆਰਐਫ ਕੂਕੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਇਹ ਕੂਕੀ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਸੁਨਿਸਚਿਤ ਕਰਨ ਲਈ ਕਿ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ "
-"ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
+msgstr "ਤੁਸੀਂ ਇਹ ਸੁਨੇਹਾ ਵੇਖ ਰਹੇ ਹੋ ਕਿਉਂਕਿ ਫਾਰਮ ਜਮ੍ਹਾਂ ਕਰਦੇ ਸਮੇਂ ਇਸ ਸਾਈਟ ਨੂੰ ਸੀਐਸਆਰਐਫ ਕੂਕੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਇਹ ਕੂਕੀ ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਕਰਕੇ ਜ਼ਰੂਰੀ ਹੈ, ਇਹ ਸੁਨਿਸਚਿਤ ਕਰਨ ਲਈ ਕਿ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ ਹਾਈਜੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।"
 
 #: src/olympia/amo/templates/amo/404.html:3
 msgid "Not Found"
@@ -596,12 +602,11 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ, ਪਰ ਤੁਸੀਂ ਜਿਸਦੀ ਭਾਲ ਕਰ ਰਹੇ ਹੋ ਅਸੀਂ ਉਹ ਲੱਭ ਨਹੀਂ ਸਕੇ।</h1> <p> ਜਿਸ ਵਰਕੇ ਜਾਂ ਫ਼ਾਈਲ ਦੀ ਬੇਨਤੀ ਤੁਸੀਂ ਕੀਤੀ ਸੀ, ਉਹ ਸਾਡੀ ਸਾਈਟ ਤੇ ਨਹੀਂ ਲੱਭੀ। ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੇਲਾ ਵਿਹਾ ਚੁੱਕੀ ਕਿਸੇ ਤੰਦ"
-" ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਹੋਵੇ, ਜਾਂ ਫਿਰ ਤੁਸੀਂ ਗਲਤ ਪਤਾ ਲਿਖ ਦਿੱਤਾ ਹੋਵੇ। </p> <ul> <li>ਜੇਕਰ ਤੁਸੀਂ ਪਤਾ ਲਿਖਿਆ ਹੈ ਤਾਂ ਸ਼ਬਦ ਜੋੜ ਦੀ ਪੜਤਾਲ ਕਰੋ।</li> <li> ਜੇਕਰ ਤੁਸੀਂ ਤੰਦ ਕਿਸੇ ਹੋਰ ਥਾਂ ਤੋਂ ਲਈ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ "
-"%(open_bug_link)sਮਾਮਲਾ ਦਰਜ ਕਰਾਉ%(close_bug_link)s। ਸਾਨੂੰ ਦੱਸੋ ਤੁਸੀਂ ਕਿੱਥੋਂ ਆਏ ਅਤੇ ਕੀ ਭਾਲ ਰਹੇ ਸੀ, ਅਤੇ ਅਸੀਂ ਇਸਦੀ ਮੁਰੰਮਤ ਲਈ ਪੂਰਾ ਜ਼ੋਰ ਲਾਵਾਂਗੇ। </li> </ul> <p>ਜਾਂ ਫਿਰ ਤੁਸੀਂ ਸਾਡੀ ਸਾਈਟ ਦੇ ਕੁੱਝ ਮਸ਼ਹੂਰ "
-"ਸਫ਼ਿਆਂ ਨੂੰ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।</p> <ul> <li>ਕੀ ਤੁਹਾਨੂੰ <a href=\"%(rec)s\">ਪੇਸ਼ ਕੀਤੇ ਐਡ-ਆਨਾਂ ਦੀ ਸੂਚੀ</a> ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੈ?</li> <li> ਕੀ ਤੁਸੀਂ <a href=\"%(search)s\">ਐਡ-ਆਨਾਂ ਲਈ ਖੋਜ</a> ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? "
-"ਤੁਸੀਂ <a href=\"%(search)s\">ਖੋਜ ਸਫ਼ੇ</a> ਤੇ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫਿਰ ਉੱਪਰ ਦਿੱਤਾ ਖੋਜ ਖਾਨਾ ਵਰਤ ਸਕਦੇ ਹੋ। </li> <li> ਜੇਕਰ ਤੁਸੀਂ ਮੁੜ ਤੋਂ ਸ਼ੁਰੂਆਤ ਕਰਨ ਨੂੰ ਤਰਜੀਹ ਦੇਣੀ ਚਾਹੋ, ਤਾਂ ਤੁਸੀਂ <a href=\"%(home)s\">ਐਡ-ਆਨ ਦੇ "
-"ਮੁੱਖ ਸਫ਼ੇ</a> ਤੇ ਜਾਉ।</li> </ul>"
+"<h1>ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ, ਪਰ ਤੁਸੀਂ ਜਿਸਦੀ ਭਾਲ ਕਰ ਰਹੇ ਹੋ ਅਸੀਂ ਉਹ ਲੱਭ ਨਹੀਂ ਸਕੇ।</h1> <p> ਜਿਸ ਵਰਕੇ ਜਾਂ ਫ਼ਾਈਲ ਦੀ ਬੇਨਤੀ ਤੁਸੀਂ ਕੀਤੀ ਸੀ, ਉਹ ਸਾਡੀ ਸਾਈਟ ਤੇ ਨਹੀਂ ਲੱਭੀ। ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੇਲਾ ਵਿਹਾ ਚੁੱਕੀ ਕਿਸੇ ਤੰਦ ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਹੋਵੇ, ਜਾਂ ਫਿਰ ਤੁਸੀਂ "
+"ਗਲਤ ਪਤਾ ਲਿਖ ਦਿੱਤਾ ਹੋਵੇ। </p> <ul> <li>ਜੇਕਰ ਤੁਸੀਂ ਪਤਾ ਲਿਖਿਆ ਹੈ ਤਾਂ ਸ਼ਬਦ ਜੋੜ ਦੀ ਪੜਤਾਲ ਕਰੋ।</li> <li> ਜੇਕਰ ਤੁਸੀਂ ਤੰਦ ਕਿਸੇ ਹੋਰ ਥਾਂ ਤੋਂ ਲਈ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ %(open_bug_link)sਮਾਮਲਾ ਦਰਜ ਕਰਾਉ%(close_bug_link)s। ਸਾਨੂੰ ਦੱਸੋ ਤੁਸੀਂ ਕਿੱਥੋਂ ਆਏ "
+"ਅਤੇ ਕੀ ਭਾਲ ਰਹੇ ਸੀ, ਅਤੇ ਅਸੀਂ ਇਸਦੀ ਮੁਰੰਮਤ ਲਈ ਪੂਰਾ ਜ਼ੋਰ ਲਾਵਾਂਗੇ। </li> </ul> <p>ਜਾਂ ਫਿਰ ਤੁਸੀਂ ਸਾਡੀ ਸਾਈਟ ਦੇ ਕੁੱਝ ਮਸ਼ਹੂਰ ਸਫ਼ਿਆਂ ਨੂੰ ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।</p> <ul> <li>ਕੀ ਤੁਹਾਨੂੰ <a href=\"%(rec)s\">ਪੇਸ਼ ਕੀਤੇ ਐਡ-ਆਨਾਂ ਦੀ ਸੂਚੀ</a> ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੈ?"
+"</li> <li> ਕੀ ਤੁਸੀਂ <a href=\"%(search)s\">ਐਡ-ਆਨਾਂ ਲਈ ਖੋਜ</a> ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਸੀਂ <a href=\"%(search)s\">ਖੋਜ ਸਫ਼ੇ</a> ਤੇ ਜਾ ਸਕਦੇ ਹੋ ਜਾਂ ਫਿਰ ਉੱਪਰ ਦਿੱਤਾ ਖੋਜ ਖਾਨਾ ਵਰਤ ਸਕਦੇ ਹੋ। </li> <li> ਜੇਕਰ ਤੁਸੀਂ ਮੁੜ ਤੋਂ ਸ਼ੁਰੂਆਤ ਕਰਨ ਨੂੰ ਤਰਜੀਹ "
+"ਦੇਣੀ ਚਾਹੋ, ਤਾਂ ਤੁਸੀਂ <a href=\"%(home)s\">ਐਡ-ਆਨ ਦੇ ਮੁੱਖ ਸਫ਼ੇ</a> ਤੇ ਜਾਉ।</li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -612,8 +617,7 @@ msgstr "ਓ ਹੋ"
 msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
-msgstr ""
-"<h1>ਓ ਹੋ!  ਸਾਨੂੰ ਗ਼ਲਤੀ ਮਿਲੀ।</h1> <p>ਅਸੀਂ ਛੇਤੀ ਹੋ ਇਸਨੂੰ ਸੋਧਣ ਵਿੱਚ ਲੱਗ ਜਾਵਾਂਗੇ।</ p> <p> ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਨੂੰ ਤਾਜਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ <a href=\"%(home)s\">ਐਡਆਨ ਮੁੱਖ-ਸਫ਼ੇ</a> ਤੇ ਵਾਪਸ ਜਾਓ। </p>"
+msgstr "<h1>ਓ ਹੋ!  ਸਾਨੂੰ ਗ਼ਲਤੀ ਮਿਲੀ।</h1> <p>ਅਸੀਂ ਛੇਤੀ ਹੋ ਇਸਨੂੰ ਸੋਧਣ ਵਿੱਚ ਲੱਗ ਜਾਵਾਂਗੇ।</ p> <p> ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਨੂੰ ਤਾਜਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ <a href=\"%(home)s\">ਐਡਆਨ ਮੁੱਖ-ਸਫ਼ੇ</a> ਤੇ ਵਾਪਸ ਜਾਓ। </p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1462,9 +1466,7 @@ msgstr "ਚੇਤਾਵਨੀਆਂ ਅਤੇ ਅੱਪਡੇਟ"
 
 #: src/olympia/constants/categories.py:70
 msgid "Download Firefox extensions that help you stay up-to-date, track tasks, improve efficiency. Find extensions that reload tabs, manage productivity, and more."
-msgstr ""
-"Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਤੁਹਾਨੂੰ ਅਪ-ਟੂ-ਡੇਟ ਰਹਿਣ, ਕੰਮ ਨੂੰ ਟਰੈਕ ਕਰਨ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ, ਜੋ ਟੈਬਾਂ ਮੁੜ ਲੋਡ ਕਰਦੀਆਂ ਹਨ, ਪਰਦਰਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦੀਆਂ "
-"ਹਨ, ਅਤੇ ਹੋਰ ਵੀ।"
+msgstr "Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਤੁਹਾਨੂੰ ਅਪ-ਟੂ-ਡੇਟ ਰਹਿਣ, ਕੰਮ ਨੂੰ ਟਰੈਕ ਕਰਨ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ, ਜੋ ਟੈਬਾਂ ਮੁੜ ਲੋਡ ਕਰਦੀਆਂ ਹਨ, ਪਰਦਰਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦੀਆਂ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ।"
 
 #: src/olympia/constants/categories.py:78
 msgid "Appearance"
@@ -1488,9 +1490,7 @@ msgstr "ਡਾਊਨਲੋਡ ਇੰਤਜ਼ਾਮ"
 
 #: src/olympia/constants/categories.py:99
 msgid "Download Firefox extensions that can help download web, music and video content. You can also find extensions to manage downloads, share files, and more."
-msgstr ""
-"Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਵੈੱਬ, ਸੰਗੀਤ ਅਤੇ ਵਿਡੀਓ ਸਮੱਗਰੀ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਡਾਊਨਲੋਡ ਦੇ ਇੰਤਜ਼ਾਮ, ਫਾਇਲਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਕਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਲੱਭ "
-"ਸਕਦੇ ਹੋ।"
+msgstr "Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ, ਜੋ ਵੈੱਬ, ਸੰਗੀਤ ਅਤੇ ਵਿਡੀਓ ਸਮੱਗਰੀ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਡਾਊਨਲੋਡ ਦੇ ਇੰਤਜ਼ਾਮ, ਫਾਇਲਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਕਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਲੱਭ ਸਕਦੇ ਹੋ।"
 
 #: src/olympia/constants/categories.py:106
 msgid "Feeds, News & Blogging"
@@ -1531,8 +1531,7 @@ msgstr "ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ"
 
 #: src/olympia/constants/categories.py:144
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
-msgstr ""
-"ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਇਸ ਵਰਗ ਵਿੱਚ ਤੰਗ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਰੋਕਣ, ਟਰੈਕਿੰਗ ਨੂੰ ਰੋਕਣ, ਰੀਡਾਇਰੈਕਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਸ਼ਾਮਲ ਹਨ।"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਇਸ ਵਰਗ ਵਿੱਚ ਤੰਗ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਰੋਕਣ, ਟਰੈਕਿੰਗ ਨੂੰ ਰੋਕਣ, ਰੀਡਾਇਰੈਕਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰਨ ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ ਸ਼ਾਮਲ ਹਨ।"
 
 #: src/olympia/constants/categories.py:152
 msgid "Search Tools"
@@ -1564,8 +1563,7 @@ msgstr "ਟੈਬਾਂ"
 
 #: src/olympia/constants/categories.py:181
 msgid "Download Firefox extension to customize tabs and the new tab page. Discover extensions that can control tabs, change the way you interact with them, and more."
-msgstr ""
-"ਟੈਬਾਂ ਅਤੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ਾ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਖੋਜੋ, ਜੋ ਟੈਬਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਸਕਦੀਆਂ ਹਨ, ਉਨ੍ਹਾਂ ਨਾਲ ਕਿਵੇਂ ਤਾਲਮੇਲ ਬਿਠਾ ਸਕਦੀਆਂ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ।"
+msgstr "ਟੈਬਾਂ ਅਤੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ਾ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਖੋਜੋ, ਜੋ ਟੈਬਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਸਕਦੀਆਂ ਹਨ, ਉਨ੍ਹਾਂ ਨਾਲ ਕਿਵੇਂ ਤਾਲਮੇਲ ਬਿਠਾ ਸਕਦੀਆਂ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ।"
 
 #: src/olympia/constants/categories.py:188
 msgid "Web Development"
@@ -1575,7 +1573,7 @@ msgstr "ਵੈੱਬ ਵਿਕਾਸ"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲਾਂ ਦੇ ਫ਼ੀਚਰਾਾਂ ਵਾਲੀਆਂ Firefox ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। ਇਸ ਵਰਗ ਵਿੱਚ GitHub, ਵਰਤੋਂਕਾਰ ਏਜੰਟ ਸਵਿਚਿੰਗ, ਕੂਕੀ ਇੰਤਜ਼ਾਮ, ਅਤੇ ਹੋਰ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ ਸ਼ਾਮਲ ਹਨ।"
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "ਹੋਰ"
 
@@ -1823,264 +1821,256 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "ਸਲਗ \"%(slug)s\" ਨਹੀਂ ਹੋ ਸਕਦਾ। ਕੋਈ ਹੋਰ ਚੁਣੋ।"
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "ਤੁਹਾਡੇ ਕੋਲ ਕੇਵਲ {0} ਵਰਗ ਹੋ ਸਕਦਾ ਹਨ।"
 msgstr[1] "ਤੁਹਾਡੇ ਕੋਲ ਕੇਵਲ {0} ਵਰਗ ਹੋ ਸਕਦੇ ਹਨ।"
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "ਫ਼ੁਟਕਲ ਵਰਗ ਹੋਰ ਵਰਗਾਂ ਨਾਲ ਜੋੜਿਆ ਨਹੀਂਂ ਜਾ ਸਕਦਾ।"
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, fuzzy, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "URL ਡੋਮੇਨ [%s] ਵਿੱਚੋਂ ਇੱਕ, ਜਾਂ ਸਬਡੋਮੇਨ ਹੋਣਾ ਜਰੂਰੀ ਹੈ।"
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "ਤੁਹਾਡੇ ਕੋਲ {0} ਬਹੁਤ ਸਾਰੇ ਟੈਗ ਹਨ।"
 msgstr[1] "ਤੁਹਾਡੇ ਕੋਲ {0} ਬਹੁਤ ਸਾਰੇ ਟੈਗ ਹਨ।"
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "ਤੁਹਾਡਾ ਮੂਲ ਲੋਕੇਲ ਬਦਲਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਕੋਲ ਉਸ ਲੋਕੇਲ ਵਿੱਚ ਇੱਕ ਨਾਂ, ਸੰਖੇਪ ਖੁਲਾਸਾ, ਅਤੇ ਵੇਰਵਾ ਜ਼ਰੂਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਤੁਸੀਂ %s ਭੁੱਲ ਗਏ ਹੋ।"
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "ਵਰਤੋਂਕਾਰ ਸਿੱਧੇ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "ਘੱਟੋ-ਘੱਟ ਇੱਕ ਮਾਲਕ ਜ਼ਰੂਰ ਹੋਣਾ ਚਾਹੀਦਾ।"
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "ਘੱਟੋ-ਘੱਟ ਇੱਕ ਲੇਖਕ ਜ਼ਰੂਰ ਸੂਚੀਬੱਧ ਕੀਤ ਜਾਣਾ ਚਾਹੀਦਾ।"
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "ਸਲਗ ਗਲਤ ਹੈ।"
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "ਵੇਰਵੇ"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "ਤੁਹਾਡੇ ਲਸੰਸ ਦਾ ਨਾਂ ਕੀ ਹੈ?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "ਚੋਣਵਾਂ ਲਸੰਸ"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "ਤੁਹਾਡੇ ਲਸੰਸ ਦੀ ਲਿਖਤ ਦਵੋ।"
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "ਲਸੰਸ ਲਿਖਤ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਜਦੋਂ ਹੋਰ ਦੀ ਚੋਣ ਕਰ ਰਹੇ ਹੋਵੋ।"
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "ਇਸ ਐਡ-ਆਨ ਕੋਲ ਅੰਤਮ-ਵਰਤੋਂਕਾਰ ਲਸੰਸ ਸਮਝੌਤਾ ਹੈ"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "ਆਪਣੇ ਐਡ-ਆਨ ਦਾ ਅੰਤਿਮ-ਵਰਤੋਂਕਾਰ ਲਸੰਸ ਸਮਝੌਤਾ ਨਿਰਧਾਰਤ ਕਰੋ:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "ਇਸ ਐਡ-ਆਨ ਦੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਹੈ"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "ਆਪਣੇ ਐਡ-ਆਨ ਦੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨਿਰਧਾਰਤ ਕਰੋ:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "ਫ਼ਾਇਲ ਕਿਸਮ ਸਹਿਯੋਗੀ ਨਹੀਂ, ਅਕਾਈਵ ਫ਼ਾਇਲ {extensions} ਅੱਪਲੋਡ ਕਰੋ।"
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "ਮੌਜੂਦਾ ਵੇਖੋ"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "ਗਲਤ ਵਰਜ਼ਨ ਹੱਦ।"
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "ਘੱਟੋ-ਘੱਟ ਇੱਕ ਅਨੁਕੂਲ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਲੋੜ।"
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "ਤੁਹਾਡੇ ਅੱਪਲੋਡ ਵਿੱਚ ਇੱਕ ਖਾਮੀ ਆਈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ ਕਰੋ।"
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "ਓਵਰਰਾਈਡ ਪ੍ਰਮਾਣਿਕਤਾ ਫ਼ੇਲ੍ਹ ਹੋਈ"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "ਘੱਟੋ-ਘੱਟ ਇੱਕ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਚੁਣਨ ਦੀ ਲੋੜ ਹੈ।"
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "ਤੁਸੀਂ ਹਾਲ ਹੀ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਅਪਲੋਡ ਕੀਤੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਕੁਝ ਸਮੇਂ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "ਵਰਜ਼ਨ {version} ਪਹਿਲਾਂ ਹੀ ਅੱਪਲੋਡ ਕੀਤਾ ਅਤੇ ਹਟਾਇਆ ਗਿਆ ਸੀ।"
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "ਵਰਜ਼ਨ {version} ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਮੌਜੂਦ ਹੈ।"
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "ਇਸਦੀ ਬਜਾਏ ਮੌਜੂਦਾ ਅਪਲੋਡ ਨਾਲ ਜਾਰੀ ਰੱਖਣਾ ਹੈ?"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "ਹਾਂ"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "ਨਹੀਂ"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "ਤੁਸੀਂ ਇੱਕ ਸਰੋਤ ਫਾਈਲ ਅਪਲੋਡ ਨਹੀਂ ਕੀਤੀ ਹੈ।"
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "ਸਰੋਤ ਫਾਇਲ ਅਪਲੋਡ ਕੀਤੀ ਗਈ ਹੈ ਪਰ ਤੁਸੀਂ ਸੰਕੇਤ ਦਿੱਤਾ ਹੈ ਕਿ ਕੋਈ ਸਰੋਤ ਦੀ ਲੋੜ ਨਹੀਂ ਸੀ।"
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
 "on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "ਦਿਖਾਉਣ ਦਾ ਨਾਂ"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "ਨਵੇਂ ਕ੍ਰੈਡੈਂਸ਼ੀਅਲ ਬਣਾਉਣ ਲਈ"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "ਕ੍ਰੈਡੈਂਸ਼ੀਅਲ ਰੱਦ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਬਣਾਉ"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "ਰੱਦ ਕਰੋ"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ API ਕ੍ਰੈਡੈਂਸ਼ੀਅਲ ਨਹੀਂ ਹਨ।"
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr ""
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr ""
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "ਵਿਸ਼ਾ"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr ""
 
@@ -2264,108 +2254,108 @@ msgstr "ਇਸ ਅੱਪਲੋਡ ਦੀ ਪ੍ਰਮਾਣਿਕਤਾ ਫ਼ੇ�
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr ""
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "ਸਿਰਲੇਖ ਇਲਾਕੇ ਦੇ ਪਿਛਲਾ ਪਰਦਾ"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "ਸਿਰਲੇਖ ਖੇਤਰ ਦੀ ਬੈਕਗ੍ਰਾਊਂਡ ਦਾ ਰੰਗ, ਸਿਰਲੇਖ ਦੇ ਭਾਗ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਸਿਰਲੇਖ ਚਿੱਤਰ ਦੁਆਰਾ ਕਵਰ ਕੀਤਾ ਜਾਂ ਵਿਖਾਈ ਦੇ ਰਿਹਾ ਹੈ। ਮੈਨੀਫੈਸਟ ਫੀਲਡ:  ਫਰੇਮ।"
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "ਸਿਰਲੇਖ ਖੇਤਰ ਦੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "ਐਕਟਿਵ ਟੈਬ ਨੂੰ ਛੱਡ ਕੇ ਸਿਰਲੇਖ ਦੇ ਖੇਤਰ ਵਿਚ ਟੈਕਸਟ ਅਤੇ ਆਈਕਾਨ ਦਾ ਰੰਗ। ਮੈਨੀਫੈਸਟ ਫੀਲਡ:  tab_background_text।"
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "ਟੂਲਬਾਰ ਖੇਤਰ ਦੀ ਬੈਕਗ੍ਰਾਉਂਡ"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 #, fuzzy
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "ਨੇਵੀਗੇਸ਼ਨ ਪੱਟੀ ਲਈ ਬੈਕਗਰਾਊਂਡ ਰੰਗ, ਬੁੱਕਮਾਰਕਸ ਬਾਰ ਅਤੇ ਚੁਣੇ ਟੈਬ। ਮੈਨੀਫੈਸਟ ਫੀਲਡ: ਟੂਲਬਾਰ।  "
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "ਟੂਲਬਾਰ ਦੇ ਖੇਤਰ ਦੇ ਪਾਠ ਅਤੇ ਆਈਕਾਨ"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "ਟੂਲਬਾਰ ਅਤੇ ਐਕਟਿਵ ਟੈਬ ਵਿੱਚ ਟੈਕਸਟ ਅਤੇ ਆਈਕਾਨ ਦਾ ਰੰਗ। ਮੈਨੀਫੈਸਟ ਫੀਲਡ:  ਬੁੱਕਮਾਰਕ_ਟੇਸਟ।"
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "ਟੂਲਬਾਰ ਖੇਤਰ ਦੀ ਬੈਕਗ੍ਰਾਉਂਡ"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "ਸੰਦ ਪੱਟੀ ਵਿੱਚ ਖੇਤਰਾਂ ਲਈ ਬੈਕਗਰਾਊਂਡ ਰੰਗ, ਜਿਵੇਂ ਕਿ URL ਪੱਟੀ। ਮੈਨੀਫੈਸਟ ਫੀਲਡ:  ਟੂਲਬਾਰ_ਫੀਲਡ।"
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "ਸੰਦ-ਪੱਟੀ ਇਲਾਕਾ ਖੇਤਰ ਲਿਖਤ"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "ਟੂਲਬਾਰ ਦੇ ਖੇਤਰਾਂ ਵਿੱਚ ਟੈਕਸਟ ਦਾ ਰੰਗ, ਜਿਵੇਂ ਕਿ URL ਬਾਰ। ਮੈਨੀਫੈਸਟ ਫੀਲਡ:  toolbar_field_text।"
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr ""
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr ""
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "ਸਮੀਖਿਆ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਗਈ।"
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "ਅੱਗੇ ਵਧਣ ਲਈ ਤੁਹਾਨੂੰ ਹੋਰ ਵੇਰਵੇ ਦੇਣੇ ਜਰੂਰੀ ਹਨ।"
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr ""
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "ਤੁਹਾਡੇ ਪੁਰਾਣੇ ਸਰਟੀਫਿਕੇਟਸ ਰੱਦ ਕੀਤੇ ਗਏ ਸਨ ਅਤੇ ਹੁਣ ਪ੍ਰਮਾਣਿਤ ਨਹੀਂ ਹਨ।"
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr ""
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "ਨਵੀਂ API ਕੁੰਜੀ ਬਣਾਈ ਗਈ"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "API ਕੁੰਜੀ ਰੱਦ ਕੀਤੀ ਗਈ"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr ""
 
@@ -2463,8 +2453,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2726,8 +2716,8 @@ msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
-"<p>ਐਡਆਨ ਕੋਲ 2 ਸੰਭਾਵਿਤ ਭੂਮਿਕਾਵਾਂ ਦੇ ਨਾਲ ਕੋਈ ਵੀ ਲੇਖਕ ਹੋ ਸਕਦੇ ਹਨ:</p> <ul> <li><b>ਮਾਲਕ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ ਹੈ, ਸ਼ਾਮਲ ਅਤੇ </li> <li><b>ਡਿਵੈਲਪਰ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ "
-"ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ ਹੈ, ਹੋਰ ਲੇਖਕਾਂ ਨੂੰ ਜੋੜਨ ਅਤੇ ਹਟਾਉਣ ਤੋਂ ਇਲਾਵਾ</li> </ul>"
+"<p>ਐਡਆਨ ਕੋਲ 2 ਸੰਭਾਵਿਤ ਭੂਮਿਕਾਵਾਂ ਦੇ ਨਾਲ ਕੋਈ ਵੀ ਲੇਖਕ ਹੋ ਸਕਦੇ ਹਨ:</p> <ul> <li><b>ਮਾਲਕ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ ਹੈ, ਸ਼ਾਮਲ ਅਤੇ </li> <li><b>ਡਿਵੈਲਪਰ:</b> ਐਡਆਨ ਦੀ ਸੂਚੀ ਦੇ ਸਾਰੇ ਪਹਿਲੂਆਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦਾ "
+"ਹੈ, ਹੋਰ ਲੇਖਕਾਂ ਨੂੰ ਜੋੜਨ ਅਤੇ ਹਟਾਉਣ ਤੋਂ ਇਲਾਵਾ</li> </ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2791,9 +2781,7 @@ msgstr "ਮੁੱਖ ਸਫ਼ਾ"
 msgid ""
 "If your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-"
 "ons."
-msgstr ""
-"ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦਾ ਕੋਈ ਹੋਰ ਵੀ ਮੁੱਖ-ਸਫ਼ਾ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਤਰਜਮਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਹੋਇਆ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ "
-"ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+msgstr "ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦਾ ਕੋਈ ਹੋਰ ਵੀ ਮੁੱਖ-ਸਫ਼ਾ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਤਰਜਮਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਹੋਇਆ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:96 src/olympia/devhub/templates/devhub/addons/edit/describe.html:272
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:84 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:174
@@ -2804,7 +2792,7 @@ msgstr "ਜਾਂ"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -2829,9 +2817,7 @@ msgstr "ਨਾਂ ਅਤੇ ਸੰਖੇਪ"
 msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
-msgstr ""
-"ਸੰਖੇਪ ਵਿੱਚ ਇਹ ਦੱਸਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਐਡ-ਆਨ ਕੀ ਕਰਦੀ ਹੈ, ਸਪਸ਼ਟ ਅਤੇ ਸੰਖੇਪ ਰੂਪ ਵਿੱਚ। ਦੋਵੇਂ ਨਾਮ ਅਤੇ ਸੰਖੇਪ ਤੁਹਾਡੇ ਉਤਪਾਦ ਪੇਜ ਅਤੇ ਖੋਜ ਨਤੀਜਿਆਂ ਤੇ ਦਿਖਾਈ ਦੇਣਗੇ। ਉਨ੍ਹਾਂ ਕੋਲ ਹਰੇਕ ਲਈ 70 ਅੱਖਰਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ "
-"ਲੰਬਾਈ ਅਤੇ ਘੱਟੋ ਘੱਟ 2 ਅੱਖਰਾਂ ਦੀ ਲੰਬਾਈ ਹੈ।"
+msgstr "ਸੰਖੇਪ ਵਿੱਚ ਇਹ ਦੱਸਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਐਡ-ਆਨ ਕੀ ਕਰਦੀ ਹੈ, ਸਪਸ਼ਟ ਅਤੇ ਸੰਖੇਪ ਰੂਪ ਵਿੱਚ। ਦੋਵੇਂ ਨਾਮ ਅਤੇ ਸੰਖੇਪ ਤੁਹਾਡੇ ਉਤਪਾਦ ਪੇਜ ਅਤੇ ਖੋਜ ਨਤੀਜਿਆਂ ਤੇ ਦਿਖਾਈ ਦੇਣਗੇ। ਉਨ੍ਹਾਂ ਕੋਲ ਹਰੇਕ ਲਈ 70 ਅੱਖਰਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਲੰਬਾਈ ਅਤੇ ਘੱਟੋ ਘੱਟ 2 ਅੱਖਰਾਂ ਦੀ ਲੰਬਾਈ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2921,11 +2907,9 @@ msgstr "ਈਮੇਲ"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
-msgstr ""
-"ਜੇਕਰ ਤੁਸੀਂ ਸਹਿਯੋਗ ਪੁੱਛਗਿੱਛਾਂ ਲਈ ਇੱਕ ਈਮੇਲ ਪਤਾ ਵਿਖਾਉਣ ਦੇ ਚਾਹਵਾਨ ਹੋ, ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਹਰੇਕ ਭਾਸ਼ਾ ਲਈ ਵੱਖ-ਵੱਖ ਪਤੇ ਹਨ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-"
-"ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
+msgstr "ਜੇਕਰ ਤੁਸੀਂ ਸਹਿਯੋਗ ਪੁੱਛਗਿੱਛਾਂ ਲਈ ਇੱਕ ਈਮੇਲ ਪਤਾ ਵਿਖਾਉਣ ਦੇ ਚਾਹਵਾਨ ਹੋ, ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਹਰੇਕ ਭਾਸ਼ਾ ਲਈ ਵੱਖ-ਵੱਖ ਪਤੇ ਹਨ ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -2935,9 +2919,7 @@ msgstr "ਵੈਬਸਾਈਟ"
 msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
-msgstr ""
-"ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦੀ ਇੱਕ ਸਹਿਯੋਗ ਵੈੱਬਸਾਈਟ ਜਾਂ ਫੋਰਮ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਤਰਜਮਾ ਹੋਇਆ, ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ"
-" ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+msgstr "ਜੇਕਰ ਤੁਹਾਡੇ ਐਡ-ਆਨ ਦੀ ਇੱਕ ਸਹਿਯੋਗ ਵੈੱਬਸਾਈਟ ਜਾਂ ਫੋਰਮ ਹੈ, ਉਸ ਦਾ ਪਤਾ ਇੱਥੇ ਦਰਜ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਡੀ ਵੈੱਬਸਾਈਟ ਦਾ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਤਰਜਮਾ ਹੋਇਆ, ਇਸ ਖੇਤਰ ਦੇ ਬਹੁਤ ਸਾਰੇ ਅਨੁਵਾਦ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -2962,8 +2944,8 @@ msgid ""
 "Any information end users may want to know that isn't necessarily applicable to the add-on summary or description. Common uses include listing known major bugs, information on how to report bugs, "
 "anticipated release date of a new version, etc. It is only relevant for listed add-ons."
 msgstr ""
-"ਅੰਤ ਵਰਤੋਂਕਾਰ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋਣ ਜੋ ਜ਼ਰੂਰੀ ਨਹੀਂ ਐਡ-ਆਨ ਦੇ ਸੰਖੇਪ ਵਰਣਨ ਜਾਂ ਵੇਰਵੇ ਤੇ ਲਾਗੂ ਹੋਵੋ। ਆਮ ਵਰਤੋਂ ਵਿੱਚ ਸ਼ਾਮਲ ਮੁੱਖ ਜਾਣੂ ਬੱਗਾਂ ਦੀ ਸੂਚੀ, ਬੱਗਾਂ ਦੀ ਸੂਚਨਾ ਕਿਵੇਂ ਭੇਜੀਏ ਦੀ ਜਾਣਕਾਰੀ, ਨਵੇਂ ਵਰਜਨ "
-"ਦੇ ਜਾਰੀ ਹੋਣ ਦੀ ਤਰੀਕ ਦਾ ਅਨੁਮਾਨ, ਆਦਿ। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+"ਅੰਤ ਵਰਤੋਂਕਾਰ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋਣ ਜੋ ਜ਼ਰੂਰੀ ਨਹੀਂ ਐਡ-ਆਨ ਦੇ ਸੰਖੇਪ ਵਰਣਨ ਜਾਂ ਵੇਰਵੇ ਤੇ ਲਾਗੂ ਹੋਵੋ। ਆਮ ਵਰਤੋਂ ਵਿੱਚ ਸ਼ਾਮਲ ਮੁੱਖ ਜਾਣੂ ਬੱਗਾਂ ਦੀ ਸੂਚੀ, ਬੱਗਾਂ ਦੀ ਸੂਚਨਾ ਕਿਵੇਂ ਭੇਜੀਏ ਦੀ ਜਾਣਕਾਰੀ, ਨਵੇਂ ਵਰਜਨ ਦੇ ਜਾਰੀ ਹੋਣ ਦੀ ਤਰੀਕ ਦਾ ਅਨੁਮਾਨ, ਆਦਿ। ਇਹ ਕੇਵਲ "
+"ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:46
 msgid "Universally unique identifier"
@@ -2983,8 +2965,8 @@ msgstr "ਵਾਇਟਬੋਰਡ"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
@@ -3001,8 +2983,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਇੱਕ ਆਈਕਾਨ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਸਾਡਿਆਂ ਵਿੱਚ ਇੱਕ ਚੁਣੋ। ਆਈਕਾਨ ਲਗਭਗ ਹਰੇਕ ਥਾਂ ਵਿਖਾਇਆ ਜਾਏਗਾ ਜਿੱਥੇ ਵੀ ਤੁਹਾਡਾ ਐਡ-ਆਨ ਹੈ। ਅੱਪਲੋਡ ਕੀਤੀਆਂ ਤਸਵੀਰਾਂ ਅੱਗੇ ਦਿੱਤੀਆਂ ਤਸਵੀਰ ਕਿਸਮਾਂ ਵਿੱਚ ਇੱਕ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ: "
-".png, .jpg। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
+"ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਇੱਕ ਆਈਕਾਨ ਅੱਪਲੋਡ ਕਰੋ ਜਾਂ ਸਾਡਿਆਂ ਵਿੱਚ ਇੱਕ ਚੁਣੋ। ਆਈਕਾਨ ਲਗਭਗ ਹਰੇਕ ਥਾਂ ਵਿਖਾਇਆ ਜਾਏਗਾ ਜਿੱਥੇ ਵੀ ਤੁਹਾਡਾ ਐਡ-ਆਨ ਹੈ। ਅੱਪਲੋਡ ਕੀਤੀਆਂ ਤਸਵੀਰਾਂ ਅੱਗੇ ਦਿੱਤੀਆਂ ਤਸਵੀਰ ਕਿਸਮਾਂ ਵਿੱਚ ਇੱਕ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ: .png, .jpg। ਇਹ ਕੇਵਲ ਸੂਚੀਬੱਧ ਐਡ-ਆਨਾਂ "
+"ਲਈ ਢੁੱਕਵਾਂ ਹੈ।"
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3171,9 +3153,7 @@ msgstr "ਚੋਟੀ ਦੇ"
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:1
 #, fuzzy
 msgid "Deleting your add-on will permanently delete all versions and files you have submitted for this add-on, listed or not."
-msgstr ""
-"ਆਪਣੇ ਐਡ-ਆਨ ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਤੁਸੀਂ ਇਸ ਐਡ-ਆਨ ਲਈ ਸੂਚੀਬੱਧ ਸਾਰੇ ਸੰਸਕਰਣ ਅਤੇ ਫਾਈਲਾਂ ਨੂੰ ਪੱਕੇ ਤੌਰ ਤੇ ਮਿਟਾ ਦੇਗੇ। ਐਡ-ਆਨ ਆਈਡੀ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਜੋੜਿਆ ਜਾਣਾ ਜਾਰੀ ਰੱਖੇਗਾ, ਤਾਂ ਕਿ ਹੋਰ ਉਹੀ ਆਈਡੀ ਦੀ ਵਰਤੋਂ ਨਾਲ ਵਰਜਨ ਨੂੰ "
-"ਜਮ੍ਹਾਂ ਨਾ ਕਰ ਸਕਣ।"
+msgstr "ਆਪਣੇ ਐਡ-ਆਨ ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਤੁਸੀਂ ਇਸ ਐਡ-ਆਨ ਲਈ ਸੂਚੀਬੱਧ ਸਾਰੇ ਸੰਸਕਰਣ ਅਤੇ ਫਾਈਲਾਂ ਨੂੰ ਪੱਕੇ ਤੌਰ ਤੇ ਮਿਟਾ ਦੇਗੇ। ਐਡ-ਆਨ ਆਈਡੀ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਜੋੜਿਆ ਜਾਣਾ ਜਾਰੀ ਰੱਖੇਗਾ, ਤਾਂ ਕਿ ਹੋਰ ਉਹੀ ਆਈਡੀ ਦੀ ਵਰਤੋਂ ਨਾਲ ਵਰਜਨ ਨੂੰ ਜਮ੍ਹਾਂ ਨਾ ਕਰ ਸਕਣ।"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:6
 msgid "All versions will be Restricted, which will disable and prevent any further installation in Firefox. Existing users can choose to re-enable the add-on."
@@ -3310,9 +3290,7 @@ msgstr "ਜ਼ਰੂਰਤ"
 msgid ""
 "Warning: you have name/summary values in other locales that will be automatically cropped to fit under the limit of %(max_length)s characters.  To edit these go to Edit Product Page after the "
 "submission process is complete."
-msgstr ""
-"ਚੇਤਾਵਨੀ: ਤੁਹਾਡੇ ਕੋਲ ਹੋਰ ਲੋਕਲ ਵਿੱਚ ਨਾਮ/summary ਮੁੱਲ ਹਨ ਜੋ ਕਿ ਆਟੋਮੈਟਿਕ ਹੀ %(max_length)s ਦੇ ਅੱਖਰਾਂ ਦੇ ਅਨੁਸਾਰ ਫਿੱਟ ਕੀਤੇ ਜਾਣਗੇ।  ਸਬਮਿਸ਼ਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਪੂਰੀ ਹੋਣ ਤੋਂ ਬਾਦ ਇਨ੍ਹਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ ਲਈ Edit "
-"Product Page ਵੱਲ ਜਾਓ।"
+msgstr "ਚੇਤਾਵਨੀ: ਤੁਹਾਡੇ ਕੋਲ ਹੋਰ ਲੋਕਲ ਵਿੱਚ ਨਾਮ/summary ਮੁੱਲ ਹਨ ਜੋ ਕਿ ਆਟੋਮੈਟਿਕ ਹੀ %(max_length)s ਦੇ ਅੱਖਰਾਂ ਦੇ ਅਨੁਸਾਰ ਫਿੱਟ ਕੀਤੇ ਜਾਣਗੇ।  ਸਬਮਿਸ਼ਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਪੂਰੀ ਹੋਣ ਤੋਂ ਬਾਦ ਇਨ੍ਹਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ ਲਈ Edit Product Page ਵੱਲ ਜਾਓ।"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:52 src/olympia/devhub/templates/devhub/addons/submit/describe.html:73
 msgid "Add-on URL:"
@@ -3546,8 +3524,8 @@ msgstr "ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਅਤੇ ਵਾਤਾਵਰਨ
 #, fuzzy
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
 msgstr ""
-"ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ (ਲੋੜੀਂਦੀ ਵਰਜਨ ਅਤੇ ਇੰਸਟਾਲੇਸ਼ਨ ਹਦਾਇਤ ਸਮੇਤ), ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ ਵਿਚ ਵਰਤੇ ਗਏ ਕਿਸੇ ਵੀ ਪ੍ਰੋਗ੍ਰਾਮ ਦੇ (ਉਦਾਹਰਨ ਲਈ: <span class=\"tech-emphasis\">node</span> ਅਤੇ <span class=\"tech-"
-"emphasis\">npm</span> ਵਰਜ਼ਨ ਵਰਤਿਆ ਗਿਆ ਹੈ)।"
+"ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ (ਲੋੜੀਂਦੀ ਵਰਜਨ ਅਤੇ ਇੰਸਟਾਲੇਸ਼ਨ ਹਦਾਇਤ ਸਮੇਤ), ਬਿਲਡ ਪ੍ਰਕਿਰਿਆ ਵਿਚ ਵਰਤੇ ਗਏ ਕਿਸੇ ਵੀ ਪ੍ਰੋਗ੍ਰਾਮ ਦੇ (ਉਦਾਹਰਨ ਲਈ: <span class=\"tech-emphasis\">node</span> ਅਤੇ <span class=\"tech-emphasis\">npm</span> ਵਰਜ਼ਨ ਵਰਤਿਆ "
+"ਗਿਆ ਹੈ)।"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 #, fuzzy
@@ -3684,8 +3662,8 @@ msgstr "ਪਿੱਛੇ ਜਾਉ"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3766,10 +3744,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3943,8 +3923,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -4017,9 +3997,7 @@ msgstr "{label_open}ਦ੍ਰਿਸ਼ਮਾਨ:{label_close} {site_url} ਤੇ 
 #, python-brace-format
 msgid ""
 "{label_open}Invisible:{label_close} Won't be included in search results, and its product page will indicate you disabled it. New version submissions for product won't be accepted in this state."
-msgstr ""
-"{label_open}ਅਦਿੱਖ:{label_close} ਖੋਜ ਪਰਿਣਾਮਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਇਸ ਦੀ ਉਤਪਾਦ ਪੰਨੇ ਇਹ ਸੰਕੇਤ ਦੇਵੇਗੀ ਕਿ ਤੁਸੀਂ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਇਆ ਹੈ। ਉਤਪਾਦ ਲਈ ਨਵੀਆਂ ਵਰਜਨ ਬੇਨਤੀਆਂ ਨੂੰ ਇਸ ਰਾਜ ਵਿੱਚ ਸਵੀਕਾਰ "
-"ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।"
+msgstr "{label_open}ਅਦਿੱਖ:{label_close} ਖੋਜ ਪਰਿਣਾਮਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਇਸ ਦੀ ਉਤਪਾਦ ਪੰਨੇ ਇਹ ਸੰਕੇਤ ਦੇਵੇਗੀ ਕਿ ਤੁਸੀਂ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਇਆ ਹੈ। ਉਤਪਾਦ ਲਈ ਨਵੀਆਂ ਵਰਜਨ ਬੇਨਤੀਆਂ ਨੂੰ ਇਸ ਰਾਜ ਵਿੱਚ ਸਵੀਕਾਰ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
 #: src/olympia/devhub/templates/devhub/includes/macros.html:5
 msgid "Some Markdown supported."
@@ -4055,19 +4033,19 @@ msgid "Distribution channel"
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "ਵੰਨਗੀ"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr ""
 
@@ -7123,11 +7101,11 @@ msgstr ""
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
-"ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ Firefox ਐਡ-ਆਨ ਵੰਡ ਪ੍ਰਣਾਲੀ ਦੇ ਨਾਲ ਸਾਡੀ ਸਮੀਖਿਆ ਦੀਆਂ ਨੀਤੀਆਂ ਅਤੇ ਨਿਯਮਾਂ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। Firefox ਐਡ-ਆਨ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਇਕਰਾਰਨਾਮਾ ਵੀ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ "
-"ਜੁੜਦਾ ਹੈ, ਜੋ ਦੱਸਦੀ ਹੈ ਕਿ ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਚਲਾਉਂਦੇ ਹਾਂ।"
+"ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ Firefox ਐਡ-ਆਨ ਵੰਡ ਪ੍ਰਣਾਲੀ ਦੇ ਨਾਲ ਸਾਡੀ ਸਮੀਖਿਆ ਦੀਆਂ ਨੀਤੀਆਂ ਅਤੇ ਨਿਯਮਾਂ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। Firefox ਐਡ-ਆਨ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਇਕਰਾਰਨਾਮਾ ਵੀ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ ਜੁੜਦਾ ਹੈ, ਜੋ ਦੱਸਦੀ ਹੈ ਕਿ ਅਸੀਂ "
+"ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਚਲਾਉਂਦੇ ਹਾਂ।"
 
 #: src/olympia/users/models.py:1377
 #, python-brace-format
@@ -7235,7 +7213,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
