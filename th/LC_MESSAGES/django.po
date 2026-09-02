@@ -6,11 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-02 11:36+0000\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -106,8 +104,7 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
-"taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -119,8 +116,7 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
-"notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -129,8 +125,7 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
-"changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -139,15 +134,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
-"appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
-"appeal process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
+" process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -156,8 +150,7 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
-"helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -166,8 +159,7 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
-"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -574,7 +566,9 @@ msgstr "คุณพยายามที่จะทำบางสิ่งซ
 msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
-msgstr "คุณเห็นข้อความนี้เนื่องจากไซต์ HTTPS นี้ต้องการให้ 'ส่วนหัว Referer' ถูกส่งโดยเว็บเบราว์เซอร์ของคุณ แต่ไม่มีการส่ง จำเป็นต้องมีส่วนหัวนี้เนื่องจากเหตุผลเกี่ยวกับความปลอดภัย เพื่อให้แน่ใจว่าเบราว์เซอร์ของคุณจะไม่ถูกเจาะโดยบุคคลที่สาม"
+msgstr ""
+"คุณเห็นข้อความนี้เนื่องจากไซต์ HTTPS นี้ต้องการให้ 'ส่วนหัว Referer' ถูกส่งโดยเว็บเบราว์เซอร์ของคุณ แต่ไม่มีการส่ง จำเป็นต้องมีส่วนหัวนี้เนื่องจากเหตุผลเกี่ยวกับความปลอดภัย "
+"เพื่อให้แน่ใจว่าเบราว์เซอร์ของคุณจะไม่ถูกเจาะโดยบุคคลที่สาม"
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -599,10 +593,11 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>เราขออภัย แต่เราไม่พบสิ่งที่คุณกำลังค้นหาอยู่</h1> <p>ไม่พบหน้าหรือไฟล์ที่คุณร้องขอบนเว็บไซต์ของเรา มันเป็นไปได้ว่าคุณคลิกลิงก์ซึ่งหมดอายุแล้ว หรือพิมพ์ที่อยู่ไม่ถูกต้อง</p> <ul> <li>ถ้าคุณใช้การพิมพ์ที่อยู่ โปรดตรวจสอบการสะกดอีกครั้ง</li> "
-"<li>ถ้าคุณตามลิงก์นี้มาจากที่ไหนสักแห่ง โปรด%(open_bug_link)sรายงานปัญหา%(close_bug_link)s บอกเราว่าคุณมาจากไหนและคุณกำลังมองหาอะไร และเราจะทำการแก้ไขให้ดีที่สุด</li> </ul> "
-"<p>หรือคุณสามารถกระโดดข้ามไปยังหน้าที่ได้รับความนิยมบนเว็บไซต์ของเรา</p> <ul> <li>คุณสนใจ<a href=\"%(rec)s\">รายการส่วนเสริมที่แนะนำ</a>?</li> <li>คุณต้องการที่จะ<a href=\"%(search)s\">ค้นหาสำหรับส่วนเสริม</a>? "
-"คุณอาจจะไปที่<a href=\"%(search)s\">หน้าค้นหา</a> หรือใช้ช่องค้นหาด้านบน</li> <li>ถ้าคุณต้องการจะไปที่จุดเริ่มต้น เพียงแค่ไปที่<a href=\"%(home)s\">หน้าแรกของส่วนเสริม</a> </li> </ul>"
+"<h1>เราขออภัย แต่เราไม่พบสิ่งที่คุณกำลังค้นหาอยู่</h1> <p>ไม่พบหน้าหรือไฟล์ที่คุณร้องขอบนเว็บไซต์ของเรา มันเป็นไปได้ว่าคุณคลิกลิงก์ซึ่งหมดอายุแล้ว หรือพิมพ์ที่อยู่ไม่ถูกต้อง</p> <ul> "
+"<li>ถ้าคุณใช้การพิมพ์ที่อยู่ โปรดตรวจสอบการสะกดอีกครั้ง</li> <li>ถ้าคุณตามลิงก์นี้มาจากที่ไหนสักแห่ง โปรด%(open_bug_link)sรายงานปัญหา%(close_bug_link)s บอกเราว่าคุณมาจากไหนและคุณกำลังมองหาอะไร "
+"และเราจะทำการแก้ไขให้ดีที่สุด</li> </ul> <p>หรือคุณสามารถกระโดดข้ามไปยังหน้าที่ได้รับความนิยมบนเว็บไซต์ของเรา</p> <ul> <li>คุณสนใจ<a href=\"%(rec)s\">รายการส่วนเสริมที่แนะนำ</a>?</li> "
+"<li>คุณต้องการที่จะ<a href=\"%(search)s\">ค้นหาสำหรับส่วนเสริม</a>? คุณอาจจะไปที่<a href=\"%(search)s\">หน้าค้นหา</a> หรือใช้ช่องค้นหาด้านบน</li> <li>ถ้าคุณต้องการจะไปที่จุดเริ่มต้น เพียงแค่ไปที่<a "
+"href=\"%(home)s\">หน้าแรกของส่วนเสริม</a> </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -614,8 +609,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>อุ๊ปส์! เรามีข้อผิดพลาด</h1> <p>เราจะทำการแก้ไขในเร็ว ๆ นี้</p> <p>คุณอาจลองรีเฟรชหน้า หรือย้อนกลับไปยัง<a href=\"%(home)s\">หน้าแรกของส่วนเสริม</a>ได้ คุณยังสามารถช่วยเราแก้ไขปัญหานี้ได้โดย<a href=\"https://github.com/"
-"mozilla/addons/issues/new\">รายงานปัญหา</a>พร้อมระบุรายละเอียดว่าคุณเข้ามาที่หน้านี้อย่างไร </p>"
+"<h1>อุ๊ปส์! เรามีข้อผิดพลาด</h1> <p>เราจะทำการแก้ไขในเร็ว ๆ นี้</p> <p>คุณอาจลองรีเฟรชหน้า หรือย้อนกลับไปยัง<a href=\"%(home)s\">หน้าแรกของส่วนเสริม</a>ได้ คุณยังสามารถช่วยเราแก้ไขปัญหานี้ได้โดย<a "
+"href=\"https://github.com/mozilla/addons/issues/new\">รายงานปัญหา</a>พร้อมระบุรายละเอียดว่าคุณเข้ามาที่หน้านี้อย่างไร </p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1548,7 +1543,8 @@ msgstr "สังคมและการสื่อสาร"
 
 #: src/olympia/constants/categories.py:172
 msgid "Download Firefox extensions to enhance social media and instant messaging. This category includes improved tab notifications, video downloaders, and more."
-msgstr "ดาวน์โหลดส่วนขยาย Firefox เพื่อเสริมความสามารถเกี่ยวกับโซเชียลมีเดียและการส่งข้อความโต้ตอบแบบทันที หมวดหมู่นี้ประกอบไปด้วยการแจ้งเตือนแท็บที่ปรับปรุงใหม่ เครื่องมือดาวน์โหลดวิดีโอ และอื่นๆ อีกมากมาย"
+msgstr ""
+"ดาวน์โหลดส่วนขยาย Firefox เพื่อเสริมความสามารถเกี่ยวกับโซเชียลมีเดียและการส่งข้อความโต้ตอบแบบทันที หมวดหมู่นี้ประกอบไปด้วยการแจ้งเตือนแท็บที่ปรับปรุงใหม่ เครื่องมือดาวน์โหลดวิดีโอ และอื่นๆ อีกมากมาย"
 
 #: src/olympia/constants/categories.py:179
 msgid "Tabs"
@@ -1660,7 +1656,9 @@ msgstr "ฤดูกาล"
 
 #: src/olympia/constants/categories.py:309
 msgid "Download Firefox themes for all four seasons—fall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
-msgstr "ดาวน์โหลดชุดรูปแบบ Firefox สำหรับฤดูกาลทั้งสี่ซึ่งได้แก่ฤดูใบไม้ร่วง ฤดูหนาว ฤดูใบไม้ผลิ และฤดูร้อน โดยจะประกอบไปด้วยใบไม้ในฤดูใบไม้ร่วง ยอดเขาที่ปกคลุมด้วยหิมะ วันในฤดูร้อนที่มีแสงแดดสดใส และดอกไม้ในฤดูใบไม้ผลิ"
+msgstr ""
+"ดาวน์โหลดชุดรูปแบบ Firefox สำหรับฤดูกาลทั้งสี่ซึ่งได้แก่ฤดูใบไม้ร่วง ฤดูหนาว ฤดูใบไม้ผลิ และฤดูร้อน โดยจะประกอบไปด้วยใบไม้ในฤดูใบไม้ร่วง ยอดเขาที่ปกคลุมด้วยหิมะ วันในฤดูร้อนที่มีแสงแดดสดใส "
+"และดอกไม้ในฤดูใบไม้ผลิ"
 
 #: src/olympia/constants/categories.py:316
 msgid "Solid"
@@ -2451,8 +2449,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
-"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
+" refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2775,7 +2773,9 @@ msgstr "หน้าแรก"
 msgid ""
 "If your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-"
 "ons."
-msgstr "ถ้าส่วนเสริมของคุณมีหน้าแรกอื่นด้วย ให้ใส่ที่อยู่ของหน้านั้นที่นี่ ถ้าเว็บไซต์ของคุณมีการแปลเป็นภาษาอื่นๆ คุณก็สามารถเพิ่มการแปลในภาษาต่างๆ สำหรับข้อมูลในช่องนี้ได้ และจะเกี่ยวข้องสำหรับส่วนเสริมที่มีในรายชื่อเท่านั้น"
+msgstr ""
+"ถ้าส่วนเสริมของคุณมีหน้าแรกอื่นด้วย ให้ใส่ที่อยู่ของหน้านั้นที่นี่ ถ้าเว็บไซต์ของคุณมีการแปลเป็นภาษาอื่นๆ คุณก็สามารถเพิ่มการแปลในภาษาต่างๆ สำหรับข้อมูลในช่องนี้ได้ "
+"และจะเกี่ยวข้องสำหรับส่วนเสริมที่มีในรายชื่อเท่านั้น"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:96 src/olympia/devhub/templates/devhub/addons/edit/describe.html:272
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:84 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:174
@@ -2811,7 +2811,9 @@ msgstr "ชื่อและสรุป"
 msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
-msgstr "ข้อความสรุปควรอธิบายถึงสิ่งที่ส่วนเสริมของคุณสามารถทำได้ โดยให้อธิบายอย่างชัดเจนและกระชับ โดยทั้งชื่อและข้อความสรุปนี้จะปรากฏบนหน้าผลิตภัณฑ์ของคุณและผลลัพธ์การค้นหา และมีความยาวสูงสุด 70 อักขระ รวมทั้งความยาวต่ำสุด 2 อักขระ"
+msgstr ""
+"ข้อความสรุปควรอธิบายถึงสิ่งที่ส่วนเสริมของคุณสามารถทำได้ โดยให้อธิบายอย่างชัดเจนและกระชับ โดยทั้งชื่อและข้อความสรุปนี้จะปรากฏบนหน้าผลิตภัณฑ์ของคุณและผลลัพธ์การค้นหา และมีความยาวสูงสุด 70 อักขระ "
+"รวมทั้งความยาวต่ำสุด 2 อักขระ"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2901,9 +2903,11 @@ msgstr "อีเมล"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
-"relevant for listed add-ons."
-msgstr "ถ้าคุณต้องการจะแสดงที่อยู่อีเมลสำหรับฝ่ายสนับสนุนด้วย ให้ใส่ที่อยู่นั้นที่นี่ ถ้าคุณมีที่อยู่แตกต่างกันสำหรับแต่ละภาษา คุณสามารถเพิ่มการแปลในภาษาต่างๆ สำหรับข้อมูลในช่องนี้ได้ และจะเกี่ยวข้องกับส่วนเสริมที่มีในรายชื่อเท่านั้น"
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
+" for listed add-ons."
+msgstr ""
+"ถ้าคุณต้องการจะแสดงที่อยู่อีเมลสำหรับฝ่ายสนับสนุนด้วย ให้ใส่ที่อยู่นั้นที่นี่ ถ้าคุณมีที่อยู่แตกต่างกันสำหรับแต่ละภาษา คุณสามารถเพิ่มการแปลในภาษาต่างๆ สำหรับข้อมูลในช่องนี้ได้ "
+"และจะเกี่ยวข้องกับส่วนเสริมที่มีในรายชื่อเท่านั้น"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -2913,7 +2917,9 @@ msgstr "เว็บไซต์"
 msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
-msgstr "ถ้าส่วนเสริมของคุณมีเว็บไซต์หรือฟอรัมสนับสนุนด้วย ให้ใส่ที่อยู่ของหน้านั้นที่นี่ ถ้าเว็บไซต์ของคุณมีการแปลเป็นภาษาอื่นๆ คุณก็สามารถเพิ่มการแปลในภาษาต่างๆ สำหรับข้อมูลในช่องนี้ได้ และจะเกี่ยวข้องสำหรับส่วนเสริมที่มีในรายชื่อเท่านั้น"
+msgstr ""
+"ถ้าส่วนเสริมของคุณมีเว็บไซต์หรือฟอรัมสนับสนุนด้วย ให้ใส่ที่อยู่ของหน้านั้นที่นี่ ถ้าเว็บไซต์ของคุณมีการแปลเป็นภาษาอื่นๆ คุณก็สามารถเพิ่มการแปลในภาษาต่างๆ สำหรับข้อมูลในช่องนี้ได้ "
+"และจะเกี่ยวข้องสำหรับส่วนเสริมที่มีในรายชื่อเท่านั้น"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -2938,7 +2944,8 @@ msgid ""
 "Any information end users may want to know that isn't necessarily applicable to the add-on summary or description. Common uses include listing known major bugs, information on how to report bugs, "
 "anticipated release date of a new version, etc. It is only relevant for listed add-ons."
 msgstr ""
-"ข้อมูลใดๆ ที่ผู้ใช้ปลายทางอาจต้องการทราบซึ่งไม่จำเป็นต้องเพิ่มในข้อความสรุปหรือคำอธิบายส่วนเสริม โดยทั่วไปแล้วจะประกอบด้วยรายชื่อบั๊กหลักๆ ที่ทราบ ข้อมูลเกี่ยวกับวิธีการรายงานบั๊ก วันที่คาดว่าจะออกรุ่นใหม่ เป็นต้น ซึ่งจะเกี่ยวข้องกับส่วนเสริมที่มีในรายชื่อเท่านั้น"
+"ข้อมูลใดๆ ที่ผู้ใช้ปลายทางอาจต้องการทราบซึ่งไม่จำเป็นต้องเพิ่มในข้อความสรุปหรือคำอธิบายส่วนเสริม โดยทั่วไปแล้วจะประกอบด้วยรายชื่อบั๊กหลักๆ ที่ทราบ ข้อมูลเกี่ยวกับวิธีการรายงานบั๊ก "
+"วันที่คาดว่าจะออกรุ่นใหม่ เป็นต้น ซึ่งจะเกี่ยวข้องกับส่วนเสริมที่มีในรายชื่อเท่านั้น"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:46
 msgid "Universally unique identifier"
@@ -2958,8 +2965,8 @@ msgstr "Whiteboard"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
-"may help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
+" help. This whiteboard is also editable by reviewers."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
@@ -2975,7 +2982,9 @@ msgstr "ไอคอนของส่วนเสริม"
 msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
-msgstr "อัปโหลดไอคอนสำหรับส่วนเสริมของคุณหรือเลือกจากที่เรามีให้ ไอคอนจะถูกแสดงในเกือบทุกที่ที่มีส่วนเสริมของคุณอยู่ด้วย โดยภาพที่อัปโหลดจะต้องเป็นชนิด .png หรือ .jpg และจะเกี่ยวข้องกับส่วนเสริมที่มีในรายชื่อเท่านั้น"
+msgstr ""
+"อัปโหลดไอคอนสำหรับส่วนเสริมของคุณหรือเลือกจากที่เรามีให้ ไอคอนจะถูกแสดงในเกือบทุกที่ที่มีส่วนเสริมของคุณอยู่ด้วย โดยภาพที่อัปโหลดจะต้องเป็นชนิด .png หรือ .jpg "
+"และจะเกี่ยวข้องกับส่วนเสริมที่มีในรายชื่อเท่านั้น"
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3277,7 +3286,8 @@ msgstr "ต้องการ"
 msgid ""
 "Warning: you have name/summary values in other locales that will be automatically cropped to fit under the limit of %(max_length)s characters.  To edit these go to Edit Product Page after the "
 "submission process is complete."
-msgstr "คำเตือน: คุณมีค่าชื่อ/สรุปในภาษาอื่นๆ ที่อาจถูกตัดทอนอัตโนมัติให้พอดีกับขีดจำกัดที่ %(max_length)s ตัวอักขระ ถ้าต้องการแก้ไขค่าเหล่านี้ ให้ไปที่หน้าแก้ไขผลิตภัณฑ์หลังจากกระบวนการส่งเสร็จสมบูรณ์แล้ว"
+msgstr ""
+"คำเตือน: คุณมีค่าชื่อ/สรุปในภาษาอื่นๆ ที่อาจถูกตัดทอนอัตโนมัติให้พอดีกับขีดจำกัดที่ %(max_length)s ตัวอักขระ ถ้าต้องการแก้ไขค่าเหล่านี้ ให้ไปที่หน้าแก้ไขผลิตภัณฑ์หลังจากกระบวนการส่งเสร็จสมบูรณ์แล้ว"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:52 src/olympia/devhub/templates/devhub/addons/submit/describe.html:73
 msgid "Add-on URL:"
@@ -3414,8 +3424,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"เสร็จเรียบร้อย! ✨ คุณจะได้รับอีเมลยืนยันเมื่อรุ่นนี้ถูกเผยแพร่บน %(site_domain)s โปรดทราบว่าอาจใช้เวลาสูงสุดถึง 24 ชั่วโมงก่อนที่จะเผยแพร่ หรือนานกว่านั้นถ้าส่วนเสริมของคุณถูกเลือกให้ตรวจสอบโดยเจ้าหน้าที่ ถ้าคุณไม่เห็นอีเมลหลังจากผ่านไป 24 ชั่วโมง "
-"โปรดตรวจดูโฟลเดอร์สแปมของคุณ"
+"เสร็จเรียบร้อย! ✨ คุณจะได้รับอีเมลยืนยันเมื่อรุ่นนี้ถูกเผยแพร่บน %(site_domain)s โปรดทราบว่าอาจใช้เวลาสูงสุดถึง 24 ชั่วโมงก่อนที่จะเผยแพร่ "
+"หรือนานกว่านั้นถ้าส่วนเสริมของคุณถูกเลือกให้ตรวจสอบโดยเจ้าหน้าที่ ถ้าคุณไม่เห็นอีเมลหลังจากผ่านไป 24 ชั่วโมง โปรดตรวจดูโฟลเดอร์สแปมของคุณ"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3425,7 +3435,9 @@ msgstr "หน้ารายละเอียดของคุณจะมี
 #, python-format
 msgid ""
 "You can attract users to your extension by adding a detailed description and screenshots to your listing. Get help <a %(a_attrs)s>creating an appealing listing</a> on Firefox Extension Workshop."
-msgstr "คุณสามารถดึงดูดผู้ใช้ให้เข้ามาใช้ส่วนขยายของคุณได้ด้วยการเพิ่มคำอธิบายแบบละเอียดและภาพหน้าจอลงในหน้ารายละเอียดของคุณ รับความช่วยเหลือในการ<a %(a_attrs)s>สร้างหน้ารายละเอียดที่น่าดึงดูด</a>บนเวิร์กช็อปส่วนขยายของ Firefox"
+msgstr ""
+"คุณสามารถดึงดูดผู้ใช้ให้เข้ามาใช้ส่วนขยายของคุณได้ด้วยการเพิ่มคำอธิบายแบบละเอียดและภาพหน้าจอลงในหน้ารายละเอียดของคุณ รับความช่วยเหลือในการ<a "
+"%(a_attrs)s>สร้างหน้ารายละเอียดที่น่าดึงดูด</a>บนเวิร์กช็อปส่วนขยายของ Firefox"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:43
 msgid "Manage Listing"
@@ -3645,8 +3657,8 @@ msgstr "ย้อนกลับ"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
-"in the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
+" the <code>Authorization</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3727,12 +3739,10 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
-"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
-"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3906,8 +3916,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
-"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
+"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -4044,7 +4054,9 @@ msgstr "นโยบายความเป็นส่วนตัว"
 
 #: src/olympia/devhub/templates/devhub/includes/policy_form.html:22
 msgid "If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used. It is only relevant for listed add-ons."
-msgstr "ถ้าส่วนเสริมของคุณมีการส่งข้อมูลจากเครื่องคอมพิวเตอร์ของผู้ใช้ คุณจะต้องแนบนโยบายความเป็นส่วนตัวซึ่งอธิบายเกี่ยวกับข้อมูลที่ส่งและการนำข้อมูลไปใช้ด้วย โดยจะเกี่ยวข้องสำหรับส่วนเสริมที่มีในรายชื่อเท่านั้น"
+msgstr ""
+"ถ้าส่วนเสริมของคุณมีการส่งข้อมูลจากเครื่องคอมพิวเตอร์ของผู้ใช้ คุณจะต้องแนบนโยบายความเป็นส่วนตัวซึ่งอธิบายเกี่ยวกับข้อมูลที่ส่งและการนำข้อมูลไปใช้ด้วย "
+"โดยจะเกี่ยวข้องสำหรับส่วนเสริมที่มีในรายชื่อเท่านั้น"
 
 #: src/olympia/devhub/templates/devhub/includes/source_form_field.html:3
 msgid "If your add-on contains minified, concatenated or otherwise machine-generated code other than known libraries, upload its sources for review."
@@ -7028,8 +7040,8 @@ msgstr ""
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
-"Notice which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
+" which explains how we handle your information."
 msgstr ""
 
 #: src/olympia/users/models.py:1377
@@ -7138,8 +7150,7 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
-"as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
