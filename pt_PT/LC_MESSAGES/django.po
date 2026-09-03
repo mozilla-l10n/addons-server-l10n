@@ -3867,6 +3867,15 @@ msgid ""
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
+"Caro programador de complementos,\n"
+"\n"
+"Queríamos que soubesse imediatamente: notámos que as suas credenciais secretas da API do AMO foram incluídas num complemento submetido para addons.mozilla.org. Para manter a sua conta e o(s) seu(s) complemento(s) seguros, antecipámo-nos e revogámos as credenciais afetadas. Não há nada de errado do seu lado — isto acontece às vezes e estamos aqui para ajudar.\n"
+"Pode gerar novas credenciais de API a qualquer momento, em %(api_keys_url)s\n"
+"\n"
+"Para ajudar a manter as suas credenciais seguras, é melhor mantê-las privadas e evitar incluí-las em qualquer repositório público, extra ou outro lugar público. Sempre que tiver um momento, vale a pena rever os seus repositórios de código e extensões para remover quaisquer referências às suas credenciais do AMO.\n"
+"\n"
+"Obrigado,\n"
+"A equipa de Complementos da Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-completed.ltxt:6
 msgid ""
@@ -3877,6 +3886,12 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"O seu endereço de e-mail foi verificado, está tudo pronto. Obrigado por construir para o Firefox!\n"
+"\n"
+"\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-requested.ltxt:10
 #, python-format
@@ -3892,6 +3907,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"Obrigado por construir para o Firefox! Está a receber esta mensagem porque solicitou a confirmação do seu endereço de e-mail. Para terminar, basta clicar na ligação abaixo:\n"
+"\n"
+"%(confirmation_link)s\n"
+"\n"
+"Se não solicitou isto, pode ignorar este e-mail com segurança.\n"
+"\n"
+"\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:6 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:4
 msgid "Invisible"
@@ -3911,11 +3936,11 @@ msgstr "O seu extra está a ser apresentado na nossa galeria e os utilizadores e
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:30
 msgid "Your add-on was disabled by a site administrator and is no longer shown in our gallery."
-msgstr ""
+msgstr "O seu complemento foi desativado por um administrador do site e deixou de ser apresentado na nossa galeria."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:32
 msgid "Your add-on listing was rejected. It is not listed in our gallery. Please address the reasons and reapply for review."
-msgstr ""
+msgstr "O anúncio do seu complemento foi rejeitado. Não está listado na nossa galeria. Por favor, responda aos motivos e volte a solicitar uma revisão."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:35
 msgid "Your add-on won't be included in search results, and its listing page will indicate you disabled it. New version submissions for listing won't be accepted in this state."
@@ -3968,11 +3993,11 @@ msgstr "Esta é a versão não listada carregada mais recentemente"
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:82
 #: src/olympia/devhub/templates/devhub/versions/list.html:32
 msgid "Signed for enterprise."
-msgstr ""
+msgstr "Assinado para empresarial."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:126
 msgid "This is the newest uploaded enterprise version"
-msgstr ""
+msgstr "Esta é a versão empresarial mais recente carregada"
 
 #: src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:20
 msgid "Upload New Version"
@@ -3992,7 +4017,7 @@ msgstr "Página de revisões não-listadas"
 
 #: src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:46
 msgid "Enterprise Review Page"
-msgstr ""
+msgstr "Página da Revisão Empresarial"
 
 #: src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:51
 msgid "Admin Manage"
@@ -4008,6 +4033,8 @@ msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
+"Antes de começar, por favor leia e aceite o nosso Acordo de Distribuição de Complementos do Firefox, Políticas e Regras de Revisão e as nossas <a %(a_attrs)s href=\"%(faq_url)s\">Perguntas "
+"Frequentes</a>. O Acordo de Distribuição de Complementos do Firefox também tem uma ligação para o nosso Aviso de Privacidade, que explica como gerimos a sua informação."
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -4032,21 +4059,24 @@ msgstr "Mais informação sobre as Contas de Programador"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:3
 msgid "Firefox for Android compatibility"
-msgstr ""
+msgstr "Compatibilidade do Firefox para Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
 "Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
 "href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
+"Testou a sua extensão para garantir que funciona como esperado no Firefox para Android? Se não, por favor veja <a target=\"_blank\" rel=\"noopener noreferrer\" "
+"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Desenvolver extensões para Firefox Android</a> para diretrizes de testes antes de "
+"submeter."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
-msgstr ""
+msgstr "Sim, testei a minha extensão com o Firefox para Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:7
 msgid "No, I have not tested"
-msgstr ""
+msgstr "Não, não testei"
 
 #: src/olympia/devhub/templates/devhub/includes/blog_posts.html:3
 msgid "Developer News"
@@ -4058,23 +4088,23 @@ msgstr "Ver o blogue &#9658;"
 
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:2
 msgid "Our review found that your listing content violates the following Mozilla policy or policies:"
-msgstr ""
+msgstr "A nossa análise revelou que o conteúdo do seu anúncio viola a seguinte política ou políticas da Mozilla:"
 
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:14
 msgid "To address these issues, please update your listing and request another review of the content."
-msgstr ""
+msgstr "Para resolver estes problemas, por favor atualize o seu anúncio e solicite outra revisão do conteúdo."
 
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:17
 msgid "Appeal already made"
-msgstr ""
+msgstr "Recurso já apresentado"
 
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:21
 msgid "Review requested already, awaiting review"
-msgstr ""
+msgstr "Revisão já solicitada, a aguardar revisão"
 
 #: src/olympia/devhub/templates/devhub/includes/content_rejected.html:26
 msgid "I confirm I have addressed the issues, and request a review"
-msgstr ""
+msgstr "Confirmo que corrigi os problemas, e solicito uma revisão"
 
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:1
 msgid "Version Signature Pending"
@@ -4117,7 +4147,7 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/macros.html:5
 msgid "Some Markdown supported."
-msgstr ""
+msgstr "Suportado algum Markdown."
 
 #: src/olympia/devhub/templates/devhub/includes/macros.html:55
 msgid "Remove this application"
@@ -4125,28 +4155,28 @@ msgstr "Remover esta aplicação"
 
 #. {0} is the maximum number of add-on categories allowed
 #: src/olympia/devhub/templates/devhub/includes/macros.html:66
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Select a category for this add-on:"
 msgid_plural "Select <b>up to {0}</b> categories for this add-on:"
-msgstr[0] "Selecione uma categoria para este extra:"
-msgstr[1] "Selecione uma categoria para este extra:"
+msgstr[0] "Selecione uma categoria para este complemento:"
+msgstr[1] "Selecione <b>até {0}</b> categorias para este complemento:"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:2
 msgid "Roll back to a previous version"
-msgstr ""
+msgstr "Reverter para uma versão anterior"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:7
 msgid "Users of this extension will roll back to the previous version you choose."
-msgstr ""
+msgstr "Os utilizadores desta extensão irão reverter para a versão anterior que escolher."
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:13
 #, python-format
 msgid "Current Version [%(current_version_number)s] will roll back to Version [%(selected_version_number)s]"
-msgstr ""
+msgstr "A versão atual [%(current_version_number)s] irá reverter para a Versão [%(selected_version_number)s]"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:19
 msgid "Distribution channel"
-msgstr ""
+msgstr "Canal de distribuição"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
@@ -4155,15 +4185,15 @@ msgstr "Versão"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
-msgstr ""
+msgstr "Novo número de versão"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
-msgstr ""
+msgstr "Notas de Lançamento"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
-msgstr ""
+msgstr "Reverter"
 
 #: src/olympia/devhub/templates/devhub/includes/policy_form.html:3
 msgid "End-User License Agreement"
@@ -4505,7 +4535,7 @@ msgstr "por"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:134
 msgid "Additional comments:"
-msgstr ""
+msgstr "Comentários adicionais:"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:147
 msgid "Leave a reply"
@@ -4545,7 +4575,7 @@ msgstr "Todas as versões"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:216
 msgid "Rollback to a previous version"
-msgstr ""
+msgstr "Reverter para uma versão anterior"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:222
 msgid "Upload a New Version"
@@ -4569,13 +4599,15 @@ msgstr "Eliminar esta versão vai eliminar permanentemente:"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:280
 msgid "Important:"
-msgstr ""
+msgstr "Importante:"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:281
 msgid ""
 "Once a version has been deleted, you may not upload a new version with the same version number. The version will also be Restricted, which will disable and prevent any further installation in "
 "Firefox. Existing users can choose to re-enable the add-on."
 msgstr ""
+"Uma vez que uma versão seja apagada, não poderá enviar uma nova versão com o mesmo número de versão. A versão também será Restrita, o que irá desativar e impedir qualquer nova instalação no Firefox."
+" Os utilizadores existentes podem optar por reativar o complemento."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:288
 msgid "Are you sure you wish to delete this version?"
@@ -4595,6 +4627,8 @@ msgid ""
 "The latest approved version of this %(promoted_group_name)s add-on cannot be deleted or disabled because the previous version was not approved for %(promoted_group_name)s promotion. Please contact "
 "AMO Admins if you need help with this."
 msgstr ""
+"A última versão aprovada deste complemento %(promoted_group_name)s não pode ser apagada ou desativada porque a versão anterior não foi aprovada para promoção %(promoted_group_name)s. Por favor "
+"contacte os administradores do AMO se precisar de ajuda com isto."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:318 src/olympia/devhub/templates/devhub/versions/list.html:344
 msgid "Hide Add-on"
@@ -4718,7 +4752,7 @@ msgstr "Um bloqueador de anúncios leve e eficaz. O uBlock Origin aplica milhare
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:47
 msgid "Enjoy a suite of new features, like cinema mode, ad blocking, auto-play control & more."
-msgstr ""
+msgstr "Desfrute de um conjunto de novas funcionalidades, como modo cinema, bloqueio de anúncios, controlo de auto-reprodução & mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:50
@@ -4861,7 +4895,7 @@ msgstr "Recarregue separadores automaticamente com base nos intervalos de tempo 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1016
 msgid "Keep parts of your online life separated into color-coded and cookie separated tabs. Now integrated with Mozilla VPN for an extra layer of privacy."
-msgstr ""
+msgstr "Mantenha partes da sua vida online separadas em separadores codificados por cores e separados por cookies. Agora integrado com a Mozilla VPN para uma camada extra de privacidade."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
