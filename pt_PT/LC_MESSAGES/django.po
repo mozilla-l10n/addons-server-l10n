@@ -2512,6 +2512,8 @@ msgid ""
 "Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
 " refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
+"Use este formulário para obter suporte relacionado com a sua conta, questões de conformidade com as políticas e mais. Quanto mais detalhes nos fornecer, mais fácil será para nós ajudá-lo. Para "
+"questões relacionadas com revisões do(s) seu(s) complementos(s), consulte o histórico de versões do(s) mesmo(s). Entraremos em contacto consigo assim que possível."
 
 #: src/olympia/devhub/templates/devhub/support.html:17
 msgid "Send request"
@@ -2926,6 +2928,8 @@ msgid ""
 "A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's product page. Recommended length: 250 characters. If you need a longer "
 "description, make sure the first 250 characters contain the most important description points."
 msgstr ""
+"Uma explicação mais detalhada sobre as características, funcionalidades e outras informações relevantes. Este campo só é apresentado na página do produto do complemento. Comprimento recomendado: 250"
+" caracteres. Se precisar de uma descrição mais longa, certifique-se de que os primeiros 250 caracteres incluem os pontos mais importantes da descrição."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:169
 msgid "Experimental?"
@@ -3144,7 +3148,7 @@ msgstr "O seu complemento está atualmente definido como \"Invisível\"."
 
 #: src/olympia/devhub/templates/devhub/addons/includes/cant_submit_new_listed_versions_warning.html:5
 msgid "Your add-on listing was rejected."
-msgstr ""
+msgstr "O anúncio do seu complemento foi rejeitado."
 
 #: src/olympia/devhub/templates/devhub/addons/includes/cant_submit_new_listed_versions_warning.html:7
 msgid "While in this state, \"On your own\" is the only distribution method available."
@@ -3184,7 +3188,7 @@ msgstr "Mais informação sobre as licenças Creative Commons"
 
 #: src/olympia/devhub/templates/devhub/addons/includes/source_file_input.html:12
 msgid "You cannot change attached sources because this version has been reviewed by Mozilla."
-msgstr ""
+msgstr "Não pode alterar as fontes em anexo porque esta versão foi revista pela Mozilla."
 
 #: src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:53
 msgid "General Tests"
@@ -3226,11 +3230,11 @@ msgstr "Eliminar o seu complemento irá eliminar permanentemente todas as versõ
 
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:6
 msgid "All versions will be Restricted, which will disable and prevent any further installation in Firefox. Existing users can choose to re-enable the add-on."
-msgstr ""
+msgstr "Todas as versões serão Restritas, o que irá desativar e impedir qualquer nova instalação no Firefox. Os utilizadores existentes podem optar por reativar o complemento."
 
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:11
 msgid "The add-on ID cannot be restored and will forever be unusable for submission."
-msgstr ""
+msgstr "O ID do complemento não pode ser restaurado e será para sempre inutilizado para submissão."
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:2 src/olympia/devhub/templates/devhub/versions/list.html:253 src/olympia/devhub/templates/devhub/versions/list.html:257
 msgid "Delete Add-on"
@@ -3426,7 +3430,7 @@ msgstr "Existe algo que os nossos avaliadores devam considerar ao analisar este 
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:213 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:26
 msgid "Important"
-msgstr ""
+msgstr "Importante"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:214 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:27
 #, python-format
@@ -3434,6 +3438,8 @@ msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
 msgstr ""
+"Leia os nossos %(policy_requirements_open)srequisitos regulamentares%(policy_requirements_close)s relativos aos processos de compilação e ao envio de código-fonte. Se o seu envio exigir código-"
+"fonte, deverá fornecer instruções passo a passo para a compilação, quer dentro do pacote de código-fonte, quer aqui, que permitam criar uma cópia exata do código."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3604,7 +3610,7 @@ msgstr "Os ficheiros de código fonte (exceto bibliotecas de código aberto de t
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:67
 #, python-format
 msgid "The maximum file size accepted is %(max_size)s."
-msgstr ""
+msgstr "O tamanho máximo de ficheiro aceite é de %(max_size)s."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:72
 #, python-format
@@ -3642,7 +3648,7 @@ msgstr "Utilize os campos abaixo para carregar o pacote do seu extra. Após carr
 #: src/olympia/devhub/templates/devhub/addons/submit/upload.html:35
 #, python-format
 msgid "The maximum file size accepted is %(max_size)s. If your add-on is larger than %(max_size)s, it will fail validation."
-msgstr ""
+msgstr "O tamanho máximo de ficheiro aceite é de %(max_size)s. Se o seu complemento for maior do que %(max_size)s, irá falhar a validação."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/upload.html:62
 msgid "Which applications is this version compatible with?"
@@ -3658,7 +3664,7 @@ msgstr "Criar uma versão de tema"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/upload.html:84
 msgid "You can upload a finished theme using the upload option above, or you can build it yourself using this tool."
-msgstr ""
+msgstr "Pode carregar um tema terminado usando a opção de carregamento acima, ou pode construí-lo você mesmo utilizando esta ferramenta."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/upload.html:90
 msgid "Create a Theme"
@@ -3734,10 +3740,12 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>Authorization</code> header for every request."
 msgstr ""
+"Para efetuar chamadas autenticadas à <a %(a_attrs)s href=\"%(docs_url)s\">API</a> na qualidade de consumidor externo, é necessário incluir um <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token "
+"(JWT)</a> no cabeçalho <code>Authorization</code> em cada pedido."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
-msgstr ""
+msgstr "Mantenha as suas chaves de API em segredo e nunca as partilhe com ninguém, incluindo funcionários ou colaboradores da Mozilla."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:31
 msgid "JWT issuer"
@@ -3749,11 +3757,11 @@ msgstr "Segredo JWT"
 
 #: src/olympia/devhub/templates/devhub/api/key.html:44
 msgid "After following the confirmation link that was sent to your email address, you will find your API keys on this page."
-msgstr ""
+msgstr "Depois de seguir a ligação de confirmação que foi enviada para o seu endereço de e-mail, irá encontrar as suas chaves da API nesta página."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:48
 msgid "Haven't received the email yet?"
-msgstr ""
+msgstr "Ainda não recebeu o email?"
 
 #: src/olympia/devhub/templates/devhub/emails/api_key_confirmation.ltxt:10
 #, python-format
@@ -3769,6 +3777,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"Obrigado por desenvolver para o Firefox! Está a receber esta mensagem porque solicitou novas chaves API de programador para %(domain)s. Para concluir a configuração, basta clicar na ligação abaixo:\n"
+"\n"
+"%(api_key_confirmation_link)s\n"
+"\n"
+"Se não solicitou estas chaves, pode ignorar este e-mail com segurança e não serão criadas quaisquer chaves.\n"
+"\n"
+"\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/new-key-email.ltxt:14
 #, python-format
@@ -3788,6 +3806,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"Acabou de ser adicionada uma nova chave API à sua conta:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Se foi você quem a criou, não precisa de fazer mais nada.\n"
+"Se achar que esta chave foi criada por engano, pode removê-la e desativar o acesso aqui:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Obrigado por desenvolver para o Firefox,\n"
+"\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/revoked-key-email.ltxt:14
 #, python-format
@@ -3807,6 +3839,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"A seguinte chave de API foi revogada da sua conta e já não pode ser utilizada:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Se esperava isto, nenhuma ação é necessária. \n"
+"Se acredita que esta chave foi revogada por erro, pode criar uma nova aqui:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Estamos aqui para ajudar se algo parecer errado,\n"
+"\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/submission_api_key_revocation.txt:9
 #, python-format
