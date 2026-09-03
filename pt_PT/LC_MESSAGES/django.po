@@ -109,6 +109,13 @@ msgid ""
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Agradecemos o seu relatório sobre %(name)s no Mozilla Add-ons e por ter dedicado algum tempo a partilhar mais detalhes sobre as suas preocupações.\n"
+"\n"
+"Após analisarmos cuidadosamente o seu recurso, concluímos que a decisão anterior — de que este conteúdo cumpre as políticas da Mozilla (%(policy_document_url)s) — estava correta. Por esse motivo, não tomaremos medidas contra a conta nem contra o conteúdo.\n"
+"%(manual_reasoning_text)s.\n"
+"\n"
+"Mais uma vez, obrigado por nos ajudar a manter o Mozilla Add-ons seguro.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
@@ -118,6 +125,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
+"\n"
+"Agradecemos o seu relatório sobre %(name)s no Mozilla Add-ons e por ter dedicado algum tempo a partilhar mais detalhes sobre as suas preocupações.\n"
+"\n"
+"Após analisarmos o seu recurso, constatámos que a nossa decisão anterior, segundo a qual este conteúdo cumpria as políticas da Mozilla (%(policy_document_url)s), estava incorreta. Já removemos o conteúdo e notificámos o utilizador. Agradecemos a sua ajuda para corrigirmos esta situação.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -127,6 +138,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Agradecemos o seu relatório sobre %(name)s no Mozilla Add-ons e por nos ter fornecido mais informações sobre as suas preocupações.\n"
+"\n"
+"Após analisarmos o seu recurso, constatámos que a nossa decisão anterior, segundo a qual este conteúdo cumpria as políticas da Mozilla (%(policy_document_url)s), estava incorreta. Solicitámos ao programador que efetuasse alterações e, caso não atualize o seu conteúdo, iremos removê-lo.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -136,6 +151,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Obrigado por ter dedicado algum tempo a denunciar %(name)s, em %(target_url)s.\n"
+"\n"
+"Analisámos a sua denúncia e o conteúdo em questão e constatámos que este está em conformidade com as políticas da Mozilla (%(policy_document_url)s), pelo que não será alvo de qualquer ação de moderação. No entanto, agradecemos-lhe por nos ter alertado para o assunto.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
@@ -143,6 +162,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"Se considerar que o conteúdo não cumpre as políticas da Mozilla, tem o direito de recorrer desta decisão no prazo de 6 meses a contar da data deste e-mail. Consulte %(appeal_url)s para obter mais "
+"informações sobre o processo de recurso, incluindo como apresentar um recurso relativamente a esta decisão específica."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -152,6 +173,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Obrigado por ter dedicado algum tempo a denunciar a seguinte extensão no Mozilla Add-ons: %(name)s.\n"
+"\n"
+"Analisámos a sua denúncia e o conteúdo em questão e constatámos que este não cumpre as políticas da Mozilla (%(policy_document_url)s). Por conseguinte, removemos o conteúdo. Agradecemos a sua ajuda para manter o Mozilla Add-ons seguro.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -161,6 +186,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Obrigado por ter dedicado o seu tempo a denunciar a seguinte extensão no Mozilla Add-ons: %(name)s.\n"
+"\n"
+"Analisámos a sua denúncia e o conteúdo em questão e constatámos que este não cumpre as políticas da Mozilla (%(policy_document_url)s). Solicitámos ao programador que efetue alterações e, caso estas não resolvam o problema, iremos remover o conteúdo. Obrigado por ajudar a manter o Mozilla Add-ons seguro.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -1244,7 +1273,7 @@ msgstr "Reversão de versão"
 #: src/olympia/constants/activity.py:1215
 #, python-brace-format
 msgid "{addon} rollback from {version} failed."
-msgstr ""
+msgstr "A reversão do {addon} a partir da {version} falhou."
 
 #: src/olympia/constants/activity.py:1216
 msgid "Version rollback failure"
@@ -1258,7 +1287,7 @@ msgstr "A propriedade de {addon} {0} foi editada."
 #: src/olympia/constants/activity.py:1256
 #, python-brace-format
 msgid "Collection {0} property {1} updated."
-msgstr ""
+msgstr "A propriedade {1} da coleção {0} foi atualizada."
 
 #: src/olympia/constants/activity.py:1263
 #, python-brace-format
@@ -1268,7 +1297,7 @@ msgstr "A propriedade {0} da conta {user} foi atualizada."
 #: src/olympia/constants/activity.py:1280
 #, python-brace-format
 msgid "{addon} listing content approved."
-msgstr ""
+msgstr "Conteúdo da listagem do {addon} aprovado."
 
 #: src/olympia/constants/activity.py:1282
 msgid "Rejected listing approved"
@@ -1277,7 +1306,7 @@ msgstr "Listagem rejeitada aprovada"
 #: src/olympia/constants/activity.py:1294
 #, python-brace-format
 msgid "{addon} listing content rejected."
-msgstr ""
+msgstr "O conteúdo do anúncio do {addon} foi rejeitado."
 
 #: src/olympia/constants/activity.py:1295
 msgid "Listing rejected"
@@ -1286,20 +1315,20 @@ msgstr "Listagem rejeitada"
 #: src/olympia/constants/activity.py:1317
 #, python-brace-format
 msgid "{addon} listing content review requested."
-msgstr ""
+msgstr "Solicitada revisão do conteúdo do anúncio do {addon}."
 
 #: src/olympia/constants/activity.py:1318
 msgid "Listing review requested"
-msgstr ""
+msgstr "Solicitada revisão do anúncio"
 
 #: src/olympia/constants/activity.py:1334
 #, python-brace-format
 msgid "Decision on {addon} made with no new action taken."
-msgstr ""
+msgstr "Decisão relativa ao {addon} decidida sem nova ação tomada."
 
 #: src/olympia/constants/activity.py:1335
 msgid "Decision made"
-msgstr ""
+msgstr "Decisão tomada"
 
 #: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:244
 msgid "Firefox"
@@ -1339,7 +1368,7 @@ msgstr "A aguardar revisão"
 
 #: src/olympia/constants/base.py:28
 msgid "Listing Content Rejected"
-msgstr ""
+msgstr "Rejeitado Conteúdo do Anúncio"
 
 #: src/olympia/constants/base.py:29 src/olympia/constants/base.py:36
 msgid "Disabled by Mozilla"
@@ -2014,6 +2043,8 @@ msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
+"Uma extensão empresarial. <span class=\"helptext\">Depois da sua submissão ter sido assinada pela Mozilla, pode descarregar o ficheiro .xpi a partir do Developer Hub e distribuí-lo ao seu público "
+"através de uma política do Firefox for Empresas.</span>"
 
 #: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
@@ -2037,12 +2068,12 @@ msgstr "Revogar"
 
 #: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
-msgstr ""
+msgstr "Reenviar e-mail de confirmação"
 
 #: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
-msgstr ""
+msgstr "Por favor clique no botão abaixo para gerar credenciais de API para o utilizador <strong>{name}</strong>."
 
 #: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
@@ -2070,11 +2101,11 @@ msgstr "Escolha uma categoria"
 
 #: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
-msgstr ""
+msgstr "Suporte técnico para garantir a conformidade da sua extensão"
 
 #: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
-msgstr ""
+msgstr "Problema com addons.mozilla.org"
 
 #: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
@@ -2276,7 +2307,7 @@ msgstr "Este envio falhou a validação e pode não ter os resultados completos 
 
 #: src/olympia/devhub/views.py:1338
 msgid "Rollback submitted. You'll be notified when it's approved"
-msgstr ""
+msgstr "Reversão submetida. Será notificado quando for aprovada"
 
 #: src/olympia/devhub/views.py:1484
 msgid "Header area background"
@@ -2350,7 +2381,7 @@ msgstr "Tem de providenciar detalhes adicionais para proceder."
 
 #: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
-msgstr ""
+msgstr "Uma ligação de confirmação será enviada para o seu endereço de e-mail em breve."
 
 #: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
