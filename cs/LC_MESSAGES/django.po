@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 10:07+0000\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Generated-By: Pontoon\n"
@@ -104,13 +106,16 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
-" Děkujeme za vaše hlášení o aplikaci %(name)s na serveru Doplňky Mozilla Doplňky Mozilly a za váš čas, který jste nám věnovali a podělili se o další podrobnosti. Po pečlivé kontrole vašeho odvolání jsme zjistili, že předchozí rozhodnutí, že tento obsah je v souladu s pravidly Mozilly (%(policy_document_url)s) – bylo správné. Z tohoto důvodu nebudeme proti tomuto účtu či proti jeho obsahu nic podnikat. %(manual_reasoning_text)s. Ještě jednou děkujeme, že nám pomáháte udržet Doplňky Mozilly v bezpečí. \n"
+" Děkujeme za vaše hlášení o aplikaci %(name)s na serveru Doplňky Mozilla Doplňky Mozilly a za váš čas, který jste nám věnovali a podělili se o další podrobnosti. Po pečlivé kontrole vašeho odvolání "
+"jsme zjistili, že předchozí rozhodnutí, že tento obsah je v souladu s pravidly Mozilly (%(policy_document_url)s) – bylo správné. Z tohoto důvodu nebudeme proti tomuto účtu či proti jeho obsahu nic "
+"podnikat. %(manual_reasoning_text)s. Ještě jednou děkujeme, že nám pomáháte udržet Doplňky Mozilly v bezpečí. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
@@ -118,10 +123,13 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
-" Děkujeme za vaše hlášení o aplikaci %(name)s na serveru Doplňky Mozilla Doplňky Mozilly a za váš čas, který jste nám věnovali a podělili se o další podrobnosti. Po kontrole vašeho odvolání jsme zjistili, že naše dřívější rozhodnutí, že tento obsah je v souladu se zásadami Mozilly (%(policy_document_url)s), bylo nesprávné. Obsah jsme nyní odstranili a uživatele informovali. Děkujeme, že jste nám pomohli v tomto problému. \n"
+" Děkujeme za vaše hlášení o aplikaci %(name)s na serveru Doplňky Mozilla Doplňky Mozilly a za váš čas, který jste nám věnovali a podělili se o další podrobnosti. Po kontrole vašeho odvolání jsme "
+"zjistili, že naše dřívější rozhodnutí, že tento obsah je v souladu se zásadami Mozilly (%(policy_document_url)s), bylo nesprávné. Obsah jsme nyní odstranili a uživatele informovali. Děkujeme, že "
+"jste nám pomohli v tomto problému. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -129,10 +137,12 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
-" Děkujeme za vaše hlášení o aplikaci %(name)s na serveru Doplňky Mozilly a za poskytnutí více informací. Po kontrole vašeho odvolání jsme zjistili, že naše dřívější rozhodnutí, že tento obsah je v souladu se zásadami Mozilly (%(policy_document_url)s), bylo nesprávné. Požádali jsme vývojáře, aby provedli změny a pokud nebudou aktualizovat svůj obsah, tak jej smažeme. \n"
+" Děkujeme za vaše hlášení o aplikaci %(name)s na serveru Doplňky Mozilly a za poskytnutí více informací. Po kontrole vašeho odvolání jsme zjistili, že naše dřívější rozhodnutí, že tento obsah je v "
+"souladu se zásadami Mozilly (%(policy_document_url)s), bylo nesprávné. Požádali jsme vývojáře, aby provedli změny a pokud nebudou aktualizovat svůj obsah, tak jej smažeme. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -140,16 +150,18 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
-" Děkujeme za nahlášení uživatele %(name)s na %(target_url)s. Zkontrolovali jsme vaše hlášení a předmětný obsah a zjistili jsme, že splňuje pravidla Mozilly (%(policy_document_url)s), takže nebude předmětem žádné akce. Děkujeme vám za nahlášení. \n"
+" Děkujeme za nahlášení uživatele %(name)s na %(target_url)s. Zkontrolovali jsme vaše hlášení a předmětný obsah a zjistili jsme, že splňuje pravidla Mozilly (%(policy_document_url)s), takže nebude "
+"předmětem žádné akce. Děkujeme vám za nahlášení. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Pokud se domníváte, že obsah není v souladu se zásadami společnosti Mozilla, máte právo se proti tomuto rozhodnutí odvolat do 6 měsíců od data odeslání tohoto e-mailu. Podrobnosti o odvolacím "
 "řízení, včetně pokynů k podání odvolání proti tomuto konkrétnímu rozhodnutí, najdete na %(appeal_url)s."
@@ -160,10 +172,12 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
-" Děkujeme za nahlášení následujícího doplňku na serveru Doplňky Mozilly: %(name)s. Zkontrolovali jsme vaše hlášení a příslušný obsah a zjistili jsme, že neodpovídá zásadám Mozilly (%(policy_document_url)s). V důsledku toho jsme obsah odstranili. Vážíme si toho, že pomáháte udržet Doplňky Mozilly v bezpečí. \n"
+" Děkujeme za nahlášení následujícího doplňku na serveru Doplňky Mozilly: %(name)s. Zkontrolovali jsme vaše hlášení a příslušný obsah a zjistili jsme, že neodpovídá zásadám Mozilly "
+"(%(policy_document_url)s). V důsledku toho jsme obsah odstranili. Vážíme si toho, že pomáháte udržet Doplňky Mozilly v bezpečí. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -171,10 +185,12 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
-" Děkujeme za nahlášení následujícího doplňku na serveru Doplňky Mozilly: %(name)s. Zkontrolovali jsme vaše hlášení a příslušný obsah a zjistili jsme, že neodpovídá zásadám Mozilly (%(policy_document_url)s). Požádali jsme vývojáře o provedení změn, které problém nevyřeší, obsah odstraníme. Děkujeme, že pomáháte udržet Doplňky Mozilly v bezpečí. \n"
+" Děkujeme za nahlášení následujícího doplňku na serveru Doplňky Mozilly: %(name)s. Zkontrolovali jsme vaše hlášení a příslušný obsah a zjistili jsme, že neodpovídá zásadám Mozilly "
+"(%(policy_document_url)s). Požádali jsme vývojáře o provedení změn, které problém nevyřeší, obsah odstraníme. Děkujeme, že pomáháte udržet Doplňky Mozilly v bezpečí. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -273,7 +289,7 @@ msgstr "Délka obsahu požadavku je příliš velká."
 msgid "Add-on"
 msgstr "Doplněk"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "Nahrávání doplňků je dočasně nedostupné."
 
@@ -295,11 +311,11 @@ msgstr "Neplatný název kategorie."
 msgid "URL domain must be one of [{domains}]."
 msgstr "Doména URL musí být jedna z těchto: {domains}."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "Adresa URL sponzorů GitHubu musí obsahovat text /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "Adresy URL musí začínat https://."
 
@@ -313,7 +329,7 @@ msgstr "Licence s hodnotou atributu slug={value} neexistuje."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Nepodporovaný typ souboru. Nahrajte prosím soubor s archivem ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Archiv je neplatný nebo rozbitý."
 
@@ -345,7 +361,7 @@ msgstr "Obrázky musí být menší než %d MB"
 msgid "Invalid \"%s\" parameter."
 msgstr "Neplatný parametr \"%s\"."
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "Zobrazení"
 
@@ -380,7 +396,7 @@ msgstr "Veřejné verze není možné odeslat, pokud není schválené zařazen�
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s nejsou podporované aplikací %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Nesprávný rozsah verzí. Pro Firefox pro Android můžete vybrat pouze rozsah, který začíná verzí %(max)s nebo vyšší nebo končí verzí nižší než %(min)s."
@@ -397,11 +413,11 @@ msgstr "Doplňky musí mít uvedeného alespoň jednoho autora."
 msgid "Account not found."
 msgstr "Účet nebyl nalezen."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Autor může být uveden pouze jednou."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Před přidáním účtu jako autora musí být v účtu nastaveno zobrazované jméno."
 
@@ -522,7 +538,7 @@ msgstr "Přidání nového vzhledu"
 msgid "Developer Hub"
 msgstr "Pro vývojáře"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "Spravovat API klíče"
 
@@ -627,8 +643,8 @@ msgstr ""
 "<h1>Je nám líto, ale nemůžeme nalézt, co hledáte.</h1> <p>Požadovaná stránka nebo soubor nebyl na našem webu nalezen. Pravděpodobně jste klepli na již neaktuální odkaz nebo jste napsali nesprávnou "
 "adresu.</p> <ul> <li>Pokud jste zadali adresu ručně, zkontrolujte prosím její správnost.</li> <li> Pokud jste klepli na odkaz, %(open_bug_link)snahlaste nám prosím chybu%(close_bug_link)s. Sdělte "
 "nám, odkud jste přišli a co jste hledali, a my to dáme do pořádku. </li> </ul> <p>A nebo můžete rovnou skočit na některou z populárních stránek na našem webu.</p> <ul> <li>Zajímal by vás seznam <a "
-"href=\"%(rec)s\">doporučovaných doplňků</a>?</li> <li> Hledáte nějaký doplněk? Pak přejděte na <a href=\"%(search)s\">stránku vyhledávání</a> nebo použijte vyhledávací pole výše. </li> <li> Pokud si"
-" přejete začít od začátku, jděte na <a href=\"%(home)s\">titulní stránku</a> webu. </li> </ul>"
+"href=\"%(rec)s\">doporučovaných doplňků</a>?</li> <li> Hledáte nějaký doplněk? Pak přejděte na <a href=\"%(search)s\">stránku vyhledávání</a> nebo použijte vyhledávací pole výše. </li> <li> Pokud "
+"si přejete začít od začátku, jděte na <a href=\"%(home)s\">titulní stránku</a> webu. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -1595,7 +1611,7 @@ msgstr "Vývoj webu"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Stáhněte si rozšíření pro Firefox, která představují webové vývojářské nástroje. Tato kategorie zahrnuje rozšíření pro GitHub, nastavení user agenta, správu cookies a další věci."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Ostatní"
 
@@ -1845,7 +1861,7 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "URL nemůže být \"%(slug)s\". Zvolte prosím jiné."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
@@ -1853,20 +1869,20 @@ msgstr[0] "Smíte být pouze v {0} kategorii."
 msgstr[1] "Smíte být pouze v {0} kategoriích."
 msgstr[2] "Smíte být pouze v {0} kategoriích."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Kategorie Různé nemůže být kombinována s jinými kategoriemi."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "Při nahrávání obrázku se vyskytla chyba."
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "Doména v adrese URL musí být jedna z těchto [%s]."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
@@ -1874,139 +1890,139 @@ msgstr[0] "Máte příliš mnoho štítků: {0}"
 msgstr[1] "Máte příliš mnoho štítků: {0}"
 msgstr[2] "Máte příliš mnoho štítků: {0}"
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Dříve, než změníte výchozí jazyk, musíte mít v tomto jazyce vyplněno jméno, shrnutí a popis. Aktuálně vám chybí %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "Uživatelé nemohou být přidáni přímo"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Musí být alespoň jeden vlastník."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Musí být uveden alespoň jeden autor."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Nesprávný název URL."
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Podrobnosti"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "Jaký je název této licence?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Vlastní licence"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Zadejte text své licence."
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "Pokud zvolíte vlastní licenci, musíte zadat její text."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "Tento doplněk má Licenční smlouvu pro koncové uživatele"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Vyplňte prosím Licenční smlouvu pro koncové uživatele vašeho doplňku:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "Doplněk má zásady ochrany osobních údajů"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Zadejte prosím zásady ochrany osobních údajů pro váš doplněk:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Nepodporovaný typ souboru. Nahrajte prosím soubor s archivem pro {extensions}."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Zobrazit aktuální"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Neplatný rozsah verzí."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Je vyžadována alespoň jedna kompatibilní aplikace."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "Při nahrávání se vyskytla chyba. Zkuste to prosím znovu."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "Přepsat nezdařenou validaci"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Vyberte alespoň jednu aplikaci."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "V poslední době jste toho odeslali příliš mnoho. Zkuste to prosím znovu za nějaký čas."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Verze {version} už byla dříve nahrána a smazána."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Verze {version} už existuje."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "Pokračovat místo toho se současným nahráváním?"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Ano"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Ne"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "Nenahráli jste soubor se zdrojovými kódy."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Zdrojový soubor byl nahrán, ale nevložili jste do něj žádný zdrojový kód."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Zajistěte, aby název a souhrn měli dohromady maximálně {limit_value} znaků (mají jich {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Na tomto webu. <span class=\"helptext\">Váš doplněk bude zveřejněn na webu {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2015,7 +2031,7 @@ msgstr ""
 "Vlastní cestou. <span class=\"helptext\">Poté, co Mozilla váš doplněk podepíše, si můžete z Developer Hubu stáhnout soubor .xpi a distribuovat ho svým uživatelům. Ujistěte se, že je v manifestu "
 "doplňku uvedeno <a {a_attrs}>update_url</a>, protože to je adresa URL, na které Firefox vyhledává aktualizace pro automatické nasazení vašim uživatelům.</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2023,92 +2039,84 @@ msgstr ""
 "Doplněk pro podnikové prostředí. <span class=\"helptext\">Jakmile bude váš návrh podepsán společností Mozilla, můžete si soubor .xpi stáhnout z portálu Developer Hub a distribuovat jej svým "
 "uživatelům prostřednictvím zásad služby Firefox for Enterprise.</span>"
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Zobrazované jméno"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "Potvrďte e-mailovou adresu"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Generovat nová pověření"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Zneplatnit a znovu vygenerovat přihlašovací údaje"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Zneplatnit"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "Znovu odeslat e-mail s potvrzením"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Pro vygenerování API přihlašovacích údajů pro uživatele <strong>{name}</strong> prosím klepněte na tlačítko níže."
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "Nemáte žádné přihlašovací údaje k API."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "Něco se pokazilo. Kontaktujte prosím podporu pro vývojáře."
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "Odpovídající verze není k dispozici"
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "Vyberte verzi"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "Poznámky k vydání"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Automatické vrácení změn na základě verze [m.m]."
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "Musíte vybrat kanál a verzi, ke které se chcete vrátit."
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "Zvolte kategorii"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "Technická podpora při přizpůsobování vašeho doplňku požadavkům"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "Problém s addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Předmět"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "Shrňte problém v několika slovech"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "Vyberte kategorii"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "Poskytněte nám více informací o problému"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "Popište problém"
 
@@ -2294,107 +2302,107 @@ msgstr "Při nahrávání selhala kontrola a výsledky kontroly tak mohou být n
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Vrácení změny bylo odesláno. Až bude schválena, budete upozorněni"
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "Pozadí záhlaví"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Barva pozadí v oblasti záhlaví, která se použije pro nezakrytou plochu záhlaví nebo pro plochu viditelnou skrze obrázek v záhlaví. Pole manifestu:  frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Text a ikony v záhlaví"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Barva textu a ikon v oblasti záhlaví, s výjimkou aktivního panelu. Pole manifestu:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Pozadí nástrojových lišt"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Barva pozadí navigační lišty, lišty záložek a aktivního panelu.  Pole manifestu:  toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Text a ikony v nástrojové liště"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Barva textu a ikon v lištách a aktivním panelu. Pole manifestu:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Pozadí polí v nástrojových lištách"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Barva pozadí polí v nástrojových lištách, jako je např. adresní řádek. Pole manifestu:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Text polí v nástrojových lištách"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Barva textu v polích v nástrojových lištách, jako je např. adresní řádek. Pole manifestu:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "Zvýraznění panelu"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Barva zvýraznění aktivního panelu. Ve Firefoxu 89 a vyšším je implementována jako rámeček kolem panelu a ve starších Firefoxech jako čára nad panelem. Pole manifestu:  tab_line."
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Nahrávání doplňků je dočasně nedostupné"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Vyžádána kontrola."
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "Pro pokračování musíte poskytnout více detailů."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Na vaši e-mailovou adresu bude brzy odeslán odkaz pro potvrzení."
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Vaše stará pověření byla zenplatněna."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Byly vygenerovány nové přihlašovací údaje k API, které jsou uvedeny níže. Nezapomeňte si zkopírovat tajný klíč JWT, protože se již nikdy nezobrazí."
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Nový API klíč byl vytvořen"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "API klíč byl zneplatněn"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "Ověřit e-mailovou adresu"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "Poslat další e-mail"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "Vaše e-mailová adresa byla ověřena"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Vaše žádost o podporu byla odeslána. Brzy se vám ozveme."
 
@@ -2492,8 +2500,8 @@ msgstr "Získejte podporu pro rozšíření a motivy"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Tento formulář použijte pro žádosti o podporu týkající se vašeho účtu, otázek souvisejících s dodržováním zásad a dalších záležitostí. Čím více podrobností nám sdělíte, tím snáze vám budeme moci "
 "pomoci. V případě dotazů ohledně hodnocení vašich doplňků se prosím podívejte do historie verzí daných doplňků. Ozveme se vám co nejdříve."
@@ -2839,7 +2847,7 @@ msgstr "nebo"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -2960,8 +2968,8 @@ msgstr "E-mail"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Chcete-li zobrazit e-mailovou adresu pro dotazy na podporu, zadejte ji zde. Máte-li různé adresy pro různé jazyky, můžete přidat více překladů tohoto políčka. Relevantní pouze pro zveřejněné "
 "doplňky."
@@ -3021,8 +3029,8 @@ msgstr "Poznámka pro redaktora"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Poznámka pro redaktora je místo, kde můžete pro redaktora napsat informace relevantní pro váš doplněk a jeho verzi. Používejte jej pro informace, jak otestovat doplněk, a jakékoliv další informace, "
 "které mohou pomoci. Poznámka je upravitelná redaktory."
@@ -3041,8 +3049,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Nahrajte nebo vyberte ikonu pro váš doplněk. Ikona je zobrazena téměř všude, kde je váš doplněk. Nahrané obrázky musí mít některou z následujících přípon: .png, .jpg. Relevantní pouze pro zveřejněné"
-" doplňky."
+"Nahrajte nebo vyberte ikonu pro váš doplněk. Ikona je zobrazena téměř všude, kde je váš doplněk. Nahrané obrázky musí mít některou z následujících přípon: .png, .jpg. Relevantní pouze pro "
+"zveřejněné doplňky."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3718,8 +3726,8 @@ msgstr "Zpět"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Chcete-li jako externí uživatel provádět ověřené volání <a %(a_attrs)s href=\"%(docs_url)s\">API</a>, musíte do hlavičky <code>Authorization</code> každého požadavku zahrnout <a %(a_attrs)s "
 "href=\"%(jwt_url)s\">JSON Web Token (JWT)</a>."
@@ -3840,20 +3848,25 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Vážený vývojáři doplňku,\n"
 "\n"
-"chtěli jsme vás o tom ihned informovat: zjistili jsme, že vaše tajné přihlašovací údaje k API AMO byly součástí doplňku odeslaného na addons.mozilla.org. Abychom zajistili bezpečnost vašeho účtu a vašich doplňků, přistoupili jsme k zrušení dotčených přihlašovacích údajů. Z vaší strany se nic nestalo — k takovým situacím občas dochází a my jsme tu, abychom vám pomohli vrátit se do normálního provozu.\n"
+"chtěli jsme vás o tom ihned informovat: zjistili jsme, že vaše tajné přihlašovací údaje k API AMO byly součástí doplňku odeslaného na addons.mozilla.org. Abychom zajistili bezpečnost vašeho účtu a "
+"vašich doplňků, přistoupili jsme k zrušení dotčených přihlašovacích údajů. Z vaší strany se nic nestalo — k takovým situacím občas dochází a my jsme tu, abychom vám pomohli vrátit se do normálního "
+"provozu.\n"
 "Nové přihlašovací údaje k API si můžete kdykoli vygenerovat na %(api_keys_url)s\n"
 "\n"
-"Abyste i do budoucna zajistili bezpečnost svých přihlašovacích údajů, je nejlepší je uchovávat v tajnosti a vyhýbat se jejich uvádění v jakémkoli veřejném repozitáři, doplňku nebo na jiném veřejném místě. Až budete mít chvilku, vyplatí se zkontrolovat vaše repozitáře kódu a rozšíření a odstranit z nich veškeré odkazy na vaše přihlašovací údaje pro AMO.\n"
+"Abyste i do budoucna zajistili bezpečnost svých přihlašovacích údajů, je nejlepší je uchovávat v tajnosti a vyhýbat se jejich uvádění v jakémkoli veřejném repozitáři, doplňku nebo na jiném veřejném "
+"místě. Až budete mít chvilku, vyplatí se zkontrolovat vaše repozitáře kódu a rozšíření a odstranit z nich veškeré odkazy na vaše přihlašovací údaje pro AMO.\n"
 "\n"
 "Děkujeme,\n"
 "tým Doplňky Mozilla Add-ons"
@@ -4014,8 +4027,8 @@ msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
-"Než začnete, přečtěte si prosím podmínky distribuce doplňků pro Firefox, pravidla recenzí a <a %(a_attrs)s href=\"%(faq_url)s\">často kladené otázky</a>. Dohoda o distribuci doplňků pro Firefox také"
-" odkazuje na naše Zásady ochrany osobních údajů, které vysvětlují, jak nakládáme s vašimi informacemi."
+"Než začnete, přečtěte si prosím podmínky distribuce doplňků pro Firefox, pravidla recenzí a <a %(a_attrs)s href=\"%(faq_url)s\">často kladené otázky</a>. Dohoda o distribuci doplňků pro Firefox "
+"také odkazuje na naše Zásady ochrany osobních údajů, které vysvětlují, jak nakládáme s vašimi informacemi."
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -4044,8 +4057,8 @@ msgstr "Kompatibilita s Firefoxem pro Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 "Otestovali jste své rozšíření, abyste se ujistili, že ve Firefoxu pro Android funguje podle očekávání? Pokud ne, přečtěte si prosím článek <a target=\"_blank\" rel=\"noopener noreferrer\" "
 "href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Vývoj rozšíření pro Firefox Android</a>, kde najdete návod na testování před odesláním."
@@ -4093,7 +4106,8 @@ msgstr "Verze čeká na podespání"
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:3
 msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Hotovo! ✨ Až bude podepsaný soubor připraven ke stažení z Centra pro vývojáře, budete informováni e-mailem. Pokud e-mail neuvidíte ani po 24 hodinách, prohlédněte prosím složku s nevyžádanou poštou."
+"Hotovo! ✨ Až bude podepsaný soubor připraven ke stažení z Centra pro vývojáře, budete informováni e-mailem. Pokud e-mail neuvidíte ani po 24 hodinách, prohlédněte prosím složku s nevyžádanou "
+"poštou."
 
 #: src/olympia/devhub/templates/devhub/includes/license_form.html:5 src/olympia/devhub/templates/devhub/versions/edit.html:83
 msgid "License"
@@ -4158,19 +4172,19 @@ msgid "Distribution channel"
 msgstr "Distribuční kanál"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Verze"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "Číslo nové verze"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "Poznámky k vydání"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "Vrátit zpět"
 
@@ -4331,7 +4345,9 @@ msgstr "Zobrazit všechny příspěvky"
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:119
 msgid "This is where you view and manage your add-ons and themes. To publish your first add-on, click \"Submit Your First Add-on\" or \"Submit Your First Theme\"."
-msgstr "Toto je místo, kde se zobrazují a odkud můžete spravovat vaše rozšíření a motivy vzhledu. Pro publikaci prvního doplňku klepněte na \"Přidejte svůj první doplněk\" nebo \"Přidejte svůj první motiv\"."
+msgstr ""
+"Toto je místo, kde se zobrazují a odkud můžete spravovat vaše rozšíření a motivy vzhledu. Pro publikaci prvního doplňku klepněte na \"Přidejte svůj první doplněk\" nebo \"Přidejte svůj první "
+"motiv\"."
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:125
 msgid "Submit Your First Add-on"
@@ -7163,8 +7179,8 @@ msgstr "Software či zařízení, které používáte, nemá povoleno přidává
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Než začnete, přečtěte si prosím naše pravidla pro distribuci doplňků pro Firefox a zásady a pravidla pro kontrolu doplňků. Pravidla pro distribuci doplňků pro Firefox také odkazují na naše zásady "
 "ochrany osobních údajů, které vysvětlují, jak nakládáme s vašimi údaji."
@@ -7265,7 +7281,8 @@ msgid ""
 msgstr ""
 "Dobrý den, %(author_name)s,\n"
 "\n"
-"máme pro vás skvělou zprávu – byli jste pozváni, abyste se stali autorem doplňku %(addon_name)s na webu %(domain)s. Pokud pozvání přijmete, budete moci doplněk upravovat a vaše jméno se může objevit v seznamu autorů na webu.\n"
+"máme pro vás skvělou zprávu – byli jste pozváni, abyste se stali autorem doplňku %(addon_name)s na webu %(domain)s. Pokud pozvání přijmete, budete moci doplněk upravovat a vaše jméno se může "
+"objevit v seznamu autorů na webu.\n"
 "\n"
 "Pokud chcete pozvání přijmout, stačí kliknout na odkaz níže:\n"
 "\n"
@@ -7303,7 +7320,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7313,7 +7331,8 @@ msgid ""
 msgstr ""
 "Dobrý den,\n"
 "\n"
-"tuto zprávu jste obdrželi, abychom vás informovali, že váš uživatelský účet %(name)s na %(site_url)s byl smazán. Pokud jste nedávno smazali svůj účet Mozilla, mohlo k tomu dojít automaticky v rámci tohoto procesu.\n"
+"tuto zprávu jste obdrželi, abychom vás informovali, že váš uživatelský účet %(name)s na %(site_url)s byl smazán. Pokud jste nedávno smazali svůj účet Mozilla, mohlo k tomu dojít automaticky v rámci "
+"tohoto procesu.\n"
 "\n"
 "Děkujeme, že jste byli součástí komunity doplňků pro Firefox. Pokud se domníváte, že se jedná o omyl, nebo máte nějaké dotazy, kontaktujte nás prosím.\n"
 "\n"

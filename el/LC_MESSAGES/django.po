@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 10:07+0000\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -114,7 +117,8 @@ msgstr ""
 "\n"
 "Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για τον χρόνο που αφιερώσατε για να μας εξηγήσετε αναλυτικότερα τις ανησυχίες σας.\n"
 "\n"
-"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν ορθή. Ως εκ τούτου, δεν θα προβούμε σε καμία ενέργεια κατά του λογαριασμού ή του περιεχομένου.\n"
+"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla "
+"(%(policy_document_url)s), ήταν ορθή. Ως εκ τούτου, δεν θα προβούμε σε καμία ενέργεια κατά του λογαριασμού ή του περιεχομένου.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Σας ευχαριστούμε και πάλι που μας βοηθάτε να διατηρούμε τα Πρόσθετα Mozilla ασφαλή.\n"
@@ -125,12 +129,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για τον χρόνο που αφιερώσατε για να μας εξηγήσετε αναλυτικότερα τις ανησυχίες σας.\n"
 "\n"
-"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε πλέον αφαιρέσει το περιεχόμενο και ειδοποιήσει τον χρήστη. Σας ευχαριστούμε που μας βοηθήσατε να λάβουμε τη σωστή απόφαση.\n"
+"Μετά από προσεκτική εξέταση της ένστασής σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla "
+"(%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε πλέον αφαιρέσει το περιεχόμενο και ειδοποιήσει τον χρήστη. Σας ευχαριστούμε που μας βοηθήσατε να λάβουμε τη σωστή απόφαση.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -138,12 +144,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για την αναφορά σας σχετικά με το %(name)s στα Πρόσθετα Mozilla, καθώς και για την παροχή περισσότερων πληροφοριών σχετικά με τις ανησυχίες σας.\n"
 "\n"
-"Αφού εξετάσαμε την ένστασή σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν εσφαλμένη. Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν ενημερώσει το περιεχόμενό του, θα το αφαιρέσουμε.\n"
+"Αφού εξετάσαμε την ένστασή σας, διαπιστώσαμε ότι η προηγούμενη απόφασή μας, ότι δηλαδή το συγκεκριμένο περιεχόμενο συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), ήταν "
+"εσφαλμένη. Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν ενημερώσει το περιεχόμενό του, θα το αφαιρέσουμε.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -151,21 +159,23 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το %(name)s, στη διεύθυνση %(target_url)s.\n"
 "\n"
-"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), επομένως δεν θα εφαρμοστεί καμία ενέργεια συντονισμού. Ωστόσο, εκτιμούμε το γεγονός ότι μας το επισημάνατε.\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s), επομένως δεν θα εφαρμοστεί καμία ενέργεια "
+"συντονισμού. Ωστόσο, εκτιμούμε το γεγονός ότι μας το επισημάνατε.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
-"Εάν θεωρείτε ότι το περιεχόμενο δεν συμμορφώνεται με τις πολιτικές της Mozilla, έχετε το δικαίωμα να ασκήσετε ένσταση για αυτήν την απόφαση εντός 6 μηνών από την ημερομηνία λήψης του παρόντος email."
-" Δείτε το %(appeal_url)s για λεπτομέρειες σχετικά με τη διαδικασία ένστασης, καθώς και τον τρόπο υποβολής ένστασης για τη συγκεκριμένη απόφαση."
+"Εάν θεωρείτε ότι το περιεχόμενο δεν συμμορφώνεται με τις πολιτικές της Mozilla, έχετε το δικαίωμα να ασκήσετε ένσταση για αυτήν την απόφαση εντός 6 μηνών από την ημερομηνία λήψης του παρόντος "
+"email. Δείτε το %(appeal_url)s για λεπτομέρειες σχετικά με τη διαδικασία ένστασης, καθώς και τον τρόπο υποβολής ένστασης για τη συγκεκριμένη απόφαση."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -173,12 +183,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το ακόλουθο πρόσθετο στα Πρόσθετα Mozilla: %(name)s.\n"
 "\n"
-"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Ως εκ τούτου, έχουμε αφαιρέσει το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Ως εκ τούτου, έχουμε αφαιρέσει το περιεχόμενο. "
+"Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -186,12 +198,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Σας ευχαριστούμε για τον χρόνο που αφιερώσατε για να αναφέρετε το ακόλουθο πρόσθετο στα Πρόσθετα Mozilla: %(name)s.\n"
 "\n"
-"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Έχουμε ζητήσει από τον προγραμματιστή να προβεί σε αλλαγές και, αν δεν επιλύσει το ζήτημα, θα αφαιρέσουμε το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
+"Εξετάσαμε την αναφορά σας και το εν λόγω περιεχόμενο και διαπιστώσαμε ότι δεν συμμορφώνεται με τις πολιτικές της Mozilla (%(policy_document_url)s). Έχουμε ζητήσει από τον προγραμματιστή να προβεί "
+"σε αλλαγές και, αν δεν επιλύσει το ζήτημα, θα αφαιρέσουμε το περιεχόμενο. Εκτιμούμε που μας βοηθάτε να διατηρήσουμε τα Πρόσθετα Mozilla ασφαλή.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -289,7 +303,7 @@ msgstr "Το μήκος περιεχομένου του αιτήματος εί�
 msgid "Add-on"
 msgstr "Πρόσθετο"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "Οι μεταφορτώσεις προσθέτων δεν είναι προσωρινά διαθέσιμες."
 
@@ -311,11 +325,11 @@ msgstr "Μη έγκυρο όνομα κατηγορίας."
 msgid "URL domain must be one of [{domains}]."
 msgstr "Ο τομέας του URL πρέπει να είναι ένας από τους [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "Η διαδρομή URL για χορηγούς GitHub πρέπει να περιέχει το /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "Τα URL πρέπει να ξεκινούν με «https://»."
 
@@ -329,7 +343,7 @@ msgstr "Η άδεια με slug={value} δεν υπάρχει."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Ο τύπος αρχείου δεν υποστηρίζεται, μεταφορτώστε ένα συμπιεσμένο αρχείο ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Άκυρο ή κατεστραμμένο αρχείο."
 
@@ -361,7 +375,7 @@ msgstr "Οι εικόνες πρέπει να είναι μικρότερες α
 msgid "Invalid \"%s\" parameter."
 msgstr "Μη έγκυρη παράμετρος «%s»."
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "Καταχωρισμένο"
 
@@ -397,7 +411,7 @@ msgstr "Δεν είναι δυνατή η υποβολή καταχωρισμέ�
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "Τα %(addon_type_plural)s δεν υποστηρίζονται από το %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
@@ -415,11 +429,11 @@ msgstr "Τα πρόσθετα χρειάζονται τουλάχιστον έν
 msgid "Account not found."
 msgstr "Ο λογαριασμός δεν βρέθηκε."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Ένας δημιουργός μπορεί να εμφανίζεται μόνο μια φορά."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Ο λογαριασμός χρειάζεται ένα εμφανιζόμενο όνομα για να μπορεί να προστεθεί ως δημιουργός."
 
@@ -540,7 +554,7 @@ msgstr "Υποβολή νέου θέματος"
 msgid "Developer Hub"
 msgstr "Κέντρο προγραμματιστών"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "Διαχείριση κλειδιών API"
 
@@ -1538,8 +1552,8 @@ msgstr "Διαχείριση λήψεων"
 #: src/olympia/constants/categories.py:99
 msgid "Download Firefox extensions that can help download web, music and video content. You can also find extensions to manage downloads, share files, and more."
 msgstr ""
-"Κάντε λήψη επεκτάσεων του Firefox που μπορούν να σας βοηθήσουν να κάνετε λήψη περιεχομένου ιστού, μουσικής και βίντεο. Μπορείτε επίσης να βρείτε επεκτάσεις για διαχείριση λήψεων, κοινή χρήση αρχείων"
-" και πολλά άλλα."
+"Κάντε λήψη επεκτάσεων του Firefox που μπορούν να σας βοηθήσουν να κάνετε λήψη περιεχομένου ιστού, μουσικής και βίντεο. Μπορείτε επίσης να βρείτε επεκτάσεις για διαχείριση λήψεων, κοινή χρήση "
+"αρχείων και πολλά άλλα."
 
 #: src/olympia/constants/categories.py:106
 msgid "Feeds, News & Blogging"
@@ -1634,7 +1648,7 @@ msgstr ""
 "Κάντε λήψη επεκτάσεων του Firefox που προσφέρουν εργαλεία προγραμματισμού ιστού. Αυτή η κατηγορία περιέχει επεκτάσεις για το GitHub, την εναλλαγή πράκτορα χρήστη, τη διαχείριση cookie και πολλά "
 "άλλα."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Άλλα"
 
@@ -1900,166 +1914,166 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Το αναγνωριστικό URL δεν μπορεί να είναι «%(slug)s». Επιλέξτε κάποιο άλλο."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Μπορείτε να έχετε μόνο {0} κατηγορία."
 msgstr[1] "Μπορείτε να έχετε μόνο {0} κατηγορίες."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Η κατηγορία «Διάφορα» δεν μπορεί να συνδυαστεί με άλλες κατηγορίες."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "Προέκυψε σφάλμα κατά τη μεταφόρτωση της εικόνας σας."
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "Ο τομέας του URL πρέπει να είναι ένας από τους [%s]."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "Έχετε {0} πλεονάζουσα ετικέτα."
 msgstr[1] "Έχετε {0} πλεονάζουσες ετικέτες."
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Πριν αλλάξετε την προεπιλεγμένη σας γλώσσα, πρέπει να έχετε ορίσει όνομα, περίληψη και περιγραφή σε αυτή. Λείπουν: %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "Δεν είναι δυνατή η απευθείας προσθήκη χρηστών"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Θα πρέπει να υπάρχει τουλάχιστον ένας ιδιοκτήτης."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Θα πρέπει να αναγράφεται τουλάχιστον ένας δημιουργός."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Εσφαλμένο αναγνωριστικό URL."
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Λεπτομέρειες"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "Ποιο είναι το όνομα της άδειάς σας;"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Προσαρμοσμένη άδεια"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Παραθέστε το κείμενο της άδειάς σας."
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "Απαιτείται το κείμενο της άδειας αν επιλέξατε «Άλλη»."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "Αυτό το πρόσθετο διαθέτει Άδεια χρήσης τελικού χρήστη"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Καθορίστε τη συμφωνία άδειας τελικού χρήστη για το πρόσθετό σας:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "Αυτό το πρόσθετο διαθέτει Πολιτική απορρήτου"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Καθορίστε την πολιτική απορρήτου του προσθέτου σας:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Ο τύπος αρχείου δεν υποστηρίζεται, μεταφορτώστε ένα συμπιεσμένο αρχείο {extensions}."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Προβολή τρέχοντος"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Μη έγκυρο εύρος εκδόσεων."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Απαιτείται τουλάχιστον μία συμβατή εφαρμογή."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "Προέκυψε σφάλμα με τη μεταφόρτωσή σας. Δοκιμάστε ξανά."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "Η παράκαμψη απέτυχε να επικυρωθεί"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Πρέπει να επιλέξετε τουλάχιστον μια εφαρμογή."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Έχετε κάνει πάρα πολλές μεταφορτώσεις πρόσφατα. Δοκιμάστε ξανά αργότερα."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Η έκδοση {version} μεταφορτώθηκε στο παρελθόν και διαγράφηκε."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Η έκδοση {version} υπάρχει ήδη."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "Συνέχεια με την υπάρχουσα μεταφόρτωση;"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Ναι"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Όχι"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "Δεν έχετε μεταφορτώσει αρχείο πηγαίου κώδικα."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Μεταφορτώθηκε αρχείο πηγαίου κώδικα, αλλά υποδείξατε ότι δεν χρειαζόταν."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Βεβαιωθείτε ότι το όνομα και το επώνυμο μαζί είναι το πολύ {limit_value} χαρακτήρες (έχουν {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Σε αυτόν τον ιστότοπο. <span class=\"helptext\">Η υποβολή σας καταχωρίζεται δημόσια στο {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2069,100 +2083,92 @@ msgstr ""
 "σας. Βεβαιωθείτε ότι το αρχείο δήλωσης του προσθέτου σας περιέχει το <a {a_attrs}>update_url</a>, καθώς το Firefox θα χρησιμοποιεί αυτό το URL για να βρει ενημερώσεις και να τις διανείμει αυτόματα "
 "στους χρήστες σας.</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
-"Ένα εταιρικό πρόσθετο. <span class=\"helptext\">Αφού υπογραφεί το αίτημά σας από τη Mozilla, μπορείτε να κάνετε λήψη του αρχείου .xpi από το Κέντρο Προγραμματιστών και να το διανείμετε στο κοινό σας"
-" μέσω της πολιτικής του Firefox για επιχειρήσεις.</span>"
+"Ένα εταιρικό πρόσθετο. <span class=\"helptext\">Αφού υπογραφεί το αίτημά σας από τη Mozilla, μπορείτε να κάνετε λήψη του αρχείου .xpi από το Κέντρο Προγραμματιστών και να το διανείμετε στο κοινό "
+"σας μέσω της πολιτικής του Firefox για επιχειρήσεις.</span>"
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Εμφανιζόμενο όνομα"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "Επιβεβαίωση διεύθυνσης email"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Δημιουργία νέων διαπιστευτηρίων"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Ανάκληση και εκ νέου δημιουργία διαπιστευτηρίων"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Ανάκληση"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "Εκ νέου αποστολή email επιβεβαίωσης"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Κάντε κλικ στο παρακάτω κουμπί για να δημιουργήσετε διαπιστευτήρια API για τον χρήστη <strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "Δεν έχετε κανένα διαπιστευτήριο API."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "Κάτι πήγε στραβά, επικοινωνήστε με την υποστήριξη προγραμματιστών."
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "Δεν διατίθεται κατάλληλη έκδοση"
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "Επιλογή έκδοσης"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "Σημειώσεις έκδοσης"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Αυτόματη επιστροφή βάσει της έκδοσης [m.m]."
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "Πρέπει να επιλέξετε ένα κανάλι και μια έκδοση προς επιστροφή."
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "Επιλέξτε κατηγορία"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "Τεχνική υποστήριξη για τη συμβατότητα του προσθέτου σας"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "Πρόβλημα με το addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Θέμα"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "Συνοψίστε το ζήτημα με λίγες λέξεις"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "Επιλογή κατηγορίας"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "Αναφέρετε περισσότερες λεπτομέρειες σχετικά με το ζήτημα"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "Περιγράψτε το ζήτημα"
 
@@ -2348,108 +2354,108 @@ msgstr "Η επικύρωση αυτής της μεταφόρτωσης απέ�
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Υποβλήθηκε αίτημα επιστροφής σε προηγούμενη έκδοση. Θα ειδοποιηθείτε όταν εγκριθεί"
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "Φόντο περιοχής επικεφαλίδας"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Το χρώμα φόντου της περιοχής επικεφαλίδας, που προβάλλεται στο μέρος της επικεφαλίδας που δεν καλύπτεται ή που είναι ορατό μέσω της εικόνας επικεφαλίδας. Πεδίο αρχείου δήλωσης:  frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Κείμενο και εικονίδια περιοχής επικεφαλίδας"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Το χρώμα του κειμένου και των εικονιδίων στην περιοχή επικεφαλίδας, εκτός της ενεργής καρτέλας. Πεδίο αρχείου δήλωσης:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Φόντο περιοχής γραμμής εργαλείων"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Το χρώμα φόντου για τη γραμμή πλοήγησης, τη γραμμή σελιδοδεικτών και την ενεργή καρτέλα.  Πεδίο αρχείου δήλωσης:  toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Κείμενο και εικονίδια περιοχής γραμμής εργαλείων"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Το χρώμα του κειμένου και των εικονιδίων στη γραμμή εργαλείων και την ενεργή καρτέλα. Πεδίο αρχείου δήλωσης:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Φόντο περιοχής πεδίου γραμμής εργαλείων"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Το χρώμα φόντου για πεδία της γραμμής εργαλείων, όπως η γραμμή URL. Πεδίο αρχείου δήλωσης:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Κείμενο περιοχής πεδίου γραμμής εργαλείων"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Το χρώμα του κειμένου στα πεδία της γραμμής εργαλείων, όπως η γραμμή URL. Πεδίο αρχείου δήλωσης:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "Επισήμανση καρτέλας"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr ""
 "Το χρώμα επισήμανσης της ενεργής καρτέλας. Εφαρμόζεται ως περίγραμμα γύρω από την καρτέλα στο Firefox 89+ και ως γραμμή πάνω από την καρτέλα σε παλαιότερα Firefox. Πεδίο αρχείου δήλωσης:  tab_line."
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Οι μεταφορτώσεις προσθέτων δεν είναι προσωρινά διαθέσιμες"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Ζητήθηκε αξιολόγηση."
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "Πρέπει να παραθέσετε περαιτέρω λεπτομέρειες για να συνεχίσετε."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Θα αποσταλεί σύντομα ένας σύνδεσμος επιβεβαίωσης στη διεύθυνση email σας."
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Τα παλιά σας διαπιστευτήρια ανακλήθηκαν και δεν είναι πλέον έγκυρα."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Έχουν δημιουργηθεί νέα διαπιστευτήρια API και εμφανίζονται παρακάτω. Βεβαιωθείτε ότι έχετε αντιγράψει το μυστικό κωδικό JWT, καθώς δεν θα εμφανιστεί ποτέ ξανά."
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Δημιουργήθηκε νέο κλειδί API"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "Ανακλήθηκε κλειδί API"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "Επαλήθευση email"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "Αποστολή άλλου email"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "Το email σας έχει επαληθευτεί"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Το αίτημα υποστήριξης έχει υποβληθεί. Θα επικοινωνήσουμε σύντομα μαζί σας."
 
@@ -2547,11 +2553,11 @@ msgstr "Λάβετε υποστήριξη για επεκτάσεις και θ�
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
-"Χρησιμοποιήστε αυτήν τη φόρμα για υποστήριξη που σχετίζεται με τον λογαριασμό σας, ζητήματα συμμόρφωσης με τις πολιτικές και άλλα. Όσο περισσότερες λεπτομέρειες μοιραστείτε, τόσο πιο εύκολο θα είναι"
-" να σας βοηθήσουμε. Για απορίες σχετικά με τις κριτικές για τα πρόσθετά σας, ανατρέξτε στο ιστορικό εκδόσεων των προσθέτων σας. Θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατό."
+"Χρησιμοποιήστε αυτήν τη φόρμα για υποστήριξη που σχετίζεται με τον λογαριασμό σας, ζητήματα συμμόρφωσης με τις πολιτικές και άλλα. Όσο περισσότερες λεπτομέρειες μοιραστείτε, τόσο πιο εύκολο θα "
+"είναι να σας βοηθήσουμε. Για απορίες σχετικά με τις κριτικές για τα πρόσθετά σας, ανατρέξτε στο ιστορικό εκδόσεων των προσθέτων σας. Θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατό."
 
 #: src/olympia/devhub/templates/devhub/support.html:17
 msgid "Send request"
@@ -2817,8 +2823,8 @@ msgid ""
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
 "<p>Τα πρόσθετα μπορούν να έχουν οποιονδήποτε αριθμό δημιουργών με 2 πιθανούς ρόλους:</p> <ul> <li><b>Ιδιοκτήτης:</b> Μπορεί να διαχειριστεί κάθε πτυχή της καταχώρισης του προσθέτου, όπως την "
-"προσθήκη και αφαίρεση άλλων δημιουργών</li> <li><b>Προγραμματιστής:</b> Μπορεί να διαχειριστεί κάθε πτυχή της καταχώρισης του προσθέτου, εκτός από την προσθήκη και αφαίρεση άλλων δημιουργών</li> "
-"</ul>"
+"προσθήκη και αφαίρεση άλλων δημιουργών</li> <li><b>Προγραμματιστής:</b> Μπορεί να διαχειριστεί κάθε πτυχή της καταχώρισης του προσθέτου, εκτός από την προσθήκη και αφαίρεση άλλων δημιουργών</li> </"
+"ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2896,7 +2902,7 @@ msgstr "ή"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -3017,11 +3023,11 @@ msgstr "Email"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
-"Εάν θέλετε να γίνεται προβολή ενός email για απορίες υποστήριξης, εισαγάγετέ το εδώ. Αν έχετε διαφορετικές διευθύνσεις για κάθε γλώσσα, μπορείτε να προσθέσετε πολλαπλές μεταφράσεις αυτού του πεδίου."
-" Αυτό ισχύει μόνο για τα καταχωρισμένα πρόσθετα."
+"Εάν θέλετε να γίνεται προβολή ενός email για απορίες υποστήριξης, εισαγάγετέ το εδώ. Αν έχετε διαφορετικές διευθύνσεις για κάθε γλώσσα, μπορείτε να προσθέσετε πολλαπλές μεταφράσεις αυτού του "
+"πεδίου. Αυτό ισχύει μόνο για τα καταχωρισμένα πρόσθετα."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -3079,8 +3085,8 @@ msgstr "Πίνακας"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Ο λευκός πίνακας παρέχει πληροφορίες σχετικά με το πρόσθετό σας, για οποιαδήποτε έκδοση, στους ελεγκτές. Χρησιμοποιήστε τον για να παρέχετε τρόπους δοκιμής του προσθέτου, καθώς και τυχόν "
 "επιπρόσθετες πληροφορίες που ενδέχεται να φανούν χρήσιμες. Αυτός ο λευκός πίνακας μπορεί να επεξεργαστεί και από τους ελεγκτές."
@@ -3783,8 +3789,8 @@ msgstr "Πίσω"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Για να εκτελέσετε πιστοποιημένες κλήσεις έναντι του <a %(a_attrs)s href=\"%(docs_url)s\">API</a> ως εξωτερικού πελάτη, θα πρέπει να συμπεριλάβετε ένα <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web "
 "Token (JWT)</a> στην κεφαλίδα <code>Authorization</code> για κάθε αίτημα."
@@ -3825,7 +3831,8 @@ msgid ""
 msgstr ""
 "Γεια σας,\n"
 "\n"
-"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε νέα κλειδιά API προγραμματιστή για το %(domain)s. Για να ολοκληρώσετε τη ρύθμισή τους, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε νέα κλειδιά API προγραμματιστή για το %(domain)s. Για να ολοκληρώσετε τη ρύθμισή τους, κάντε απλώς "
+"κλικ στον παρακάτω σύνδεσμο:\n"
 "\n"
 "%(api_key_confirmation_link)s\n"
 "\n"
@@ -3905,20 +3912,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Αγαπητέ προγραμματιστή προσθέτων,\n"
 "\n"
-"Θέλαμε να σας ενημερώσουμε άμεσα: διαπιστώσαμε ότι τα απόρρητα διαπιστευτήριά σας για το AMO API περιλαμβάνονταν σε ένα πρόσθετο που υποβλήθηκε στο addons.mozilla.org. Για την προστασία του λογαριασμού και των προσθέτων σας, ανακαλέσαμε ήδη τα επηρεασμένα διαπιστευτήρια. Δεν κάνατε κάτι λάθος, αυτό συμβαίνει μερικές φορές και είμαστε εδώ για να σας βοηθήσουμε να επανέλθετε.\n"
+"Θέλαμε να σας ενημερώσουμε άμεσα: διαπιστώσαμε ότι τα απόρρητα διαπιστευτήριά σας για το AMO API περιλαμβάνονταν σε ένα πρόσθετο που υποβλήθηκε στο addons.mozilla.org. Για την προστασία του "
+"λογαριασμού και των προσθέτων σας, ανακαλέσαμε ήδη τα επηρεασμένα διαπιστευτήρια. Δεν κάνατε κάτι λάθος, αυτό συμβαίνει μερικές φορές και είμαστε εδώ για να σας βοηθήσουμε να επανέλθετε.\n"
 "Μπορείτε να δημιουργήσετε νέα διαπιστευτήρια API ανά πάσα στιγμή στη διεύθυνση %(api_keys_url)s\n"
 "\n"
-"Για να διατηρήσετε ασφαλή τα διαπιστευτήριά σας από εδώ και στο εξής, είναι προτιμότερο να παραμένουν απόρρητα και να μην τα συμπεριλαμβάνετε σε δημόσια αποθετήρια, πρόσθετα ή άλλα δημόσια μέρη. Όποτε ευκαιρήσετε, καλό είναι να ελέγξετε τα αποθετήρια κώδικα και τις επεκτάσεις σας για να αφαιρέσετε τυχόν αναφορές στα διαπιστευτήριά σας για το AMO.\n"
+"Για να διατηρήσετε ασφαλή τα διαπιστευτήριά σας από εδώ και στο εξής, είναι προτιμότερο να παραμένουν απόρρητα και να μην τα συμπεριλαμβάνετε σε δημόσια αποθετήρια, πρόσθετα ή άλλα δημόσια μέρη. "
+"Όποτε ευκαιρήσετε, καλό είναι να ελέγξετε τα αποθετήρια κώδικα και τις επεκτάσεις σας για να αφαιρέσετε τυχόν αναφορές στα διαπιστευτήριά σας για το AMO.\n"
 "\n"
 "Ευχαριστούμε,\n"
 "Η ομάδα των Προσθέτων Mozilla"
@@ -3955,7 +3966,8 @@ msgid ""
 msgstr ""
 "Γεια σας,\n"
 "\n"
-"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε την επαλήθευση της διεύθυνσης email σας. Για να ολοκληρώσετε τη διαδικασία, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
+"Ευχαριστούμε που αναπτύσσετε περιεχόμενο για το Firefox! Λαμβάνετε το παρόν μήνυμα επειδή ζητήσατε την επαλήθευση της διεύθυνσης email σας. Για να ολοκληρώσετε τη διαδικασία, κάντε απλώς κλικ στον "
+"παρακάτω σύνδεσμο:\n"
 "\n"
 "%(confirmation_link)s\n"
 "\n"
@@ -4082,8 +4094,8 @@ msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
-"Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, τις πολιτικές και τους κανόνες αξιολόγησης, καθώς και τις <a %(a_attrs)s href=\"%(faq_url)s\">συχνές "
-"ερωτήσεις</a>. Η Συμφωνία διανομής προσθέτων του Firefox συνδέεται επίσης με τη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
+"Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, τις πολιτικές και τους κανόνες αξιολόγησης, καθώς και τις <a %(a_attrs)s href=\"%(faq_url)s\">συχνές ερωτήσεις</"
+"a>. Η Συμφωνία διανομής προσθέτων του Firefox συνδέεται επίσης με τη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -4112,12 +4124,11 @@ msgstr "Συμβατότητα με το Firefox για Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Δοκιμάσατε την επέκτασή σας για να εξασφαλίσετε ότι λειτουργεί όπως πρέπει στο Firefox για Android; Αν όχι, διαβάστε το <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> για οδηγίες σχετικά με τις δοκιμές, προτού "
-"κάνετε υποβολή."
+"Δοκιμάσατε την επέκτασή σας για να εξασφαλίσετε ότι λειτουργεί όπως πρέπει στο Firefox για Android; Αν όχι, διαβάστε το <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> για οδηγίες σχετικά με τις δοκιμές, προτού κάνετε υποβολή."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4228,19 +4239,19 @@ msgid "Distribution channel"
 msgstr "Κανάλι διανομής"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Έκδοση"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "Αριθμός νέας έκδοσης"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "Σημειώσεις έκδοσης"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "Επιστροφή"
 
@@ -7154,8 +7165,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Εκτός από τα μέρη όπου υπάρχει σχετική <a href=\"https://www.mozilla.org/about/legal/\">διευκρίνιση</a>, το περιεχόμενο αυτού του ιστοτόπου διατίθεται στο πλαίσιο της άδειας <a "
-"href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution Share-Alike License v3.0</a> ή οποιασδήποτε νεότερης έκδοσης."
+"Εκτός από τα μέρη όπου υπάρχει σχετική <a href=\"https://www.mozilla.org/about/legal/\">διευκρίνιση</a>, το περιεχόμενο αυτού του ιστοτόπου διατίθεται στο πλαίσιο της άδειας <a href=\"https://"
+"creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution Share-Alike License v3.0</a> ή οποιασδήποτε νεότερης έκδοσης."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7240,8 +7251,8 @@ msgstr "Το λογισμικό ή η συσκευή που χρησιμοποι
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Πριν ξεκινήσετε, διαβάστε και αποδεχτείτε τη Συμφωνία διανομής προσθέτων του Firefox, καθώς και τις πολιτικές και τους κανόνες αξιολόγησης. Η Συμφωνία διανομής προσθέτων του Firefox θα σας "
 "παραπέμψει στη Δήλωση απορρήτου μας, η οποία εξηγεί πώς χειριζόμαστε τις πληροφορίες σας."
@@ -7342,7 +7353,8 @@ msgid ""
 msgstr ""
 "Γεια σας %(author_name)s,\n"
 "\n"
-"Έχουμε ευχάριστα νέα: έχετε προσκληθεί να γίνετε δημιουργός του %(addon_name)s στο %(domain)s. Εάν αποδεχτείτε την πρόσκληση, θα μπορείτε να επεξεργάζεστε το πρόσθετο, ενώ το όνομά σας ενδέχεται να εμφανίζεται στη λίστα δημιουργών στον ιστότοπο.\n"
+"Έχουμε ευχάριστα νέα: έχετε προσκληθεί να γίνετε δημιουργός του %(addon_name)s στο %(domain)s. Εάν αποδεχτείτε την πρόσκληση, θα μπορείτε να επεξεργάζεστε το πρόσθετο, ενώ το όνομά σας ενδέχεται να "
+"εμφανίζεται στη λίστα δημιουργών στον ιστότοπο.\n"
 "\n"
 "Εάν επιθυμείτε να αποδεχτείτε την πρόσκληση, κάντε απλώς κλικ στον παρακάτω σύνδεσμο:\n"
 "\n"
@@ -7380,7 +7392,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7390,7 +7403,8 @@ msgid ""
 msgstr ""
 "Γεια σας,\n"
 "\n"
-"Σας ενημερώνουμε ότι ο λογαριασμός χρήστη %(name)s στο %(site_url)s έχει διαγραφεί. Εάν διαγράψατε πρόσφατα τον λογαριασμό Mozilla σας, η διαγραφή αυτή ενδέχεται να πραγματοποιήθηκε αυτόματα στο πλαίσιο της συγκεκριμένης διαδικασίας.\n"
+"Σας ενημερώνουμε ότι ο λογαριασμός χρήστη %(name)s στο %(site_url)s έχει διαγραφεί. Εάν διαγράψατε πρόσφατα τον λογαριασμό Mozilla σας, η διαγραφή αυτή ενδέχεται να πραγματοποιήθηκε αυτόματα στο "
+"πλαίσιο της συγκεκριμένης διαδικασίας.\n"
 "\n"
 "Σας ευχαριστούμε που υπήρξατε μέλος της κοινότητας προσθέτων του Firefox. Εάν θεωρείτε ότι η διαγραφή έγινε κατά λάθος ή έχετε οποιαδήποτε απορία, επικοινωνήστε μαζί μας.\n"
 "\n"

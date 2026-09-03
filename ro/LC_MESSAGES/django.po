@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 10:07+0000\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -114,7 +117,8 @@ msgstr ""
 "\n"
 "Îți mulțumim pentru raportarea despre %(name)s din suplimente Mozilla și pentru că ți-ai luat din timp ca să ne spui mai multe despre îngrijorările tale.\n"
 "\n"
-"După analiza atentă a recursului tău, am constatat că decizia anterioară — cum că acest conținut aderă la politicile Mozilla (%(policy_document_url)s) — a fost corectă. Pentru aceasta, nu vom lua măsuri împotriva contului sau a conținutului.\n"
+"După analiza atentă a recursului tău, am constatat că decizia anterioară — cum că acest conținut aderă la politicile Mozilla (%(policy_document_url)s) — a fost corectă. Pentru aceasta, nu vom lua "
+"măsuri împotriva contului sau a conținutului.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Îți mulțumim din nou că ne ajuți să menținem siguranța în suplimente Mozilla.\n"
@@ -125,12 +129,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Îți mulțumim pentru raportarea despre %(name)s din suplimente Mozilla și pentru că ți-ai luat din timp ca să ne spui mai multe despre îngrijorările tale.\n"
 "\n"
-"După analiza recursului tău, am constatat că decizia anterioară, cum că acest conținut aderă la politicile Mozilla (%(policy_document_url)s), a fost incorectă. Am eliminat conținutul și am notificat utilizatorul. Îți mulțumim că ne-ai ajutat să remediem situația.\n"
+"După analiza recursului tău, am constatat că decizia anterioară, cum că acest conținut aderă la politicile Mozilla (%(policy_document_url)s), a fost incorectă. Am eliminat conținutul și am "
+"notificat utilizatorul. Îți mulțumim că ne-ai ajutat să remediem situația.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -138,12 +144,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Îți mulțumim pentru raportarea despre %(name)s din suplimente Mozilla și pentru că ne-ai dat mai multe informații despre îngrijorările tale.\n"
 "\n"
-"După analiza recursului tău, am constatat că decizia anterioară, cum că acest conținut aderă la politicile Mozilla (%(policy_document_url)s), a fost incorectă. Am cerut dezvoltatorului să facă modificări și, dacă nu își actualizează conținutul, îl vom elimina.\n"
+"După analiza recursului tău, am constatat că decizia anterioară, cum că acest conținut aderă la politicile Mozilla (%(policy_document_url)s), a fost incorectă. Am cerut dezvoltatorului să facă "
+"modificări și, dacă nu își actualizează conținutul, îl vom elimina.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -151,18 +159,20 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Îți mulțumim că ți-ai luat din timp ca să raportezi %(name)s la %(target_url)s.\n"
 "\n"
-"Am analizat raportul tău și conținutul respectiv și am constatat că aderă la politicile Mozilla (%(policy_document_url)s), așa că nu va face obiectul niciunei acțiuni de moderare, însă apreciem faptul că ne-ai semnalat situația.\n"
+"Am analizat raportul tău și conținutul respectiv și am constatat că aderă la politicile Mozilla (%(policy_document_url)s), așa că nu va face obiectul niciunei acțiuni de moderare, însă apreciem "
+"faptul că ne-ai semnalat situația.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Dacă tu crezi că conținutul nu aderă la politicile Mozilla, ai drept de apel pentru contestarea deciziei timp de 6 luni de la data prezentului mesaj pe e-mail. Vezi %(appeal_url)s pentru detalii "
 "despre procedura de contestare, inclusiv cum să depui o contestație pentru această decizie specifică."
@@ -173,12 +183,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Îți mulțumim că ți-ai făcut timp ca să raportezi următorul supliment de pe Suplimente Mozilla: %(name)s.\n"
 "\n"
-"Am analizat raportul și conținutul respectiv și am constatat că nu aderă la politicile Mozilla (%(policy_document_url)s). Prin urmare, am eliminat conținutul. Apreciem că ajuți la menținerea siguranței în Suplimente Mozilla.\n"
+"Am analizat raportul și conținutul respectiv și am constatat că nu aderă la politicile Mozilla (%(policy_document_url)s). Prin urmare, am eliminat conținutul. Apreciem că ajuți la menținerea "
+"siguranței în Suplimente Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -186,12 +198,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Îți mulțumim că ți-ai făcut timp ca să raportezi următorul supliment de pe Suplimente Mozilla: %(name)s.\n"
 "\n"
-"Am analizat raportul și conținutul respectiv și am constatat că nu aderă la politicile Mozillla (%(policy_document_url)s). I-am cerut dezvoltatorului să facă modificări și, dacă nu remediază problema, vom elimina conținutul. Îți mulțumim că ajuți la menținerea siguranței în Suplimente Mozilla.\n"
+"Am analizat raportul și conținutul respectiv și am constatat că nu aderă la politicile Mozillla (%(policy_document_url)s). I-am cerut dezvoltatorului să facă modificări și, dacă nu remediază "
+"problema, vom elimina conținutul. Îți mulțumim că ajuți la menținerea siguranței în Suplimente Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -290,7 +304,7 @@ msgstr "Conținutul cererii este prea lung."
 msgid "Add-on"
 msgstr "Supliment"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "Încărcările de suplimente nu sunt disponibile temporar."
 
@@ -312,11 +326,11 @@ msgstr "Denumire categorie nevalidă."
 msgid "URL domain must be one of [{domains}]."
 msgstr "Domeniul URL trebuie să fie unul dintre [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "Calea URL pentru sponsorii GitHub trebuie să conțină /sponsori/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "URL-urile trebuie să înceapă cu https://."
 
@@ -330,7 +344,7 @@ msgstr "Licența cu slug={value} nu există."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Tip de fișier neacceptat. Încarcă un fișier tip arhivă ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Arhivă nevalidă sau coruptă."
 
@@ -362,7 +376,7 @@ msgstr "Imaginile trebuie să fie mai mici de %dMB"
 msgid "Invalid \"%s\" parameter."
 msgstr "Parametru „%s” nevalid."
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "Listat"
 
@@ -398,7 +412,7 @@ msgstr "Versiunile enumerate nu pot fi trimise cât timp listarea suplimentului 
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s nu sunt acceptate de %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
@@ -417,11 +431,11 @@ msgstr "Suplimentele au nevoie de cel puțin un autor listat."
 msgid "Account not found."
 msgstr "Contul nu a fost găsit."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Autorii pot fi listați numai o dată."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Contul are nevoie de o denumire de afișat înainte de a putea fi adăugat ca autor."
 
@@ -542,7 +556,7 @@ msgstr "Trimite o temă nouă"
 msgid "Developer Hub"
 msgstr "Centrul dezvoltatorilor"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "Gestionează cheile API"
 
@@ -616,8 +630,8 @@ msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
 msgstr ""
-"Vezi acest mesaj deoarece acest site HTTPS necesită ca browserul tău să trimită un antet „Referer”, dar nu a fost trimis niciunul. Acest antet este necesar din motive de securitate pentru asigurarea"
-" că browserul nu este deturnat de părți terțe."
+"Vezi acest mesaj deoarece acest site HTTPS necesită ca browserul tău să trimită un antet „Referer”, dar nu a fost trimis niciunul. Acest antet este necesar din motive de securitate pentru "
+"asigurarea că browserul nu este deturnat de părți terțe."
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -648,9 +662,9 @@ msgstr ""
 "<h1>Ne pare rău, dar nu găsim ce cauți.</h1> <p> Pagina sau fișierul solicitat(ă) nu a fost găsit(ă) pe site-ul nostru. Se poate să fi dat clic pe un link neactualizat sau poate că ai tastat greșit "
 "adresa. </p> <ul> <li>Dacă ai tastat adresa, te rugăm să verifici încă o dată textul introdus.</li> <li> Dacă ai venit dând clic pe un link undeva, te rugăm %(open_bug_link)ssă raportezi o "
 "problemă%(close_bug_link)s. Spune-ne de unde ai venit și ce căutai și ne vom strădui să o corectăm. </li> </ul> <p>Sau poți pur și simplu să treci la câteva dintre paginile populare de pe site-ul "
-"nostru.</p> <ul> <li>Ești interesat(ă) de <a href=\"%(rec)s\">o listă cu suplimente promovate</a>?</li> <li> Vrei să <a href=\"%(search)s\">cauți suplimente</a>? Poți merge <a href=\"%(search)s\">pe"
-" pagina de căutare</a> sau pur și simplu folosește câmpul de căutare de mai sus. </li> <li> Dacă preferi să o iei de la capăt, mergi pe <a href=\"%(home)s\">pagina principală de suplimente</a>. "
-"</li> </ul>"
+"nostru.</p> <ul> <li>Ești interesat(ă) de <a href=\"%(rec)s\">o listă cu suplimente promovate</a>?</li> <li> Vrei să <a href=\"%(search)s\">cauți suplimente</a>? Poți merge <a "
+"href=\"%(search)s\">pe pagina de căutare</a> sau pur și simplu folosește câmpul de căutare de mai sus. </li> <li> Dacă preferi să o iei de la capăt, mergi pe <a href=\"%(home)s\">pagina principală "
+"de suplimente</a>. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -1580,8 +1594,8 @@ msgstr "Confidențialitate și securitate"
 #: src/olympia/constants/categories.py:144
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
 msgstr ""
-"Descarcă extensii Firefox pentru a naviga confidențial și în siguranță. Această categorie include extensii pentru blocarea reclamelor iritante, prevenirea urmăririi, gestionarea redirecționărilor și"
-" multe altele."
+"Descarcă extensii Firefox pentru a naviga confidențial și în siguranță. Această categorie include extensii pentru blocarea reclamelor iritante, prevenirea urmăririi, gestionarea redirecționărilor "
+"și multe altele."
 
 #: src/olympia/constants/categories.py:152
 msgid "Search Tools"
@@ -1606,8 +1620,8 @@ msgstr "Social și comunicare"
 #: src/olympia/constants/categories.py:172
 msgid "Download Firefox extensions to enhance social media and instant messaging. This category includes improved tab notifications, video downloaders, and more."
 msgstr ""
-"Descarcă extensii Firefox pentru a-ți îmbunătăți experiența pe rețelele sociale și în aplicațiile de mesagerie instantanee. Această categorie include notificări îmbunătățite pentru file, instrumente"
-" de descărcat videoclipuri și multe altele."
+"Descarcă extensii Firefox pentru a-ți îmbunătăți experiența pe rețelele sociale și în aplicațiile de mesagerie instantanee. Această categorie include notificări îmbunătățite pentru file, "
+"instrumente de descărcat videoclipuri și multe altele."
 
 #: src/olympia/constants/categories.py:179
 msgid "Tabs"
@@ -1626,7 +1640,7 @@ msgid "Download Firefox extensions that feature web development tools. This cate
 msgstr ""
 "Descarcă extensii Firefox care includ instrumente de dezvoltare web. Această categorie include extensii pentru GitHub, comutarea agentului utilizator, gestionarea cookie-urilor și multe altele."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Altele"
 
@@ -1874,7 +1888,7 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Slugul nu poate fi „%(slug)s”. Te rugăm să alegi altul."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
@@ -1882,20 +1896,20 @@ msgstr[0] "Poți avea doar {0} categorie."
 msgstr[1] "Poți avea doar {0} categorii."
 msgstr[2] "Poți avea doar {0} de categorii."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Categoria de diverse nu poate fi combinată cu categorii suplimentare."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "A apărut o eroare la încărcarea imaginii."
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "Domeniul URL trebuie să fie unul dintre [%s]."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
@@ -1903,139 +1917,139 @@ msgstr[0] "Ai {0} etichetă în plus."
 msgstr[1] "Ai {0} etichete în plus."
 msgstr[2] "Ai {0} de etichete în plus."
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Înainte de a schimba limba implicită, trebuie să ai un nume, un rezumat și o descriere în limba respectivă. Îți lipsește %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "Utilizatorii nu pot fi adăugați direct"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Trebuie să aibă cel puțin un proprietar."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Trebuie să fie listat cel puțin un autor."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Slug incorect."
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Detalii"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "Care este denumirea licenței tale?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Licență personalizată"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Furnizează textul licenței tale."
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "Textul licenței este necesar când alegi Altele."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "Acest supliment are un acord de licență pentru utilizatorul final"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Te rugăm să specifici acordul de licență pentru utilizatorul final aferent suplimentului tău:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "Acest supliment are o politică de confidențialitate"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Te rugăm să specifici politica de confidențialitate aferentă suplimentului tău:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Tip de fișier nesuportat. Te rugăm să încarci un fișier tip arhivă {extensions}."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Afișează versiunea actuală"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Domeniu de versiune nevalid."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Necesită cel puțin o aplicație compatibilă."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "A apărut o eroare la încărcare. Te rugăm să încerci din nou."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "Înlocuire forțată validare eșuată"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Necesită selectarea cel puțin a unei aplicații."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Ai realizat prea multe încărcări în ultimul timp. Te rugăm să încerci din nou mai târziu."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Versiunea {version} a mai fost încărcată și apoi ștearsă."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Versiunea {version} există deja."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "Continui în schimb cu încărcarea existentă?"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Da"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Nu"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "Nu ai încărcat un fișier sursă."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Fișier sursă încărcat, dar ai indicat că nu este necesară nicio sursă."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Asigură-te că denumirea și rezumatul au împreună cel mult {limit_value} de caractere (au {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Pe acest site. <span class=\"helptext\">Suplimentul este listat public pe {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2044,7 +2058,7 @@ msgstr ""
 "Pe cont propriu. <span class=\"helptext\">După ce suplimentul este semnat de Mozilla, poți descărca fișierul .xpi din Centrul dezvoltatorilor și îl poți distribui publicului. Te rugăm să te asiguri "
 "că este furnizat <a {a_attrs}>update_url</a> al manifestului suplimentului pentru că este adresa URL la care Firefox găsește actualizări pentru implementarea automată pentru utilizatorii tăi.</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2052,92 +2066,84 @@ msgstr ""
 "Un supliment pentru întreprinderi. <span class=\"helptext\">După ce cererea este semnată de Mozilla, poți descărca fișierul .xpi din Centrul pentru dezvoltatori și îl poți distribui către "
 "utilizatorii tăi printr-o politică Firefox for Enterprise.</span>"
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Nume afișat"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "Confirmă adresa de e-mail"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Generează date de autentificare noi"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Revocă și regenerează datele de autentificare"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Revocă"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "Retrimite confirmarea prin e-mail"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Te rugăm să dai clic pe butonul de mai jos pentru a genera datele de autentificare API ale utilizatorului <strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "Nu ai date de autentificare API."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "Ceva nu a funcționat. Te rugăm să contactezi asistența pentru dezvoltatori."
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "Nu este disponibilă nicio versiune corespunzătoare"
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "Alege versiunea"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "Note de lansare"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Revenire automată în funcție de versiune [m.m]."
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "Trebuie să selectezi un canal și o versiune la care să revii."
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "Alege o categorie"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "Asistență tehnică pentru compatibilitatea suplimentului"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "Problemă cu mozilla.org"
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Subiect"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "Descrie problema în câteva cuvinte"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "Selectează categoria"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "Dă-ne mai multe detalii despre problemă"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "Descrie problema"
 
@@ -2323,107 +2329,107 @@ msgstr "Încărcarea nu a trecut validarea și se poate să nu aibă rezultate c
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Revenire trimisă. Vei primi o notificare când va fi aprobată"
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "Fundalul zonei de antet"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Culoarea fundalului pentru zona antetului, afișată în partea de antet neacoperită sau vizibilă prin imaginea antetului. Câmpul manifestului:  frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Text și pictograme în zona antetului"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Culoarea textului și a pictogramelor din zona antetului, cu excepția filei active. Câmpul manifestului:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Fundalul zonei barei de instrumente"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Culoarea fundalului pentru bara de navigare, bara de marcaje și fila activă.  Câmpul manifestului:  toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Text și pictograme pentru zona barei de instrumente"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Culoarea textului și a pictogramelor din bara de instrumente și fila activă. Câmpul manifestului:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Fundalul câmpurilor pentru zona barei de instrumente"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Culoarea fundalului pentru câmpurile din bara de instrumente, cum ar fi bara de adrese. Câmpul manifestului:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Textul zonei câmpului din bara de instrumente"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Culoarea textului din câmpurile barei de instrumente, cum ar fi bara de adrese. Câmpul manifestului:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "Evidențiere filă"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Culoarea de evidențiere a filei active. Implementată ca un chenar în jurul filei pe Firefox 89+ și o linie deasupra filei pe versiunile Firefox mai vechi. Câmp manifest: tab_line."
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Încărcările de suplimente sunt momentan indisponibile"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Recenzie solicitată."
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "Trebuie să furnizezi detalii suplimentare pentru a continua."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "În scurt timp, vei primi un link de confirmare pe adresa ta de e-mail."
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Datele tale vechi de autentificare au fost revocate și nu mai sunt valide."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Au fost generate date de autentificare API noi și sunt afișate mai jos. Asigură-te că ai copiat secretul JWT pentru că nu va mai fi afișat încă o dată."
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Cheie API nouă creată"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "Cheie API revocată"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "Verifică adresa de e-mail"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "Trimite alt mail"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "Adresa ta de e-mail a fost verificată"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Cererea de asistență a fost trimisă. Te vom contacta în curând."
 
@@ -2521,8 +2527,8 @@ msgstr "Obține asistență pentru extensii și teme"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Folosește formularul pentru asistență legată de cont, probleme legate de conformarea la politici și multe altele. Cu cât dai mai multe detalii, cu atât ne va fi mai ușor să te ajutăm. Pentru "
 "întrebări despre recenziile suplimentului/suplimentelor tale, te rugăm să consulți istoricul versiunilor suplimentului/suplimentelor. Te vom contacta cât mai curând posibil."
@@ -2792,8 +2798,8 @@ msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
-"<p>Suplimentele pot avea oricâți autori, cu 2 roluri posibile:</p> <ul> <li><b>Proprietar:</b> Poate gestiona toate aspectele legate de listarea suplimentelor, inclusiv adăugarea și eliminarea altor"
-" autori</li> <li><b>Dezvoltator:</b> Poate gestiona toate aspectele legate de listarea suplimentelor, în afară de adăugarea și eliminarea altor autori</li> </ul>"
+"<p>Suplimentele pot avea oricâți autori, cu 2 roluri posibile:</p> <ul> <li><b>Proprietar:</b> Poate gestiona toate aspectele legate de listarea suplimentelor, inclusiv adăugarea și eliminarea "
+"altor autori</li> <li><b>Dezvoltator:</b> Poate gestiona toate aspectele legate de listarea suplimentelor, în afară de adăugarea și eliminarea altor autori</li> </ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2870,7 +2876,7 @@ msgstr "sau"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -2991,8 +2997,8 @@ msgstr "E-mail"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Dacă vrei să afișezi o adresă de e-mail pentru solicitări de asistență, introdu adresa aici. Dacă ai adrese diferite pentru fiecare limbă, se pot adăuga traduceri multiple ale acestui câmp. Are "
 "relevanță numai pentru suplimentele listate."
@@ -3006,8 +3012,8 @@ msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
 msgstr ""
-"Dacă suplimentul are un site web sau un forum de asistență, introdu adresa aici. Dacă site-ul web este localizat în alte limbi, se pot adăuga traduceri multiple ale acestui câmp. Are relevanță numai"
-" pentru suplimentele listate."
+"Dacă suplimentul are un site web sau un forum de asistență, introdu adresa aici. Dacă site-ul web este localizat în alte limbi, se pot adăuga traduceri multiple ale acestui câmp. Are relevanță "
+"numai pentru suplimentele listate."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -3053,8 +3059,8 @@ msgstr "Tablă albă"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Tabla albă vă permite să oferiți revizorilor informații relevate despre supliment, indiferent de versiune. Folosește-o ca să indici modalități de testare a suplimentului și orice informații "
 "adiționale utile. Poate fi editată și de revizori."
@@ -3073,8 +3079,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Încarcă o pictogramă pentru suplimentul tău sau alege una dintre ale noastre. Pictograma este afișată aproape peste tot pe unde apare suplimentul tău. Imaginile încărcate trebuie să fie de tipul: "
-".png, .jpg. Are relevanță numai pentru suplimentele listate."
+"Încarcă o pictogramă pentru suplimentul tău sau alege una dintre ale noastre. Pictograma este afișată aproape peste tot pe unde apare suplimentul tău. Imaginile încărcate trebuie să fie de tipul: ."
+"png, .jpg. Are relevanță numai pentru suplimentele listate."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3616,8 +3622,8 @@ msgstr "Cerințe pentru sistemul de operare și mediul de compilare."
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
 msgstr ""
-"Versiunea necesară și instrucțiunile de instalare ale oricăror programe utilizate în procesul de compilare (cum ar fi <span class=\"tech-emphasis\">node</span> și <span class=\"tech-"
-"emphasis\">npm</span>)."
+"Versiunea necesară și instrucțiunile de instalare ale oricăror programe utilizate în procesul de compilare (cum ar fi <span class=\"tech-emphasis\">node</span> și <span class=\"tech-emphasis\">npm</"
+"span>)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3753,8 +3759,8 @@ msgstr "Înapoi"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Pentru executarea de apelări autentificate prin <a %(a_attrs)s href=\"%(docs_url)s\">API</a> în calitate de consumator extern, trebuie să incluzi un <a %(a_attrs)s href=\"%(jwt_url)s\">jeton web "
 "JSON (JWT)</a> în antetul <code>Autorizației</code> pentru fiecare cerere."
@@ -3795,7 +3801,8 @@ msgid ""
 msgstr ""
 "Salut,\n"
 "\n"
-"Îți mulțumim că dezvolți pentru Firefox! Primești acest mesaje pentru că ai solicitat chei API noi pentru dezvoltatori pentru %(domain)s. Pentru a finaliza configurarea, pur și simplu dă clic pe linkul de mai jos:\n"
+"Îți mulțumim că dezvolți pentru Firefox! Primești acest mesaje pentru că ai solicitat chei API noi pentru dezvoltatori pentru %(domain)s. Pentru a finaliza configurarea, pur și simplu dă clic pe "
+"linkul de mai jos:\n"
 "\n"
 "%(api_key_confirmation_link)s\n"
 "\n"
@@ -3875,20 +3882,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Dragă dezvoltator de suplimente,\n"
 "\n"
-"Vrem să te anunțăm imediat: am observat că datele tale secrete de autentificare AMO API au fost incluse într-un supliment încărcat pe addons.mozilla.org. Pentru a-ți păstra contul și suplimentul(ele) în siguranță, am revocat datele de autentificare aferente. Nu este nimic în neregulă pe partea ta — se mai întâmplă uneori și suntem aici să te ajutăm să remediezi situația.\n"
+"Vrem să te anunțăm imediat: am observat că datele tale secrete de autentificare AMO API au fost incluse într-un supliment încărcat pe addons.mozilla.org. Pentru a-ți păstra contul și "
+"suplimentul(ele) în siguranță, am revocat datele de autentificare aferente. Nu este nimic în neregulă pe partea ta — se mai întâmplă uneori și suntem aici să te ajutăm să remediezi situația.\n"
 "Poți genera date de autentificare API noi în orice moment pe %(api_keys_url)s\n"
 "\n"
-"Pentru a te ajuta să îți păstrezi datele de autentificare în siguranță de acum înainte, este cel mai bine să le păstrezi private și să eviți includerea lor în orice depozitar public, supliment sau alte locuri publice. Oricând ai un moment, merită să îți controlezi depozitarele de cod și extensiile ca să elimini orice trimiteri la datele tale de autentificare AMO.\n"
+"Pentru a te ajuta să îți păstrezi datele de autentificare în siguranță de acum înainte, este cel mai bine să le păstrezi private și să eviți includerea lor în orice depozitar public, supliment sau "
+"alte locuri publice. Oricând ai un moment, merită să îți controlezi depozitarele de cod și extensiile ca să elimini orice trimiteri la datele tale de autentificare AMO.\n"
 "\n"
 "Îți mulțumim,\n"
 "Echipa Sup"
@@ -4080,12 +4091,11 @@ msgstr "Compatibilitate Firefox pentru Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Ai testat extensia pentru a te asigura că funcționează conform așteptărilor pe Firefox pentru Android? Dacă nu, te rugăm să consulți <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Dezvoltarea de extensii pentru Firefox Android</a> pentru îndrumări de testare înainte de "
-"a o trimite."
+"Ai testat extensia pentru a te asigura că funcționează conform așteptărilor pe Firefox pentru Android? Dacă nu, te rugăm să consulți <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Dezvoltarea de extensii pentru Firefox Android</a> pentru îndrumări de testare înainte de a o trimite."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4196,19 +4206,19 @@ msgid "Distribution channel"
 msgstr "Canal de distribuție"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Versiune"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "Număr versiune nouă"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "Note de lansare"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "Revenire"
 
@@ -4227,8 +4237,8 @@ msgstr "Politică de confidențialitate"
 #: src/olympia/devhub/templates/devhub/includes/policy_form.html:22
 msgid "If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used. It is only relevant for listed add-ons."
 msgstr ""
-"Dacă suplimentul tău transmite orice date de pe calculatorul utilizatorului, este necesară o politică de confidențialitate care să explice ce date sunt transmise și cum sunt utilizate. Are relevanță"
-" numai pentru suplimentele listate."
+"Dacă suplimentul tău transmite orice date de pe calculatorul utilizatorului, este necesară o politică de confidențialitate care să explice ce date sunt transmise și cum sunt utilizate. Are "
+"relevanță numai pentru suplimentele listate."
 
 #: src/olympia/devhub/templates/devhub/includes/source_form_field.html:3
 msgid "If your add-on contains minified, concatenated or otherwise machine-generated code other than known libraries, upload its sources for review."
@@ -4607,8 +4617,8 @@ msgstr "Șterge versiunea {version}"
 msgid ""
 "You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on."
 msgstr ""
-"Ești pe cale să ștergi versiunea curentă a suplimentului tău. Aceasta poate produce modificarea stării suplimentului sau pierderea vizibilității publice, dacă aceasta este singura versiune publică a"
-" suplimentului."
+"Ești pe cale să ștergi versiunea curentă a suplimentului tău. Aceasta poate produce modificarea stării suplimentului sau pierderea vizibilității publice, dacă aceasta este singura versiune publică "
+"a suplimentului."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:275
 msgid "Deleting this version will permanently delete:"
@@ -4623,8 +4633,8 @@ msgid ""
 "Once a version has been deleted, you may not upload a new version with the same version number. The version will also be Restricted, which will disable and prevent any further installation in "
 "Firefox. Existing users can choose to re-enable the add-on."
 msgstr ""
-"Odată ce o versiune e ștearsă, nu mai poți încărca o versiune nouă cu același număr de versiune. Versiunea va fi și Restricționată, ceea ce va dezactiva și va împiedica orice instalare ulterioară în"
-" Firefox. Utilizatorii existenți pot alege să reactiveze suplimentul."
+"Odată ce o versiune e ștearsă, nu mai poți încărca o versiune nouă cu același număr de versiune. Versiunea va fi și Restricționată, ceea ce va dezactiva și va împiedica orice instalare ulterioară "
+"în Firefox. Utilizatorii existenți pot alege să reactiveze suplimentul."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:288
 msgid "Are you sure you wish to delete this version?"
@@ -4644,8 +4654,8 @@ msgid ""
 "The latest approved version of this %(promoted_group_name)s add-on cannot be deleted or disabled because the previous version was not approved for %(promoted_group_name)s promotion. Please contact "
 "AMO Admins if you need help with this."
 msgstr ""
-"Ultima versiune aprobată a acestui supliment %(promoted_group_name)s nu poate fi ștearsă sau dezactivată deoarece versiunea precedentă nu a fost aprobată pentru promovare %(promoted_group_name)s. Te"
-" rugăm să contactezi administratorii AMO dacă ai nevoie de ajutor în acest sens."
+"Ultima versiune aprobată a acestui supliment %(promoted_group_name)s nu poate fi ștearsă sau dezactivată deoarece versiunea precedentă nu a fost aprobată pentru promovare %(promoted_group_name)s. "
+"Te rugăm să contactezi administratorii AMO dacă ai nevoie de ajutor în acest sens."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:318 src/olympia/devhub/templates/devhub/versions/list.html:344
 msgid "Hide Add-on"
@@ -7211,8 +7221,8 @@ msgstr "Software-ul sau dispozitivul pe care îl folosești nu este permis pentr
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Înainte de a începe, te rugăm să citești și să accepți Acordul de distribuție pentru suplimente Firefox, precum și Politicile și regulile noastre pentru recenzii. Acordul de distribuție pentru "
 "suplimente Firefox trimite și la Notificarea noastră privind confidențialitatea, care explică modul în care îți gestionăm informațiile."
@@ -7351,7 +7361,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7361,7 +7372,8 @@ msgid ""
 msgstr ""
 "Salut,\n"
 "\n"
-"Primești acest mesaj ca să te anunțăm că a fost șters contul tău de utilizator %(name)s de pe %(site_url)s. Dacă ți-ai șters recent contul Mozilla, este posibil să se fi produs automat, ca parte a acestui proces.\n"
+"Primești acest mesaj ca să te anunțăm că a fost șters contul tău de utilizator %(name)s de pe %(site_url)s. Dacă ți-ai șters recent contul Mozilla, este posibil să se fi produs automat, ca parte a "
+"acestui proces.\n"
 "\n"
 "Îți mulțumim că ai făcut parte din comunitatea de suplimente Firefox. Dacă tu crezi că e o greșeală sau ai întrebări. nu ezita să ne contactezi.\n"
 "\n"

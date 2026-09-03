@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 10:07+0000\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -114,7 +117,8 @@ msgstr ""
 "\n"
 "Cảm ơn bạn đã báo cáo về %(name)s trên Tiện ích Mozilla và đã dành thời gian chia sẻ thêm về những lo ngại của bạn.\n"
 "\n"
-"Sau khi xem xét kỹ lưỡng đơn kháng cáo của bạn, chúng tôi nhận thấy quyết định trước đó — rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s) — là chính xác. Vì lý do đó, chúng tôi sẽ không thực hiện bất kỳ hành động nào đối với tài khoản hoặc nội dung này.\n"
+"Sau khi xem xét kỹ lưỡng đơn kháng cáo của bạn, chúng tôi nhận thấy quyết định trước đó — rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s) — là chính xác. Vì lý do "
+"đó, chúng tôi sẽ không thực hiện bất kỳ hành động nào đối với tài khoản hoặc nội dung này.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Cảm ơn bạn một lần nữa vì đã giúp chúng tôi bảo vệ các tiện ích mở rộng Mozilla.\n"
@@ -125,12 +129,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã báo cáo về %(name)s trên Tiện ích Mozilla và đã dành thời gian chia sẻ thêm về những lo ngại của bạn.\n"
 "\n"
-"Sau khi xem xét khiếu nại của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. Chúng tôi đã gỡ bỏ nội dung và thông báo cho người dùng. Cảm ơn bạn đã giúp chúng tôi khắc phục vấn đề này.\n"
+"Sau khi xem xét khiếu nại của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. Chúng "
+"tôi đã gỡ bỏ nội dung và thông báo cho người dùng. Cảm ơn bạn đã giúp chúng tôi khắc phục vấn đề này.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -138,12 +144,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã báo cáo về %(name)s trên Tiện ích Mozilla và đã cung cấp thêm thông tin về những lo ngại của bạn.\n"
 "\n"
-"Sau khi xem xét đơn kháng nghị của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. Chúng tôi đã yêu cầu nhà phát triển thực hiện các thay đổi, và nếu họ không cập nhật nội dung, chúng tôi sẽ xóa nó.\n"
+"Sau khi xem xét đơn kháng nghị của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. "
+"Chúng tôi đã yêu cầu nhà phát triển thực hiện các thay đổi, và nếu họ không cập nhật nội dung, chúng tôi sẽ xóa nó.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -151,21 +159,23 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã dành thời gian báo cáo %(name)s, tại %(target_url)s.\n"
 "\n"
-"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó tuân thủ các chính sách của Mozilla (%(policy_document_url)s), vì vậy nó sẽ không phải chịu bất kỳ hành động kiểm duyệt nào. Tuy nhiên, chúng tôi đánh giá cao việc bạn đã báo cáo cho chúng tôi.\n"
+"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó tuân thủ các chính sách của Mozilla (%(policy_document_url)s), vì vậy nó sẽ không phải chịu bất kỳ hành động kiểm "
+"duyệt nào. Tuy nhiên, chúng tôi đánh giá cao việc bạn đã báo cáo cho chúng tôi.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
-"Nếu bạn cho rằng nội dung này không tuân thủ các chính sách của Mozilla, bạn có quyền kháng cáo quyết định này trong vòng 6 tháng kể từ ngày gửi email này. Xem %(appeal_url)s để biết chi tiết về quy"
-" trình kháng cáo, bao gồm cả cách nộp đơn kháng cáo đối với quyết định cụ thể này."
+"Nếu bạn cho rằng nội dung này không tuân thủ các chính sách của Mozilla, bạn có quyền kháng cáo quyết định này trong vòng 6 tháng kể từ ngày gửi email này. Xem %(appeal_url)s để biết chi tiết về "
+"quy trình kháng cáo, bao gồm cả cách nộp đơn kháng cáo đối với quyết định cụ thể này."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -173,12 +183,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã dành thời gian báo cáo tiện ích mở rộng sau trên Mozilla Add-ons: %(name)s.\n"
 "\n"
-"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Do đó, chúng tôi đã xóa nội dung đó. Chúng tôi đánh giá cao sự giúp đỡ của bạn trong việc giữ an toàn cho tiện ích mở rộng Mozilla.\n"
+"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Do đó, chúng tôi đã xóa nội dung đó. Chúng tôi "
+"đánh giá cao sự giúp đỡ của bạn trong việc giữ an toàn cho tiện ích mở rộng Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -186,12 +198,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã dành thời gian báo cáo tiện ích mở rộng sau trên Tiện ích Mozilla: %(name)s.\n"
 "\n"
-"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Chúng tôi đã yêu cầu nhà phát triển thực hiện các thay đổi, và nếu họ không giải quyết được vấn đề, chúng tôi sẽ xóa nội dung đó. Cảm ơn bạn đã giúp giữ an toàn cho tiện ích mở rộng Mozilla.\n"
+"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Chúng tôi đã yêu cầu nhà phát triển thực hiện "
+"các thay đổi, và nếu họ không giải quyết được vấn đề, chúng tôi sẽ xóa nội dung đó. Cảm ơn bạn đã giúp giữ an toàn cho tiện ích mở rộng Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -288,7 +302,7 @@ msgstr "Kích cỡ content length quá lớn."
 msgid "Add-on"
 msgstr "Tiện ích"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "Tải lên tiện ích tạm thời không khả dụng."
 
@@ -310,11 +324,11 @@ msgstr "Tên danh mục không hợp lệ."
 msgid "URL domain must be one of [{domains}]."
 msgstr "Tên miền URL phải là một trong [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "Đường dẫn URL cho GitHub Sponsors phải chứa /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "URL phải bắt đầu bằng https://."
 
@@ -328,7 +342,7 @@ msgstr "Giấy phép có slug={value} không tồn tại."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Loại tập tin không được hỗ trợ, vui lòng tải lên tập tin lưu trữ ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Gói lưu trữ không hợp lệ hoặc bị hỏng."
 
@@ -360,7 +374,7 @@ msgstr "Hình ảnh phải nhỏ hơn %dMB"
 msgid "Invalid \"%s\" parameter."
 msgstr "Tham số \"%s\" không hợp lệ."
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "Liệt kê"
 
@@ -395,7 +409,7 @@ msgstr ""
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s không được hỗ trợ bởi %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Phạm vi phiên bản không hợp lệ. Đối với Firefox dành cho Android, bạn chỉ có thể chọn một phạm vi bắt đầu bằng phiên bản %(max)s hoặc cao hơn, hoặc kết thúc bằng phiên bản thấp hơn %(min)s."
@@ -412,11 +426,11 @@ msgstr ""
 msgid "Account not found."
 msgstr "Tài khoản không được tìm thấy."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Một tác giả chỉ có thể được ghi danh một lần."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Tài khoản cần có tên hiển thị trước khi có thể được thêm làm tác giả."
 
@@ -537,7 +551,7 @@ msgstr "Tải lên một chủ đề mới"
 msgid "Developer Hub"
 msgstr "Trung tâm nhà phát triển"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "Quản lý khóa API"
 
@@ -639,8 +653,8 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>Chúng tôi xin lỗi, nhưng chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm.</h1> <p> Trang hoặc tập tin bạn yêu cầu không được tìm thấy trên trang web của chúng tôi. Có thể bạn đã nhấp vào"
-" một liên kết đã lỗi thời hoặc nhập sai địa chỉ. </p> <ul> <li>Nếu bạn gõ địa chỉ, vui lòng kiểm tra lại chính tả.</li> <li> Nếu bạn đã theo một liên kết từ một nơi nào đó, xin vui lòng "
+"<h1>Chúng tôi xin lỗi, nhưng chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm.</h1> <p> Trang hoặc tập tin bạn yêu cầu không được tìm thấy trên trang web của chúng tôi. Có thể bạn đã nhấp "
+"vào một liên kết đã lỗi thời hoặc nhập sai địa chỉ. </p> <ul> <li>Nếu bạn gõ địa chỉ, vui lòng kiểm tra lại chính tả.</li> <li> Nếu bạn đã theo một liên kết từ một nơi nào đó, xin vui lòng "
 "%(open_bug_link)sgửi một vấn đề%(close_bug_link)s. Hãy cho chúng tôi biết bạn đến từ đâu và những gì bạn đang tìm kiếm, và chúng tôi sẽ cố gắng hết sức để khắc phục nó. </li> </ul> <p>Hoặc bạn chỉ "
 "có thể chuyển qua một số trang phổ biến trên trang web của chúng tôi.</p> <ul> <li>Bạn có quan tâm đến <a href=\"%(rec)s\">danh sách các tiện ích nổi bật</a> không?</li> <li> Bạn có muốn <a "
 "href=\"%(search)s\">tìm kiếm tiện ích</a> không? Bạn có thể truy cập <a href=\"%(search)s\">trang tìm kiếm</a> hoặc chỉ sử dụng trường tìm kiếm ở trên. </li> <li> Nếu bạn muốn bắt đầu lại, chỉ cần "
@@ -953,8 +967,8 @@ msgstr "Đã yêu cầu thêm thông tin"
 #: src/olympia/constants/activity.py:238
 msgid "The add-on has been flagged for Admin Review. It's still in our review queue, but it will need to be checked by one of our admin reviewers. The review might take longer than usual."
 msgstr ""
-"Tiện ích đã được gắn cờ để quản trị viên xem xét. Nó vẫn nằm trong hàng đợi xem xét, nhưng sẽ cần được kiểm tra bởi một trong các quản trị viên của chúng tôi. Quá trình xem xét có thể mất nhiều thời"
-" gian hơn bình thường."
+"Tiện ích đã được gắn cờ để quản trị viên xem xét. Nó vẫn nằm trong hàng đợi xem xét, nhưng sẽ cần được kiểm tra bởi một trong các quản trị viên của chúng tôi. Quá trình xem xét có thể mất nhiều "
+"thời gian hơn bình thường."
 
 #: src/olympia/constants/activity.py:260
 #, python-brace-format
@@ -1613,7 +1627,7 @@ msgstr "Phát triển Web"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Tải xuống các tiện ích mở rộng Firefox có các công cụ phát triển web. Danh mục này bao gồm các tiện ích mở rộng cho GitHub, chuyển đổi tác nhân người dùng, quản lý cookie và hơn thế nữa."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Khác"
 
@@ -1861,164 +1875,164 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Slug không thể là \"%(slug)s\". Vui lòng chọn cái khác."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Bạn chỉ có thể có {0} phân mục."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Phân mục linh tinh không thể được kết hợp với các phân mục phụ."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "Đã xảy ra lỗi khi tải ảnh của bạn lên."
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "Tên miền URL phải là một trong [%s]."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "Bạn có {0} quá nhiều nhãn."
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Trước khi thay đổi bản địa mặc định, bạn phải có tên, tóm tắt và mô tả trong bản địa đó. Bạn đang thiếu %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "Không thể thêm trực tiếp người dùng"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Phải có ít nhất một người sở hữu."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Ít nhất một tác giả phải được liệt kê."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Slug không chính xác."
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Chi tiết"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "Tên giấy phép của bạn là gì?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Giấy phép Tùy biến"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Cung cấp nội dung cho giấy phép của bạn"
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "Cần có nội dung giấy phép khi chọn Khác."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "Tiện ích mở rộng này có Thỏa thuận cấp phép người dùng cuối"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Vui lòng chỉ định Thỏa thuận cấp phép người dùng cuối của tiện ích mở rộng của bạn:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "Tiện ích này có một chính sách riêng tư"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Vui lòng chỉ định chính sách riêng tư cho tiện ích của bạn:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Kiểu tập tin không được hỗ trợ, vui lòng tải lên tệp lưu trữ {extensions}."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Xem hiện tại"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Khoảng phiên bản bất hợp lệ."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Cần ít nhất một ứng dụng tương thích."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "Có một lỗi với việc tải lên của bạn. Vui lòng thử lại."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Cần chọn ít nhất một ứng dụng."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Bạn đã gửi quá nhiều video tải lên gần đây. Vui lòng thử lại sau một thời gian."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Phiên bản {version} đã được tải lên trước đó và đã bị xóa."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Phiên bản {version} đã tồn tại."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "Tiếp tục với tải lên hiện có thay thế?"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Có"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Không"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "Bạn chưa tải lên một tập tin nguồn."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Mã nguồn tập tin đã được tải lên nhưng bạn cho biết không có mã nguồn nào cần đến."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Đảm bảo tên và tóm tắt được kết hợp tối đa {limit_value} ký tự (hiện tại là {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Trên trang web này. <span class=\"helptext\">Nội dung bạn gửi được liệt kê công khai trên {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2027,7 +2041,7 @@ msgstr ""
 "Chính bạn. <span class=\"helptext\">Sau khi đệ trình của bạn được Mozilla ký, bạn có thể tải xuống tập tin .xpi từ trung tâm nhà phát triển và phân phối tập tin đó cho người dùng của mình. Vui lòng "
 "đảm bảo cung cấp <a {a_attrs}>update_url</a> của tập tin manifest của tiện ích, vì đây là URL nơi Firefox tìm thấy các bản cập nhật để triển khai tự động cho người dùng của bạn.</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2035,92 +2049,84 @@ msgstr ""
 "Một tiện ích mở rộng dành cho doanh nghiệp. <span class=\"helptext\">Sau khi Mozilla phê duyệt bản gửi của bạn, bạn có thể tải xuống tập tin .xpi từ Developer Hub và phân phối tập tin đó cho người "
 "dùng của mình thông qua chính sách Firefox dành cho doanh nghiệp.</span>"
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Tên hiển thị"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "Xác nhận địa chỉ email"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Tạo khóa mới"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Thu hồi và tạo lại thông tin xác thực đăng nhập"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Thu hồi"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "Gửi lại email xác minh"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Vui lòng nhấp vào nút bên dưới để tạo thông tin xác thực API cho người dùng <strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "Bạn không có bất kỳ xác thực API nào."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "Đã xảy ra lỗi, vui lòng liên hệ với bộ phận hỗ trợ nhà phát triển."
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "Không có phiên bản phù hợp nào có sẵn"
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "Chọn phiên bản"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "Ghi chú phát hành"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Tự động khôi phục dựa trên phiên bản [m.m]."
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "Bạn phải chọn kênh và phiên bản để quay lại."
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "Chọn một danh mục"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "Hỗ trợ kỹ thuật để đảm bảo tiện ích mở rộng của bạn tuân thủ các quy định"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "Sự cố với addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Chủ đề"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "Tóm tắt vấn đề bằng vài từ"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "Chọn danh mục"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "Cung cấp thêm thông tin chi tiết về vấn đề này"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "Mô tả vấn đề"
 
@@ -2306,107 +2312,107 @@ msgstr "Quá trình tải lên này không được xác thực và có thể th
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Đã gửi yêu cầu quay lại phiên bản trước. Bạn sẽ được thông báo khi yêu cầu được chấp thuận."
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "Nền khu vực tiêu đề"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Màu của nền vùng tiêu đề, được hiển thị trong phần của tiêu đề không bị khuất hoặc có thể nhìn thấy qua hình ảnh tiêu đề. Trường kê khai:  frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Biểu tượng và văn bản vùng tiêu đề"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Màu của văn bản và biểu tượng trong vùng tiêu đề, ngoại trừ thẻ đang hoạt động. Trường kê khai:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Nền khu vực thanh công cụ"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Màu nền cho thanh điều hướng, thanh dấu trang và thẻ đang hoạt động.  Trường trong manifest:  toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Biểu tượng và văn bản khu vực thanh công cụ"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Màu của văn bản và biểu tượng trong thanh công cụ và thẻ đang hoạt động. Trường kê khai:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Nền khu vực trường thanh công cụ"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Màu nền cho các trường trong thanh công cụ, chẳng hạn như thanh URL. Trường kê khai:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Văn bản khu vực trường thanh công cụ"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Màu của văn bản trong các trường trên thanh công cụ, chẳng hạn như thanh URL. Trường kê khai:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "Đánh dấu thẻ"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Màu đánh dấu của thẻ đang hoạt động. Được triển khai như một đường viền xung quanh thẻ trên Firefox 89+ và một đường phía trên thẻ trên các Firefox cũ hơn. Trường manifest:  tab_line."
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Tải lên tiện ích tạm thời không khả dụng"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Yêu cầu đánh giá."
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "Bạn phải cung cấp thêm chi tiết để tiếp tục."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Một đường dẫn xác minh sẽ được gửi đến địa chỉ email của bạn trong thời gian ngắn."
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Thông tin đăng nhập cũ của bạn đã bị thu hồi và không còn hợp lệ."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Thông tin xác thực API mới đã được tạo và hiển thị bên dưới. Hãy nhớ sao chép JWT secret, vì bạn sẽ không thể lấy lại nó ở đây nữa."
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Khóa API mới đã được tạo"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "Đã thu hồi khóa API"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "Xác minh email"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "Gửi một email khác"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "Email của bạn đã được xác minh"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Yêu cầu hỗ trợ của bạn đã được gửi. Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất."
 
@@ -2504,8 +2510,8 @@ msgstr "Nhận hỗ trợ cho tiện ích mở rộng và chủ đề"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Hãy sử dụng biểu mẫu này để được hỗ trợ liên quan đến tài khoản của bạn, các vấn đề tuân thủ chính sách và nhiều hơn nữa. Càng cung cấp nhiều thông tin chi tiết, chúng tôi càng dễ dàng hỗ trợ bạn. "
 "Đối với các câu hỏi về đánh giá tiện ích mở rộng của bạn, vui lòng tham khảo lịch sử phiên bản tiện ích mở rộng. Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất."
@@ -2837,8 +2843,8 @@ msgid ""
 "If your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-"
 "ons."
 msgstr ""
-"Nếu tiện ích của bạn có trang chủ khác, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được thêm vào. Nó chỉ phù"
-" hợp với các tiện ích được liệt kê."
+"Nếu tiện ích của bạn có trang chủ khác, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được thêm vào. Nó chỉ "
+"phù hợp với các tiện ích được liệt kê."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:96 src/olympia/devhub/templates/devhub/addons/edit/describe.html:272
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:84 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:174
@@ -2849,7 +2855,7 @@ msgstr "hoặc"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -2875,8 +2881,8 @@ msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
 msgstr ""
-"Bản tóm tắt phải giải thích những gì tiện ích của bạn làm, rõ ràng và ngắn gọn. Cả tên và phần tóm tắt sẽ xuất hiện trên trang sản phẩm và kết quả tìm kiếm của bạn. Chúng có độ dài tối đa kết hợp là"
-" 70 ký tự và độ dài tối thiểu là 2 ký tự cho mỗi trường."
+"Bản tóm tắt phải giải thích những gì tiện ích của bạn làm, rõ ràng và ngắn gọn. Cả tên và phần tóm tắt sẽ xuất hiện trên trang sản phẩm và kết quả tìm kiếm của bạn. Chúng có độ dài tối đa kết hợp "
+"là 70 ký tự và độ dài tối thiểu là 2 ký tự cho mỗi trường."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2970,8 +2976,8 @@ msgstr "Email"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Nếu bạn muốn hiển thị địa chỉ e-mail cho các yêu cầu hỗ trợ, hãy nhập địa chỉ đó vào đây. Nếu bạn có các địa chỉ khác nhau cho mỗi ngôn ngữ, nhiều bản dịch của trường này có thể được thêm vào. Nó "
 "chỉ phù hợp với các tiện ích được liệt kê."
@@ -2985,8 +2991,8 @@ msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
 msgstr ""
-"Nếu tiện ích của bạn có trang web hoặc diễn đàn hỗ trợ, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được thêm"
-" vào. Nó chỉ phù hợp với các tiện ích được liệt kê."
+"Nếu tiện ích của bạn có trang web hoặc diễn đàn hỗ trợ, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được "
+"thêm vào. Nó chỉ phù hợp với các tiện ích được liệt kê."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -3032,8 +3038,8 @@ msgstr "Bảng trắng"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Bảng trắng là nơi cung cấp thông tin liên quan đến tiện ích bổ sung của bạn, cho dù là phiên bản nào, cho người đánh giá. Sử dụng nó để cung cấp các cách kiểm tra tiện ích bổ sung và bất kỳ thông "
 "tin bổ sung nào có thể hữu ích. Người đánh giá cũng có thể chỉnh sửa bảng trắng này."
@@ -3427,8 +3433,8 @@ msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
 msgstr ""
-"Đọc %(policy_requirements_open)syêu cầu chính sách%(policy_requirements_close)s của chúng tôi về quy trình xây dựng và gửi mã nguồn. Nếu bản gửi của bạn yêu cầu mã nguồn, bạn phải cung cấp hướng dẫn"
-" biên dịch từng bước, có thể nằm trong gói mã nguồn hoặc tại đây, để tạo ra một bản sao chính xác của mã."
+"Đọc %(policy_requirements_open)syêu cầu chính sách%(policy_requirements_close)s của chúng tôi về quy trình xây dựng và gửi mã nguồn. Nếu bản gửi của bạn yêu cầu mã nguồn, bạn phải cung cấp hướng "
+"dẫn biên dịch từng bước, có thể nằm trong gói mã nguồn hoặc tại đây, để tạo ra một bản sao chính xác của mã."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3726,11 +3732,11 @@ msgstr "Quay lại"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
-"Để thực hiện các lệnh gọi xác thực đến <a %(a_attrs)s href=\"%(docs_url)s\">API</a> với tư cách là bên tiêu thụ ngoài, bạn cần đính kèm một <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token "
-"(JWT)</a> trong tiêu đề <code>Authorization</code> cho mỗi yêu cầu."
+"Để thực hiện các lệnh gọi xác thực đến <a %(a_attrs)s href=\"%(docs_url)s\">API</a> với tư cách là bên tiêu thụ ngoài, bạn cần đính kèm một <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</"
+"a> trong tiêu đề <code>Authorization</code> cho mỗi yêu cầu."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -3768,7 +3774,8 @@ msgid ""
 msgstr ""
 "Xin chào,\n"
 "\n"
-"Cảm ơn bạn đã phát triển và xây dựng cùng Firefox! Bạn nhận được thông báo này vì bạn đã yêu cầu khóa API mới dành cho nhà phát triển cho %(domain)s. Để hoàn tất thiết lập, chỉ cần nhấp vào liên kết bên dưới:\n"
+"Cảm ơn bạn đã phát triển và xây dựng cùng Firefox! Bạn nhận được thông báo này vì bạn đã yêu cầu khóa API mới dành cho nhà phát triển cho %(domain)s. Để hoàn tất thiết lập, chỉ cần nhấp vào liên "
+"kết bên dưới:\n"
 "\n"
 "%(api_key_confirmation_link)s\n"
 "\n"
@@ -3848,20 +3855,25 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Kính gửi nhà phát triển tiện ích mở rộng,\n"
 "\n"
-"Chúng tôi muốn thông báo ngay cho bạn: chúng tôi nhận thấy thông tin đăng nhập API AMO bí mật của bạn đã được đưa vào một tiện ích mở rộng được gửi lên addons.mozilla.org. Để bảo vệ tài khoản và (các) tiện ích mở rộng của bạn, chúng tôi đã tiến hành thu hồi thông tin đăng nhập bị ảnh hưởng. Không có lỗi gì ở phía bạn cả — điều này đôi khi vẫn xảy ra, và chúng tôi luôn sẵn sàng hỗ trợ bạn khắc phục sự cố.\n"
+"Chúng tôi muốn thông báo ngay cho bạn: chúng tôi nhận thấy thông tin đăng nhập API AMO bí mật của bạn đã được đưa vào một tiện ích mở rộng được gửi lên addons.mozilla.org. Để bảo vệ tài khoản và "
+"(các) tiện ích mở rộng của bạn, chúng tôi đã tiến hành thu hồi thông tin đăng nhập bị ảnh hưởng. Không có lỗi gì ở phía bạn cả — điều này đôi khi vẫn xảy ra, và chúng tôi luôn sẵn sàng hỗ trợ bạn "
+"khắc phục sự cố.\n"
 "Bạn có thể tạo thông tin xác thực API mới bất cứ lúc nào tại %(api_keys_url)s\n"
 "\n"
-"Để giúp bảo mật thông tin đăng nhập của bạn trong tương lai, tốt nhất là nên giữ chúng riêng tư và tránh đưa chúng vào bất kỳ repository, tiện ích mở rộng hoặc nơi công khai nào khác. Bất cứ khi nào có thời gian, bạn nên xem lại các repository và tiện ích mở rộng của mình để xóa bất kỳ biến hoặc tham chiếu nào đến thông tin đăng nhập AMO của bạn.\n"
+"Để giúp bảo mật thông tin đăng nhập của bạn trong tương lai, tốt nhất là nên giữ chúng riêng tư và tránh đưa chúng vào bất kỳ repository, tiện ích mở rộng hoặc nơi công khai nào khác. Bất cứ khi "
+"nào có thời gian, bạn nên xem lại các repository và tiện ích mở rộng của mình để xóa bất kỳ biến hoặc tham chiếu nào đến thông tin đăng nhập AMO của bạn.\n"
 "\n"
 "Cảm ơn bạn,\n"
 "Nhóm Tiện ích mở rộng của Mozilla"
@@ -4055,12 +4067,11 @@ msgstr "Khả năng tương thích của Firefox dành cho Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Bạn đã kiểm tra tiện ích mở rộng của mình để đảm bảo nó hoạt động như mong đợi trên Firefox dành cho Android? Nếu chưa, hãy xem <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">phát triển tiện ích mở rộng cho Firefox Android</a> để được hướng dẫn kiểm tra trước khi "
-"gửi."
+"Bạn đã kiểm tra tiện ích mở rộng của mình để đảm bảo nó hoạt động như mong đợi trên Firefox dành cho Android? Nếu chưa, hãy xem <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">phát triển tiện ích mở rộng cho Firefox Android</a> để được hướng dẫn kiểm tra trước khi gửi."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4105,7 +4116,8 @@ msgstr "Phiên bản chữ ký đang chờ xử lý"
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:3
 msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Bạn đã hoàn tất! ✨ Bạn sẽ được thông báo qua email khi tập tin đã ký sẵn sàng được tải xuống từ trung tâm nhà phát triển. Nếu bạn không thấy email sau 24 giờ, vui lòng kiểm tra thư mục spam của bạn."
+"Bạn đã hoàn tất! ✨ Bạn sẽ được thông báo qua email khi tập tin đã ký sẵn sàng được tải xuống từ trung tâm nhà phát triển. Nếu bạn không thấy email sau 24 giờ, vui lòng kiểm tra thư mục spam của "
+"bạn."
 
 #: src/olympia/devhub/templates/devhub/includes/license_form.html:5 src/olympia/devhub/templates/devhub/versions/edit.html:83
 msgid "License"
@@ -4168,19 +4180,19 @@ msgid "Distribution channel"
 msgstr "Kênh phân phối"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Phiên bản"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "Số phiên bản mới"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "Ghi chú phát hành"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "Quay lại phiên bản"
 
@@ -4577,8 +4589,8 @@ msgstr "Xóa phiên bản {version}"
 msgid ""
 "You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on."
 msgstr ""
-"Bạn sắp xóa phiên bản hiện tại của tiện ích mở rộng. Điều này có thể khiến trạng thái tiện ích của bạn thay đổi hoặc danh sách của bạn mất khả năng hiển thị công khai, nếu đây là phiên bản công khai"
-" duy nhất của tiện ích."
+"Bạn sắp xóa phiên bản hiện tại của tiện ích mở rộng. Điều này có thể khiến trạng thái tiện ích của bạn thay đổi hoặc danh sách của bạn mất khả năng hiển thị công khai, nếu đây là phiên bản công "
+"khai duy nhất của tiện ích."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:275
 msgid "Deleting this version will permanently delete:"
@@ -7173,8 +7185,8 @@ msgstr "Phần mềm hoặc thiết bị bạn đang sử dụng không được
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Trước khi bắt đầu, vui lòng đọc và chấp nhận Thỏa thuận phân phối tiện ích Firefox cũng như Chính sách và quy tắc đánh giá của chúng tôi. Thỏa thuận phân phối tiện ích Firefox cũng liên kết đến "
 "thông báo về Quyền riêng tư của chúng tôi, trong đó giải thích cách chúng tôi xử lý thông tin của bạn."
@@ -7275,7 +7287,8 @@ msgid ""
 msgstr ""
 "Xin chào %(author_name)s,\n"
 "\n"
-"Tin vui, bạn đã được mời trở thành tác giả của %(addon_name)s trên %(domain)s. Chấp nhận lời mời sẽ cho phép bạn chỉnh sửa tiện ích mở rộng, và tên của bạn có thể xuất hiện trong danh sách tác giả trên trang web.\n"
+"Tin vui, bạn đã được mời trở thành tác giả của %(addon_name)s trên %(domain)s. Chấp nhận lời mời sẽ cho phép bạn chỉnh sửa tiện ích mở rộng, và tên của bạn có thể xuất hiện trong danh sách tác giả "
+"trên trang web.\n"
 "\n"
 "Nếu bạn muốn chấp nhận lời mời, chỉ cần nhấp vào liên kết bên dưới:\n"
 "\n"
@@ -7313,7 +7326,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7323,7 +7337,8 @@ msgid ""
 msgstr ""
 "Xin chào,\n"
 "\n"
-"Bạn nhận được thông báo này để thông báo rằng tài khoản người dùng %(name)s trên %(site_url)s đã bị xóa. Nếu bạn vừa xóa tài khoản Mozilla của mình, việc này có thể đã diễn ra tự động như một phần của quá trình đó.\n"
+"Bạn nhận được thông báo này để thông báo rằng tài khoản người dùng %(name)s trên %(site_url)s đã bị xóa. Nếu bạn vừa xóa tài khoản Mozilla của mình, việc này có thể đã diễn ra tự động như một phần "
+"của quá trình đó.\n"
 "\n"
 "Cảm ơn bạn vì đã là một phần của cộng đồng tiện ích mở rộng Firefox. Nếu bạn cho rằng đây là sai sót hoặc có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi.\n"
 "\n"
