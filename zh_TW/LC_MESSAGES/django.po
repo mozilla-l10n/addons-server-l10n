@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 09:15+0000\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -123,7 +126,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "感謝您回報 Mozilla 附加元件站上的 %(name)s 的問題，並且花時間讓我們知道您的意見。\n"
@@ -136,12 +140,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "感謝您回報 Mozilla 附加元件站上的 %(name)s 的問題，並提供有關您所提出問題的更多資訊。\n"
 "\n"
-"經過審視您的申訴內容後，我們認為過去認定此內容並未違反 Mozilla 的相關政策（%(policy_document_url)s）的做法是錯誤的。依照該認定結果，我們已要求開發者修改內容。若該開發者並未配合修改，我們將移除該內容。\n"
+"經過審視您的申訴內容後，我們認為過去認定此內容並未違反 Mozilla 的相關政策（%(policy_document_url)s）的做法是錯誤的。依照該認定結果，我們已要求開發者修改內容。若該開發者並未配合修改，我們將移除該內"
+"容。\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -149,7 +155,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "感謝您回報位於 %(target_url)s 的 %(name)s。\n"
@@ -159,8 +166,8 @@ msgstr ""
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr "若您認為該內容不符合 Mozilla 的政策，您有權在此電子郵件寄出的 6 個月內提出申訴。若想了解申訴程序，以及如何對此決定提出申訴的方式，請參考 %(appeal_url)s。"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -169,7 +176,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -178,7 +186,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -276,7 +285,7 @@ msgstr "請求的內容長度太大。"
 msgid "Add-on"
 msgstr "附加元件"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "暫時無法上傳附加元件。"
 
@@ -298,11 +307,11 @@ msgstr "分類名稱無效。"
 msgid "URL domain must be one of [{domains}]."
 msgstr "網址當中的網域名稱，必需是 [ {domains} ] 其中的一個。"
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "GitHub 贊助者的網址路徑必須包含 /sponsors/。"
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "網址必須以 https:// 開頭。"
 
@@ -316,7 +325,7 @@ msgstr "slug={value} 的授權條款不存在。"
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "不支援的檔案格式，請上傳 {extensions} 格式的壓縮檔。"
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "無效或毀損的壓縮檔。"
 
@@ -348,7 +357,7 @@ msgstr "圖片必須小於 %dMB"
 msgid "Invalid \"%s\" parameter."
 msgstr "參數「%s」無效。"
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "顯示"
 
@@ -382,7 +391,7 @@ msgstr "附加元件上架遭拒後，無法送審已上架的版本。"
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(app_name)s 不支援 %(addon_type_plural)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "版本號碼範圍無效。對 Firefox for Android 來說，您僅能挑選從 %(max)s 或更新版本起，或結束於小於 %(min)s 或更舊的版本。"
@@ -399,11 +408,11 @@ msgstr "附加元件至少要列出一位作者。"
 msgid "Account not found."
 msgstr "找不到帳號。"
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "每位作者只可列出一次。"
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "帳號需要先加入顯示名稱，才能被設定為作者。"
 
@@ -524,7 +533,7 @@ msgstr "上架新的佈景主題"
 msgid "Developer Hub"
 msgstr "開發者交流中心"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "管理 API 金鑰"
 
@@ -622,9 +631,10 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>真是非常抱歉，我們找不到您想找的東西。</h1> <p>您請求的頁面或檔案不在網站上，可能是您點了過期的連結或輸入了錯誤的網址。</p> <ul> <li>如果您手動輸入了網址，請再次確認有無拼字錯誤。</li> <li>如果您是從其他地方連過來，請%(open_bug_link)s回報%(close_bug_link)s。告訴我們您從哪裡連過來和想搜尋什麼，我們會儘速修復。</li>"
-" </ul> <p>不然乾脆跳到網站其他地方逛逛吧。</p> <ul> <li>您對我們的 <a href=\"%(rec)s\">精選附加元件</a> 有興趣嗎？</li> <li>您想 <a href=\"%(search)s\">搜尋附加元件</a> 嗎？請到 <a href=\"%(search)s\">搜尋頁面</a> 找找或直接利用下面的搜尋欄行搜尋。</li> "
-"<li>如果您想要從頭開始，也可以回到 <a href=\"%(home)s\">附加元件首頁</a>。</li> </ul>"
+"<h1>真是非常抱歉，我們找不到您想找的東西。</h1> <p>您請求的頁面或檔案不在網站上，可能是您點了過期的連結或輸入了錯誤的網址。</p> <ul> <li>如果您手動輸入了網址，請再次確認有無拼字錯誤。</li> <li>如果"
+"您是從其他地方連過來，請%(open_bug_link)s回報%(close_bug_link)s。告訴我們您從哪裡連過來和想搜尋什麼，我們會儘速修復。</li> </ul> <p>不然乾脆跳到網站其他地方逛逛吧。</p> <ul> <li>您對我們的 <a "
+"href=\"%(rec)s\">精選附加元件</a> 有興趣嗎？</li> <li>您想 <a href=\"%(search)s\">搜尋附加元件</a> 嗎？請到 <a href=\"%(search)s\">搜尋頁面</a> 找找或直接利用下面的搜尋欄行搜尋。</li> <li>如果您想要"
+"從頭開始，也可以回到 <a href=\"%(home)s\">附加元件首頁</a>。</li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -635,7 +645,9 @@ msgstr "糟糕"
 msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
-msgstr "<h1>喔喔！發生問題了。</h1><p>我們會盡快修復。</p><p>您可以試試重新整理頁面，或回到<a href=\"%(home)s\">附加元件站首頁</a>。也可以<a href=\"https://github.com/mozilla/addons/issues/new\">回報問題</a>，提供如何來到此頁面的相關資訊，幫助我們修復此問題。</p>"
+msgstr ""
+"<h1>喔喔！發生問題了。</h1><p>我們會盡快修復。</p><p>您可以試試重新整理頁面，或回到<a href=\"%(home)s\">附加元件站首頁</a>。也可以<a href=\"https://github.com/mozilla/addons/issues/new\">回報問題</"
+"a>，提供如何來到此頁面的相關資訊，幫助我們修復此問題。</p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1586,7 +1598,7 @@ msgstr "網頁開發"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "下載包含網頁開發工具的 Firefox 擴充套件。此類別包含 GitHub、用戶代理切換、 Cookie 管理等功能的擴充套件。"
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "其它"
 
@@ -1834,262 +1846,256 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "slug 不能為「%(slug)s」，請改用別的 slug。"
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "您僅可選擇 {0} 個分類。"
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "這個雜項類別不能與其他的類別結合。"
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "上傳您的圖片時發生錯誤。"
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "網址當中的網域名稱，必需是 [ %s ] 當中其中一個。"
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "標籤多出 {0} 個了。"
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "在您更動您的預設語系前，您必須為那個語系填入名稱、概要與敘述。您目前沒有填入 %s。"
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "無法直接新增使用者"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "至少需要一位擁有者。"
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "至少需要列出一位作者。"
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Slug 不正確。"
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "詳細資訊"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "您的授權名稱？"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "自訂授權"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "敘述您的授權。"
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "選擇其他時必須填寫授權內容。"
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "此附加元件包含終端使用者授權合約"
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "請指定您附加元件的終端使用者授權合約"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "這個附加元件有隱私權保護政策"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "請註明您附加元件的隱私權保護政策："
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "不支援的檔案格式，請上傳 {extensions} 格式的封存檔。"
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "檢視目前檔案"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "無效的版本號碼範圍。"
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "至少需要一個相容的應用程式。"
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "您的上傳過程發生錯誤，請再試一次。"
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "無視驗證失敗"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "至少需要一套相容的應用程式。"
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "您最近上傳了太多項目，請稍候再試。"
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "版本 {version} 之前已上傳過，且已刪除。"
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "版本 {version} 已存在。"
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "要繼續使用目前的上傳版本嗎？"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "是"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "否"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "尚未上傳原始碼檔案。"
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "上傳了原始碼檔案，但您標明無須原始碼。"
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "請確認名稱與描述加總未超過 {limit_value} 個字元（目前有 {show_value} 個字）。"
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "在此網站。<span class=\"helptext\">您上架的內容將於 {site_domain} 公開提供使用。</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
 "on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
-msgstr "由您自己託管。<span class=\"helptext\">當您送出的內容由 Mozilla 簽署後，可於開發者交流中心下載 .xpi 檔案，並且自行發布給您的使用者。請確保附加元件中指定了 <a {a_attrs}>update_url</a>，使用者的 Firefox 會定期連線到此網址尋找是否有更新版的附加元件，並自動更新。</span>"
+msgstr ""
+"由您自己託管。<span class=\"helptext\">當您送出的內容由 Mozilla 簽署後，可於開發者交流中心下載 .xpi 檔案，並且自行發布給您的使用者。請確保附加元件中指定了 <a {a_attrs}>update_url</a>，使用者的 "
+"Firefox 會定期連線到此網址尋找是否有更新版的附加元件，並自動更新。</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr "企業內部使用的附加元件。<span class=\"helptext\">當 Mozilla 簽署您送審的內容後，就可以到「開發者交流中心」下載 .xpi 檔，依照 Firefox for Enterprise 政策發布給您的使用者使用。</span>"
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "顯示名稱"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "確認電子郵件地址"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "產生新金鑰"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "撤銷並重新產生金鑰"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "撤銷"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "重寄確認信"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "請點擊下方的按鈕，為使用者 <strong>{name}</strong> 產生 API 帳號資訊。"
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "您並沒有任何 API 存取權限。"
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "某些東西怪怪的，請聯絡開發者技術支援團隊。"
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "無適當版本可以使用"
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "選擇版本"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "發行公告"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "自動退回版本 [m.m]。"
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "您必須選擇要退回到哪個頻道與版本。"
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "選擇分類"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "讓您的附加元件符合規定的技術支援"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "與 addons.mozilla.org 相關的問題"
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "主旨"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "用幾個字摘要問題內容"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "選擇分類"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "提供有關此問題的詳細資訊"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "描述問題"
 
@@ -2273,107 +2279,107 @@ msgstr "本上傳驗證失敗，因此驗證結果可能不完整，請在審核
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "已送出退版請求，核准後將通知您"
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "標題區背景"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "標題區的背景色，會在標題圖片未覆蓋或不可見時顯示。安裝資訊欄位: frame。"
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "標題區文字與圖示"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "標題區文字顏色與圖示，不含使用中的分頁。安裝資訊欄位: tab_background_text。"
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "工具列背景"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "導航列、書籤列、使用中分頁的背景色。安裝資訊欄位: toolbar。"
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "工具列文字與圖示"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "工具列中的欄位（例如網址列）與使用中分頁的文字顏色與圖示。安裝資訊欄位: bookmark_text。"
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "工具列欄位區背景"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "工具列中的欄位（例如網址列）的背景色。安裝資訊欄位: toolbar_field。"
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "工具列欄位區文字"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "工具列中的欄位（例如網址列）的文字顏色。安裝資訊欄位: toolbar_field_text。"
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "分頁標籤強調色"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "使用中分頁標籤的強調色。在 Firefox 89+ 起的版本是標籤周圍的外框；在舊版 Firefox 當中則是標籤頂部的線條。Manifest 欄位: tab_line。"
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "暫時無法上傳附加元件"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "已要求審核。"
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "您必須提供更多資訊才能繼續。"
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "您很快就會收到寄送給您的確認鏈結。"
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "已註銷您的舊存取權限，不再有效。"
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "已產生新的 API 資訊，並顯示在下方。無法再次取得或顯示 JWT 密鑰，請務必複製保存。"
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "已建立新 API 金鑰"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "已撤銷 API 金鑰"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "驗證信箱"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "傳送另一封電子郵件"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "信箱驗證成功"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "您的支援請求已送出，我們將盡快與您聯繫。"
 
@@ -2471,8 +2477,8 @@ msgstr "獲得擴充套件與佈景主題的支援"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr "請使用此表單獲得有關您的帳號、政策合規等議題的技術支援。您若能提供提供越多細節，我們就越簡單能協助您。若需有關附加元件審核的相關問題，請參考您附加元件的版本紀錄，我們會盡快回覆您。"
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2731,7 +2737,9 @@ msgstr "儲存變更"
 msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
-msgstr "<p>附加元件可以有許多作者，每位作者可擔當下列任一種角色:</p><ul><li><b>擁有者:</b>能夠管理附加元件各項上架資訊，包含新增或移除其他作者</li><li><b>開發者:</b>能夠管理附加元件各項上架資訊，但不能新增或移除其他作者。</li></ul>"
+msgstr ""
+"<p>附加元件可以有許多作者，每位作者可擔當下列任一種角色:</p><ul><li><b>擁有者:</b>能夠管理附加元件各項上架資訊，包含新增或移除其他作者</li><li><b>開發者:</b>能夠管理附加元件各項上架資訊，但不能新增"
+"或移除其他作者。</li></ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2806,7 +2814,7 @@ msgstr "或"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -2921,8 +2929,8 @@ msgstr "電子郵件"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr "若您想要顯示一組提供技術支援的電子郵件地址，請在此輸入。若您對不同語言提供不同的地址，亦可新增多個欄位。此欄位僅與公開上架的附加元件有關。"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
@@ -2977,8 +2985,8 @@ msgstr "Whiteboard"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr "這個「白板」是用來提供您的附加元件與版本無關的資訊給審核者的地方。您可以留下附加元件的測試方式，或是任何其他資訊。審核者也可修改白板中的內容。"
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
@@ -3365,7 +3373,8 @@ msgstr "重要"
 msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
-msgstr "請閱讀我們有關編譯過程與原始碼送審的%(policy_requirements_open)s政策規範%(policy_requirements_close)s。若您送審的內容需要包含原始碼，必須於原始碼套件或此處提供能產生完全相同的程式的逐步編譯教學。"
+msgstr ""
+"請閱讀我們有關編譯過程與原始碼送審的%(policy_requirements_open)s政策規範%(policy_requirements_close)s。若您送審的內容需要包含原始碼，必須於原始碼套件或此處提供能產生完全相同的程式的逐步編譯教學。"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3430,7 +3439,9 @@ msgstr "搞定！此版本通過審核後就會在網站上出現。您將會在
 msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
-msgstr "完成了！✨此版本於 %(site_domain)s 發布後，您將會收到確認郵件。請注意：可能需要 24 小時才能正式發布；此附加元件需進行人工審核的話，則可能需要更多時間。若您沒有在 24 小時內收到確認信的話，請到您信箱的垃圾信件匣確認。"
+msgstr ""
+"完成了！✨此版本於 %(site_domain)s 發布後，您將會收到確認郵件。請注意：可能需要 24 小時才能正式發布；此附加元件需進行人工審核的話，則可能需要更多時間。若您沒有在 24 小時內收到確認信的話，請到您信箱"
+"的垃圾信件匣確認。"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3657,9 +3668,10 @@ msgstr "返回"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
-msgstr "需要在每個請求的 <code>Authorization</code> 檔頭加入 <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> 才能作為外部使用者對 <a %(a_attrs)s href=\"%(docs_url)s\">API</a> 執行驗證過的呼叫。"
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
+msgstr ""
+"需要在每個請求的 <code>Authorization</code> 檔頭加入 <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> 才能作為外部使用者對 <a %(a_attrs)s href=\"%(docs_url)s\">API</a> 執行驗證過的呼叫。"
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -3739,10 +3751,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3887,7 +3901,9 @@ msgstr "檢視統計資訊儀錶板"
 msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
-msgstr "開始前，請先閱讀並接受我們的 Firefox 附加元件發行同意書、審核規則與政策，還有<a %(a_attrs)s href=\"%(faq_url)s\">常見問題集</a>。Firefox 附加元件發行同意書當中亦包含我們的隱私權公告，解釋我們會如何處理您的資訊。"
+msgstr ""
+"開始前，請先閱讀並接受我們的 Firefox 附加元件發行同意書、審核規則與政策，還有<a %(a_attrs)s href=\"%(faq_url)s\">常見問題集</a>。Firefox 附加元件發行同意書當中亦包含我們的隱私權公告，解釋我們會如何"
+"處理您的資訊。"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -3916,11 +3932,11 @@ msgstr "Firefox for Android 相容性"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"您測試過擴充套件，確認其能在 Firefox for Android 上正常運作嗎？若還沒有測試過，請先參考 <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-"
-"for-android/\">Developing extensions for Firefox Android</a> 一文當中的測試指南後再送審。"
+"您測試過擴充套件，確認其能在 Firefox for Android 上正常運作嗎？若還沒有測試過，請先參考 <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/documentation/develop/"
+"developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> 一文當中的測試指南後再送審。"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4026,19 +4042,19 @@ msgid "Distribution channel"
 msgstr "發行頻道"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "版本"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "新版本號碼"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "發行公告"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "退版"
 
@@ -6928,7 +6944,9 @@ msgstr "法律資訊"
 msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
-msgstr "除非另有<a href=\"https://www.mozilla.org/about/legal/\">提及</a>，此網站的內容依照<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">創用 CC 姓名標示-相同方式分享 3.0</a> 或任何更新版本授權使用。"
+msgstr ""
+"除非另有<a href=\"https://www.mozilla.org/about/legal/\">提及</a>，此網站的內容依照<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">創用 CC 姓名標示-相同方式分享 3.0</a> 或任何更新版本授"
+"權使用。"
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7013,8 +7031,8 @@ msgstr "您使用的軟體或裝置未被允許送交套件審核。"
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr "開始前，請先閱讀並接受我們的 Firefox 附加元件發行同意書，以及我們的審核規則與政策。Firefox 附加元件發行同意書當中亦包含我們的隱私權公告，解釋我們會如何處理您的資訊。"
 
 #: src/olympia/users/models.py:1377
@@ -7129,7 +7147,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"

@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 09:15+0000\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "El vostre complement ha d'acabar amb .zip, .xpi o .crx"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% completat"
 
@@ -149,8 +151,8 @@ msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"Els scripts reduïts, concatenats o generats per màquina (excepte les biblioteques conegudes) han d'enviar el corresponent codi font per separat per a revisar-lo. Assegureu-vos que feu servir el camp"
-" de càrrega del codi font per evitar que es rebutgi l'enviament."
+"Els scripts reduïts, concatenats o generats per màquina (excepte les biblioteques conegudes) han d'enviar el corresponent codi font per separat per a revisar-lo. Assegureu-vos que feu servir el "
+"camp de càrrega del codi font per evitar que es rebutgi l'enviament."
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
@@ -439,7 +441,7 @@ msgid_plural "{files} files"
 msgstr[0] "{files} fitxer"
 msgstr[1] "{files} fitxers"
 
-#: static/js/zamboni/devhub.js:1233
+#: static/js/zamboni/devhub.js:1244
 msgid "Image changes being processed"
 msgstr "S'estan processant els canvis a la imatge"
 

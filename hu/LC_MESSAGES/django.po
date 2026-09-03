@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 09:15+0000\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -105,7 +107,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -113,7 +116,8 @@ msgstr ""
 "\n"
 "Köszönjük a bejelentését a következőről a Mozilla kiegészítők weboldalán: %(name)s, és hogy időt szánt az aggályai megosztására.\n"
 "\n"
-"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk helyes, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s). Ezek alapján a fellebbezést elutasítottuk, és nem teszünk semmit a fiókkal vagy a tartalommal szemben.\n"
+"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk helyes, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s). Ezek alapján a fellebbezést "
+"elutasítottuk, és nem teszünk semmit a fiókkal vagy a tartalommal szemben.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Köszönjük, hogy segít biztonságosan tartani a Mozilla kiegészítőket.\n"
@@ -124,12 +128,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Köszönjük a bejelentését a következőről a Mozilla kiegészítők weboldalán: %(name)s, és hogy időt szánt az aggályai megosztására.\n"
 "\n"
-"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Így a tartalmat eltávolítottuk, és értesítettük a felhasználót. Köszönjük, hogy segített.\n"
+"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Így a tartalmat "
+"eltávolítottuk, és értesítettük a felhasználót. Köszönjük, hogy segített.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -137,7 +143,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -146,14 +153,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -162,7 +170,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -171,7 +180,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -270,7 +280,7 @@ msgstr "A kérés tartalmának hossza túl nagy."
 msgid "Add-on"
 msgstr "Kiegészítő"
 
-#: src/olympia/addons/decorators.py:78 src/olympia/amo/templates/amo/submissions_disabled.html:8
+#: src/olympia/addons/decorators.py:79 src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "A kiegészítőfeltöltések ideiglenesen nem érhetők el."
 
@@ -292,11 +302,11 @@ msgstr "Érvénytelen kategórianév."
 msgid "URL domain must be one of [{domains}]."
 msgstr "A webcímdomainnek a következők egyikének kell lennie: [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "A GitHub-szponzorok webcímének tartalmaznia kell a következőt: /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "A webcímeknek https:// előtaggal kell kezdődniük."
 
@@ -310,7 +320,7 @@ msgstr "A(z) {value} licenc nem létezik."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Nem támogatott fájlformátum, töltsön fel egy archívumfájlt ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Érvénytelen vagy hibás archívum."
 
@@ -342,7 +352,7 @@ msgstr "A képeknek %d MB-nál kisebbnek kell lenniük"
 msgid "Invalid \"%s\" parameter."
 msgstr "Érvénytelen „%s” paraméter."
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "Felsorolva"
 
@@ -378,7 +388,7 @@ msgstr "A felsorolt verziók nem küldhetők be, amíg a kiegészítő listázá
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "A(z) %(addon_type_plural)s kiegészítőket a %(app_name)s nem támogatja"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Érvénytelen verziótartomány. A Firefox for Android esetén csak olyan tartományt választhat, amely %(max)s vagy magasabb verzióval kezdődik, vagy %(min)s vagy alacsonyabb verzióval végződik."
@@ -395,11 +405,11 @@ msgstr "A kiegészítőknek legalább egy felsorolt szerzővel kell rendelkezni�
 msgid "Account not found."
 msgstr "A fiók nem található."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455 src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Egy szerző csak egyszer szerepelhet."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr "A fiókhoz megjelenítendő név szükséges, mielőtt szerzőként felveheti."
 
@@ -520,7 +530,7 @@ msgstr "Új téma beküldése"
 msgid "Developer Hub"
 msgstr "Fejlesztőközpont"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2162
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "API kulcsok kezelése"
 
@@ -1601,7 +1611,7 @@ msgstr "Webfejlesztés"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Töltsön le Firefox kiegészítőket, melyek webfejlesztési eszközökkel rendelkeznek. Ez a kategória GitHub kiegészítőket, felhasználói ügynök váltót, sütikezelőt és hasonlókat tartalmaz."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637 src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Egyéb"
 
@@ -1851,166 +1861,166 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "A SEO webcím nem lehet „%(slug)s”. Válasszon egy másikat."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Csak {0} kategóriája van."
 msgstr[1] "Csak {0} kategóriája van."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Az egyéb kategória nem vonható össze más kategóriákkal."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "Hiba történt a kép feltöltésekor."
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "A webcímdomainnek a következők egyikének kell lennie: [%s]."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "{0} címkével több az engedélyezettnél."
 msgstr[1] "{0} címkével több az engedélyezettnél."
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Az alapértelmezett nyelv módosítása előtt meg kell adnia a nevét, összefoglalóját és a leírását is az adott nyelven. A következőt hagyta ki: %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "A felhasználókat közvetlenül nem lehet felvenni"
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Legalább egy tulajdonosnak lennie kell."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Legalább egy szerzőnek lennie kell."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Helytelen SEO webcím."
 
-#: src/olympia/devhub/forms.py:587 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Részletek"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "Mi a licenc elnevezése?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Egyéni licenc"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Adja meg a licenc szövegét."
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "A licenc szövegére szükség van, ha az Egyéb lehetőséget választja."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "A kiegészítő végfelhasználói licencszerződést tartalmaz."
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Adja meg a kiegészítő végfelhasználói licencszerződését:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "A kiegészítő adatvédelmi irányelvvel rendelkezik"
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Adja meg a kiegészítő adatvédelmi irányelveit:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Nem támogatott fájlformátum, {extensions} archívumfájlt töltsön fel."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Jelenlegi megjelenítése"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Érvénytelen verziótartomány."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Legalább egy kompatibilis alkalmazásra szükség van."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "Hiba történt a feltöltés közben, próbálja újra."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "Sikertelen vizsgálat felülbírálása"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Legalább egy alkalmazást ki kell választania."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Túl sok feltöltést küldött be a közelmúltban. Próbálkozzon újra egy kicsit később."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "A(z) {version} verzió már korábban fel lett töltve, és törölve lett."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "A(z) {version} verzió már létezik."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "Folytatja a meglévő feltöltéssel?"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Igen"
 
-#: src/olympia/devhub/forms.py:1202 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Nem"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "Nem töltött fel forrásfájlt."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "A forrásfájl feltöltésre került, de azt jelezte, hogy nincs szükség forrásra."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Győződjön meg arról, hogy a név és az összefoglaló együtt legfeljebb {limit_value} karakterből áll (most ennyi karakter: {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Ezen az oldalon. <span class=\"helptext\">A beküldés nyilvánosan szerepel az {site_domain} webhelyen.</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2019,7 +2029,7 @@ msgstr ""
 "Egyéni módon. <span class=\"helptext\">A beküldés után a Mozilla aláírja, majd letöltheti az .xpi fájlt a Fejlesztőközpontból, és közzéteheti a saját közönsége számára. Győződjön meg róla, hogy a "
 "kiegészítő leírófájlja megadja az <a {a_attrs}>update_url</a> paramétert, mivel ezen a webcímen keres a Firefox automatikusan frissítéseket.</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2027,92 +2037,84 @@ msgstr ""
 "Egy vállalati kiegészítő. <span class=\"helptext\">Miután a Mozilla aláírta a beküldését, letöltheti az .xpi fájlt a Fejlesztőközpontból, és a Firefox vállalati házirendjén keresztül megoszthatja a "
 "közönségével.</span>"
 
-#: src/olympia/devhub/forms.py:1473 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Megjelenő név"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "E-mail-cím megerősítése"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Új hitelesítő adatok létrehozása"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Hitelesítő adatok visszavonása és újra létrehozása"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Visszavonás"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "Megerősítő e-mail újraküldése"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Kattintson a lenti megerősítés gombra, hogy előállítsa a <strong>{name}</strong> felhasználó API hitelesítő adatait."
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "Nem rendelkezik API hitelesítő adatokkal."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "Valamilyen hiba történt, lépjen kapcsolatba a fejlesztői támogatással."
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "Nem áll rendelkezésre megfelelő verzió"
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "Verzió kiválasztása"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "Kiadási megjegyzések"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Automatikus visszagörgetés a(z) [m.m] verzió alapján."
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "Ki kell választania a csatornát és a verziót, amelyre vissza szeretne térni."
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "Válasszon egy kategóriát"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "Műszaki támogatás a kiegészítője kompatibilissé tételéhez"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "Probléma az addons.mozilla.org oldalon"
 
-#: src/olympia/devhub/forms.py:1775 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Tárgy"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "Foglalja össze a problémát néhány szóban"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "Válasszon kategóriát"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "Adjon meg további részleteket a problémáról"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "Írja le a problémát"
 
@@ -2298,107 +2300,107 @@ msgstr "Ezen feltöltés ellenőrzése sikertelen lett, és hiányozhatnak az é
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Visszagörgetés beküldve. Értesítést fog kapni, ha jóváhagyták."
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "A fejlécterület háttere"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "A fejlécterület háttere, amely a fejléc azon részét érinti, amelyet nem fed le a fejléckép, vagy átlátszó. Leírófájl: frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Fejlécterület szövege és ikonjai"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "A fejlécterületen megjelenített szöveg színe és ikonja, kivéve az aktív lapot. Leírófájl: tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Az eszköztárterület háttere"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "A navigációs sáv, a könyvjelző eszköztár és az aktív lap háttérszíne.  Leírófájl mező:  toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Az eszköztárterület szövege és ikonok"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Az eszköztáron és aktív lapon található szöveg színe és ikonjai. Leírófájl mező: bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Az eszköztár mezőterületének háttere"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Az eszköztáron található mezők, mint a keresősáv, háttere. Leírófájl mező: toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Az eszköztár mezőterületének szövege"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Az eszköztáron található mezők, mint a keresősáv, szövegszíne. Leírófájl mező: toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "Lapfül kiemelése"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Az aktív lap kiemelési színe. A Firefox 89-től kezdve szegélyként van megvalósítva, régebbi Firefoxokban pedig egy a lapfül feletti vonalként. Leírófájl mező:  tab_line."
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "A kiegészítőfeltöltések ideiglenesen nem érhetők el"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Ellenőrzés kérve."
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "További részleteket kell megadnia a továbblépéshez."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Hamarosan egy megerősítő hivatkozás lesz küldve az e-mail-címére."
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Régi hitelesítő adatait visszavonták, és már nem érvényesek."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Új API hitelesítő adatok lettek létrehozva, és alul jelennek meg. Másolja le a JWT-titkot, mert az soha többé nem jelenik meg."
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Új API kulcs létrehozva"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "API kulcs visszavonva"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "E-mail-cím ellenőrzése"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "Másik e-mail küldése"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "Az e-mail-címe ellenőrizve lett"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "A támogatási kérése beküldve. Hamarosan kapcsolatba lépünk."
 
@@ -2496,8 +2498,8 @@ msgstr "Támogatás kérése a kiegészítőkhöz és a témákhoz"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Használja ezt az űrlapot a fiókjával, irányelv-megfeleléssel, és más problémákkal kapcsolatos támogatásért. Minél több részletet oszt meg, annál könnyebben tudunk segíteni. A "
 "kiegészítőértékelésekkel kapcsolatos kérdések esetén nézze meg a kiegészítői verzióelőzményeit. A lehető leghamarabb kapcsolatba lépünk Önnel."
@@ -2842,7 +2844,7 @@ msgstr "vagy"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:99 src/olympia/devhub/templates/devhub/addons/edit/describe.html:275
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
-#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138 src/olympia/devhub/templates/devhub/versions/list.html:297 src/olympia/devhub/templates/devhub/versions/list.html:307
 #: src/olympia/devhub/templates/devhub/versions/list.html:346 src/olympia/translations/templates/translations/trans-menu.html:50 src/olympia/translations/templates/translations/trans-menu.html:62
 msgid "Cancel"
@@ -2965,8 +2967,8 @@ msgstr "E-mail"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Ha szeretne megjeleníteni egy e-mail-címet a támogatási kérdések fogadására, azt itt adja meg. Ha különböző címek tartoznak egyes nyelvekhez, ezen mező többszöri fordítása hozzáadható. Ez csak "
 "listázott kiegészítőkre érvényes."
@@ -3027,11 +3029,11 @@ msgstr "Faliújság"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
-"A faliújság a szerkesztőnek szánt, kiegészítőre vonatkozó információk helye, verziótól függetlenül. Használja a kiegészítő tesztelhetőségnek leírására vagy hasznos kiegészítő információk megadására."
-" Ezt a faliújságot az ellenőrzők is szerkeszthetik."
+"A faliújság a szerkesztőnek szánt, kiegészítőre vonatkozó információk helye, verziótól függetlenül. Használja a kiegészítő tesztelhetőségnek leírására vagy hasznos kiegészítő információk "
+"megadására. Ezt a faliújságot az ellenőrzők is szerkeszthetik."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
 #, python-brace-format
@@ -3047,8 +3049,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Töltsön fel egy ikont kiegészítőjéhez vagy használjon egyet a mieink közül. Ez az ikon szinte mindenhol megjelenik a kiegészítő mellett. A feltöltött kép a következő kiterjesztésű lehet: .png, .jpg."
-" Csak listázott kiegészítőkre érvényes."
+"Töltsön fel egy ikont kiegészítőjéhez vagy használjon egyet a mieink közül. Ez az ikon szinte mindenhol megjelenik a kiegészítő mellett. A feltöltött kép a következő kiterjesztésű lehet: .png, ."
+"jpg. Csak listázott kiegészítőkre érvényes."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3426,8 +3428,8 @@ msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
 msgstr ""
-"Olvassa el az összeállítási folyamatokról és a forráskód beküldésről szóló %(policy_requirements_open)sházirend-követelményeinket%(policy_requirements_close)s. Ha a beküldéséhez forráskód szükséges,"
-" akkor olyan lépésről lépesre szóló összeállítási utasításokat kell megadnia, akár a forráskódcsomagon belül, akár itt, amellyel a kód pontos másolata jön létre."
+"Olvassa el az összeállítási folyamatokról és a forráskód beküldésről szóló %(policy_requirements_open)sházirend-követelményeinket%(policy_requirements_close)s. Ha a beküldéséhez forráskód "
+"szükséges, akkor olyan lépésről lépesre szóló összeállítási utasításokat kell megadnia, akár a forráskódcsomagon belül, akár itt, amellyel a kód pontos másolata jön létre."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3493,8 +3495,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Kész van! ✨ Megerősítő e-mailt fog kapni, ha a verzió közzétételre került a(z) %(site_domain)s oldalon. Vegye figyelembe, hogy akár 24 óra is eltelhet a közzétételig, vagy még több, ha kiválasztják "
-"kézi ellenőrzésre. Ha 24 óra múlva sem látja a levelet, akkor nézze meg a levélszemét mappáját."
+"Kész van! ✨ Megerősítő e-mailt fog kapni, ha a verzió közzétételre került a(z) %(site_domain)s oldalon. Vegye figyelembe, hogy akár 24 óra is eltelhet a közzétételig, vagy még több, ha "
+"kiválasztják kézi ellenőrzésre. Ha 24 óra múlva sem látja a levelet, akkor nézze meg a levélszemét mappáját."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3588,7 +3590,8 @@ msgstr "Operációs rendszer és összeállítási környezeti követelmények."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
-msgstr "Az összeállítási folyamat során szükséges programok verziói és telepítési leírásai (például: használt <span class=\"tech-emphasis\">node</span> és <span class=\"tech-emphasis\">npm</span> verziók)."
+msgstr ""
+"Az összeállítási folyamat során szükséges programok verziói és telepítési leírásai (például: használt <span class=\"tech-emphasis\">node</span> és <span class=\"tech-emphasis\">npm</span> verziók)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3725,8 +3728,8 @@ msgstr "Vissza"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Hogy hitelesített hívásokat hajtson végre az <a %(a_attrs)s href=\"%(docs_url)s\">API-n</a> keresztül külső fogyasztóként, egy <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Tokenre (JWT)</a> van "
 "szüksége minden egyes kérés <code>Authorization</code> fejlécében."
@@ -3809,10 +3812,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -4005,11 +4010,11 @@ msgstr "Firefox for Android kompatibilitás"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Tesztelte a kiegészítőt, hogy a várt módon működik a Firefox for Androidon? Ha nem, akkor beküldés előtt tekintse meg a <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Kiegészítők fejlesztése az androidos Firefoxra</a> leírást."
+"Tesztelte a kiegészítőt, hogy a várt módon működik a Firefox for Androidon? Ha nem, akkor beküldés előtt tekintse meg a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Kiegészítők fejlesztése az androidos Firefoxra</a> leírást."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4122,19 +4127,19 @@ msgid "Distribution channel"
 msgstr "Terjesztési csatorna"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31 src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
-#: src/olympia/devhub/templates/devhub/versions/list.html:232
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49 src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Verzió"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "Új verziószám"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "Kiadási megjegyzések"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "Visszagörgetés"
 
@@ -4175,8 +4180,8 @@ msgstr "Készítse el a legjobb kiegészítőket és témákat"
 #: src/olympia/devhub/templates/devhub/new-landing/components/banner.html:7 src/olympia/devhub/templates/devhub/new-landing/components/overview.html:5
 msgid "Whether you’re new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, we’ve got the resources to support you."
 msgstr ""
-"Függetlenül attól, hogy csak most kezdte el a kiegészítőfejlesztést, egy meglévő kiegészítőt vagy témát csiszolt tovább vagy portol, vagy egyéni vállalati megoldásokat hoz létre, nálunk elérhetők az"
-" Önt támogató erőforrások."
+"Függetlenül attól, hogy csak most kezdte el a kiegészítőfejlesztést, egy meglévő kiegészítőt vagy témát csiszolt tovább vagy portol, vagy egyéni vállalati megoldásokat hoz létre, nálunk elérhetők "
+"az Önt támogató erőforrások."
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/banner.html:13
 msgid "Visit the Firefox Extension Workshop"
@@ -7130,8 +7135,8 @@ msgstr "A használt szoftvere vagy eszköze nem engedélyezett a beküldésekhez
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Kezdés előtt olvassa el és fogadja el a Firefox kiegészítő-terjesztési megállapodásunkat, valamint az értékelési irányelveinket és szabályzatunkat. A Firefox kiegészítő-terjesztési megállapodás "
 "hivatkozik az adatvédelmi nyilatkozatra is, amely elmagyarázza, hogyan kezeljük az adatait."
@@ -7232,7 +7237,8 @@ msgid ""
 msgstr ""
 "Üdvözöljük %(author_name)s!\n"
 "\n"
-"Jó hír, meghívták, hogy a(z) %(addon_name)s szerzője legyen a(z) %(domain)s oldalon. Az elfogadás lehetővé teszi a kiegészítő szerkesztését, és a neve megjelenhet a szerzők listájában a weboldalon.\n"
+"Jó hír, meghívták, hogy a(z) %(addon_name)s szerzője legyen a(z) %(domain)s oldalon. Az elfogadás lehetővé teszi a kiegészítő szerkesztését, és a neve megjelenhet a szerzők listájában a "
+"weboldalon.\n"
 "\n"
 "Ha szeretné elfogadni a meghívást, kattintson az alábbi hivatkozásra:\n"
 "\n"
@@ -7270,7 +7276,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7280,7 +7287,8 @@ msgid ""
 msgstr ""
 "Üdvözöljük!\n"
 "\n"
-"Ezt az üzenetet azért kapja, met a(z) %(name)s felhasználói fiókját a(z) %(site_url)s oldalon törölték. Ha nemrég törölte Mozilla-fiókját, akkor ez automatikusan történhetett, a folyamat részeként.\n"
+"Ezt az üzenetet azért kapja, met a(z) %(name)s felhasználói fiókját a(z) %(site_url)s oldalon törölték. Ha nemrég törölte Mozilla-fiókját, akkor ez automatikusan történhetett, a folyamat "
+"részeként.\n"
 "\n"
 "Köszönjük, hogy része volt a Firefox kiegészítők közösségének. Ha úgy gondolja, hogy ez hiba volt, vagy kérdése van, lépjen velünk kapcsolatba.\n"
 "\n"

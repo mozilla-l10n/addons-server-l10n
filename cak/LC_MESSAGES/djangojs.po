@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 09:15+0000\n"
 "Language: cak\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr " Ri atz'aqat k'o ta chi nik'is rik'in .zip, .xpi, o .crx."
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% tz'aqät"
 
@@ -133,8 +135,8 @@ msgstr "Ruk'wan ruch'utitzijol ruwäch (re re' tikirel nib'an pa ri jun chik xak
 #: static/js/common/upload-addon.js:654
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr ""
-"We ri atz'aqat nrajo' jun rub'i' taqoya'l pa jun ruxaq k'amaya'l richin nitojtob'ëx ütz, tatz'aqatisaj jun tojtob'enel okisaxel chuqa' ewan tzij pa ri Ch'utitzijol richin ri Nik'onel (re re' tikirel"
-" nib'an pa ri jun chik xak)."
+"We ri atz'aqat nrajo' jun rub'i' taqoya'l pa jun ruxaq k'amaya'l richin nitojtob'ëx ütz, tatz'aqatisaj jun tojtob'enel okisaxel chuqa' ewan tzij pa ri Ch'utitzijol richin ri Nik'onel (re re' "
+"tikirel nib'an pa ri jun chik xak)."
 
 #: static/js/common/upload-addon.js:660
 msgid "Add-on submission checklist"
@@ -440,7 +442,7 @@ msgid_plural "{files} files"
 msgstr[0] "{files} yakb'äl"
 msgstr[1] "{files} taq yakb'äl"
 
-#: static/js/zamboni/devhub.js:1233
+#: static/js/zamboni/devhub.js:1244
 msgid "Image changes being processed"
 msgstr "Yesamajïx ri taq jaloj pa ri wachib'äl"
 
