@@ -4948,7 +4948,7 @@ msgstr "Altere a forma como navega no Reddit utilizando etiquetas, entre outros.
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:158
 msgid "Screenshot webpages, make edits & share."
-msgstr ""
+msgstr "Faça capturas de ecrã a páginas web, faça edições & partilhe."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:161
@@ -5515,7 +5515,7 @@ msgstr "Evite a confusão dos termos dos acordos típicos de licenciamento. Uma 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:491
 msgid "Get grammar help anywhere you write on the web — social media, email, docs, and more."
-msgstr ""
+msgstr "Obtenha ajuda gramatical em qualquer lugar onde escreva na web — redes sociais, email, documentação, e mais."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5719,47 +5719,47 @@ msgstr "Todas as suas necessidades de emoji - apenas a um clique de distância."
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:608
 msgid "Mask your email address. Firefox Relay protects your identity & prevents junk mail."
-msgstr ""
+msgstr "Mascare o seu endereço de e-mail. O Firefox Relay protege a sua identidade & impede o lixo eletrónico."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:612
 msgid "Time-based theme changer. Make Firefox change colors as the time of day changes."
-msgstr ""
+msgstr "Alterador de tema baseado no tempo. Faça com que o Firefox mude de cor à medida que a hora do dia muda."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:615
 msgid "Declutter your Twitter experience."
-msgstr ""
+msgstr "Destralhe a sua experiência no Twitter."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:618
 msgid "Bring back the ability to see thumbs down!"
-msgstr ""
+msgstr "Traga de volta a capacidade de ver os polegares para baixo!"
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:621
 msgid "Listen to music on YouTube without those annoying \"Video paused. Continue watching?\" interruptions."
-msgstr ""
+msgstr "Ouça música no YouTube sem aquelas interrupções irritantes \"Vídeo pausado. Continuar a ver?\"."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:625
 msgid "Change the way the web looks."
-msgstr ""
+msgstr "Altere o aspeto da internet."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:628
 msgid "Customize YouTube to taste. Give it a new look, new features & filter only the content you want."
-msgstr ""
+msgstr "Personalize o YouTube a seu gosto. Dê-lhe um novo visual, novas funcionalidades & filtre apenas o conteúdo que pretende."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:640
 msgid "Changes the color of Firefox to match the appearance of any website."
-msgstr ""
+msgstr "Altera a cor do Firefox para corresponder à aparência de qualquer site."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:650
 msgid "Protect your privacy against a unique form of JavaScript “fingerprinting”."
-msgstr ""
+msgstr "Proteja a sua privacidade contra uma forma única de JavaScript “fingerprinting”."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:658
