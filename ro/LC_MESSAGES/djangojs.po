@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-03 10:20+0000\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "Suplimentul trebuie să aibă extensia .zip, .xpi sau .crx"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% încărcat"
 
@@ -444,7 +446,7 @@ msgstr[0] "{files} fișier"
 msgstr[1] "{files} fișiere"
 msgstr[2] "{files} de fișiere"
 
-#: static/js/zamboni/devhub.js:1233
+#: static/js/zamboni/devhub.js:1244
 msgid "Image changes being processed"
 msgstr "Se procesează schimbările imaginii"
 

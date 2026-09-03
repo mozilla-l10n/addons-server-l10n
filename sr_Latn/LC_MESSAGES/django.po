@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-02 11:36+0000\n"
+"POT-Creation-Date: 2026-09-03 10:20+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -328,7 +328,7 @@ msgstr "Dužina sadržaja zahteva je prevelika."
 msgid "Add-on"
 msgstr "Dodatak"
 
-#: src/olympia/addons/decorators.py:78
+#: src/olympia/addons/decorators.py:79
 #: src/olympia/amo/templates/amo/submissions_disabled.html:8
 msgid "Add-on uploads are temporarily unavailable."
 msgstr "Otpremanja dodataka su privremeno nedostupna."
@@ -352,11 +352,11 @@ msgstr "Neispravan naziv kategorije."
 msgid "URL domain must be one of [{domains}]."
 msgstr "URL domen mora biti jedan od [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:311
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "URL putanja za GitHub Sponsors mora sadržati /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:314
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
 msgid "URLs must start with https://."
 msgstr "Veze moraju počinjati sa https://."
 
@@ -370,7 +370,7 @@ msgstr "Dozvola sa slug-om={value} ne postoji."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Nepodržana vrsta datoteke, otpremite arhivnu datoteku ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:801
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803
 #: src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Neispravna ili polomljena arhiva."
@@ -410,7 +410,7 @@ msgstr "Slike moraju biti manje od %dMB."
 msgid "Invalid \"%s\" parameter."
 msgstr "Neispravan parametr „%s“."
 
-#: src/olympia/addons/models.py:2359 src/olympia/addons/models.py:2438
+#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435
 #: src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "U listi"
@@ -451,7 +451,7 @@ msgstr "Navedena izdanja ne mogu biti podneta dok je upis dodatka odbijen."
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(app_name)s ne podržava %(addon_type_plural)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:955
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
 #, python-format
 msgid ""
 "Invalid version range. For Firefox for Android, you may only pick a range "
@@ -474,12 +474,12 @@ msgstr "Dodacima je potreban najmanje jedan navedeni autor."
 msgid "Account not found."
 msgstr "Nalog nije pronađen."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:455
-#: src/olympia/devhub/forms.py:525
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457
+#: src/olympia/devhub/forms.py:527
 msgid "An author can only be present once."
 msgstr "Ključ se može koristiti samo jednom."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:467
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
 msgid "The account needs a display name before it can be added as an author."
 msgstr ""
 "Nalogu je potrebno ime za prikaz pre nego što može biti dodat kao autor."
@@ -625,7 +625,7 @@ msgstr "Centar za programere"
 
 #: src/olympia/amo/context_processors.py:79
 #: src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20
-#: src/olympia/devhub/views.py:2162
+#: src/olympia/devhub/views.py:2168
 msgid "Manage API Keys"
 msgstr "Upravljajte API ključevima"
 
@@ -1875,8 +1875,8 @@ msgstr ""
 "još mnogo toga."
 
 #: src/olympia/constants/categories.py:198
-#: src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:637
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639
+#: src/olympia/devhub/forms.py:1781
 msgid "Other"
 msgstr "Drugo"
 
@@ -2211,7 +2211,7 @@ msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Slag ne može biti \"%(slug)s\". Izaberite drugi."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:220
+#: src/olympia/devhub/forms.py:222
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
@@ -2219,21 +2219,21 @@ msgstr[0] "Možete imati samo {0} kategoriju."
 msgstr[1] "Možete imati samo {0} kategorije."
 msgstr[2] "Možete imati samo {0} kategorija."
 
-#: src/olympia/devhub/forms.py:230
+#: src/olympia/devhub/forms.py:232
 msgid ""
 "The miscellaneous category cannot be combined with additional categories."
 msgstr "Kategorija „Razno” se ne može spojiti sa dodatnim kategorijama."
 
-#: src/olympia/devhub/forms.py:250 src/olympia/devhub/forms.py:1365
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
 msgid "There was an error uploading your image."
 msgstr "Došlo je do greške pri otpremanju vaše slike."
 
-#: src/olympia/devhub/forms.py:305
+#: src/olympia/devhub/forms.py:307
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "URL domen mora biti jedan od [%s]."
 
-#: src/olympia/devhub/forms.py:321
+#: src/olympia/devhub/forms.py:323
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
@@ -2241,7 +2241,7 @@ msgstr[0] "Imate {0} oznaku viška."
 msgstr[1] "Imate {0} oznake viška."
 msgstr[2] "Imate {0} oznaka viška."
 
-#: src/olympia/devhub/forms.py:340
+#: src/olympia/devhub/forms.py:342
 #, python-format
 msgid ""
 "Before changing your default locale you must have a name, summary, and "
@@ -2250,89 +2250,89 @@ msgstr ""
 "Pre nego što promenite svoj podrazumevani lokalitet, morate imati naziv, "
 "sažetak i opis za taj lokalitet. Nedostaje vam %s."
 
-#: src/olympia/devhub/forms.py:428
+#: src/olympia/devhub/forms.py:430
 msgid "Users can not be added directly"
 msgstr "Korisnici se ne mogu dodati direktno."
 
-#: src/olympia/devhub/forms.py:502
+#: src/olympia/devhub/forms.py:504
 msgid "Must have at least one owner."
 msgstr "Mora imati najmanje jednog vlasnika."
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:506
 msgid "At least one author must be listed."
 msgstr "Najmanje jedan autor mora biti na spisku."
 
-#: src/olympia/devhub/forms.py:552
+#: src/olympia/devhub/forms.py:554
 msgid "Slug incorrect."
 msgstr "Netačan slug."
 
-#: src/olympia/devhub/forms.py:587
+#: src/olympia/devhub/forms.py:589
 #: src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Detalji"
 
-#: src/olympia/devhub/forms.py:608
+#: src/olympia/devhub/forms.py:610
 msgid "What is your license's name?"
 msgstr "Koji je naziv vaše dozvole?"
 
-#: src/olympia/devhub/forms.py:610 src/olympia/devhub/forms.py:657
+#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
 msgid "Custom License"
 msgstr "Proizvoljna dozvola"
 
-#: src/olympia/devhub/forms.py:615
+#: src/olympia/devhub/forms.py:617
 msgid "Provide the text of your license."
 msgstr "Obezbedite tekst vaše dozvole."
 
-#: src/olympia/devhub/forms.py:665
+#: src/olympia/devhub/forms.py:667
 msgid "License text is required when choosing Other."
 msgstr "Tekst dozvole je obavezan kada se izabere Drugo."
 
-#: src/olympia/devhub/forms.py:721
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "Ovaj dodatak ima Sporazum sa krajnjim korisnikom."
 
-#: src/olympia/devhub/forms.py:726
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Navedite Sporazum sa krajnjim korisnikom za vaš dodatak:"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "Ovaj dodatak ima Politiku privatnosti."
 
-#: src/olympia/devhub/forms.py:734
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Navedite Politiku privatnosti za vaš dodatak:"
 
-#: src/olympia/devhub/forms.py:769
+#: src/olympia/devhub/forms.py:771
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Nepodržana vrsta datoteke, otpremite arhiviranu datoteku {extensions}."
 
-#: src/olympia/devhub/forms.py:813
+#: src/olympia/devhub/forms.py:815
 msgid "View current"
 msgstr "Pregled trenutnog"
 
-#: src/olympia/devhub/forms.py:936
+#: src/olympia/devhub/forms.py:938
 msgid "Invalid version range."
 msgstr "Neispravan opseg izdanja."
 
-#: src/olympia/devhub/forms.py:1042
+#: src/olympia/devhub/forms.py:1044
 msgid "Need at least one compatible application."
 msgstr "Potreban je najmanje jedan usaglašen program."
 
-#: src/olympia/devhub/forms.py:1084 src/olympia/devhub/forms.py:1142
+#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
 msgid "There was an error with your upload. Please try again."
 msgstr "Došlo je do greške tokom otpremanja. Pokušajte ponovo."
 
-#: src/olympia/devhub/forms.py:1089
+#: src/olympia/devhub/forms.py:1091
 msgid "Override failed validation"
 msgstr "Zamena nije prošla potvrdu"
 
-#: src/olympia/devhub/forms.py:1099
+#: src/olympia/devhub/forms.py:1101
 msgid "Need to select at least one application."
 msgstr "Potrebno je izabrati najmanje jedan program."
 
-#: src/olympia/devhub/forms.py:1104
+#: src/olympia/devhub/forms.py:1106
 msgid ""
 "You have submitted too many uploads recently. Please try again after some "
 "time."
@@ -2340,45 +2340,45 @@ msgstr ""
 "U poslednje vreme ste poslali previše otpremanja. Pokušajte ponovo nakon "
 "nekog vremena."
 
-#: src/olympia/devhub/forms.py:1153 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Izdanje {version} je ranije otpremljeno i obrisano."
 
-#: src/olympia/devhub/forms.py:1162 src/olympia/devhub/forms.py:1168
+#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170
 #: src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Izdanje {version} već postoji."
 
-#: src/olympia/devhub/forms.py:1164
+#: src/olympia/devhub/forms.py:1166
 msgid "Continue with existing upload instead?"
 msgstr "Nastaviti umesto toga sa postojećim otpremanjem?"
 
-#: src/olympia/devhub/forms.py:1202
+#: src/olympia/devhub/forms.py:1204
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Da"
 
-#: src/olympia/devhub/forms.py:1202
+#: src/olympia/devhub/forms.py:1204
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Ne"
 
-#: src/olympia/devhub/forms.py:1217
+#: src/olympia/devhub/forms.py:1219
 msgid "You have not uploaded a source file."
 msgstr "Niste otpremili izvornu datoteku."
 
-#: src/olympia/devhub/forms.py:1220
+#: src/olympia/devhub/forms.py:1222
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr ""
 "Izvorna datoteka je otpremljena, ali ste naveli da izvor nije potreban."
 
-#: src/olympia/devhub/forms.py:1284
+#: src/olympia/devhub/forms.py:1286
 #, python-brace-format
 msgid ""
 "Ensure name and summary combined are at most {limit_value} characters (they "
@@ -2387,7 +2387,7 @@ msgstr ""
 "Uverete se da naziv i sažetak zajedno imaju najviše {limit_value} znakova "
 "(trenutno imaju {show_value})."
 
-#: src/olympia/devhub/forms.py:1414
+#: src/olympia/devhub/forms.py:1416
 #, python-brace-format
 msgid ""
 "On this site. <span class=\"helptext\">Your submission is publicly listed on "
@@ -2396,7 +2396,7 @@ msgstr ""
 "Na ovoj stranici. <span class=\"helptext\">Vaša prijava je javno navedena na "
 "{site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1421
+#: src/olympia/devhub/forms.py:1423
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by "
@@ -2411,39 +2411,39 @@ msgstr ""
 "dodatka naveden, jer je to URL na kojem Firefox pronalazi ažuriranja za "
 "samostalno instaliranje vašim korisnicima.</span>"
 
-#: src/olympia/devhub/forms.py:1437
+#: src/olympia/devhub/forms.py:1439
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is "
 "signed by Mozilla, you can download the .xpi file from the Developer Hub and "
 "distribute it to your audience via a Firefox for Enterprise policy.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1473
+#: src/olympia/devhub/forms.py:1475
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Ime za prikaz"
 
-#: src/olympia/devhub/forms.py:1504
+#: src/olympia/devhub/forms.py:1506
 msgid "Confirm email address"
 msgstr "Potvrdi adresu e-pošte"
 
-#: src/olympia/devhub/forms.py:1505
+#: src/olympia/devhub/forms.py:1507
 msgid "Generate new credentials"
 msgstr "Napravi nove akreditive"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Revoke and regenerate credentials"
 msgstr "Opozovi i ponovo napravi akreditive"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke"
 msgstr "Opozovi"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Re-send email confirmation"
 msgstr "Ponovo pošalji potvrdu e-poštom"
 
-#: src/olympia/devhub/forms.py:1565
+#: src/olympia/devhub/forms.py:1567
 #, python-brace-format
 msgid ""
 "Please click the button below to generate API credentials for user "
@@ -2452,64 +2452,56 @@ msgstr ""
 "Kliknite na dugme ispod da napravite API akreditive za korisnika "
 "<strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1590
+#: src/olympia/devhub/forms.py:1592
 msgid "You don't have any API credentials."
 msgstr "Nemate nikakve API akreditive."
 
-#: src/olympia/devhub/forms.py:1601
+#: src/olympia/devhub/forms.py:1603
 msgid "Something went wrong, please contact developer support."
 msgstr "Nešto je pošlo naopako, obratite se podršci za programere."
 
-#: src/olympia/devhub/forms.py:1663
-msgid "No appropriate version available"
-msgstr "Nema dostupnog odgovarajućeg izdanja."
-
-#: src/olympia/devhub/forms.py:1670
-msgid "Choose version"
-msgstr "Izaberite izdanje"
-
-#: src/olympia/devhub/forms.py:1679
+#: src/olympia/devhub/forms.py:1682
 msgid "Release notes"
 msgstr "Beleške o izdanju"
 
-#: src/olympia/devhub/forms.py:1680
+#: src/olympia/devhub/forms.py:1683
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Samostalno vraćanje na osnovu izdanja [m.m]."
 
-#: src/olympia/devhub/forms.py:1755
+#: src/olympia/devhub/forms.py:1768
 msgid "You must select a channel and version to rollback to."
 msgstr "Morate da izaberete kanal i izdanje na koje želite da se vratite."
 
-#: src/olympia/devhub/forms.py:1765
+#: src/olympia/devhub/forms.py:1778
 msgid "Choose a category"
 msgstr "Izaberite kategoriju"
 
-#: src/olympia/devhub/forms.py:1766
+#: src/olympia/devhub/forms.py:1779
 msgid "Technical support for making your add-on compliant"
 msgstr "Tehnička podrška za usklađivanje vašeg dodatka"
 
-#: src/olympia/devhub/forms.py:1767
+#: src/olympia/devhub/forms.py:1780
 msgid "Issue with addons.mozilla.org"
 msgstr "Problem sa addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1775
+#: src/olympia/devhub/forms.py:1788
 #: src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Tema"
 
-#: src/olympia/devhub/forms.py:1777
+#: src/olympia/devhub/forms.py:1790
 msgid "Summarize the issue in a few words"
 msgstr "Sažmite problem u nekoliko reči"
 
-#: src/olympia/devhub/forms.py:1782
+#: src/olympia/devhub/forms.py:1795
 msgid "Select category"
 msgstr "Izaberite kategoriju"
 
-#: src/olympia/devhub/forms.py:1787
+#: src/olympia/devhub/forms.py:1800
 msgid "Give us more details about the issue"
 msgstr "Dajte nam još detalja o problemu"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1802
 msgid "Describe the issue"
 msgstr "Opišite problem"
 
@@ -2726,11 +2718,11 @@ msgstr ""
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Vraćanje je podneto. Bićete obavešteni kada bude odobreno."
 
-#: src/olympia/devhub/views.py:1478
+#: src/olympia/devhub/views.py:1484
 msgid "Header area background"
 msgstr "Pozadina oblasti zaglavlja"
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1486
 msgid ""
 "The color of the header area background, displayed in the part of the header "
 "not covered or visible through the header image. Manifest field:  frame."
@@ -2738,11 +2730,11 @@ msgstr ""
 "Boja pozadine oblasti zaglavlja, koja se prikazuje u delu zaglavlja koji "
 "nije prekriven ili je vidljiv kroz sliku zaglavlja. Polje manifesta: frame."
 
-#: src/olympia/devhub/views.py:1488
+#: src/olympia/devhub/views.py:1494
 msgid "Header area text and icons"
 msgstr "Tekst i ikonice oblasti zaglavlja"
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1496
 msgid ""
 "The color of the text and icons in the header area, except the active tab. "
 "Manifest field:  tab_background_text."
@@ -2750,11 +2742,11 @@ msgstr ""
 "Boja teksta i ikonica u oblasti zaglavlja, izuzev aktivnog jezička. Polje "
 "manifesta: tab_background_text."
 
-#: src/olympia/devhub/views.py:1497
+#: src/olympia/devhub/views.py:1503
 msgid "Toolbar area background"
 msgstr "Pozadina oblasti alatne trake"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1505
 msgid ""
 "The background color for the navigation bar, the bookmarks bar, and the "
 "active tab.  Manifest field:  toolbar."
@@ -2762,11 +2754,11 @@ msgstr ""
 "Boja pozadine za traku navigacije, traku obeleživača i aktivni jezičak. "
 "Polje manifesta: toolbar."
 
-#: src/olympia/devhub/views.py:1506
+#: src/olympia/devhub/views.py:1512
 msgid "Toolbar area text and icons"
 msgstr "Tekst i ikonice oblasti alatne trake"
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1514
 msgid ""
 "The color of the text and icons in the toolbar and the active tab. Manifest "
 "field:  bookmark_text."
@@ -2774,11 +2766,11 @@ msgstr ""
 "Boja teksta i ikonica u alatnoj traci i aktivnom jezičku. Polje manifesta: "
 "bookmark_text."
 
-#: src/olympia/devhub/views.py:1515
+#: src/olympia/devhub/views.py:1521
 msgid "Toolbar field area background"
 msgstr "Pozadina oblasti polja alatne trake"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1523
 msgid ""
 "The background color for fields in the toolbar, such as the URL bar. "
 "Manifest field:  toolbar_field."
@@ -2786,11 +2778,11 @@ msgstr ""
 "Boja pozadine za polja u alatnoj traci, kao što je URL traka. Polje "
 "manifesta: toolbar_field."
 
-#: src/olympia/devhub/views.py:1524
+#: src/olympia/devhub/views.py:1530
 msgid "Toolbar field area text"
 msgstr "Tekst oblasti polja alatne trake"
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1532
 msgid ""
 "The color of text in fields in the toolbar, such as the URL bar. Manifest "
 "field:  toolbar_field_text."
@@ -2798,11 +2790,11 @@ msgstr ""
 "Boja teksta u poljima u alatnoj traci, kao što je URL traka. Polje "
 "manifesta: toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1534
+#: src/olympia/devhub/views.py:1540
 msgid "Tab highlight"
 msgstr "Isticanje jezička"
 
-#: src/olympia/devhub/views.py:1536
+#: src/olympia/devhub/views.py:1542
 msgid ""
 "The highlight color of the active tab. Implemented as a border around the "
 "tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest "
@@ -2812,27 +2804,27 @@ msgstr ""
 "u 89+ i kao linija iznad jezička u starijim verzijama Firefox-a. Polje u "
 "manifestu: tab_line."
 
-#: src/olympia/devhub/views.py:1639
+#: src/olympia/devhub/views.py:1645
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Otpremanje dodataka je privremeno nedostupno"
 
-#: src/olympia/devhub/views.py:2011
+#: src/olympia/devhub/views.py:2017
 msgid "Review requested."
 msgstr "Zahtevana recenzija"
 
-#: src/olympia/devhub/views.py:2013
+#: src/olympia/devhub/views.py:2019
 msgid "You must provide further details to proceed."
 msgstr "Morate da obezbedite dodatne detalje da biste nastavili."
 
-#: src/olympia/devhub/views.py:2120
+#: src/olympia/devhub/views.py:2126
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Uskoro će vam biti poslata adresa za potvrdu na adresu e-pošte."
 
-#: src/olympia/devhub/views.py:2135
+#: src/olympia/devhub/views.py:2141
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Vaši stari akreditivi su opozvani i više nisu ispravni."
 
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2152
 msgid ""
 "New API credentials have been generated and are displayed below. Make sure "
 "to copy the JWT secret, it will never be displayed again."
@@ -2840,27 +2832,27 @@ msgstr ""
 "Novi API akreditivi su generisani i prikazani su ispod. Postarajte se da "
 "kopirate JWT tajnu, jer nikada više neće biti prikazana."
 
-#: src/olympia/devhub/views.py:2174
+#: src/olympia/devhub/views.py:2180
 msgid "New API key created"
 msgstr "Novi API ključ je napravljen"
 
-#: src/olympia/devhub/views.py:2185
+#: src/olympia/devhub/views.py:2191
 msgid "API key revoked"
 msgstr "API ključ je opozvan"
 
-#: src/olympia/devhub/views.py:2245
+#: src/olympia/devhub/views.py:2251
 msgid "Verify email"
 msgstr "Potvrdite adresu e-pošte"
 
-#: src/olympia/devhub/views.py:2247
+#: src/olympia/devhub/views.py:2253
 msgid "Send another email"
 msgstr "Pošaljite još jednu e-poštu"
 
-#: src/olympia/devhub/views.py:2280
+#: src/olympia/devhub/views.py:2286
 msgid "Your email has been verified"
 msgstr "Vaša e-pošta je potvrđena"
 
-#: src/olympia/devhub/views.py:2342
+#: src/olympia/devhub/views.py:2348
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Vaš zahtev za podršku je podnet. Uskoro ćemo vam se javiti."
 
@@ -3422,7 +3414,7 @@ msgstr "ili"
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:87
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:177
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:32
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:64
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:73
 #: src/olympia/devhub/templates/devhub/versions/edit.html:138
 #: src/olympia/devhub/templates/devhub/versions/list.html:297
 #: src/olympia/devhub/templates/devhub/versions/list.html:307
@@ -5059,19 +5051,20 @@ msgstr "Kanal raspodele"
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:31
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:40
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:49
 #: src/olympia/devhub/templates/devhub/versions/list.html:232
 msgid "Version"
 msgstr "Izdanje"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:48
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:57
 msgid "New version number"
 msgstr "Broj novog izdanja"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:54
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
 msgid "Release Notes"
 msgstr "Beleške o izdanju"
 
-#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:63
+#: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:72
 msgid "Roll back"
 msgstr "Vratite nazad"
 
