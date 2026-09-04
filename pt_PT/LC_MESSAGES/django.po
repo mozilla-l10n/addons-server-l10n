@@ -6397,16 +6397,16 @@ msgstr "Ver mais escolhas da equipa para extensões para o Twitch"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1258
 msgid "Gaming & media extensions"
-msgstr ""
+msgstr "Extensões para Jogos & Multimédia"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1260
 msgid "See more staff picks"
-msgstr ""
+msgstr "Ver mais escolhas da equipa"
 
 #: src/olympia/files/models.py:326
 msgid "Unreviewed"
-msgstr ""
+msgstr "Por rever"
 
 #: src/olympia/files/models.py:329
 #, python-format
@@ -6415,7 +6415,7 @@ msgstr "[estado:%s]"
 
 #: src/olympia/files/utils.py:84
 msgid "This upload has already been submitted."
-msgstr ""
+msgstr "Este carregamento já foi submetido."
 
 #: src/olympia/files/utils.py:156 src/olympia/files/utils.py:190 src/olympia/files/utils.py:881
 msgid "Could not parse the manifest file."
@@ -6424,7 +6424,7 @@ msgstr "Não foi possível analisar o ficheiro manifest."
 #: src/olympia/files/utils.py:337
 #, python-brace-format
 msgid "Lowest supported \"strict_min_version\" is {min_version}."
-msgstr ""
+msgstr "Versão mínima suportada para \"strict_min_version\" é {min_version}."
 
 #: src/olympia/files/utils.py:367
 #, python-brace-format
@@ -6438,7 +6438,7 @@ msgstr "\"strict_max_version\" {appver} para {app} desconhecida"
 
 #: src/olympia/files/utils.py:561
 msgid "Unsupported compression method in archive."
-msgstr ""
+msgstr "Método de compressão não suportado no arquivo."
 
 #: src/olympia/files/utils.py:564
 msgid "Unsupported archive type."
@@ -6462,7 +6462,7 @@ msgstr "Ficheiro que excede o limite de tamanho no arquivo: {0}"
 
 #: src/olympia/files/utils.py:615
 msgid "This archive contains a forbidden special file (symbolic / hard link or device / block file)"
-msgstr ""
+msgstr "Este arquivo contém um ficheiro especial proibido (symbolic / hard link ou dispositivo / ficheiro de bloqueio)"
 
 #: src/olympia/files/utils.py:650
 msgid "Uncompressed size is too large"
@@ -6474,7 +6474,7 @@ msgstr "Arquivo inválido."
 
 #: src/olympia/files/utils.py:869
 msgid "No manifest.json found"
-msgstr ""
+msgstr "Nenhum manifest.json encontrado"
 
 #: src/olympia/files/utils.py:874
 msgid "Invalid or corrupted file."
@@ -6492,7 +6492,7 @@ msgstr "Foi encontrado um ID de complemento duplicado."
 #: src/olympia/files/utils.py:928
 #, python-brace-format
 msgid "Version numbers should have at most {max_length} characters."
-msgstr ""
+msgstr "Os números de versão devem ter no máximo {max_length} caracteres."
 
 #: src/olympia/files/utils.py:934
 msgid "Version numbers should only contain letters, numbers, and these punctuation characters: +*.-_."
@@ -6521,7 +6521,7 @@ msgstr "Você não pode enviar um pacote de idiomas"
 
 #: src/olympia/files/utils.py:979
 msgid "The locale of an existing dictionary/language pack cannot be changed"
-msgstr ""
+msgstr "O idioma de um dicionário/pacote de idioma existente não pode ser alterado"
 
 #: src/olympia/files/utils.py:1022
 #, python-brace-format
@@ -6547,7 +6547,7 @@ msgstr "Chave \"upload\" em falta nos dados multi-parte do ficheiro."
 
 #: src/olympia/files/views.py:89
 msgid "Missing \"channel\" arg."
-msgstr ""
+msgstr "Argumento \"channel\" em falta."
 
 #: src/olympia/ratings/models.py:363
 msgid "Spam or otherwise non-review content"
@@ -6567,16 +6567,16 @@ msgstr "Outro (por favor específique)"
 
 #: src/olympia/ratings/models.py:370
 msgid "Auto-flagged due to word match"
-msgstr ""
+msgstr "Sinalizado automaticamente devido a correspondência de palavra"
 
 #: src/olympia/ratings/models.py:371
 msgid "Auto-flagged due to user restriction"
-msgstr ""
+msgstr "Sinalizado automaticamente devido a restrição de utilizador"
 
 #: src/olympia/ratings/models.py:411
 #, python-format
 msgid "%(value)s contains a non-alphanumeric character."
-msgstr ""
+msgstr "%(value)s contém um caratere não alfanumérico."
 
 #: src/olympia/ratings/serializers.py:90
 #, python-brace-format
