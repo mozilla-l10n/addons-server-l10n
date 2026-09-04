@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-03 10:20+0000\n"
+"POT-Creation-Date: 2026-09-04 10:29+0000\n"
 "PO-Revision-Date: 2024-01-15 13:27+0000\n"
 "Last-Translator: Bund10z <abu.avila@gmail.com>\n"
 "Language-Team: Español (España) <nave@elistas.net>\n"
@@ -225,11 +225,11 @@ msgstr "Las imágenes no pueden ser animadas."
 msgid "Please use images smaller than %dMB."
 msgstr "Usa imágenes más pequeñas que %dMB."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "¿Necesitas ayuda?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "La notificación [%s] no existe"

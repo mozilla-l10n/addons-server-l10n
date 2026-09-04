@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-03 10:20+0000\n"
+"POT-Creation-Date: 2026-09-04 10:29+0000\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -218,11 +218,11 @@ msgstr ""
 msgid "Please use images smaller than %dMB."
 msgstr "Gebruik asb. prente kleiner as %dMG."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr ""
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr ""
