@@ -5764,27 +5764,27 @@ msgstr "Proteja a sua privacidade contra uma forma única de JavaScript “finge
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:658
 msgid "Automatically deny cookie pop-up tracking requests."
-msgstr ""
+msgstr "Negar automaticamente pedidos de monitorização de pop-ups de cookies."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:670
 msgid "Powerful pop-up dictionary optimized for learning new languages."
-msgstr ""
+msgstr "Poderoso dicionário pop-up otimizado para aprender novos idiomas."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:673
 msgid "Hover your mouse over thumbnails to easily browse and download HD images."
-msgstr ""
+msgstr "Passe o rato sobre as miniaturas para navegar e transferir facilmente imagens HD."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:676
 msgid "Remove distracting and unwanted search results and related video content."
-msgstr ""
+msgstr "Remova resultados de pesquisa indesejados e que causam distração, e conteúdo de vídeo relacionado."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:679
 msgid "Makes Firefox appear as Chrome to websites trying to block Firefox."
-msgstr ""
+msgstr "Faz com que o Firefox apareça como Chrome para sites que tentam bloquear o Firefox."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:685
