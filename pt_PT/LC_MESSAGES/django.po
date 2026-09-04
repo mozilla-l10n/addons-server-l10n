@@ -5789,52 +5789,52 @@ msgstr "Faz com que o Firefox apareça como Chrome para sites que tentam bloquea
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:685
 msgid "Manage your Gmail (even multiple accounts) right from Firefox's toolbar button."
-msgstr ""
+msgstr "Faça a gestão do seu Gmail (mesmo múltiplas contas) diretamente do botão da barra de ferramentas do Firefox."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:688
 msgid "Track the time you spend on the web, analyze your habits, block distracting sites & more."
-msgstr ""
+msgstr "Monitorize o tempo que gasta na internet, analise os seus hábitos, bloqueie sites que distraem & mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:691
 msgid "Improve your writing — get instant access to the power of synonyms."
-msgstr ""
+msgstr "Melhore a sua escrita — obtenha acesso instantâneo ao poder dos sinónimos."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:694
 msgid "Deep translation features for a rich language experience anywhere on the web."
-msgstr ""
+msgstr "Funcionalidades profundas de tradução para uma experiência rica em idiomas em qualquer lugar na internet."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:697
 msgid "Leave yourself little notes on any website."
-msgstr ""
+msgstr "Deixe pequenas notas para si em qualquer site."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:700
 msgid "Discover and download higher quality versions of interesting images and videos you find on the web."
-msgstr ""
+msgstr "Descubra e transfira versões de melhor qualidade das imagens e dos vídeos interessantes que encontra na internet."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:703
 msgid "Save and organize anything you find on the web — articles, media, PDFs & more."
-msgstr ""
+msgstr "Guarde e organize tudo o que encontrar na Internet — artigos, conteúdos multimédia, PDFs & mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:706
 msgid "Enhance your Reddit experience with color-coded comments, simpler navigation, gestures for upvoting & much more."
-msgstr ""
+msgstr "Melhore a sua experiência Reddit com comentários codificados por cores, navegação mais simples, gestos para votar a favor & muito mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:723
 msgid "Eliminate YouTube distractions like recommendations, end-screen suggestions, comments & more."
-msgstr ""
+msgstr "Elimine as distrações do YouTube tais como recomendações, sugestões no ecrã final, comentários & mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:726
 msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new features."
-msgstr ""
+msgstr "\"Better Twitch TV\" — melhore o Twitch e o YouTube com uma série de novas funcionalidades."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:740
@@ -5844,7 +5844,7 @@ msgstr "Alguns sites têm dificuldade em reproduzir vídeos no Android. Existe u
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:761
 msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
-msgstr ""
+msgstr "Encontrou uma imagem interessante na web? Use o TinEye para descobrir as suas origens."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:779
