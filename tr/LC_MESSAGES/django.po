@@ -6006,7 +6006,7 @@ msgstr "Web sayfalarına kendiniz için küçük notlar bırakın."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1109
 msgid "Serenity for your Reddit experience."
-msgstr "Reddit deneyiminiz için huzur."
+msgstr "Daha huzurlu bir Reddit deneyimi."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1112
@@ -6031,7 +6031,7 @@ msgstr "Dikkat dağıtıcı unsurları kaldırın, görüntüleme seçeneklerini
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Extensions are like apps for Firefox."
-msgstr "Uzantılar Firefox'ta çalışan uygulamalardır."
+msgstr "Uzantılar Firefox’a özel uygulamalardır."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1126
