@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-04 14:28+0000\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -118,7 +121,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -127,7 +131,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -136,14 +141,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -152,7 +158,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -161,7 +168,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -175,7 +183,8 @@ msgstr ""
 "\n"
 "Merci pour votre signalement concernant la collection suivante sur Mozilla Add-ons : %(name)s.\n"
 "\n"
-"Après examen de votre signalement et du contenu en question, nous avons déterminé que ce dernier enfreignait les politiques de Mozilla (%(policy_document_url)s). En conséquence nous l’avons supprimé.\n"
+"Après examen de votre signalement et du contenu en question, nous avons déterminé que ce dernier enfreignait les politiques de Mozilla (%(policy_document_url)s). En conséquence nous l’avons "
+"supprimé.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_rating.txt:5
 #, python-format
@@ -188,7 +197,8 @@ msgstr ""
 "\n"
 "Merci pour votre signalement concernant l’évaluation suivante sur Mozilla Add-ons : %(name)s.\n"
 "\n"
-"Après examen de votre signalement et du contenu en question, nous avons déterminé que ce dernier enfreignait les politiques de Mozilla (%(policy_document_url)s). En conséquence nous l’avons supprimé.\n"
+"Après examen de votre signalement et du contenu en question, nous avons déterminé que ce dernier enfreignait les politiques de Mozilla (%(policy_document_url)s). En conséquence nous l’avons "
+"supprimé.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_user.txt:5
 #, python-format
@@ -201,7 +211,8 @@ msgstr ""
 "\n"
 "Merci pour votre signalement concernant le profil utilisateur suivant sur Mozilla Add-ons : %(name)s.\n"
 "\n"
-"Après examen de votre signalement et du contenu en question, nous avons déterminé que ce dernier enfreignait les politiques de Mozilla (%(policy_document_url)s). En conséquence nous l’avons supprimé.\n"
+"Après examen de votre signalement et du contenu en question, nous avons déterminé que ce dernier enfreignait les politiques de Mozilla (%(policy_document_url)s). En conséquence nous l’avons "
+"supprimé.\n"
 
 #: src/olympia/accounts/serializers.py:166 src/olympia/bandwagon/serializers.py:103
 msgid "No links are allowed."
@@ -224,11 +235,11 @@ msgstr "Les images ne peuvent pas être animées."
 msgid "Please use images smaller than %dMB."
 msgstr "Merci d’utiliser des images de taille inférieure à %d Mo."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "Besoin d’aide ?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "La notification [%s] n’existe pas"
@@ -300,7 +311,7 @@ msgstr "Il n’existe pas de licence pour laquelle le slug={value}."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Ce type de fichier n’est pas pris en charge, veuillez envoyer une archive ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:804 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Archive invalide ou corrompue."
 
@@ -368,7 +379,7 @@ msgstr "Les versions répertoriées ne peuvent pas être soumises lorsque la pag
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s ne sont pas pris en charge par %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:958
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Plage de versions invalide. Pour Firefox pour Android, vous ne pouvez choisir qu’une plage qui commence au moins à la version %(max)s ou se termine par une version inférieure à %(min)s."
@@ -616,8 +627,8 @@ msgid ""
 msgstr ""
 "<h1>Nous sommes désolés, mais nous ne pouvons pas trouver ce que vous cherchez.</h1> <p> La page ou le fichier que vous vouliez n’a pas été trouvé sur notre site. Il est possible que vous ayez "
 "cliqué sur un lien mort, ou que l’adresse entrée soit erronée. </p> <ul> <li>Si vous avez saisi l’adresse, vérifiez-la.</li> <li> Si vous avez suivi un lien, merci de %(open_bug_link)ssignaler un "
-"bug%(close_bug_link)s. Dites-nous d’où vous veniez et ce que vous cherchiez, nous ferons notre maximum pour faire en sorte de corriger le problème. </li> </ul> <p>Vous pouvez aussi faire un tour sur"
-" nos pages populaires.</p> <ul> <li>Est-ce qu’une <a href=\"%(rec)s\">liste de modules en vedette</a> vous intéresse ?</li> <li> Est-ce que vous voulez <a href=\"%(search)s\">rechercher des "
+"bug%(close_bug_link)s. Dites-nous d’où vous veniez et ce que vous cherchiez, nous ferons notre maximum pour faire en sorte de corriger le problème. </li> </ul> <p>Vous pouvez aussi faire un tour "
+"sur nos pages populaires.</p> <ul> <li>Est-ce qu’une <a href=\"%(rec)s\">liste de modules en vedette</a> vous intéresse ?</li> <li> Est-ce que vous voulez <a href=\"%(search)s\">rechercher des "
 "modules</a> ? Vous pouvez aller sur la <a href=\"%(search)s\">page de recherche</a> ou simplement utiliser le champ de recherche ci-dessus. </li> <li> Si vous préférez recommencer, rendez-vous sur "
 "<a href=\"%(home)s\">la page d’accueil des modules</a>. </li> </ul>"
 
@@ -631,9 +642,9 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>Oups, une erreur est survenue.</h1> <p>Nous allons la corriger rapidement.</p> <p> Vous pouvez essayer de recharger la page ou retourner sur <a href=\"%(home)s\">la page d’accueil des "
-"modules</a>. Vous pouvez également nous aider à la résoudre en <a href=\"https://github.com/mozilla/addons/issues/new\">signalant un problème</a> détaillant la manière dont vous êtes arrivé·e sur "
-"cette page. </p>"
+"<h1>Oups, une erreur est survenue.</h1> <p>Nous allons la corriger rapidement.</p> <p> Vous pouvez essayer de recharger la page ou retourner sur <a href=\"%(home)s\">la page d’accueil des modules</"
+"a>. Vous pouvez également nous aider à la résoudre en <a href=\"https://github.com/mozilla/addons/issues/new\">signalant un problème</a> détaillant la manière dont vous êtes arrivé·e sur cette "
+"page. </p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1603,7 +1614,7 @@ msgstr "Développement web"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Téléchargez des extensions Firefox qui proposent des outils de développement web. Cette catégorie inclut les extensions pour GitHub, pour changer d’agent utilisateur, gérer les cookies, etc."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1782
 msgid "Other"
 msgstr "Autre"
 
@@ -1876,7 +1887,7 @@ msgstr[1] "Vous ne pouvez avoir que {0} catégories."
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "La catégorie divers ne peut pas être combinée avec d’autres."
 
-#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1368
 msgid "There was an error uploading your image."
 msgstr "Une erreur est survenue pendant l’envoi de votre image."
 
@@ -1949,92 +1960,92 @@ msgstr "Ce module a une politique de confidentialité"
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Merci de déclarer la politique de confidentialité de votre module :"
 
-#: src/olympia/devhub/forms.py:771
+#: src/olympia/devhub/forms.py:772
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Ce type de fichier n’est pas pris en charge, veuillez envoyer une archive {extensions}."
 
-#: src/olympia/devhub/forms.py:815
+#: src/olympia/devhub/forms.py:816
 msgid "View current"
 msgstr "Voir la version actuelle"
 
-#: src/olympia/devhub/forms.py:938
+#: src/olympia/devhub/forms.py:939
 msgid "Invalid version range."
 msgstr "Intervalle de version invalide."
 
-#: src/olympia/devhub/forms.py:1044
+#: src/olympia/devhub/forms.py:1045
 msgid "Need at least one compatible application."
 msgstr "Au moins une application compatible est nécessaire."
 
-#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
+#: src/olympia/devhub/forms.py:1087 src/olympia/devhub/forms.py:1145
 msgid "There was an error with your upload. Please try again."
 msgstr "Il y a eu une erreur avec votre envoi. Merci de réessayer."
 
-#: src/olympia/devhub/forms.py:1091
+#: src/olympia/devhub/forms.py:1092
 msgid "Override failed validation"
 msgstr "Passer outre la validation échouée"
 
-#: src/olympia/devhub/forms.py:1101
+#: src/olympia/devhub/forms.py:1102
 msgid "Need to select at least one application."
 msgstr "Choisissez au moins une application."
 
-#: src/olympia/devhub/forms.py:1106
+#: src/olympia/devhub/forms.py:1107
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Vous avez envoyé trop de fichiers en ligne récemment. Veuillez réessayer après un certain temps."
 
-#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1156 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "La version {version} a déjà été envoyée et supprimée."
 
-#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1165 src/olympia/devhub/forms.py:1171 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "La version {version} existe déjà."
 
-#: src/olympia/devhub/forms.py:1166
+#: src/olympia/devhub/forms.py:1167
 msgid "Continue with existing upload instead?"
 msgstr "Continuer avec l’envoi existant ?"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Oui"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Non"
 
-#: src/olympia/devhub/forms.py:1219
+#: src/olympia/devhub/forms.py:1220
 msgid "You have not uploaded a source file."
 msgstr "Vous n’avez pas envoyé de fichier source."
 
-#: src/olympia/devhub/forms.py:1222
+#: src/olympia/devhub/forms.py:1223
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Vous avez indiqué que le fichier source n’était pas nécessaire, cependant un fichier source a été soumis."
 
-#: src/olympia/devhub/forms.py:1286
+#: src/olympia/devhub/forms.py:1287
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Assurez-vous que le nom et le résumé totalisent au maximum {limit_value} caractères (ils en ont {show_value})."
 
-#: src/olympia/devhub/forms.py:1416
+#: src/olympia/devhub/forms.py:1417
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Gestion via le site. <span class=\"helptext\">Votre proposition sera publiée sur {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1423
+#: src/olympia/devhub/forms.py:1424
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
 "on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
-"À vous de jouer. <span class=\"helptext\">Une fois votre soumission signée par Mozilla, vous pouvez télécharger le fichier .xpi depuis le Developer Hub et le distribuer à votre public. Veuillez vous"
-" assurer que l’<a {a_attrs}>update_url</a> du manifeste du module complémentaire est fournie, car il s’agit de l’URL où Firefox trouve les mises à jour pour le déploiement automatique auprès de vos "
-"utilisateurs.</span>"
+"À vous de jouer. <span class=\"helptext\">Une fois votre soumission signée par Mozilla, vous pouvez télécharger le fichier .xpi depuis le Developer Hub et le distribuer à votre public. Veuillez "
+"vous assurer que l’<a {a_attrs}>update_url</a> du manifeste du module complémentaire est fournie, car il s’agit de l’URL où Firefox trouve les mises à jour pour le déploiement automatique auprès de "
+"vos utilisateurs.</span>"
 
-#: src/olympia/devhub/forms.py:1439
+#: src/olympia/devhub/forms.py:1440
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2042,84 +2053,84 @@ msgstr ""
 "Un module d’entreprise. <span class=\"helptext\">Une fois votre envoi signé par Mozilla, vous pourrez télécharger le fichier .xpi depuis le Pôle développeurs et le distribuer via une stratégie de "
 "Firefox pour entreprises.</span>"
 
-#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1476 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Nom à afficher"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1507
 msgid "Confirm email address"
 msgstr "Confirmer l’adresse e-mail"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1508
 msgid "Generate new credentials"
 msgstr "Générer de nouvelles informations d’authentification"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke and regenerate credentials"
 msgstr "Révoquer et régénérer les informations d’authentification"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke"
 msgstr "Révoquer"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1511
 msgid "Re-send email confirmation"
 msgstr "Renvoyer l’e-mail de confirmation"
 
-#: src/olympia/devhub/forms.py:1567
+#: src/olympia/devhub/forms.py:1568
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Cliquez sur le bouton ci-dessous pour générer une clé d’API pour l’utilisateur <strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1592
+#: src/olympia/devhub/forms.py:1593
 msgid "You don't have any API credentials."
 msgstr "Vous n’avez aucune information permettant de vous authentifier avec l’API."
 
-#: src/olympia/devhub/forms.py:1603
+#: src/olympia/devhub/forms.py:1604
 msgid "Something went wrong, please contact developer support."
 msgstr "Une erreur s’est produite, veuillez contacter l’assistance aux développeurs."
 
-#: src/olympia/devhub/forms.py:1682
+#: src/olympia/devhub/forms.py:1683
 msgid "Release notes"
 msgstr "Notes de version"
 
-#: src/olympia/devhub/forms.py:1683
+#: src/olympia/devhub/forms.py:1684
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Retour automatique vers la version [m.m]."
 
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/devhub/forms.py:1769
 msgid "You must select a channel and version to rollback to."
 msgstr "Vous devez sélectionner le canal et la version à rétablir."
 
-#: src/olympia/devhub/forms.py:1778
+#: src/olympia/devhub/forms.py:1779
 msgid "Choose a category"
 msgstr "Choisissez une catégorie"
 
-#: src/olympia/devhub/forms.py:1779
+#: src/olympia/devhub/forms.py:1780
 msgid "Technical support for making your add-on compliant"
 msgstr "Assistance technique pour rendre votre module conforme"
 
-#: src/olympia/devhub/forms.py:1780
+#: src/olympia/devhub/forms.py:1781
 msgid "Issue with addons.mozilla.org"
 msgstr "Problème avec addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1789 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Objet"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1791
 msgid "Summarize the issue in a few words"
 msgstr "Résumez le problème en quelques mots"
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1796
 msgid "Select category"
 msgstr "Sélectionner une catégorie"
 
-#: src/olympia/devhub/forms.py:1800
+#: src/olympia/devhub/forms.py:1801
 msgid "Give us more details about the issue"
 msgstr "Merci de nous fournir davantage de précisions concernant le problème"
 
-#: src/olympia/devhub/forms.py:1802
+#: src/olympia/devhub/forms.py:1803
 msgid "Describe the issue"
 msgstr "Décrivez le problème"
 
@@ -2279,8 +2290,8 @@ msgstr "Une erreur est survenue pendant l’envoi de votre aperçu."
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
-"La dernière version approuvée de ce module complémentaire %s ne peut pas être supprimée ou désactivée car la version précédente n’a pas été approuvée pour la promotion %s. Si vous avez besoin d’aide"
-" à ce sujet, veuillez contacter les administrateurs d’AMO."
+"La dernière version approuvée de ce module complémentaire %s ne peut pas être supprimée ou désactivée car la version précédente n’a pas été approuvée pour la promotion %s. Si vous avez besoin "
+"d’aide à ce sujet, veuillez contacter les administrateurs d’AMO."
 
 #: src/olympia/devhub/views.py:1248
 #, python-format
@@ -2505,8 +2516,8 @@ msgstr "Obtenir de l’aide pour les extensions et les thèmes"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Utilisez ce formulaire pour obtenir de l’aide concernant votre compte, la conformité aux politiques, etc. Plus vous partagez d’informations, plus il nous est facile de vous aider. Pour toute "
 "question à propos des commentaires de vos modules, merci de vous référer à l’historique de versions des modules. Nous vous répondrons dès que possible."
@@ -2588,8 +2599,8 @@ msgid ""
 "An email with a confirmation link has been sent to your email address: %(email)s. Please click the link to confirm your email address. If you did not receive the email, please check your spam "
 "folder."
 msgstr ""
-"Un e-mail contenant un lien de confirmation a été envoyé à votre adresse : %(email)s. Veuillez cliquer sur le lien pour confirmer votre adresse. Si vous n’avez pas reçu cet e-mail, vérifiez qu’il ne"
-" se trouve pas parmi vos messages indésirables."
+"Un e-mail contenant un lien de confirmation a été envoyé à votre adresse : %(email)s. Veuillez cliquer sur le lien pour confirmer votre adresse. Si vous n’avez pas reçu cet e-mail, vérifiez qu’il "
+"ne se trouve pas parmi vos messages indésirables."
 
 #: src/olympia/devhub/templates/devhub/verify_email.html:39
 #, python-format
@@ -2597,8 +2608,8 @@ msgid ""
 "The provided code is invalid, unauthorized, expired or incomplete. Please use the link in the email sent to your email address %(email)s. If the code is still not working, please request a new "
 "email."
 msgstr ""
-"Le code fourni est invalide, non autorisé, a expiré ou est incomplet. Veuillez utiliser le lien de l’e-mail envoyé à votre adresse %(email)s. Si le code ne fonctionne toujours pas, veuillez demander"
-" un nouvel e-mail."
+"Le code fourni est invalide, non autorisé, a expiré ou est incomplet. Veuillez utiliser le lien de l’e-mail envoyé à votre adresse %(email)s. Si le code ne fonctionne toujours pas, veuillez "
+"demander un nouvel e-mail."
 
 #: src/olympia/devhub/templates/devhub/verify_email.html:49
 msgid "<strong>Email history:</strong> The table below shows all emails we have attempted to send to you in the last 2 days."
@@ -2843,8 +2854,8 @@ msgid ""
 "If your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-"
 "ons."
 msgstr ""
-"Si vous avez une autre page pour votre module, saisissez son adresse ici. Si votre site web est localisé en plusieurs langues, les différentes traductions de ce champ peuvent être ajoutées. Ce champ"
-" n’est utile que pour les modules répertoriés."
+"Si vous avez une autre page pour votre module, saisissez son adresse ici. Si votre site web est localisé en plusieurs langues, les différentes traductions de ce champ peuvent être ajoutées. Ce "
+"champ n’est utile que pour les modules répertoriés."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:96 src/olympia/devhub/templates/devhub/addons/edit/describe.html:272
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:84 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:174
@@ -2930,8 +2941,8 @@ msgid ""
 "A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's product page. Recommended length: 250 characters. If you need a longer "
 "description, make sure the first 250 characters contain the most important description points."
 msgstr ""
-"Une explication plus détaillée des fonctionnalités ainsi que d’autres informations pertinentes. Ce champ s’affiche uniquement sur la page produit du module. Longueur recommandée : 250 caractères. Si"
-" vous avez besoin d’une description plus longue, assurez-vous que les 250 premiers caractères contiennent les éléments descriptifs les plus importants."
+"Une explication plus détaillée des fonctionnalités ainsi que d’autres informations pertinentes. Ce champ s’affiche uniquement sur la page produit du module. Longueur recommandée : 250 caractères. "
+"Si vous avez besoin d’une description plus longue, assurez-vous que les 250 premiers caractères contiennent les éléments descriptifs les plus importants."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:169
 msgid "Experimental?"
@@ -2981,8 +2992,8 @@ msgstr "Adresse e-mail"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Si vous souhaitez afficher une adresse e-mail pour les demandes d’assistance, saisissez-la ici. Si vous avez différentes adresses pour chaque langue, vous pouvez ajouter les différentes traductions "
 "de ce champ. Ce champ n’est utile que pour les modules répertoriés."
@@ -3043,8 +3054,8 @@ msgstr "Tableau blanc"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Le tableau est un endroit qui vous permet de fournir des informations relatives à votre module, quelle que soit sa version afin que les évaluateurs puissent les consulter. Vous pouvez l’utiliser "
 "pour fournir des méthodes pour tester le module voire toute autre information qui pourrait être utile. Ce tableau peut également être modifié par les évaluateurs."
@@ -3063,8 +3074,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Envoyez une icône pour votre module ou choisissez-en une parmi les nôtres. L’icône est affichée à presque tous les endroits où apparaît votre module. Le type de l’image transférée doit être .png ou "
-".jpg. L’envoi d’icône ne s’applique qu’aux modules répertoriés."
+"Envoyez une icône pour votre module ou choisissez-en une parmi les nôtres. L’icône est affichée à presque tous les endroits où apparaît votre module. Le type de l’image transférée doit être .png "
+"ou .jpg. L’envoi d’icône ne s’applique qu’aux modules répertoriés."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3749,8 +3760,8 @@ msgstr "Retour"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Pour exécuter des appels authentifiés sur l’<a %(a_attrs)s href=\"%(docs_url)s\">API</a> en tant qu’utilisateur externe, vous devez inclure un <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token "
 "(JWT)</a> dans l’en-tête <code>Authorization</code> pour chaque requête."
@@ -3833,10 +3844,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -4015,8 +4028,8 @@ msgstr "Compatibilité avec Firefox pour Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 "Avez-vous testé votre extension pour vous assurer qu’elle fonctionne comme prévu avec Firefox pour Android ? Si ce n’est pas le cas, veuillez consulter <a target=\"_blank\" rel=\"noopener "
 "noreferrer\" href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Développement d’extensions pour Firefox pour Android</a> afin d’obtenir des "
@@ -4185,8 +4198,8 @@ msgstr "Concevez des extensions et des thèmes de premier ordre"
 #: src/olympia/devhub/templates/devhub/new-landing/components/banner.html:7 src/olympia/devhub/templates/devhub/new-landing/components/overview.html:5
 msgid "Whether you’re new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, we’ve got the resources to support you."
 msgstr ""
-"Que vous soyez novice dans le développement d’extensions, que vous peaufiniez ou adaptiez une extension ou un thème existants, ou que vous créiez une solution d’entreprise spécifique, nous avons les"
-" ressources pour vous soutenir."
+"Que vous soyez novice dans le développement d’extensions, que vous peaufiniez ou adaptiez une extension ou un thème existants, ou que vous créiez une solution d’entreprise spécifique, nous avons "
+"les ressources pour vous soutenir."
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/banner.html:13
 msgid "Visit the Firefox Extension Workshop"
@@ -7147,11 +7160,11 @@ msgstr "Le logiciel ou l’appareil que vous utilisez n’est pas autorisé pour
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
-"Avant de commencer, veuillez lire et accepter l’accord de distribution pour les modules complémentaires Firefox ainsi que notre politique et nos règles de révision. L’accord de distribution pour les"
-" modules complémentaires Firefox possède un lien vers notre politique de confidentialité qui explique comment nous gérons les informations vous concernant."
+"Avant de commencer, veuillez lire et accepter l’accord de distribution pour les modules complémentaires Firefox ainsi que notre politique et nos règles de révision. L’accord de distribution pour "
+"les modules complémentaires Firefox possède un lien vers notre politique de confidentialité qui explique comment nous gérons les informations vous concernant."
 
 #: src/olympia/users/models.py:1377
 #, python-brace-format
@@ -7266,7 +7279,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
