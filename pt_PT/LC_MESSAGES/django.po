@@ -5858,36 +5858,33 @@ msgstr "Desfrute de um controlo absoluto dos separadores — feche separadores d
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:800
-#, fuzzy
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
-msgstr "Leia ficheiros ePub no Firefox — aumente o tamanho do texto, dimensões das páginas e muito mais."
+msgstr "Leia ficheiros ePub no Firefox — aumente o tamanho da letra, dimensões das páginas & mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:821
-#, fuzzy
 msgid "Customize mouse gestures. Discover new ways to navigate with 50+ configurations."
-msgstr "Personalize os gestos do rato. Descubra uma nova forma de navegar com mais de 50 configurações."
+msgstr "Personalize gestos do rato. Descubra novas formas de navegar com mais de 50 configurações."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:824
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
-msgstr ""
+msgstr "Remova distrações, mude a sua experiência de visualização, altere a velocidade de reprodução & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:872
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
-msgstr ""
+msgstr "Personalize a aparência de qualquer site. Altere cores, fundos de página & mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:881
-#, fuzzy
 msgid "Use mouse gestures to close tabs, navigate pages & more."
-msgstr "Utilize gestos do rato para fechar separadores, navegar nas páginas, e muito mais."
+msgstr "Use gestos do rato para fechar separadores, navegar nas páginas & mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:884
 msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
-msgstr ""
+msgstr "Uma forma simples de ajustar o tamanho do texto de qualquer página — ou mesmo de aumentar a própria página."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:911
@@ -5902,12 +5899,12 @@ msgstr "Guarde uma página Web completa — incluindo imagens e estilos — como
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:932
 msgid "Edit a web page before printing. Remove ads or any unwanted content."
-msgstr ""
+msgstr "Edite uma página web antes de a imprimir. Remova anúncios ou qualquer conteúdo não-solicitado."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:941
 msgid "Advanced reader for aggregating all of your RSS/Atom/RDF sources."
-msgstr ""
+msgstr "Leitor avançado para agregar todas as suas fontes RSS/Atom/RDF."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:959
@@ -5947,17 +5944,17 @@ msgstr "Volte a um tempo mais simples - quando os seus principais resultados de 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:989
 msgid "Get the mouse scrollbar you've always wanted — specify width and color."
-msgstr ""
+msgstr "Obtenha a barra de deslocamento do rato que sempre quis - especifique a largura e cor."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1001
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
-msgstr ""
+msgstr "Mascare o seu e-mail para proteger a sua identidade & evitar lixo eletrónico. Novas atualizações tornam o Firefox Relay ainda mais fácil de usar."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1004
 msgid "Instantly translate any selected text on web pages."
-msgstr ""
+msgstr "Traduza instantaneamente qualquer texto selecionado em páginas web."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1007
