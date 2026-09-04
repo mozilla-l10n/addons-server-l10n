@@ -6311,94 +6311,88 @@ msgstr "Temas no top de avaliações"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
-#, fuzzy
 msgid "See more top rated themes"
-msgstr "Ver mais temas com uma popularidade crescente"
+msgstr "Ver mais temas no top de avaliações"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1213
-#, fuzzy
 msgid "Trending extensions"
-msgstr "Temas com uma popularidade crescente"
+msgstr "Extensões em tendência"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1215
-#, fuzzy
 msgid "See more trending extensions"
-msgstr "Ver mais extensões recomendadas"
+msgstr "Ver mais extensões em tendência"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1218
 msgid "Steam enhancers"
-msgstr ""
+msgstr "Melhorias para Steam"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1220
-#, fuzzy
 msgid "See more Steam staff picks"
-msgstr "Ver mais escolhas da equipa para transmissão social"
+msgstr "Ver mais escolhas da equipa para o Steam"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1223
-#, fuzzy
 msgid "Creativity extensions"
-msgstr "Temas com uma popularidade crescente"
+msgstr "Extensões de criatividade"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1225
-#, fuzzy
 msgid "See more creativity staff picks"
-msgstr "Ver mais escolhas da equipa para ferramentas de tradução"
+msgstr "Ver mais escolhas da equipa para criatividade"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1228
 msgid "Social media extensions"
-msgstr ""
+msgstr "Extensões para redes sociais"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1230
 msgid "See more social media staff picks"
-msgstr ""
+msgstr "Ver mais escolhas da equipa para redes sociais"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1233
 msgid "Top download managers"
-msgstr ""
+msgstr "Top de gestores de transferências"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1235
 msgid "See more download manager staff picks"
-msgstr ""
+msgstr "Ver mais escolhas da equipa para gestores de transferências"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1238
 msgid "Accessibility extensions"
-msgstr ""
+msgstr "Extensões de acessibilidade"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1240
 msgid "See more accessibility staff picks"
-msgstr ""
+msgstr "Ver mais escolhas da equipa para acessibilidade"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1243
 msgid "Extension starter pack"
-msgstr ""
+msgstr "Pacote de extensões para começar"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1245
 msgid "See more starter extension staff picks"
-msgstr ""
+msgstr "Ver mais escolhas da equipa para extensões iniciais"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1248
 msgid "Twitch extensions"
-msgstr ""
+msgstr "Extensões para o Twitch"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1250
 msgid "See more Twitch extension staff picks"
-msgstr ""
+msgstr "Ver mais escolhas da equipa para extensões para o Twitch"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1258
