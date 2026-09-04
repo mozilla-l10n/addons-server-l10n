@@ -5854,7 +5854,7 @@ msgstr "Guarde imagens com facilidade — basta capturá-las do seu separador at
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:782
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
-msgstr ""
+msgstr "Desfrute de um controlo absoluto dos separadores — feche separadores duplicados, agregue janelas, copie o título do separador & mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:800
