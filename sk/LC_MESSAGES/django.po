@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-04 17:25+0000\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -112,7 +115,8 @@ msgstr ""
 "\n"
 "Ďakujeme za vašu správu o doplnku %(name)s na stránkach Mozilla Add‑ons a za to, že ste si našli čas podeliť sa s nami o svoje obavy.\n"
 "\n"
-"Po dôkladnom preskúmaní vášho odvolania sme zistili, že predchádzajúce rozhodnutie – že tento obsah je v súlade so zásadami Mozilly (%(policy_document_url)s) – bolo správne. Z tohto dôvodu nebudeme voči účtu ani obsahu podnikať žiadne kroky.\n"
+"Po dôkladnom preskúmaní vášho odvolania sme zistili, že predchádzajúce rozhodnutie – že tento obsah je v súlade so zásadami Mozilly (%(policy_document_url)s) – bolo správne. Z tohto dôvodu nebudeme "
+"voči účtu ani obsahu podnikať žiadne kroky.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Ešte raz vám ďakujeme za pomoc pri udržiavaní bezpečnosti doplnkov Mozilly.\n"
@@ -123,12 +127,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Ďakujeme za vaše hlásenie o doplnku %(name)s na stránkach Mozilla Add‑ons a za to, že ste si našli čas podeliť sa o svoje obavy.\n"
 "\n"
-"Po preskúmaní vášho odvolania sme zistili, že naše predchádzajúce rozhodnutie, že tento obsah je v súlade so zásadami Mozilly (%(policy_document_url)s), bolo nesprávne. Obsah sme teraz odstránili a upozornili používateľa. Ďakujeme, že ste nám pomohli to napraviť.\n"
+"Po preskúmaní vášho odvolania sme zistili, že naše predchádzajúce rozhodnutie, že tento obsah je v súlade so zásadami Mozilly (%(policy_document_url)s), bolo nesprávne. Obsah sme teraz odstránili a "
+"upozornili používateľa. Ďakujeme, že ste nám pomohli to napraviť.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -136,12 +142,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Ďakujeme za vaše hlásenie o doplnku %(name)s na stránkach Mozilla Add‑ons a za poskytnutie ďalších informácií o vašich obavách.\n"
 "\n"
-"Po preskúmaní vášho odvolania sme zistili, že naše predchádzajúce rozhodnutie, že tento obsah je v súlade so zásadami Mozilly (%(policy_document_url)s), bolo nesprávne. Požiadali sme vývojára o vykonanie zmien a ak svoj obsah neaktualizuje, odstránime ho.\n"
+"Po preskúmaní vášho odvolania sme zistili, že naše predchádzajúce rozhodnutie, že tento obsah je v súlade so zásadami Mozilly (%(policy_document_url)s), bolo nesprávne. Požiadali sme vývojára o "
+"vykonanie zmien a ak svoj obsah neaktualizuje, odstránime ho.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -149,18 +157,20 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Ďakujeme, že ste si našli čas na nahlásenie doplnku %(name)s na adrese %(target_url)s.\n"
 "\n"
-"Preskúmali sme vaše hlásenie a predmetný obsah a zistili sme, že je v súlade so zásadami spoločnosti Mozilla (%(policy_document_url)s), takže nebude predmetom žiadneho moderátorského konania. Ďakujeme však, že ste ho pre nás nahlásili.\n"
+"Preskúmali sme vaše hlásenie a predmetný obsah a zistili sme, že je v súlade so zásadami spoločnosti Mozilla (%(policy_document_url)s), takže nebude predmetom žiadneho moderátorského konania. "
+"Ďakujeme však, že ste ho pre nás nahlásili.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Ak sa domnievate, že obsah nie je v súlade so zásadami spoločnosti Mozilla, máte právo odvolať sa proti tomuto rozhodnutiu do 6 mesiacov od dátumu tohto e‑mailu. Podrobnosti o procese odvolania "
 "vrátane toho, ako podať odvolanie proti tomuto konkrétnemu rozhodnutiu, nájdete na stránke %(appeal_url)s."
@@ -171,12 +181,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Ďakujeme, že ste si našli čas na nahlásenie nasledujúceho doplnku na stránkach Mozilla Add‑ons: %(name)s.\n"
 "\n"
-"Preskúmali sme vaše hlásenie a predmetný obsah a zistili sme, že nie je v súlade so zásadami Mozilly (%(policy_document_url)s). V dôsledku toho sme obsah odstránili. Ďakujeme, že pomáhate udržiavať doplnky Mozilly v bezpečí.\n"
+"Preskúmali sme vaše hlásenie a predmetný obsah a zistili sme, že nie je v súlade so zásadami Mozilly (%(policy_document_url)s). V dôsledku toho sme obsah odstránili. Ďakujeme, že pomáhate udržiavať "
+"doplnky Mozilly v bezpečí.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -184,12 +196,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Ďakujeme, že ste si našli čas na nahlásenie nasledujúceho doplnku na stránkach Mozilla Add‑ons: %(name)s.\n"
 "\n"
-"Preskúmali sme vaše hlásenie a predmetný obsah a zistili sme, že nie je v súlade so zásadami Mozilly (%(policy_document_url)s). Požiadali sme vývojára o vykonanie zmien a ak problém nevyriešia, obsah odstránime. Ďakujeme, že pomáhate udržiavať doplnky Mozilly v bezpečí.\n"
+"Preskúmali sme vaše hlásenie a predmetný obsah a zistili sme, že nie je v súlade so zásadami Mozilly (%(policy_document_url)s). Požiadali sme vývojára o vykonanie zmien a ak problém nevyriešia, "
+"obsah odstránime. Ďakujeme, že pomáhate udržiavať doplnky Mozilly v bezpečí.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -251,11 +265,11 @@ msgstr "Obrázky nesmú byť animované."
 msgid "Please use images smaller than %dMB."
 msgstr "Použite obrázky menšie ako %d MB."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "Potrebujete pomoc?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "Upozornenie [%s] neexistuje"
@@ -328,7 +342,7 @@ msgstr "Licencia s hodnotu atribútu slug={value} neexistuje."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Nepodporovaný typ súboru. Nahrajte prosím súbor s archívom ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:804 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Neplatný alebo poškodený archív."
 
@@ -394,7 +408,7 @@ msgstr "Verejné verzie nie je možné odoslať, kým nie je schválené zaraden
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s nie sú podporované aplikáciou %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:958
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Neplatný rozsah verzií. Pre Firefox pre Android si môžete vybrať iba rozsah, ktorý začína verziou %(max)s alebo vyššou, alebo končí nižšou ako verziou %(min)s."
@@ -643,8 +657,8 @@ msgstr ""
 "<h1>Je nám ľúto, ale nemôžeme nájsť to, čo hľadáte.</h1> <p> Stránka alebo súbor, ktorý ste požadovali, sa na našej stránke nenašli. Je možné, že ste klikli na odkaz, ktorý je zastaraný, alebo ste "
 "nesprávne zadali adresu. </p> <ul> <li>Ak ste zadali adresu, skontrolujte pravopis.</li> <li> Ak ste klikli na odkaz na inej stránke, prosím, %(open_bug_link)snahláste nám tento "
 "problém%(close_bug_link)s. Povedzte nám, odkiaľ ste prišli a čo ste hľadali, a my sa pokúsime to napraviť. </li> </ul> <p>Alebo môžete prejsť na niektoré z obľúbených stránok na našej webovej "
-"lokalite.</p> <ul> <li>Máte záujem o <a href=\"%(rec)s\">zoznam odporúčaných doplnkov</a>?</li> <li> Chcete <a href=\"%(search)s\">hľadať doplnky</a>? Môžete prejsť na <a href=\"%(search)s\">stránku"
-" vyhľadávania</a> alebo použiť vyhľadávacie pole vyššie. </li> <li> Ak chcete začať odznova, prejdite na <a href=\"%(home)s\">úvodnú stránku doplnkov</a>. </li> </ul>"
+"lokalite.</p> <ul> <li>Máte záujem o <a href=\"%(rec)s\">zoznam odporúčaných doplnkov</a>?</li> <li> Chcete <a href=\"%(search)s\">hľadať doplnky</a>? Môžete prejsť na <a "
+"href=\"%(search)s\">stránku vyhľadávania</a> alebo použiť vyhľadávacie pole vyššie. </li> <li> Ak chcete začať odznova, prejdite na <a href=\"%(home)s\">úvodnú stránku doplnkov</a>. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -1610,7 +1624,7 @@ msgstr "Tvorba webu"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Stiahnite si rozšírenia pre Firefox, ktoré obsahujú nástroje na vývoj webu. Táto kategória zahŕňa rozšírenia pre GitHub, prepínanie používateľských agentov, správu súborov cookie a ďalšie."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1782
 msgid "Other"
 msgstr "Iné"
 
@@ -1871,7 +1885,7 @@ msgstr[2] "Môžete mať len {0} kategórií."
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Kategória Rôzne nemôže byť kombinovaná s inými kategóriami."
 
-#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1368
 msgid "There was an error uploading your image."
 msgstr "Pri nahrávaní obrázka sa vyskytla chyba."
 
@@ -1945,82 +1959,82 @@ msgstr "Tento doplnok má Zásady ochrany osobných údajov"
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Zadajte Zásady ochrany osobných údajov vášho doplnku:"
 
-#: src/olympia/devhub/forms.py:771
+#: src/olympia/devhub/forms.py:772
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Nepodporovaný typ súboru. Nahrajte prosím súbor s archívom pre {extensions}."
 
-#: src/olympia/devhub/forms.py:815
+#: src/olympia/devhub/forms.py:816
 msgid "View current"
 msgstr "Zobraziť aktuálne"
 
-#: src/olympia/devhub/forms.py:938
+#: src/olympia/devhub/forms.py:939
 msgid "Invalid version range."
 msgstr "Neplatný rozsah verzií."
 
-#: src/olympia/devhub/forms.py:1044
+#: src/olympia/devhub/forms.py:1045
 msgid "Need at least one compatible application."
 msgstr "Vyžaduje aspoň jednu kompatibilnú aplikáciu."
 
-#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
+#: src/olympia/devhub/forms.py:1087 src/olympia/devhub/forms.py:1145
 msgid "There was an error with your upload. Please try again."
 msgstr "Pri odosielaní sa vyskytla chyba. Skúste to znova."
 
-#: src/olympia/devhub/forms.py:1091
+#: src/olympia/devhub/forms.py:1092
 msgid "Override failed validation"
 msgstr "Prepísať neúspešnú kontrolu"
 
-#: src/olympia/devhub/forms.py:1101
+#: src/olympia/devhub/forms.py:1102
 msgid "Need to select at least one application."
 msgstr "Musíte vybrať aspoň jednu aplikáciu."
 
-#: src/olympia/devhub/forms.py:1106
+#: src/olympia/devhub/forms.py:1107
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Odoslali ste príliš veľa doplnkov v krátkom čase. Skúste to znova po nejakom čase."
 
-#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1156 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Verzia {version} už bola v minulosti nahraná a odstránená."
 
-#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1165 src/olympia/devhub/forms.py:1171 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Verzia {version} už existuje."
 
-#: src/olympia/devhub/forms.py:1166
+#: src/olympia/devhub/forms.py:1167
 msgid "Continue with existing upload instead?"
 msgstr "Pokračovať namiesto toho so súčasným nahrávaním?"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Áno"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Nie"
 
-#: src/olympia/devhub/forms.py:1219
+#: src/olympia/devhub/forms.py:1220
 msgid "You have not uploaded a source file."
 msgstr "Nenahrali ste zdrojový kód."
 
-#: src/olympia/devhub/forms.py:1222
+#: src/olympia/devhub/forms.py:1223
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Zdrojový súbor bol nahraný, ale uviedli ste, že nie je potrebný žiadny zdroj."
 
-#: src/olympia/devhub/forms.py:1286
+#: src/olympia/devhub/forms.py:1287
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Uistite sa, že kombinácia názvu a súhrnu obsahuje maximálne {limit_value} znakov (teraz majú spolu {show_value} znakov)."
 
-#: src/olympia/devhub/forms.py:1416
+#: src/olympia/devhub/forms.py:1417
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Na tejto stránke. <span class=\"helptext\">Váš doplnok je verejne uvedený na stránkach {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1423
+#: src/olympia/devhub/forms.py:1424
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2030,7 +2044,7 @@ msgstr ""
 "dispozícii aktualizačná adresa <a {a_attrs}>update_url</a> uvedená v manifeste doplnku, pretože toto je adresa URL, na ktorej bude Firefox hľadať aktualizácie na automatické nasadenie u vašich "
 "používateľov.</span>"
 
-#: src/olympia/devhub/forms.py:1439
+#: src/olympia/devhub/forms.py:1440
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2038,84 +2052,84 @@ msgstr ""
 "Doplnok pre podniky. <span class=\"helptext\">Po podpísaní vášho príspevku spoločnosťou Mozilla si môžete stiahnuť súbor .xpi z Centra pre vývojárov a distribuovať ho svojmu publiku prostredníctvom "
 "pravidiel pre Firefox pre podniky.</span>"
 
-#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1476 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Zobrazovaný názov"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1507
 msgid "Confirm email address"
 msgstr "Potvrďte e‑mailovú adresu"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1508
 msgid "Generate new credentials"
 msgstr "Generovať nové prihlasovacie údaje"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke and regenerate credentials"
 msgstr "Odvolať a obnoviť prihlasovacie údaje"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke"
 msgstr "Odvolať"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1511
 msgid "Re-send email confirmation"
 msgstr "Znovu odoslať potvrdenie e‑mailom"
 
-#: src/olympia/devhub/forms.py:1567
+#: src/olympia/devhub/forms.py:1568
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Kliknutím na tlačidlo nižšie vygenerujete prihlasovacie údaje k API pre používateľa <strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1592
+#: src/olympia/devhub/forms.py:1593
 msgid "You don't have any API credentials."
 msgstr "Nemáte žiadne prihlasovacie údaje k API."
 
-#: src/olympia/devhub/forms.py:1603
+#: src/olympia/devhub/forms.py:1604
 msgid "Something went wrong, please contact developer support."
 msgstr "Niečo sa pokazilo, kontaktujte podporu pre vývojárov."
 
-#: src/olympia/devhub/forms.py:1682
+#: src/olympia/devhub/forms.py:1683
 msgid "Release notes"
 msgstr "Poznámky k vydaniu"
 
-#: src/olympia/devhub/forms.py:1683
+#: src/olympia/devhub/forms.py:1684
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Automatické vrátenie zmien na základe verzie [m.m]."
 
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/devhub/forms.py:1769
 msgid "You must select a channel and version to rollback to."
 msgstr "Musíte vybrať kanál a verziu, na ktorú sa chcete vrátiť."
 
-#: src/olympia/devhub/forms.py:1778
+#: src/olympia/devhub/forms.py:1779
 msgid "Choose a category"
 msgstr "Vyberte kategóriu"
 
-#: src/olympia/devhub/forms.py:1779
+#: src/olympia/devhub/forms.py:1780
 msgid "Technical support for making your add-on compliant"
 msgstr "Technická podpora pre zabezpečenie súladu vášho doplnku s predpismi"
 
-#: src/olympia/devhub/forms.py:1780
+#: src/olympia/devhub/forms.py:1781
 msgid "Issue with addons.mozilla.org"
 msgstr "Problém s addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1789 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Predmet"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1791
 msgid "Summarize the issue in a few words"
 msgstr "Zhrňte problém v niekoľkých slovách"
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1796
 msgid "Select category"
 msgstr "Vyberte kategóriu"
 
-#: src/olympia/devhub/forms.py:1800
+#: src/olympia/devhub/forms.py:1801
 msgid "Give us more details about the issue"
 msgstr "Poskytnite nám viac podrobností o probléme"
 
-#: src/olympia/devhub/forms.py:1802
+#: src/olympia/devhub/forms.py:1803
 msgid "Describe the issue"
 msgstr "Opíšte problém"
 
@@ -2498,8 +2512,8 @@ msgstr "Získajte podporu pre rozšírenia a témy"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Tento formulár použite na podporu týkajúcu sa vášho účtu, problémov s dodržiavaním pravidiel a ďalších vecí. Čím viac podrobností nám poskytnete, tým ľahšie vám budeme môcť pomôcť. V prípade otázok "
 "týkajúcich sa recenzií vášho doplnku (doplnkov) si pozrite históriu verzií vášho doplnku (doplnkov). Ozveme sa vám čo najskôr."
@@ -2965,8 +2979,8 @@ msgstr "E‑mailová adresa"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr "Ak chcete zobraziť e‑mailovú adresu pre otázky podpory, zadajte ju sem. Ak máte rôzne adresy pre každý jazyk, je možné pridať viacero prekladov tohto poľa. Týka sa to len uvedených doplnkov."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
@@ -2978,8 +2992,8 @@ msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
 msgstr ""
-"Ak má váš doplnok stránku podpory alebo fórum, uveďte ich adresu tu. Ak je vaša webová stránka preložená do viacerých jazykov, môžete pridať viacero prekladov tohto poľa. Toto pole je relevantné len"
-" pre uverejnené doplnky."
+"Ak má váš doplnok stránku podpory alebo fórum, uveďte ich adresu tu. Ak je vaša webová stránka preložená do viacerých jazykov, môžete pridať viacero prekladov tohto poľa. Toto pole je relevantné "
+"len pre uverejnené doplnky."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -3025,8 +3039,8 @@ msgstr "Nástenka"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Nástenka je miesto, kde môžete kontrolórom poskytnúť informácie relevantné pre váš doplnok, bez ohľadu na jeho verziu. Použite ju na poskytnutie spôsobov testovania doplnku a akýchkoľvek ďalších "
 "informácií, ktoré môžu byť užitočné. Túto nástenku môžu upravovať aj redaktori."
@@ -3045,8 +3059,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Nahrajte ikonu svojho doplnku alebo si vyberte niektorú z našich. Ikona sa zobrazuje takmer všade, kde sa nachádza váš doplnok. Nahrané obrázky musia byť jedného z nasledujúcich typov obrázkov: "
-".png, .jpg. Týka sa to len verejných doplnkov."
+"Nahrajte ikonu svojho doplnku alebo si vyberte niektorú z našich. Ikona sa zobrazuje takmer všade, kde sa nachádza váš doplnok. Nahrané obrázky musia byť jedného z nasledujúcich typov obrázkov: ."
+"png, .jpg. Týka sa to len verejných doplnkov."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3493,8 +3507,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Hotovo! ✨ Keď bude táto verzia zverejnená na stránkach %(site_domain)s, dostanete potvrdzujúci e‑mail. Upozorňujeme, že zverejnenie môže trvať až 24 hodín alebo dlhšie, ak je váš doplnok vybratý na "
-"manuálnu kontrolu. Ak e‑mail nevidíte ani po 24 hodinách, skontrolujte si priečinok so spamom."
+"Hotovo! ✨ Keď bude táto verzia zverejnená na stránkach %(site_domain)s, dostanete potvrdzujúci e‑mail. Upozorňujeme, že zverejnenie môže trvať až 24 hodín alebo dlhšie, ak je váš doplnok vybratý "
+"na manuálnu kontrolu. Ak e‑mail nevidíte ani po 24 hodinách, skontrolujte si priečinok so spamom."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3723,8 +3737,8 @@ msgstr "Naspäť"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Ak chcete ako externý spotrebiteľ vykonávať overené volania proti rozhraniu <a %(a_attrs)s href=\"%(docs_url)s\">API</a>, musíte do hlavičky <code>Authorization</code> pre každú požiadavku zahrnúť "
 "<a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a>."
@@ -3845,20 +3859,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Vážený vývojár doplnkov,\n"
 "\n"
-"Chceli sme vás hneď informovať: všimli sme si, že vaše tajné prihlasovacie údaje AMO API boli zahrnuté v doplnku odoslanom na addons.mozilla.org. Aby sme zaistili bezpečnosť vášho účtu a doplnkov, zrušili sme dotknuté prihlasovacie údaje. Z vašej strany nie je nič zlé – toto sa proste občas stáva a my sme tu, aby sme vám pomohli vrátiť sa späť do formy.\n"
+"Chceli sme vás hneď informovať: všimli sme si, že vaše tajné prihlasovacie údaje AMO API boli zahrnuté v doplnku odoslanom na addons.mozilla.org. Aby sme zaistili bezpečnosť vášho účtu a doplnkov, "
+"zrušili sme dotknuté prihlasovacie údaje. Z vašej strany nie je nič zlé – toto sa proste občas stáva a my sme tu, aby sme vám pomohli vrátiť sa späť do formy.\n"
 "Nové prihlasovacie údaje API si môžete kedykoľvek vygenerovať na stránke %(api_keys_url)s\n"
 "\n"
-"Aby ste zaistili bezpečnosť svojich prihlasovacích údajov aj v budúcnosti, je najlepšie ich uchovávať v súkromí a vyhnúť sa ich zahrnutiu do akéhokoľvek verejného repozitára, doplnku alebo iného verejného miesta. Kedykoľvek budete mať chvíľku, oplatí sa skontrolovať vaše repozitáre kódu a rozšírenia a odstrániť všetky odkazy na vaše prihlasovacie údaje AMO.\n"
+"Aby ste zaistili bezpečnosť svojich prihlasovacích údajov aj v budúcnosti, je najlepšie ich uchovávať v súkromí a vyhnúť sa ich zahrnutiu do akéhokoľvek verejného repozitára, doplnku alebo iného "
+"verejného miesta. Kedykoľvek budete mať chvíľku, oplatí sa skontrolovať vaše repozitáre kódu a rozšírenia a odstrániť všetky odkazy na vaše prihlasovacie údaje AMO.\n"
 "\n"
 "Ďakujeme,\n"
 "Tím doplnkov Mozilla"
@@ -4049,12 +4067,11 @@ msgstr "Kompatibilita s Firefoxom pre Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Otestovali ste svoje rozšírenie, aby ste sa uistili, že vo Firefoxe pre Android funguje podľa očakávania? Ak nie, pozrite si stránku <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Vývoj rozšírení pre Firefox pre Android</a>, kde nájdete pokyny na testovanie pred "
-"odoslaním."
+"Otestovali ste svoje rozšírenie, aby ste sa uistili, že vo Firefoxe pre Android funguje podľa očakávania? Ak nie, pozrite si stránku <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Vývoj rozšírení pre Firefox pre Android</a>, kde nájdete pokyny na testovanie pred odoslaním."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4098,7 +4115,8 @@ msgstr "Čaká sa na podpis verzie"
 
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:3
 msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
-msgstr "Hotovo! ✨ Keď bude podpísaný súbor pripravený na stiahnutie z Centra pre vývojárov, dostanete upozornenie e‑mailom. Ak e‑mail nevidíte ani po 24 hodinách, skontrolujte si priečinok so spamom."
+msgstr ""
+"Hotovo! ✨ Keď bude podpísaný súbor pripravený na stiahnutie z Centra pre vývojárov, dostanete upozornenie e‑mailom. Ak e‑mail nevidíte ani po 24 hodinách, skontrolujte si priečinok so spamom."
 
 #: src/olympia/devhub/templates/devhub/includes/license_form.html:5 src/olympia/devhub/templates/devhub/versions/edit.html:83
 msgid "License"
@@ -7170,8 +7188,8 @@ msgstr "Softvér alebo zariadenie, ktoré používate, nie je povolené na odosi
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Skôr ako začnete, prečítajte si a prijmite našu Distribučnú zmluvu pre doplnky Firefoxu, ako aj naše Zásady a pravidlá kontroly. Distribučná zmluva pre doplnky Firefoxu tiež odkazuje na naše "
 "Vyhlásenie o ochrane osobných údajov, ktoré vysvetľuje, ako narábame s vašimi informáciami."
@@ -7272,7 +7290,8 @@ msgid ""
 msgstr ""
 "Dobrý deň, %(author_name)s,\n"
 "\n"
-"Skvelá správa, dostali ste pozvánku stať sa autorom doplnku %(addon_name)s na stránke %(domain)s. Prijatím pozvánky budete môcť doplnok upravovať a vaše meno sa môže zobraziť v zozname autorov na webovej stránke.\n"
+"Skvelá správa, dostali ste pozvánku stať sa autorom doplnku %(addon_name)s na stránke %(domain)s. Prijatím pozvánky budete môcť doplnok upravovať a vaše meno sa môže zobraziť v zozname autorov na "
+"webovej stránke.\n"
 "\n"
 "Ak chcete pozvánku prijať, kliknite na odkaz nižšie:\n"
 "\n"
@@ -7310,7 +7329,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7320,7 +7340,8 @@ msgid ""
 msgstr ""
 "Dobrý deň,\n"
 "\n"
-"Túto správu ste dostali, aby sme vás informovali, že váš používateľský účet %(name)s na stránke %(site_url)s bol odstránený. Ak ste nedávno odstránili svoj účet Mozilla, mohlo sa tak stať automaticky ako súčasť tohto procesu.\n"
+"Túto správu ste dostali, aby sme vás informovali, že váš používateľský účet %(name)s na stránke %(site_url)s bol odstránený. Ak ste nedávno odstránili svoj účet Mozilla, mohlo sa tak stať "
+"automaticky ako súčasť tohto procesu.\n"
 "\n"
 "Ďakujeme, že ste súčasťou komunity doplnkov Firefoxu. Ak si myslíte, že išlo o chybu, alebo máte akékoľvek otázky, kontaktujte nás.\n"
 "\n"
