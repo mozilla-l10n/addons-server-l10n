@@ -6044,17 +6044,17 @@ msgstr "Bloqueie sites que desperdiçam tempo. Bloqueie-os completamente ou apen
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1061
 msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
-msgstr ""
+msgstr "Resuma facilmente emails, documentação, artigos e transcrições de vídeos em Inglês por toda a web — sem sacrificar a sua privacidade."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1064
 msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
-msgstr ""
+msgstr "O controlo é seu. Desative a VPN quando um site não funcionar e defina localizações diferentes para cada site. Apenas para Windows."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1067
 msgid "Automatically handle GDPR consent forms."
-msgstr ""
+msgstr "Tratar automaticamente formulários de consentimento RGPD."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1070
@@ -6064,47 +6064,47 @@ msgstr "Bloquear sites maliciosos da verificação de portas."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1073
 msgid "Enhance your Twitch experience."
-msgstr ""
+msgstr "Melhore a sua experiência do Twitch."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1076
 msgid "Re-take control of Twitter/X and customize your experience."
-msgstr ""
+msgstr "Retome o controlo do Twitter/X e personalize a sua experiência."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1079
 msgid "Translate text without leaving the page you're on (PDF compatible)."
-msgstr ""
+msgstr "Traduza o texto sem sair da página em que está (compatível com PDF)."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1082
 msgid "Change the color of Firefox to match every website you visit."
-msgstr ""
+msgstr "Alterar a cor do Firefox para corresponder a todos os sites que visita."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1085
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
-msgstr ""
+msgstr "Está a aprender uma nova língua? O Yomitan é o dicionário ideal para o acompanhar."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1088
 msgid "Pack a powerful thesaurus right inside Firefox."
-msgstr ""
+msgstr "Tenha um dicionário de sinónimos poderoso integrado no Firefox."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1091
 msgid "Hover over web images to enlarge their appearance."
-msgstr ""
+msgstr "Passe o ponteiro do rato sobre imagens na internet para as ampliar."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1094
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
-msgstr ""
+msgstr "Ferramenta de tradução rica em recursos. Funciona em toda a internet, eBooks, PDFs, até legendas de vídeo."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1097
 msgid "Track the time you spend on every website you visit."
-msgstr ""
+msgstr "Monitorize o tempo que gasta em cada site que visita."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1100
