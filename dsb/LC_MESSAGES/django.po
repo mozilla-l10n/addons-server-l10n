@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-04 14:28+0000\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "Generated-By: Pontoon\n"
@@ -105,7 +107,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -113,7 +116,8 @@ msgstr ""
 "\n"
 "Źěkujomy se za wašu rozpšawu wó %(name)s na Mozilla Add-ons a až sćo se cas brał, wěcej wó swójich wobmyslenjach źěliś.\n"
 "\n"
-"Pó kradosćiwem pśeglědowanjuwašogo pśeśiwjenja, myslimy se, až pjerwjejšny rozsud – až toś to wopśimjeśe pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo – jo był korektny. Togodla njebuźomy nic pśeśiwo kontoju abo wopśimjeśeju cyniś.\n"
+"Pó kradosćiwem pśeglědowanjuwašogo pśeśiwjenja, myslimy se, až pjerwjejšny rozsud – až toś to wopśimjeśe pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo – jo był korektny. Togodla njebuźomy "
+"nic pśeśiwo kontoju abo wopśimjeśeju cyniś.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Hyšći raz wjeliki źěk za to, až pomagaśo, Mozilla Add-ons wěste źaržaś.\n"
@@ -124,12 +128,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Źěkujomy se za wašu rozpšawu wó %(name)s na Mozilla Add-ons a až sćo se cas brał, wěcej wó swójich wobmyslenjach źěliś.\n"
 "\n"
-"Pó pśeglědowanju wašogo pśeśiwjenja, myslimy se, až naš pjerwjejšny rozsud, až toś to wopśimjeśe pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo, jo był wopacny. Smy něnto wótwónoźeli wopśimjeśe a wužywarja k wěsći dali. Wjeliki źěk, až nam pomagaśo, to pórěźiś.\n"
+"Pó pśeglědowanju wašogo pśeśiwjenja, myslimy se, až naš pjerwjejšny rozsud, až toś to wopśimjeśe pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo, jo był wopacny. Smy něnto wótwónoźeli "
+"wopśimjeśe a wužywarja k wěsći dali. Wjeliki źěk, až nam pomagaśo, to pórěźiś.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -137,12 +143,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Źěkujomy se za wašu rozpšawu wó %(name)s na Mozilla Add-ons a až sćo dalšne informacije wó swójich wobmyslenjach źělił.\n"
 "\n"
-"Pó pśeglědowanju wašogo pśeśiwjenja, myslimy se, až naš pjerwjejšny rozsud, až toś to wopśimjeśe pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo, jo był wopacny. Smy wuwijarja pšosyli, změny pśewjasć, a jolic jogo wopśimjeśe njeaktualizěrujo, buźomy jen wótwónoźeś.\n"
+"Pó pśeglědowanju wašogo pśeśiwjenja, myslimy se, až naš pjerwjejšny rozsud, až toś to wopśimjeśe pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo, jo był wopacny. Smy wuwijarja pšosyli, "
+"změny pśewjasć, a jolic jogo wopśimjeśe njeaktualizěrujo, buźomy jen wótwónoźeś.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -150,18 +158,20 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Wjeliki źěk, až sćo se cas brał, %(name)s na %(target_url)s k wěsći daś.\n"
 "\n"
-"Smy wašu rozpšawu a wótpowědne wopśimjeśe pśeglědowali, a zwěsćili, až pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo, tak až se žedne dalšne napšawy cynje. Gódnośimy pak, až sćo nam to k wěsći dał.\n"
+"Smy wašu rozpšawu a wótpowědne wopśimjeśe pśeglědowali, a zwěsćili, až pšawidłam Mozilla (%(policy_document_url)s) wótpowědujo, tak až se žedne dalšne napšawy cynje. Gódnośimy pak, až sćo nam to k "
+"wěsći dał.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Jolic se mysliśo, až wopśimjeśe pšawidłam Mozilla njewótpowědujo, maśo pšawo, toś ten rozsud w běgu 6 mjasecow wót datuma toś teje mejlki wóteprěś. Glejśo %(appeal_url)s za drobnostki wó procesu "
 "pśeśiwjenja, mjazy drugim, kak móžośo pśeśiwjenje za wótpowědny rozsud zapódaś."
@@ -172,12 +182,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Wjeliki źěk, až sćo se cas brał, slědujucy dodank na Mozilla Add-ons k wěsći daś: %(name)s.\n"
 "\n"
-"Smy pśeglědowali wašu rozpšawu a wótpowědne wopśimjeśe, a zwěsćili, až pšawidłam Mozilla (%(policy_document_url)s) njewótpowědujo. Smy togodla wopśimjeśe wótwónoźeli. Gódnośimy, až dalej pomagaśo, Mozilla Add-ons wěste źaržaś.\n"
+"Smy pśeglědowali wašu rozpšawu a wótpowědne wopśimjeśe, a zwěsćili, až pšawidłam Mozilla (%(policy_document_url)s) njewótpowědujo. Smy togodla wopśimjeśe wótwónoźeli. Gódnośimy, až dalej pomagaśo, "
+"Mozilla Add-ons wěste źaržaś.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -185,12 +197,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Wjeliki źěk, až sćo se cas brał, slědujucy dodank na Mozilla Add-ons k wěsći daś: %(name)s.\n"
 "\n"
-"Smy pśeglědowali wašu rozpšawu a wótpowědne wopśimjeśe, a zwěsćili, až pšawidłam Mozilla (%(policy_document_url)s) njewótpowědujo. Smy wuwijarja pšosyli, změny pśewjasć a jolic problem njerozwězujo, buźomy wopśimjeśe wótwónoźowaś. Wjeliki źěk, až dalej pomagaśo, Mozilla Add-ons wěste źaržaś.\n"
+"Smy pśeglědowali wašu rozpšawu a wótpowědne wopśimjeśe, a zwěsćili, až pšawidłam Mozilla (%(policy_document_url)s) njewótpowědujo. Smy wuwijarja pšosyli, změny pśewjasć a jolic problem "
+"njerozwězujo, buźomy wopśimjeśe wótwónoźowaś. Wjeliki źěk, až dalej pomagaśo, Mozilla Add-ons wěste źaržaś.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -252,11 +266,11 @@ msgstr "Wobraze njedaju se animěrowaś."
 msgid "Please use images smaller than %dMB."
 msgstr "Pšosym wužywajśo wobraze, kótarež su mjeńše ako %d MB."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "Trjebaśo pomoc?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "Powěźeńka [%s] njeeksistěrujo"
@@ -330,7 +344,7 @@ msgstr "Licenca ze slug={value} njeeksistěrujo."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Njepódpěrany datajowy typ, pšosym nagrajśo archiwowu dataju ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:804 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Njepłaśiwy abo wobškóźony archiw."
 
@@ -398,7 +412,7 @@ msgstr "Nalicone wersije njedaju se zapódaś, mjaztym až se nalicenje dodankow
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s se wót %(app_name)s njepódpěraju"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:958
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Njepłaśiwy wersijowy wobceŕk. Za Firefox za Android móžośo jano wobceŕk wubraś, kótaryž se z wersiju %(max)s abo nowšeju zachopina abo se ze staršeju ako z wersiju %(min)s kóńcy."
@@ -642,8 +656,8 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>Bóžko njamóžomy namakaś, což pytaśo.</h1> <p> Bok abo dataja, wó kótaruž sćo pšosył, njejo se na našom sedle namakała. Jo móžno, až sćo na zestarjony wótkaz kliknuł abo adresu wopak zapisał. "
-"</p> <ul> <li>Jolic sćo adresu zapisał, klikniśo dwójcy, aby pšawopis kontrolěrował.</li> <li> Jolic sćo wótkazoju wót něźi slědował, %(open_bug_link)spišćo pšosym zmólkowu "
+"<h1>Bóžko njamóžomy namakaś, což pytaśo.</h1> <p> Bok abo dataja, wó kótaruž sćo pšosył, njejo se na našom sedle namakała. Jo móžno, až sćo na zestarjony wótkaz kliknuł abo adresu wopak zapisał. </"
+"p> <ul> <li>Jolic sćo adresu zapisał, klikniśo dwójcy, aby pšawopis kontrolěrował.</li> <li> Jolic sćo wótkazoju wót něźi slědował, %(open_bug_link)spišćo pšosym zmólkowu "
 "rozpšawu%(close_bug_link)s. Dajśo nam k wěsći, wótkulž sćo pśišeł a za cymž sćo pytał, a my buźomy našo nejlěpše cyniś, aby problem rozwězali. </li> </ul> <p>Abo móžośo jadnorje k někotarym z "
 "woblubowanych bokow na našom websedle skócyś.</p> <ul> <li>Zajmujośo se za <a href=\"%(rec)s\">lisćinu pśedstajonych dodankow</a>?</li> <li> Cośo <a href=\"%(search)s\">dodanki pytaś</a>? Móžośo k "
 "<a href=\"%(search)s\">pytańskemu bokoju</a> pśejś abo jadnorje pytańske pólo górjejce wužywaś. </li> <li> Jolic cośo lubjej znowego zachopiś, źiśo jadnorje k <a href=\"%(home)s\">startowemu bokoju "
@@ -659,8 +673,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>Hopla! Zmólka jo nastała.</h1> <p>Buźomy problem skóro rozwězowaś.</p><p> Móžośo wopytaś, bok aktualizěrowaś, abo wrośćo se k <a href=\"%(home)s\">startowemu bokoju dodankow</a>. Móžośo nam teke"
-" pomagaś to rozwězaś, gaž <a href=\"https://github.com/mozilla/addons/issues/new\">zmólkowu rozpšawu pišośo</a>, z drobnostkami, kak sćo se dostał k toś tomu bokoju.</p>"
+"<h1>Hopla! Zmólka jo nastała.</h1> <p>Buźomy problem skóro rozwězowaś.</p><p> Móžośo wopytaś, bok aktualizěrowaś, abo wrośćo se k <a href=\"%(home)s\">startowemu bokoju dodankow</a>. Móžośo nam "
+"teke pomagaś to rozwězaś, gaž <a href=\"https://github.com/mozilla/addons/issues/new\">zmólkowu rozpšawu pišośo</a>, z drobnostkami, kak sćo se dostał k toś tomu bokoju.</p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1615,7 +1629,7 @@ msgstr "Webwuwiśe"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Ześěgniśo rozšyrjenja Firefox, kótarež rědy webwuwiśa pśedstajaju. Toś ta kategorija rozšyrjenja za GitHub, pśeměnjenje wužywaŕskego agenta, zastojanje cookiejow a wěcej wopśimujo."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1782
 msgid "Other"
 msgstr "Druge"
 
@@ -1877,7 +1891,7 @@ msgstr[3] "Móžóśo jano {0} kategorijow měś."
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Kategorija „Wšake“ njedajo se drugimi kategorijami kombiněrowaś."
 
-#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
+#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1368
 msgid "There was an error uploading your image."
 msgstr "Pśi nagrawanju wašogo wobraza jo zmólka nastała."
 
@@ -1952,82 +1966,82 @@ msgstr "Toś ten dodank ma pšawidła priwatnosći"
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Pšosym pódajśo pšawidła priwatnosći swójogo dodanka:"
 
-#: src/olympia/devhub/forms.py:771
+#: src/olympia/devhub/forms.py:772
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Njepódpěrany datajowy typ, pšosym nagrajśo archiwowu dataju {extensions}."
 
-#: src/olympia/devhub/forms.py:815
+#: src/olympia/devhub/forms.py:816
 msgid "View current"
 msgstr "Aktualne pokazaś"
 
-#: src/olympia/devhub/forms.py:938
+#: src/olympia/devhub/forms.py:939
 msgid "Invalid version range."
 msgstr "Njepłaśiwy wersijowy wobceŕk."
 
-#: src/olympia/devhub/forms.py:1044
+#: src/olympia/devhub/forms.py:1045
 msgid "Need at least one compatible application."
 msgstr "Nanejmjenjej jadno kompatibelne nałoženje trjebne."
 
-#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
+#: src/olympia/devhub/forms.py:1087 src/olympia/devhub/forms.py:1145
 msgid "There was an error with your upload. Please try again."
 msgstr "Pśi nagrawanju jo zmólka nastała. Pšosym wopytajśo hyšći raz."
 
-#: src/olympia/devhub/forms.py:1091
+#: src/olympia/devhub/forms.py:1092
 msgid "Override failed validation"
 msgstr "Njeraźone pśeglědanje pśepisaś"
 
-#: src/olympia/devhub/forms.py:1101
+#: src/olympia/devhub/forms.py:1102
 msgid "Need to select at least one application."
 msgstr "Musyśo nanejmjenjej jadno nałoženje wubraś."
 
-#: src/olympia/devhub/forms.py:1106
+#: src/olympia/devhub/forms.py:1107
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Sćo njedawno zapódał pśewjele nagraśow. Pšosym wopytajśo hyšći raz za bejny cas."
 
-#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1156 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Wersija {version} jo se pjerwjej nagrała a wulašowała."
 
-#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1165 src/olympia/devhub/forms.py:1171 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Wersija {version} južo eksistěrujo."
 
-#: src/olympia/devhub/forms.py:1166
+#: src/olympia/devhub/forms.py:1167
 msgid "Continue with existing upload instead?"
 msgstr "Město togo z eksistěrujucym nagraśom pókšacowaś?"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Jo"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Ně"
 
-#: src/olympia/devhub/forms.py:1219
+#: src/olympia/devhub/forms.py:1220
 msgid "You have not uploaded a source file."
 msgstr "Njejsćo nagrał žrědłowu dataju."
 
-#: src/olympia/devhub/forms.py:1222
+#: src/olympia/devhub/forms.py:1223
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Žrědłowa dataja jo se nagrała, ale sćo pódał, až žrědło njejo trjebne."
 
-#: src/olympia/devhub/forms.py:1286
+#: src/olympia/devhub/forms.py:1287
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Zawěsććo, až mě a zespominanje gromaźe matej maksimalnje {limit_value} znamuškow (matej {show_value})."
 
-#: src/olympia/devhub/forms.py:1416
+#: src/olympia/devhub/forms.py:1417
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Na toś tom websedle. <span class=\"helptext\">Wašo zapódaśe se zjawnje na {site_domain} nalicyjo.</span>"
 
-#: src/olympia/devhub/forms.py:1423
+#: src/olympia/devhub/forms.py:1424
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2036,7 +2050,7 @@ msgstr ""
 "Samostatny. <span class=\"helptext\">Za tym až wašo zapódaśe jo se signěrowało wót Mozilla, móžośo .xpi-dataju z wuwijaŕskego rožka ześěgnuś a ju na swój publikum rozdźěliś. Pšosym zawěsććo, až <a "
 "{a_attrs}>update_url</a> dodankowego manifesta jo pódany, dokulaž to jo URL, źož Firefox aktualizacije za awtomatiske rozdźělenje na waše wužywarje namakajo.</span>"
 
-#: src/olympia/devhub/forms.py:1439
+#: src/olympia/devhub/forms.py:1440
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2044,84 +2058,84 @@ msgstr ""
 "Dodank za pśedewześa. <span class=\"helptext\">Za tym až jo se wašo zapódaśe wót Mozilla signěrowało, móžośo dataju .xpi z wuwijańskego centruma ześěgnuś a na swój publikum pśez pšawidła Firefox za "
 "pśedewześa rozdźěliś.</span>"
 
-#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1476 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Zwobraznjeńske mě"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1507
 msgid "Confirm email address"
 msgstr "E-mailowu adresu wobkšuśiś"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1508
 msgid "Generate new credentials"
 msgstr "Nowe pśizjawjeńske daty twóriś"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke and regenerate credentials"
 msgstr "Pśizjawjeńske daty wótwołaś a znowego twóriś"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke"
 msgstr "Wótwołaś"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1511
 msgid "Re-send email confirmation"
 msgstr "E-mailowe wobkšuśenje znowego pósłaś"
 
-#: src/olympia/devhub/forms.py:1567
+#: src/olympia/devhub/forms.py:1568
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Pšosym klikniśo na tłocašk dołojce, aby pśizjawjeńske informacije API za wužywarja <strong>{name}</strong> napórał."
 
-#: src/olympia/devhub/forms.py:1592
+#: src/olympia/devhub/forms.py:1593
 msgid "You don't have any API credentials."
 msgstr "Njamaśo pśizjawjeńske daty API."
 
-#: src/olympia/devhub/forms.py:1603
+#: src/olympia/devhub/forms.py:1604
 msgid "Something went wrong, please contact developer support."
 msgstr "Něco njejo se raźiło, pšosym stajśo se z wuwijaŕskeju pódpěru do zwiska."
 
-#: src/olympia/devhub/forms.py:1682
+#: src/olympia/devhub/forms.py:1683
 msgid "Release notes"
 msgstr "Wersijowe informacije"
 
-#: src/olympia/devhub/forms.py:1683
+#: src/olympia/devhub/forms.py:1684
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Awtomatiska slědkinstalacija na zakłaźe wersije [m.m]."
 
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/devhub/forms.py:1769
 msgid "You must select a channel and version to rollback to."
 msgstr "Musyśo kanal a wersiju wubraś, do kótarejež se ma slědk kulnuś."
 
-#: src/olympia/devhub/forms.py:1778
+#: src/olympia/devhub/forms.py:1779
 msgid "Choose a category"
 msgstr "Wubjeŕśo kategoriju"
 
-#: src/olympia/devhub/forms.py:1779
+#: src/olympia/devhub/forms.py:1780
 msgid "Technical support for making your add-on compliant"
 msgstr "Techniska pódpěra, aby waš dodank konformny był"
 
-#: src/olympia/devhub/forms.py:1780
+#: src/olympia/devhub/forms.py:1781
 msgid "Issue with addons.mozilla.org"
 msgstr "Problem z addons.mozilla.org"
 
-#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1789 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Tema"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1791
 msgid "Summarize the issue in a few words"
 msgstr "Zespominajśo problem w mało słowach"
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1796
 msgid "Select category"
 msgstr "Kategoriju wubraś"
 
-#: src/olympia/devhub/forms.py:1800
+#: src/olympia/devhub/forms.py:1801
 msgid "Give us more details about the issue"
 msgstr "Dajśo nam dalšne drobnostki wó toś tom problemje"
 
-#: src/olympia/devhub/forms.py:1802
+#: src/olympia/devhub/forms.py:1803
 msgid "Describe the issue"
 msgstr "Wopišćo problem"
 
@@ -2505,11 +2519,11 @@ msgstr "Pomoc za rozšyrjenja a drastwy dostaś"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
-"Wužywajśo toś ten formular za pódpěru nastupajucy na wašo konto, problemy z konformnosću priwatnosći a wěcej. Šym wěcej drobnostkow źěliśo, śim lažčej jo za nas pomagaś. Za pšašanja wó pśeglědanjach"
-" swójich dodankow, woglědajśo se pšosym wersijowu historiju swójich dodankow. Buźomy was tak skóro kaž móžno informěrowaś."
+"Wužywajśo toś ten formular za pódpěru nastupajucy na wašo konto, problemy z konformnosću priwatnosći a wěcej. Šym wěcej drobnostkow źěliśo, śim lažčej jo za nas pomagaś. Za pšašanja wó "
+"pśeglědanjach swójich dodankow, woglědajśo se pšosym wersijowu historiju swójich dodankow. Buźomy was tak skóro kaž móžno informěrowaś."
 
 #: src/olympia/devhub/templates/devhub/support.html:17
 msgid "Send request"
@@ -2979,8 +2993,8 @@ msgstr "E-mailowa adresa"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Jolic cośo e-mailowu adresu za napšašowanja pomocy pokazaś, zapódajśo ju how. Jolic maśo rozdźělne adrese za kuždy rěc, móžośo někotare pśełožki toś togo póla pśidaś. To jo jano za nalicone dodanki "
 "relewantne."
@@ -3041,8 +3055,8 @@ msgstr "Informaciska toflicka"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Informaciska tofla jo městno, źož móžośo pśepytowarjam informacije pódaś, kótarež su za waš dodank relewantne, njewótwisnje wót wersije. Wužywajśo ju, aby móžnosći za testowanje dodanka a dalšne "
 "informacije pódał, kótarež by mógli pomagaś. Toś ta Informaciska tofla dajo se teke wót pśepytowarjow wobźěłaś."
@@ -3604,7 +3618,8 @@ msgstr "Źěłowy system a pominanja twórjeńskeje wokoliny."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
-msgstr "Trjebna wersija a instalaciske instrukcije programow, kótarež se w twórjeńskim procesu wužywaju (na pśikład <span class=\"tech-emphasis\">node</span> a <span class=\"tech-emphasis\">npm</span>)."
+msgstr ""
+"Trjebna wersija a instalaciske instrukcije programow, kótarež se w twórjeńskim procesu wužywaju (na pśikład <span class=\"tech-emphasis\">node</span> a <span class=\"tech-emphasis\">npm</span>)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3740,8 +3755,8 @@ msgstr "Slědk"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Awtentificěrowane wołanja pśeśiwo <a %(a_attrs)s href=\"%(docs_url)s\">API</a> ako eksterny pśetrjebaŕ wuwjadł, musyśo <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> w głowje "
 "<code>awtorizacije</code> za kužde napšašowanje zapśimjeś."
@@ -3862,20 +3877,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Cesćony wuwijaŕ dodankow,\n"
 "\n"
-"my by kśěli was ned informěrowaś: Smy zwěsćili, až waše pótajmne pśizjawjeńske daty AMO API su w dodanku wopśimjone, kótaryž jo se zapódał pla addons.mozilla.org. Aby wašo konto a dodanki wěste wóstali, smy se dowólili, pótrjefjone pśizjawjeńske daty wótwołaś. Njejsćo nic wopak cynił – to se jano wótergi stawa, a smy how, aby my wam pomagali, wšykno do rěcha spóraś.\n"
+"my by kśěli was ned informěrowaś: Smy zwěsćili, až waše pótajmne pśizjawjeńske daty AMO API su w dodanku wopśimjone, kótaryž jo se zapódał pla addons.mozilla.org. Aby wašo konto a dodanki wěste "
+"wóstali, smy se dowólili, pótrjefjone pśizjawjeńske daty wótwołaś. Njejsćo nic wopak cynił – to se jano wótergi stawa, a smy how, aby my wam pomagali, wšykno do rěcha spóraś.\n"
 "Móžośo kuždy cas na %(api_keys_url)s nowe pśizjawjeńske daty API generěrowaś \n"
 "\n"
-"Aby waše pśizjawjeńske daty w pśichoźe wěste wóstali, źaržćo je nejlěpjej dowěrliwe a njezapołožćo je w zjawnem repozitoriju, dodanku abo na zjawnem městnje. Gažkuli maśo wokognuśe chyle, dejał wy swóje kodowe repozitorije a rozšyrjenja pśeglědowaś, aby wy wótkaze na swóje pśizjawjeńske AMO wótwónoźeł.\n"
+"Aby waše pśizjawjeńske daty w pśichoźe wěste wóstali, źaržćo je nejlěpjej dowěrliwe a njezapołožćo je w zjawnem repozitoriju, dodanku abo na zjawnem městnje. Gažkuli maśo wokognuśe chyle, dejał wy "
+"swóje kodowe repozitorije a rozšyrjenja pśeglědowaś, aby wy wótkaze na swóje pśizjawjeńske AMO wótwónoźeł.\n"
 "\n"
 "Wjeliki źěk,\n"
 "Team Mozilla Add-ons"
@@ -4066,12 +4085,11 @@ msgstr "Kompatibelnosć Firefox za Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Sćo testował swójo rozšyrjenje, aby zawěsćił, až ako wótcakane na Firefox za Android funkcioněrujo? Jolic nic, glejśo pšosym <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Rozšyrjenja za Firefox Android wuwijaś</a> (engelski) za testowu proceduru, nježli až "
-"zapódawaśo."
+"Sćo testował swójo rozšyrjenje, aby zawěsćił, až ako wótcakane na Firefox za Android funkcioněrujo? Jolic nic, glejśo pšosym <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Rozšyrjenja za Firefox Android wuwijaś</a> (engelski) za testowu proceduru, nježli až zapódawaśo."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -7110,8 +7128,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Jolic njejo hynac <a href=\"https://www.mozilla.org/about/legal/\">pódane</a>, jo wopśimjeśe na toś tom sedle pód licencu <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons"
-" Attribution Share-Alike v 3.0 </a> abo pód póznjejšeju wersiju licencěrowane."
+"Jolic njejo hynac <a href=\"https://www.mozilla.org/about/legal/\">pódane</a>, jo wopśimjeśe na toś tom sedle pód licencu <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
+"Commons Attribution Share-Alike v 3.0 </a> abo pód póznjejšeju wersiju licencěrowane."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7196,8 +7214,8 @@ msgstr "Software abo rěd, kótarejž wužywaśo, njejstej dowólonej za zapóda
 
 #: src/olympia/users/models.py:1363
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Nježli až zachopijośo, cytajśo a akceptěrujśo pšosym našo dojadnanje wó rozdźělowanju a naše pśeglědowańske zasady a pšawidła. Dojadnanje wó rozdźělowanju Firefox teke wótkazujo k našomu pokazoju "
 "priwatnosći, kótaraž wujasnjujo, kak z wašymi informacijami wobchadamy."
@@ -7336,7 +7354,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7346,7 +7365,8 @@ msgid ""
 msgstr ""
 "Witajśo,\n"
 "\n"
-"dostawaśo toś tu powěsć, aby zgónił, až wašo wužywaŕske konto %(name)s na %(site_url)s jo se wulašowało. Jolic sćo njedawno wulašował swójo konto Mozilla, móžo se to awtomatiski ako źěl togo procesa staś.\n"
+"dostawaśo toś tu powěsć, aby zgónił, až wašo wužywaŕske konto %(name)s na %(site_url)s jo se wulašowało. Jolic sćo njedawno wulašował swójo konto Mozilla, móžo se to awtomatiski ako źěl togo "
+"procesa staś.\n"
 "\n"
 "Wjeliki źěk, až sćo źěl zgromaźeństwa dodankow Firefox. Jolic se mysliśo, až to jo zmólka było abo jolic pšašenja maśo, stajśo se z nami do zwiska.\n"
 "\n"
