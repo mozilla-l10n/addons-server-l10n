@@ -5959,7 +5959,7 @@ msgstr "Traduza instantaneamente qualquer texto selecionado em páginas web."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1007
 msgid "Make Firefox change colors based on time of day."
-msgstr ""
+msgstr "Faça com que o Firefox altere as cores consoante a hora do dia."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1010
@@ -5974,12 +5974,12 @@ msgstr "Leve emojis consigo para qualquer sítio na Internet."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1019
 msgid "Put restrictions on distracting, time-wasting websites."
-msgstr ""
+msgstr "Coloque restrições em sites que distraem, e desperdiçam tempo."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1022
 msgid "Remove clutter from your Twitter."
-msgstr ""
+msgstr "Remova a desorganização do seu Twitter."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1025
@@ -5989,59 +5989,57 @@ msgstr "Personalize o YouTube a seu gosto."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1028
 msgid "Delete browsing data directly from the browser toolbar."
-msgstr ""
+msgstr "Apague os dados de navegação diretamente na barra de ferramentas do navegador."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1031
-#, fuzzy
 msgid "Get RSS feed auto-updates direct to your bookmark folders."
-msgstr "Obtenha pastas de marcadores de fontes RSS preenchidos automaticamente."
+msgstr "Obtenha atualizações automáticas de fontes RSS diretamente para as suas pastas de marcadores."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1034
 msgid "Effective blocker against all types of ads."
-msgstr ""
+msgstr "Bloqueador eficaz contra todos os tipos de anúncios."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1037
 msgid "Mass download manager makes extreme downloading extremely easy."
-msgstr ""
+msgstr "O gestor de transferências em massa torna as transferências extremas extremamente fáceis."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1040
-#, fuzzy
 msgid "Remove ads & receive better protection against malware."
-msgstr "Bloqueie anúncios e obtenha uma proteção melhorada contra software malicioso e publicidade de monitorização."
+msgstr "Bloqueie anúncios & receba melhor proteção contra software malicioso."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1043
 msgid "Remove formatting from copied Clipboard text."
-msgstr ""
+msgstr "Remova a formatação do texto copiado da Área de Transferência."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1046
 msgid "Fingerprinting privacy protection."
-msgstr ""
+msgstr "Proteção de privacidade de identificação digital."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1049
 msgid "Enhance your gaming experience on Steam."
-msgstr ""
+msgstr "Melhore a sua experiência de jogo no Steam."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1052
 msgid "Thumbs-up to bringing back thumbs-down."
-msgstr ""
+msgstr "Polegares para cima para trazer de volta os polegares para baixo."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1055
 msgid "Translate websites in Firefox — privately — without using the cloud."
-msgstr ""
+msgstr "Traduza sites no Firefox — privadamente — sem utilizar a nuvem."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1058
 msgid "Block time-wasting websites. Block them completely or just during time frames of your choosing."
-msgstr ""
+msgstr "Bloqueie sites que desperdiçam tempo. Bloqueie-os completamente ou apenas durante intervalos de tempo à sua escolha."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1061
