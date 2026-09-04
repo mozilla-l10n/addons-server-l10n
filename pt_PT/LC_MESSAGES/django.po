@@ -6582,8 +6582,8 @@ msgstr "%(value)s contém um caratere não alfanumérico."
 #, python-brace-format
 msgid "The review text cannot contain the word: \"{0}\""
 msgid_plural "The review text cannot contain any of the words: \"{0}\""
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "O texto da avaliação não pode conter a palavra: \"{0}\""
+msgstr[1] "O texto da avaliação não pode incluir nenhuma das palavras: \"{0}\""
 
 #: src/olympia/ratings/serializers.py:119
 msgid "This field is required."
@@ -6649,11 +6649,11 @@ msgstr "Avaliado com %(rating)s de 5 estrelas"
 
 #: src/olympia/scanners/templates/admin/scanners/scannerresult/pagination.html:11
 msgid "Show all"
-msgstr ""
+msgstr "Mostrar tudo"
 
 #: src/olympia/scanners/templates/admin/scanners/scannerresult/pagination.html:12
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: src/olympia/search/filters.py:210 src/olympia/search/filters.py:330
 #, python-format
@@ -6679,12 +6679,12 @@ msgstr "Não foi possível encontrar o complemento com o ID \"{}\"."
 
 #: src/olympia/signing/views.py:73
 msgid "You do not own this add-on."
-msgstr ""
+msgstr "Não é o proprietário deste complemento."
 
 #: src/olympia/signing/views.py:137
 #, python-format
 msgid "You cannot add versions to an add-on that has status: %s."
-msgstr ""
+msgstr "Não é possível adicionar versões a um complemento que tem o estado: %s."
 
 #: src/olympia/signing/views.py:146
 msgid "Version does not match the manifest file."
@@ -6700,7 +6700,7 @@ msgstr "ID do complemento inválida no URL ou pacote"
 
 #: src/olympia/signing/views.py:209
 msgid "Only API v5+ supports enterprise channels."
-msgstr ""
+msgstr "Apenas a API v5+ suporta canais empresariais."
 
 #: src/olympia/signing/views.py:222
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
@@ -7314,19 +7314,19 @@ msgstr ""
 
 #: src/olympia/versions/models.py:1145
 msgid "Auto-approved, Confirmed"
-msgstr ""
+msgstr "Aprovado automaticamente, Confirmado"
 
 #: src/olympia/versions/models.py:1147
 msgid "Auto-approved, not Confirmed"
-msgstr ""
+msgstr "Aprovado automaticamente, não confirmado"
 
 #: src/olympia/versions/models.py:1150
 msgid "Approved, Manual"
-msgstr ""
+msgstr "Aprovado, Manual"
 
 #: src/olympia/versions/models.py:1157
 msgid "Disabled by Developer"
-msgstr ""
+msgstr "Desativado pelo programador"
 
 #: src/olympia/versions/models.py:1515
 #, python-brace-format
@@ -7336,7 +7336,7 @@ msgstr "{app} {min} e superiores"
 #: src/olympia/versions/models.py:1642
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
-msgstr ""
+msgstr "A origem da instalação {origin} não é permitida."
 
 #: src/olympia/versions/utils.py:198
 #, python-brace-format
