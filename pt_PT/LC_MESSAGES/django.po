@@ -7270,7 +7270,7 @@ msgstr ""
 "Se não estava à espera desta alteração, reveja as definições de autor do seu complemento na página acima.\n"
 "\n"
 "Obrigado por desenvolver para o Firefox,\n"
-"A equipa de Complementos da Mozilla"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_added_confirmation.ltxt:12
 #, python-format
@@ -7288,6 +7288,18 @@ msgid ""
 "We are glad to have you building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá %(author_name)s,\n"
+"\n"
+"Excelentes notícias, recebeu um convite para se tornar autor de %(addon_name)s em %(domain)s. Se aceitar poderá editar o complemento, e o seu nome poderá aparecer na lista de autores do site.\n"
+"\n"
+"Se quiser aceitar o convite, basta clicar na ligação abaixo:\n"
+"\n"
+"%(author_confirmation_link)s\n"
+"\n"
+"Se não estava à espera deste convite, pode ignorar este email em segurança.\n"
+"\n"
+"É um prazer contar consigo no desenvolvimento para o Firefox,\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_changed.ltxt:3
 #, python-format
@@ -7296,6 +7308,9 @@ msgid ""
 "\n"
 "%(author_name)s ( %(author_url)s ): %(author_role)s"
 msgstr ""
+"O seguinte autor foi alterado no seu complemento %(addon_name)s ( %(addon_url)s ):\n"
+"\n"
+"%(author_name)s ( %(author_url)s ): %(author_role)s"
 
 #: src/olympia/users/templates/users/emails/author_removed.ltxt:3
 #, python-format
@@ -7304,6 +7319,9 @@ msgid ""
 "\n"
 "%(author_name)s ( %(author_url)s )"
 msgstr ""
+"O seguinte autor foi removido do complemento %(addon_name)s ( %(addon_url)s ):\n"
+"\n"
+"%(author_name)s ( %(author_url)s )"
 
 #: src/olympia/users/templates/users/emails/user_deleted.ltxt:9
 #, python-format
@@ -7318,11 +7336,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"Está a receber esta mensagem para o informar que a sua conta de utilizador %(name)s em %(site_url)s foi apagada. Se apagou recentemente a sua conta Mozilla, isto poderá ter acontecido automaticamente como parte desse processo.\n"
+"\n"
+"Agradecemos-lhe por ter feito parte da comunidade de complementos do Firefox. Se acha que isto se tratou de um erro ou tem alguma questão, por favor entre em contacto connosco.\n"
+"\n"
+"Com os melhores cumprimentos,\n"
+"\n"
+"A Equipa de Complementos da Mozilla"
 
 #: src/olympia/versions/models.py:1140
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
-msgstr ""
+msgstr "Rejeitado por atraso, agendado para %s"
 
 #: src/olympia/versions/models.py:1145
 msgid "Auto-approved, Confirmed"
