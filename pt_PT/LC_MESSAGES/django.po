@@ -6704,11 +6704,11 @@ msgstr "Apenas a API v5+ suporta canais empresariais."
 
 #: src/olympia/signing/views.py:222
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
-msgstr ""
+msgstr "Não pode adicionar versões listadas a um complemento definido como \"Invisível\"."
 
 #: src/olympia/signing/views.py:237
 msgid "You cannot add a listed version to this add-on via the API due to missing metadata. Please submit via the website"
-msgstr ""
+msgstr "Não pode adicionar uma versão listada a este complemento através da API devido à falta de metadados. Por favor submeta-a através do site"
 
 #: src/olympia/signing/views.py:292
 msgid "No uploaded file for that add-on and version."
