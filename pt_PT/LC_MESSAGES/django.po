@@ -6712,7 +6712,7 @@ msgstr "Não pode adicionar uma versão listada a este complemento através da A
 
 #: src/olympia/signing/views.py:292
 msgid "No uploaded file for that add-on and version."
-msgstr ""
+msgstr "Não foi carregado nenhum ficheiro para esse complemento e versão."
 
 #: src/olympia/stats/templates/stats/addon_report_menu.html:4
 msgid "Overview"
@@ -6979,7 +6979,7 @@ msgstr "Complementos"
 
 #: src/olympia/templates/photon-footer.html:4
 msgid "Go to Mozilla's homepage"
-msgstr ""
+msgstr "Ir para a página inicial da Mozilla"
 
 #: src/olympia/templates/photon-footer.html:11
 msgid "About"
@@ -7102,6 +7102,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
+"Exceto quando <a href=\"https://www.mozilla.org/about/legal/\">indicado</a>, o conteúdo neste site está licenciado sob a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Licença Creative "
+"Commons Attribution Share-Alike v3.0</a> ou qualquer versão mais recente."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7174,15 +7176,15 @@ msgstr "Utilizador do Firefox {id}"
 
 #: src/olympia/users/models.py:933
 msgid "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
-msgstr ""
+msgstr "Foram enviadas múltiplas submissões a partir da sua localização que violam as nossas políticas. O endereço IP foi bloqueado."
 
 #: src/olympia/users/models.py:1104
 msgid "The email address used for your account is not allowed for submissions."
-msgstr ""
+msgstr "O endereço de email usado para a sua conta não é permitido para submissões."
 
 #: src/olympia/users/models.py:1237
 msgid "The software or device you are using is not allowed for submissions."
-msgstr ""
+msgstr "O software ou dispositivo que está a utilizar não é permitido para submissões."
 
 #: src/olympia/users/models.py:1363
 msgid ""
@@ -7259,6 +7261,16 @@ msgid ""
 "Thanks for building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Olá,\n"
+"\n"
+"Foi adicionado um novo autor ao seu complemento %(addon_name)s ( %(addon_url)s ):\n"
+"\n"
+"%(author_name)s ( %(author_url)s ): %(author_role)s\n"
+"\n"
+"Se não estava à espera desta alteração, reveja as definições de autor do seu complemento na página acima.\n"
+"\n"
+"Obrigado por desenvolver para o Firefox,\n"
+"A equipa de Complementos da Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_added_confirmation.ltxt:12
 #, python-format
