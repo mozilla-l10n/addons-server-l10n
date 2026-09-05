@@ -4305,7 +4305,7 @@ msgstr "Dowiedz się, jak utworzyć rozszerzenie"
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/submit_or_manage_extension.html:4
 msgid "Ready to submit or manage your extension?"
-msgstr "Chcesz przesłać lub zarządzać swoim rozszerzeniem?"
+msgstr "Chcesz przesłać swoje rozszerzenie lub nim zarządzać?"
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/submit_or_manage_extension.html:7
 msgid "Sign in to the Developer Hub to submit or manage extensions and themes."
