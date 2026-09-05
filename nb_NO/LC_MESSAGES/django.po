@@ -111,6 +111,13 @@ msgid ""
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Takk for rapporten din om %(name)s på Mozilla Add-ons, og for at du tok deg tid til å fortelle mer om bekymringene dine.\n"
+"\n"
+"Etter en grundig gjennomgang av klagen din har vi kommet frem til at den tidligere avgjørelsen – at dette innholdet er i samsvar med Mozillas retningslinjer (%(policy_document_url)s) – var riktig. Derfor vil vi ikke iverksette tiltak mot kontoen eller innholdet.\n"
+"%(manual_reasoning_text)s.\n"
+"\n"
+"Takk igjen for at du hjelper oss med å holde Mozilla Add-ons trygt.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
