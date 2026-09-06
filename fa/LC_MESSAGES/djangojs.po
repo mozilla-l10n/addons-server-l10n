@@ -1,7 +1,7 @@
 # Translations template for addons-server.
 # Copyright (C) 2026 Mozilla
 # This file is distributed under the same license as the addons-server project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+# Ehsan Chavoshi @ehsanch, 2026.
 #
 msgid ""
 msgstr ""
@@ -22,9 +22,8 @@ msgid "Select a file..."
 msgstr "پرونده‌ای را انتخاب کنید..."
 
 #: static/js/common/upload-addon.js:82
-#, fuzzy
 msgid "Your add-on should end with .zip, .xpi or .crx"
-msgstr "افزودنی‌های شما باید با zip, .xpi, .crx. یا xml. پایان یابند."
+msgstr "افزونه شما باید به zip.، xpi. یا crx. ختم شود"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
@@ -66,8 +65,8 @@ msgstr[1] "افزونه شما با {0} خطا، نتوانست اعتبارسن
 #, python-brace-format
 msgid "&hellip;and {0} more"
 msgid_plural "&hellip;and {0} more"
-msgstr[0] "&hellip; و {0} دیگر"
-msgstr[1] "&hellip; و {0} دیگر"
+msgstr[0] "&hellip; و {0} مورد دیگر"
+msgstr[1] "&hellip; و {0} مورد دیگر"
 
 #: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
 msgid "See full validation report"
@@ -98,7 +97,7 @@ msgstr "خطای غیرمنتظره در هنگام اعتبارسنجی."
 
 #: static/js/common/upload-addon.js:519
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
-msgstr ""
+msgstr "در فایل مانیفست صراحتاً سازگار با فایرفاکس برای اندروید علامت‌گذاری شده است"
 
 #: static/js/common/upload-addon.js:561
 #, python-brace-format
@@ -342,83 +341,83 @@ msgstr "نسخه‌های افزودنی از {0} تا {1}"
 #: static/js/stats/csv_keys.js:72
 #, python-brace-format
 msgid "Download Sources, last {0} days"
-msgstr ""
+msgstr "منابع دانلود، {0} روز گذشته"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:74
 #, python-brace-format
 msgid "Download Sources from {0} to {1}"
-msgstr ""
+msgstr "منابع دانلود از {0} تا {1}"
 
 #. L10n: {0} is an integer.
 #: static/js/stats/csv_keys.js:78
 #, python-brace-format
 msgid "Download Mediums, last {0} days"
-msgstr ""
+msgstr "رسانه‌های دانلود، {0} روز گذشته"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:80
 #, python-brace-format
 msgid "Download Mediums from {0} to {1}"
-msgstr ""
+msgstr "رسانه‌های دانلود از {0} تا {1}"
 
 #. L10n: {0} is an integer.
 #: static/js/stats/csv_keys.js:84
 #, python-brace-format
 msgid "Download Contents, last {0} days"
-msgstr ""
+msgstr "محتواهای دانلود، {0} روز گذشته"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:86
 #, python-brace-format
 msgid "Download Contents from {0} to {1}"
-msgstr ""
+msgstr "محتواهای دانلود از {0} تا {1}"
 
 #. L10n: {0} is an integer.
 #: static/js/stats/csv_keys.js:90
 #, python-brace-format
 msgid "Download Campaigns, last {0} days"
-msgstr ""
+msgstr "پویش‌های دانلود، {0} روز گذشته"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:92
 #, python-brace-format
 msgid "Download Campaigns from {0} to {1}"
-msgstr ""
+msgstr "پویش‌های دانلود از {0} تا {1}"
 
 #. L10n: {0} and {1} are integers.
 #: static/js/stats/csv_keys.js:98
 #, python-brace-format
 msgid "<b>{0}</b> in last {1} days"
-msgstr ""
+msgstr "<b>{0}</b> در {1} روز گذشته"
 
 #. L10n: {0} is an integer and {1} and {2} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:100 static/js/stats/csv_keys.js:106
 #, python-brace-format
 msgid "<b>{0}</b> from {1} to {2}"
-msgstr ""
+msgstr "<b>{0}</b> از {1} تا {2}"
 
 #. L10n: {0} and {1} are integers.
 #: static/js/stats/csv_keys.js:104
 #, python-brace-format
 msgid "<b>{0}</b> average in last {1} days"
-msgstr ""
+msgstr "میانگین <b>{0}</b> در {1} روز گذشته"
 
 #: static/js/stats/overview.js:18
 msgid "No data available."
-msgstr ""
+msgstr "داده‌ای در دسترس نیست."
 
 #: static/js/stats/table.js:84
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
 
 #: static/js/stats/topchart.js:108
 msgid "Other"
-msgstr ""
+msgstr "سایر"
 
 #: static/js/zamboni/devhub.js:196
 msgid "Copied"
-msgstr ""
+msgstr "رونوشت شد"
 
 #: static/js/zamboni/devhub.js:328
 msgid "Changes Saved"
@@ -441,104 +440,104 @@ msgstr[1] "{files} فایل"
 
 #: static/js/zamboni/devhub.js:1244
 msgid "Image changes being processed"
-msgstr ""
+msgstr "تغییرات تصویر در حال پردازش است"
 
 #: static/js/zamboni/global.js:463
 #, python-brace-format
 msgid "<b>{0}</b> character"
 msgid_plural "<b>{0}</b> characters"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<b>{0}</b> نویسه"
+msgstr[1] "<b>{0}</b> نویسه"
 
 #: static/js/zamboni/global.js:472
 #, python-brace-format
 msgid "<b>{0}</b> character left"
 msgid_plural "<b>{0}</b> characters left"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<b>{0}</b> نویسه باقی‌مانده"
+msgstr[1] "<b>{0}</b> نویسه باقی‌مانده"
 
 #: static/js/zamboni/init.js:12
 msgid "This feature is temporarily disabled while we perform website maintenance. Please check back a little later."
-msgstr ""
+msgstr "این قابلیت به‌دلیل انجام عملیات تعمیر و نگهداری وبگاه موقتاً غیرفعال شده است. لطفاً کمی بعد دوباره بررسی کنید."
 
 #: static/js/zamboni/l10n.js:164
 msgid "Remove this localization"
-msgstr ""
+msgstr "حذف این بومی‌سازی"
 
 #: static/js/zamboni/reviewers.js:328
 #, python-brace-format
 msgid "{name} was viewing this page first."
-msgstr ""
+msgstr "{name} زودتر در حال مشاهده این صفحه بوده است."
 
 #: static/js/zamboni/reviewers.js:336
 msgid "Review page polling failed."
-msgstr ""
+msgstr "بررسی دوره‌ای (polling) صفحه بازبینی ناموفق بود."
 
 #: static/js/zamboni/reviewers.js:670
 #, python-brace-format
 msgid "{name} was viewing this add-on first."
-msgstr ""
+msgstr "{name} زودتر در حال مشاهده این افزونه بوده است."
 
 #: static/js/zamboni/reviewers.js:683 static/js/zamboni/reviewers.js:709
 msgid "Loading&hellip;"
-msgstr ""
+msgstr "در حال بارگذاری&hellip;"
 
 #: static/js/zamboni/reviewers.js:688
 msgid "Version Notes"
-msgstr ""
+msgstr "یادداشت‌های نسخه"
 
 #: static/js/zamboni/reviewers.js:695
 msgid "Notes for Reviewers"
-msgstr ""
+msgstr "یادداشت‌ها برای بازبین‌ها"
 
 #: static/js/zamboni/reviewers.js:702
 msgid "No version notes found"
-msgstr ""
+msgstr "هیچ یادداشتی برای این نسخه یافت نشد"
 
 #: static/js/zamboni/reviewers.js:714
 msgid "Review Text"
-msgstr ""
+msgstr "متن بازبینی"
 
 #: static/js/zamboni/reviewers.js:721
 msgid "Review notes found"
-msgstr ""
+msgstr "یادداشت‌های بازبینی یافت شد"
 
 #: static/js/zamboni/static_theme.js:217
 #, python-brace-format
 msgid "Maximum upload size is {0} - choose a smaller background image."
-msgstr ""
+msgstr "حداکثر حجم بارگذاری {0} است - تصویر پس‌زمینه کوچک‌تری انتخاب کنید."
 
 #: static/js/zamboni/themes_review.js:199
 msgid "Requested Info"
-msgstr ""
+msgstr "اطلاعات خواسته‌شده"
 
 #: static/js/zamboni/themes_review.js:200
 msgid "Flagged"
-msgstr ""
+msgstr "نشانه‌گذاری‌شده"
 
 #: static/js/zamboni/themes_review.js:201
 msgid "Duplicate"
-msgstr ""
+msgstr "تکراری"
 
 #: static/js/zamboni/themes_review.js:202
 msgid "Rejected"
-msgstr ""
+msgstr "ردشده"
 
 #: static/js/zamboni/themes_review.js:203
 msgid "Approved"
-msgstr ""
+msgstr "تأییدشده"
 
 #: static/js/zamboni/themes_review.js:492
 msgid "No results found"
-msgstr ""
+msgstr "نتیجه‌ای یافت نشد"
 
 #: static/js/zamboni/themes_review_templates.js:43
 msgid "Theme"
-msgstr ""
+msgstr "پوسته"
 
 #: static/js/zamboni/themes_review_templates.js:45
 msgid "Reviewer"
-msgstr ""
+msgstr "بازبین"
 
 #: static/js/zamboni/themes_review_templates.js:47
 msgid "Status"
@@ -546,11 +545,11 @@ msgstr "وضعیت"
 
 #: static/js/zamboni/validator.js:89
 msgid "All tests passed successfully."
-msgstr ""
+msgstr "تمامی آزمون‌ها با موفقیت انجام شدند."
 
 #: static/js/zamboni/validator.js:92 static/js/zamboni/validator.js:388
 msgid "These tests were not run."
-msgstr ""
+msgstr "این آزمون‌ها اجرا نشدند."
 
 #: static/js/zamboni/validator.js:155 static/js/zamboni/validator.js:177
 msgid "Tests"
@@ -562,12 +561,12 @@ msgstr "خطا"
 
 #: static/js/zamboni/validator.js:259
 msgid "Warning"
-msgstr ""
+msgstr "هشدار"
 
 #: static/js/zamboni/validator.js:332
 #, python-brace-format
 msgid "{0} line {1} column {2}"
-msgstr ""
+msgstr "{0} سطر {1} ستون {2}"
 
 #: static/js/zamboni/validator.js:339
 #, python-brace-format
@@ -576,11 +575,11 @@ msgstr "{0} خط {1}"
 
 #: static/js/zamboni/validator.js:376
 msgid "Add-on failed validation."
-msgstr ""
+msgstr "اعتبارسنجی افزونه ناموفق بود."
 
 #: static/js/zamboni/validator.js:378
 msgid "Add-on passed validation."
-msgstr ""
+msgstr "افزونه با موفقیت اعتبارسنجی شد."
 
 #: static/js/zamboni/validator.js:391
 #, python-brace-format
@@ -605,7 +604,7 @@ msgstr[1] "{0} اعلامیه"
 
 #: static/js/zamboni/validator.js:494
 msgid "Validation task could not complete or completed with errors"
-msgstr ""
+msgstr "عملیات اعتبارسنجی تکمیل نشد یا با خطا همراه بود"
 
 #: static/js/zamboni/validator.js:517
 msgid "Internal server error"
