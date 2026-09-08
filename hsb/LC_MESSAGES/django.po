@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-08 16:00+0000\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -112,7 +115,8 @@ msgstr ""
 "\n"
 "Dźakujemy so za wašu rozprawu wo %(name)s na Mozilla Add-ons a zo sće sej čas brał, wjace wo swojich wobmyslenjach dźělić.\n"
 "\n"
-"Po starosćiwym přepruwowanju wašeho spřećiwjenja, měnimy, zo předchadny rozsud – zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje – je korektny był. Tohodla přećiwo kontu abo wobsahej ničo njezakročimy.\n"
+"Po starosćiwym přepruwowanju wašeho spřećiwjenja, měnimy, zo předchadny rozsud – zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje – je korektny był. Tohodla přećiwo kontu abo "
+"wobsahej ničo njezakročimy.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Hišće raz wulki dźak za to, zo pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
@@ -123,12 +127,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Dźakujemy so za wašu rozprawu wo %(name)s na Mozilla Add-ons a zo sće sej čas brał, wjace wo swojich wobmyslenjach dźělić.\n"
 "\n"
-"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy nětko wobsah wotstronili a wužiwarja zdźělili. Wulki dźak, zo nam pomhaće, to porjedźić.\n"
+"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy nětko wobsah wotstronili a "
+"wužiwarja zdźělili. Wulki dźak, zo nam pomhaće, to porjedźić.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -136,12 +142,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Dźakujemy so za wašu rozprawu wo %(name)s na Mozilla Add-ons a zo sće dalše informacije wo swojich wobmyslenjach dźělił.\n"
 "\n"
-"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy wuwiwarja prosyli, změny přewjesć, a jeli jeho wobsah njeaktualizuje, budźemy jón wotstronjeć.\n"
+"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy wuwiwarja prosyli, změny "
+"přewjesć, a jeli jeho wobsah njeaktualizuje, budźemy jón wotstronjeć.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -149,18 +157,20 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Wulki dźak, zo sće sej čas brał, %(name)s na %(target_url)s zdźělić.\n"
 "\n"
-"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, tak zo so žane dalše naprawy činja. Hódnoćimy wšak, zo sće nam to zdźělił.\n"
+"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, tak zo so žane dalše naprawy činja. Hódnoćimy wšak, zo sće nam to "
+"zdźělił.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Jeli sej mysliće, zo wobsah prawidłam Mozilla njewotpowěduje, maće prawo, tutón rozsud w běhu 6 měsacow wot datuma tuteje mejlki wotprěć. Hlejće %(appeal_url)s za podrobnosće wo procesu wotprěća, "
 "mjez druhim, kak móžeće wotprěće za wotpowědny rozsud zapodać."
@@ -171,12 +181,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Wulki dźak, zo sće sej čas brał, slědowacy přidatk na Mozilla Add-ons zdźělić: %(name)s.\n"
 "\n"
-"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy tohodla wobsah wotstronili. Hódnoćimy, zo dale pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
+"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy tohodla wobsah wotstronili. Hódnoćimy, zo dale pomhaće, Mozilla "
+"Add-ons wěste dźeržeć.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -184,12 +196,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Wulki dźak, zo sće sej čas brał, slědowacy přidatk na Mozilla Add-ons zdźělić: %(name)s.\n"
 "\n"
-"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy wuwiwarja prosyli, změny přewjesć a jeli problem njerozrisuje, budźemy wobsah wotstronjeć. Wulki dźak, zo dale pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
+"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy wuwiwarja prosyli, změny přewjesć a jeli problem njerozrisuje, "
+"budźemy wobsah wotstronjeć. Wulki dźak, zo dale pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -238,24 +252,24 @@ msgstr "Wotkazy dowolene njejsu."
 msgid "This display name cannot be used."
 msgstr "Tute pokazane mjeno njeda so wužiwać."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1042
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1056
 msgid "Images must be either PNG or JPG."
 msgstr "Wobrazy dyrbja format PNG abo JPG měć."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1048
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1062
 msgid "Images cannot be animated."
 msgstr "Wobrazy njedadźa so animować."
 
-#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1057
+#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1071
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Prošu wužiwajće wobrazy, kotrež su mjeńše hač %d MB."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "Trjebaće pomoc?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "Zdźělenka [%s] njeeksistuje"
@@ -311,11 +325,11 @@ msgstr "Njepłaćiwe mjeno kategorije."
 msgid "URL domain must be one of [{domains}]."
 msgstr "URL-domena dyrbi jedna z [{domains}] być."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:314
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "URL-šćežka za sponsorow GitHub dyrbi /sponsors/ wobsahować."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:317
 msgid "URLs must start with https://."
 msgstr "URL dyrbja so z https:// započeć."
 
@@ -329,7 +343,7 @@ msgstr "Licenca ze slug={value} njeeksistuje."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Njepodpěrany datajowy typ, prošu nahrajće archiwowu dataju ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Njepłaćiwy abo wobškodźeny archiw."
 
@@ -397,7 +411,7 @@ msgstr "Nalistowane wersije njedadźa so zapodać, mjeztym zo so nalistowanje p�
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s so wot %(app_name)s njepodpěruja"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:959
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Njepłaćiwy wersijowy wobłuk. Za Firefox za Android móžeće jenož wobłuk wubrać, kotryž so z wersiju %(max)s abo nowšej započina abo so ze staršej hač z wersiju %(min)s kónči."
@@ -414,11 +428,11 @@ msgstr "Přidatki znajmjeńša jednoho nalistowaneho awtora trjebaja."
 msgid "Account not found."
 msgstr "Konto njeje so namakało."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:458 src/olympia/devhub/forms.py:528
 msgid "An author can only be present once."
 msgstr "Awtor smě so jenož jedyn raz podać."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:470
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Konto zwobraznjenske mjeno trjeba, prjedy hač da so jako awtor přidać."
 
@@ -539,7 +553,7 @@ msgstr "Nowu drastu zapodać"
 msgid "Developer Hub"
 msgstr "Wuwiwarski róžk"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2182
 msgid "Manage API Keys"
 msgstr "API-kluče rjadować"
 
@@ -613,8 +627,8 @@ msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
 msgstr ""
-"Widźiće tutu powěsć, dokelž tute HTTPS-sydło hłowowu linku ‚Referer‘ trjeba, kotruž waš wobhladowak dyrbi słać, ale njeje pósłał. Tuta hłowowa linka je trěbna z přičinow wěstoty, zo by zawěsćiła, zo"
-" so waš wobhladowak wot třećich njekapruje."
+"Widźiće tutu powěsć, dokelž tute HTTPS-sydło hłowowu linku ‚Referer‘ trjeba, kotruž waš wobhladowak dyrbi słać, ale njeje pósłał. Tuta hłowowa linka je trěbna z přičinow wěstoty, zo by zawěsćiła, "
+"zo so waš wobhladowak wot třećich njekapruje."
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -656,8 +670,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>Hopla! Zmylk je wustupił.</h1> <p>Budźemy problem bórze rozrisować.</p><p> Móžeće spytać, stronu aktualizować abo wróćće so k <a href=\"%(home)s\">startowej stronje přidatkow</a>. Móžeće nam tež"
-" pomhać to rozrisać, hdyž <a href=\"https://github.com/mozilla/addons/issues/new\">zmylkowu rozprawu pisaće</a>, z podrobnosćemi, kak sće so k tutej stronje dóstał.</p>"
+"<h1>Hopla! Zmylk je wustupił.</h1> <p>Budźemy problem bórze rozrisować.</p><p> Móžeće spytać, stronu aktualizować abo wróćće so k <a href=\"%(home)s\">startowej stronje přidatkow</a>. Móžeće nam "
+"tež pomhać to rozrisać, hdyž <a href=\"https://github.com/mozilla/addons/issues/new\">zmylkowu rozprawu pisaće</a>, z podrobnosćemi, kak sće so k tutej stronje dóstał.</p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1373,7 +1387,7 @@ msgstr "Wobsah lisćinoweho zapiska wotpokazany"
 msgid "Disabled by Mozilla"
 msgstr "Wot Mozilla znjemóžnjeny"
 
-#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1155
+#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1167
 msgid "Deleted"
 msgstr "Zhašane"
 
@@ -1612,7 +1626,7 @@ msgstr "Webwuwiwanje"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Sćehńće rozšěrjenja Firefox, kotrež nastroje webwuwića předstajeja. Tuta kategorija rozšěrjenja za GitHub, přeměnjenje wužiwarskeho agenta, rjadowanje plackow a wjace zapřijima."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
+#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:9
 msgid "Other"
 msgstr "Druhe"
 
@@ -1852,17 +1866,17 @@ msgstr "Najnowše změny za moje přidatki"
 msgid "Open Search add-ons are {blog_link_open}no longer supported on AMO{blog_link_close}. You can create a {doc_link_open}search extension instead{doc_link_close}."
 msgstr "Přidatki Open Search so {blog_link_open}na AMO hižo podpěruja{blog_link_close}. Móžeće {doc_link_open}město toho pytanske rozšěrjenje{doc_link_close} wužiwać."
 
-#: src/olympia/devhub/forms.py:99
+#: src/olympia/devhub/forms.py:100
 msgid "This slug is already in use. Please choose another."
 msgstr "Tute adresowe mjeno so hižo wužiwa. Prošu wubjerće druhe."
 
-#: src/olympia/devhub/forms.py:102
+#: src/olympia/devhub/forms.py:103
 #, python-format
 msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Adresowe mjeno njemóže \"%(slug)s\" być. Prošu wubjerće druhe."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:222
+#: src/olympia/devhub/forms.py:223
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
@@ -1871,20 +1885,20 @@ msgstr[1] "Móžeš jenož {0} kategoriji měć."
 msgstr[2] "Móžeš jenož {0} kategorije měć."
 msgstr[3] "Móžeš jenož {0} kategorijow měć."
 
-#: src/olympia/devhub/forms.py:232
+#: src/olympia/devhub/forms.py:233
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Kategorija „Wšelake“ njeda so z druhimi kategorijemi kombinować."
 
-#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
+#: src/olympia/devhub/forms.py:253 src/olympia/devhub/forms.py:1369
 msgid "There was an error uploading your image."
 msgstr "Při nahrawanju wašeho wobraza je zmylk wustupił."
 
-#: src/olympia/devhub/forms.py:307
+#: src/olympia/devhub/forms.py:308
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "URL-domena dyrbi jedna z [%s] być."
 
-#: src/olympia/devhub/forms.py:323
+#: src/olympia/devhub/forms.py:324
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
@@ -1893,139 +1907,139 @@ msgstr[1] "Sće {0} značce přewjele."
 msgstr[2] "Sće {0} znački přewjele."
 msgstr[3] "Sće {0} značkow přewjele."
 
-#: src/olympia/devhub/forms.py:342
+#: src/olympia/devhub/forms.py:343
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Prjedy hač swoju standardnu rěč změniće, dyrbiće mjeno, zjeće a wopisanje w tutej rěči měć. %s hišće faluje."
 
-#: src/olympia/devhub/forms.py:430
+#: src/olympia/devhub/forms.py:431
 msgid "Users can not be added directly"
 msgstr "Wužiwarjo njedadźa so direktnje přidać"
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:505
 msgid "Must have at least one owner."
 msgstr "Dyrbi znajmjeńša jednoho wobsedźerja měć."
 
-#: src/olympia/devhub/forms.py:506
+#: src/olympia/devhub/forms.py:507
 msgid "At least one author must be listed."
 msgstr "Znajmjeńša jedyn awtor dyrbi podaty być."
 
-#: src/olympia/devhub/forms.py:554
+#: src/olympia/devhub/forms.py:555
 msgid "Slug incorrect."
 msgstr "Wopačne adresowe mjeno."
 
-#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:590 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Podrobnosće"
 
-#: src/olympia/devhub/forms.py:610
+#: src/olympia/devhub/forms.py:611
 msgid "What is your license's name?"
 msgstr "Kak waša licenca rěka?"
 
-#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
+#: src/olympia/devhub/forms.py:613 src/olympia/devhub/forms.py:660
 msgid "Custom License"
 msgstr "Swójska licenca"
 
-#: src/olympia/devhub/forms.py:617
+#: src/olympia/devhub/forms.py:618
 msgid "Provide the text of your license."
 msgstr "Podajće tekst swojeje licency."
 
-#: src/olympia/devhub/forms.py:667
+#: src/olympia/devhub/forms.py:668
 msgid "License text is required when choosing Other."
 msgstr "Licencny tekst je trěbny, hdyž Druhe wuběraće."
 
-#: src/olympia/devhub/forms.py:723
+#: src/olympia/devhub/forms.py:724
 msgid "This add-on has an End-User License Agreement"
 msgstr "Tutón přidatk ma licencne dojednanje za kónčnych wužiwarjow (EULA)"
 
-#: src/olympia/devhub/forms.py:728
+#: src/olympia/devhub/forms.py:729
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Prošu podajće swoje licencne dojednanje za kónčnych wužiwarjow:"
 
-#: src/olympia/devhub/forms.py:731
+#: src/olympia/devhub/forms.py:732
 msgid "This add-on has a Privacy Policy"
 msgstr "Tutón přidatk ma prawidła priwatnosće"
 
-#: src/olympia/devhub/forms.py:736
+#: src/olympia/devhub/forms.py:737
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Prošu podajće prawidła priwatnosće swojeho přidatka:"
 
-#: src/olympia/devhub/forms.py:771
+#: src/olympia/devhub/forms.py:773
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Njepodpěrany datajowy typ, prošu nahrajće archiwowu dataju {extensions}."
 
-#: src/olympia/devhub/forms.py:815
+#: src/olympia/devhub/forms.py:817
 msgid "View current"
 msgstr "Aktualne pokazać"
 
-#: src/olympia/devhub/forms.py:938
+#: src/olympia/devhub/forms.py:940
 msgid "Invalid version range."
 msgstr "Njepłaćiwy wersijowy rozsah."
 
-#: src/olympia/devhub/forms.py:1044
+#: src/olympia/devhub/forms.py:1046
 msgid "Need at least one compatible application."
 msgstr "Znajmjeńša jedne kompatibelne nałoženje trěbne."
 
-#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
+#: src/olympia/devhub/forms.py:1088 src/olympia/devhub/forms.py:1146
 msgid "There was an error with your upload. Please try again."
 msgstr "Při nahrawanju je zmylk wustupił. Prošu spytajće hišće raz."
 
-#: src/olympia/devhub/forms.py:1091
+#: src/olympia/devhub/forms.py:1093
 msgid "Override failed validation"
 msgstr "Njeporadźene přepruwowanje přepisać"
 
-#: src/olympia/devhub/forms.py:1101
+#: src/olympia/devhub/forms.py:1103
 msgid "Need to select at least one application."
 msgstr "Dyrbiće znajmjeńša jedne nałoženje wubrać."
 
-#: src/olympia/devhub/forms.py:1106
+#: src/olympia/devhub/forms.py:1108
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Sće njedawno přewjele nahraćow zapodał. Prošu spytajće hišće raz za něšto časa."
 
-#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1157 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Wersija {version} je so prjedy nahrała a zhašała."
 
-#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1166 src/olympia/devhub/forms.py:1172 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Wersija {version} hižo eksistuje."
 
-#: src/olympia/devhub/forms.py:1166
+#: src/olympia/devhub/forms.py:1168
 msgid "Continue with existing upload instead?"
 msgstr "Město toho z eksistowacym nahraćom pokročować?"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Haj"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Ně"
 
-#: src/olympia/devhub/forms.py:1219
+#: src/olympia/devhub/forms.py:1221
 msgid "You have not uploaded a source file."
 msgstr "Njejsće žórłowu dataju nahrał."
 
-#: src/olympia/devhub/forms.py:1222
+#: src/olympia/devhub/forms.py:1224
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Žórłowa dataja je so nahrała, ale sće podał, zo žórło trěbne njeje."
 
-#: src/olympia/devhub/forms.py:1286
+#: src/olympia/devhub/forms.py:1288
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Zawěsćće, zo mjeno a zjeće hormadźe matej maksimalnje {limit_value} znamješkow (matej {show_value})."
 
-#: src/olympia/devhub/forms.py:1416
+#: src/olympia/devhub/forms.py:1418
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Na tutym websydle. <span class=\"helptext\">Waše zapodaće so zjawnje na {site_domain} nalistuje.</span>"
 
-#: src/olympia/devhub/forms.py:1423
+#: src/olympia/devhub/forms.py:1425
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2034,7 +2048,7 @@ msgstr ""
 "Samostatny. <span class=\"helptext\">Po tym zo je so waše zapodaće wot Mozilla signowało, móžeće .xpi-dataju z wuwiwarskeho róžka sćahnyć a ju na swój publikum rozdźělić. Prošu zawěsćće, zo <a "
 "{a_attrs}>update_url</a> přidatkoweho manifesta je podaty, dokelž to je URL, hdźež Firefox aktualizacije za awtomatiske rozdźělenje na wašich wužiwarjow namaka.</span>"
 
-#: src/olympia/devhub/forms.py:1439
+#: src/olympia/devhub/forms.py:1441
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
@@ -2042,86 +2056,86 @@ msgstr ""
 "Přidatk za předewzaća. <span class=\"helptext\">Po tym zo je so waše zapodaće wot Mozilla signowało, móžeće dataju .xpi z wuwiwanskeho centruma sćahnyć a na swój publikum přez prawidła Firefox za "
 "předewzaća rozdźělić.</span>"
 
-#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1477 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Zwobraznjenske mjeno"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Confirm email address"
 msgstr "E-mejlowu adresu wobkrućić"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Generate new credentials"
 msgstr "Nowe daty tworić"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke and regenerate credentials"
 msgstr "Daty wotwołać a znowa tworić"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1511
 msgid "Revoke"
 msgstr "Wotwołać"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1512
 msgid "Re-send email confirmation"
 msgstr "E-mejlowe wobkrućenje znowa pósłać"
 
-#: src/olympia/devhub/forms.py:1567
+#: src/olympia/devhub/forms.py:1569
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Prošu klikńće na tłóčatko deleka, zo byšće přizjewjenske informacije API za wužiwarja <strong>{name}</strong> wutworił."
 
-#: src/olympia/devhub/forms.py:1592
+#: src/olympia/devhub/forms.py:1594
 msgid "You don't have any API credentials."
 msgstr "Nimaće přizjewjenske daty API."
 
-#: src/olympia/devhub/forms.py:1603
+#: src/olympia/devhub/forms.py:1605
 msgid "Something went wrong, please contact developer support."
 msgstr "Něšto je so nimokuliło, prošu stajće so z wuwiwarskej podpěru do zwiska."
 
-#: src/olympia/devhub/forms.py:1682
+#: src/olympia/devhub/forms.py:1684
 msgid "Release notes"
 msgstr "Wersijowe informacije"
 
-#: src/olympia/devhub/forms.py:1683
+#: src/olympia/devhub/forms.py:1685
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Awtomatiska wróćoinstalacija na zakładźe wersije [m.m]."
 
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/devhub/forms.py:1770
 msgid "You must select a channel and version to rollback to."
 msgstr "Dyrbiće kanal a wersiju wubrać, do kotrejež so ma wróćo kulić."
 
-#: src/olympia/devhub/forms.py:1778
-msgid "Choose a category"
-msgstr "Wubjerće kategoriju"
-
-#: src/olympia/devhub/forms.py:1779
-msgid "Technical support for making your add-on compliant"
-msgstr "Techniska podpěra, zo by waš přidatk konformny był"
-
-#: src/olympia/devhub/forms.py:1780
-msgid "Issue with addons.mozilla.org"
-msgstr "Problem z addons.mozilla.org"
-
-#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1783 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Tema"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1785
 msgid "Summarize the issue in a few words"
 msgstr "Zjimajće problem w mało słowach"
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1789
+msgid "Choose a category"
+msgstr "Wubjerće kategoriju"
+
+#: src/olympia/devhub/forms.py:1790
 msgid "Select category"
 msgstr "Kategoriju wubrać"
 
-#: src/olympia/devhub/forms.py:1800
+#: src/olympia/devhub/forms.py:1795
 msgid "Give us more details about the issue"
 msgstr "Dajće nam dalše podrobnosće wo tutym problemje"
 
-#: src/olympia/devhub/forms.py:1802
+#: src/olympia/devhub/forms.py:1797
 msgid "Describe the issue"
 msgstr "Wopisajće problem"
+
+#: src/olympia/devhub/serializers.py:7
+msgid "Technical support for making your add-on compliant"
+msgstr "Techniska podpěra, zo by waš přidatk konformny był"
+
+#: src/olympia/devhub/serializers.py:8
+msgid "Issue with addons.mozilla.org"
+msgstr "Problem z addons.mozilla.org"
 
 #: src/olympia/devhub/tasks.py:179
 msgid "Invalid or corrupt add-on file."
@@ -2149,132 +2163,132 @@ msgstr "Přepruwowanje je přewjele zmylkow/warnowanjow wunjesło, tohodla je so
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr "Tutón přidatk drasta njeje. Wužiwajće město toho stronu <a href=\"{link}\">Nowy přidatk zapodać</a>, zo byšće rozšerjenja zapodał."
 
-#: src/olympia/devhub/views.py:117
+#: src/olympia/devhub/views.py:131
 msgid "Updated"
 msgstr "Zaktualizowany"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:118 src/olympia/devhub/views.py:128
+#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
 msgid "Name"
 msgstr "Mjeno"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:119 src/olympia/devhub/views.py:127
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
 msgid "Created"
 msgstr "Wutworjene"
 
-#: src/olympia/devhub/views.py:120 src/olympia/devhub/views.py:129 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Sćehnjenja"
 
-#: src/olympia/devhub/views.py:121 src/olympia/devhub/views.py:130
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
 msgid "Rating"
 msgstr "Pohódnoćenje"
 
-#: src/olympia/devhub/views.py:196
+#: src/olympia/devhub/views.py:210
 msgid "All My Add-ons"
 msgstr "Wšě moje přidatki"
 
-#: src/olympia/devhub/views.py:224
+#: src/olympia/devhub/views.py:238
 msgid "All Activity"
 msgstr "Wša aktiwita"
 
-#: src/olympia/devhub/views.py:225
+#: src/olympia/devhub/views.py:239
 msgid "Add-on Updates"
 msgstr "Aktualizacije přidatkow"
 
-#: src/olympia/devhub/views.py:226
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Status"
 msgstr "Status přidatka"
 
-#: src/olympia/devhub/views.py:227
+#: src/olympia/devhub/views.py:241
 msgid "User Collections"
 msgstr "Wužiwarske zběrki"
 
-#: src/olympia/devhub/views.py:228
+#: src/olympia/devhub/views.py:242
 msgid "User Reviews"
 msgstr "Wužiwarske pohódnoćenja"
 
-#: src/olympia/devhub/views.py:376
+#: src/olympia/devhub/views.py:390
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Přidatk njeda so zhašeć. Znjemóžńće tutón přidatk město toho."
 
-#: src/olympia/devhub/views.py:387
+#: src/olympia/devhub/views.py:401
 msgid "Theme deleted."
 msgstr "Drasta je so zhašała."
 
-#: src/olympia/devhub/views.py:387
+#: src/olympia/devhub/views.py:401
 msgid "Add-on deleted."
 msgstr "Přidatk je so zhašał."
 
-#: src/olympia/devhub/views.py:393
+#: src/olympia/devhub/views.py:407
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "URL-mjeno bě wopak. Drasta njeje so zhašała."
 
-#: src/olympia/devhub/views.py:395
+#: src/olympia/devhub/views.py:409
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "URL-mjeno bě wopak. Přidatk njeje so zhašał."
 
-#: src/olympia/devhub/views.py:437
+#: src/olympia/devhub/views.py:451
 msgid "Request for a new review of listing content acknowledged."
 msgstr "Požadanje za nowe přepruwowanje wobsaha lisćinoweho zapiska přizwolene."
 
-#: src/olympia/devhub/views.py:481
+#: src/olympia/devhub/views.py:495
 msgid "Invitation accepted."
 msgstr "Přeprošenje přiwzate."
 
-#: src/olympia/devhub/views.py:484
+#: src/olympia/devhub/views.py:498
 msgid "Invitation declined."
 msgstr "Přeprošenje wotpokazane."
 
-#: src/olympia/devhub/views.py:552
+#: src/olympia/devhub/views.py:566
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "Wobkrućenska mejlka je so na {email} pósłała"
 
-#: src/olympia/devhub/views.py:569 src/olympia/devhub/views.py:1185
+#: src/olympia/devhub/views.py:583 src/olympia/devhub/views.py:1199
 msgid "Changes successfully saved."
 msgstr "Změny su so wuspěšnje składowali."
 
-#: src/olympia/devhub/views.py:589
+#: src/olympia/devhub/views.py:603
 msgid "Validate Add-on"
 msgstr "Přidatk přepruwować"
 
-#: src/olympia/devhub/views.py:660
+#: src/olympia/devhub/views.py:674
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">Prošu přidajće swojemu kontu dwufaktorowu awtentifikaciju, zo byšće rozšěrjenja zapodał.</a>"
 
-#: src/olympia/devhub/views.py:1040
+#: src/olympia/devhub/views.py:1054
 msgid "Icons must be either PNG or JPG."
 msgstr "Symbole dyrbja pak we formaće PNG pak JPG być."
 
-#: src/olympia/devhub/views.py:1046
+#: src/olympia/devhub/views.py:1060
 msgid "Icons cannot be animated."
 msgstr "Symbole njedadźa so animować."
 
-#: src/olympia/devhub/views.py:1072
+#: src/olympia/devhub/views.py:1086
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Wobraz dyrbi znajmjeńša {0} pikselow šěroki a {1} pikselow wysoki być."
 
-#: src/olympia/devhub/views.py:1076
+#: src/olympia/devhub/views.py:1090
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Wobrazowe wotměry dyrbja w poměrje 4:3 być."
 
-#: src/olympia/devhub/views.py:1084
+#: src/olympia/devhub/views.py:1098
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Symbol dyrbi znajmjeńša {0} pikselow šěroki a wysoki być."
 
-#: src/olympia/devhub/views.py:1089
+#: src/olympia/devhub/views.py:1103
 msgid "Icon must be square (same width and height)."
 msgstr "Symbol dyrbi kwadratiski być (jenaka šěrokosć a wysokosć)."
 
-#: src/olympia/devhub/views.py:1095
+#: src/olympia/devhub/views.py:1109
 msgid "There was an error uploading your preview."
 msgstr "Při nahrawanju wašeho přehlada je zmylk wustupił."
 
-#: src/olympia/devhub/views.py:1241
+#: src/olympia/devhub/views.py:1255
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
@@ -2282,130 +2296,130 @@ msgstr ""
 "Najnowša schwalena wersija tutoho rozšěrjenja %s njeda so zhašeć abo znjemóžnić, dokelž předchadna wersija njeje so za doporučenje %s schwaliła. Prošu stajće so z administratorami AMO do zwiska, "
 "jeli pomoc wo tym trjebaće."
 
-#: src/olympia/devhub/views.py:1248
+#: src/olympia/devhub/views.py:1262
 #, python-format
 msgid "Version %s disabled."
 msgstr "Wersija %s je so znjemóžniła."
 
-#: src/olympia/devhub/views.py:1252
+#: src/olympia/devhub/views.py:1266
 #, python-format
 msgid "Version %s deleted."
 msgstr "Wersija %s je so zhašała."
 
-#: src/olympia/devhub/views.py:1263
+#: src/olympia/devhub/views.py:1277
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Wersija %s je so zaso zmóžniła."
 
-#: src/olympia/devhub/views.py:1279
+#: src/olympia/devhub/views.py:1293
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "Tute nahraće njeje přepruwowanje wobstało a nima snano žane dospołne přepruwowanske wuslědki. Prošu dźiwajće na to, hdyž jo přepruwujeće."
 
-#: src/olympia/devhub/views.py:1338
+#: src/olympia/devhub/views.py:1352
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Wróćokulenje zapodate. Dóstawaće zdźělenku, hdyž je schwalene"
 
-#: src/olympia/devhub/views.py:1484
+#: src/olympia/devhub/views.py:1498
 msgid "Header area background"
 msgstr "Pozadk hłowoweho wobłuka"
 
-#: src/olympia/devhub/views.py:1486
+#: src/olympia/devhub/views.py:1500
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Barba pozadka hłowoweho wobłuka, kotraž so w tym dźělu hłowoweho wobłuka pokazuje, kotryž njeje pokryty abo widźomny přez wobraz hłowoweho wobłuka. Polo manifesta: frame."
 
-#: src/olympia/devhub/views.py:1494
+#: src/olympia/devhub/views.py:1508
 msgid "Header area text and icons"
 msgstr "Tekst a symbole hłowoweho wobłuka"
 
-#: src/olympia/devhub/views.py:1496
+#: src/olympia/devhub/views.py:1510
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Barba teksta a symbole we hłowowym wobłuku, nimo aktiwneho rajtarka. Polo manifesta: tab_background_text."
 
-#: src/olympia/devhub/views.py:1503
+#: src/olympia/devhub/views.py:1517
 msgid "Toolbar area background"
 msgstr "Pozadk wobłuka symboloweje lajsty"
 
-#: src/olympia/devhub/views.py:1505
+#: src/olympia/devhub/views.py:1519
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Pozadkowa barba za nawigacisku lajstu, lajstu zapołožkow a aktiwny rajtark. Polo manifesta: toolbar."
 
-#: src/olympia/devhub/views.py:1512
+#: src/olympia/devhub/views.py:1526
 msgid "Toolbar area text and icons"
 msgstr "Tekst a symbole wobłuka symboloweje lajsty"
 
-#: src/olympia/devhub/views.py:1514
+#: src/olympia/devhub/views.py:1528
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Tekstowa barba a symbole w symbolowej lajsće  a w aktiwnym rajtarku. Polo manifesta: bookmark_text."
 
-#: src/olympia/devhub/views.py:1521
+#: src/olympia/devhub/views.py:1535
 msgid "Toolbar field area background"
 msgstr "Pozadk pólneho wobłuka symboloweje lajsty"
 
-#: src/olympia/devhub/views.py:1523
+#: src/olympia/devhub/views.py:1537
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Pozadkowa barba za pola w symbolowej lajsće, kaž na př. adresowe polo. Polo manifesta: toolbar_field."
 
-#: src/olympia/devhub/views.py:1530
+#: src/olympia/devhub/views.py:1544
 msgid "Toolbar field area text"
 msgstr "Tekst pólneho wobłuka symboloweje lajsty"
 
-#: src/olympia/devhub/views.py:1532
+#: src/olympia/devhub/views.py:1546
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Tekstowa barba w polach w symbolowej lajsće, na př. w adresowym polu. Polo manifesta: toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1540
+#: src/olympia/devhub/views.py:1554
 msgid "Tab highlight"
 msgstr "Wuzběhnjenje rajtarka"
 
-#: src/olympia/devhub/views.py:1542
+#: src/olympia/devhub/views.py:1556
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Wuzběhnjenska barba aktiwneho rajtarka. Jako ramik wokoło rajtarka w Firefox 89+ a linka nad rajtarkom w staršich wersijach Firefox implementowana. Polo w manifesće:  tab_line."
 
-#: src/olympia/devhub/views.py:1645
+#: src/olympia/devhub/views.py:1659
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Nahraća přidatkow na chwilu k dispoziciji njejsu"
 
-#: src/olympia/devhub/views.py:2017
+#: src/olympia/devhub/views.py:2031
 msgid "Review requested."
 msgstr "Přepruwowanje je so požadało."
 
-#: src/olympia/devhub/views.py:2019
+#: src/olympia/devhub/views.py:2033
 msgid "You must provide further details to proceed."
 msgstr "Dyrbiće dalše podrobnosće podać, zo byšće pokročował."
 
-#: src/olympia/devhub/views.py:2126
+#: src/olympia/devhub/views.py:2140
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Wobkrućenski wotkaz budźe so bórze na wašu e-mejlowu adresu słać."
 
-#: src/olympia/devhub/views.py:2141
+#: src/olympia/devhub/views.py:2155
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Waše stare přizjewjenske daty su so wotwołali a hižo płaćiwe njejsu."
 
-#: src/olympia/devhub/views.py:2152
+#: src/olympia/devhub/views.py:2166
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Nowe přizjewjenske daty API su so generowali a pokazuja so deleka. Kopěrujće na kóždy pad potajnstwo JWT, njepokaza so hišće raz."
 
-#: src/olympia/devhub/views.py:2180
+#: src/olympia/devhub/views.py:2194
 msgid "New API key created"
 msgstr "Nowy API-kluč wutworjeny"
 
-#: src/olympia/devhub/views.py:2191
+#: src/olympia/devhub/views.py:2205
 msgid "API key revoked"
 msgstr "API-kluč wotwołany"
 
-#: src/olympia/devhub/views.py:2251
+#: src/olympia/devhub/views.py:2265
 msgid "Verify email"
 msgstr "E-mejlowu adresu wobkrućić"
 
-#: src/olympia/devhub/views.py:2253
+#: src/olympia/devhub/views.py:2267
 msgid "Send another email"
 msgstr "Dalšu mejlku pósłać"
 
-#: src/olympia/devhub/views.py:2286
+#: src/olympia/devhub/views.py:2300
 msgid "Your email has been verified"
 msgstr "Waša e-mejlowa adresa je so wobkrućiła"
 
-#: src/olympia/devhub/views.py:2348
+#: src/olympia/devhub/views.py:2366
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Waša próstwa wo pomoc je so wotpósłała. Damy bórze wot nas słyšeć."
 
@@ -2503,8 +2517,8 @@ msgstr "Pomoc za rozšěrjenja a drasty dóstać"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Wužiwajće tutón formular za podpěru nastupajo na waše konto, problemy z konformnosću priwatnosće a wjace. Čim wjace podrobnosće dźěliće, ćim lóšo je za nas pomhać. Za prašenja wo přepruwowanjach "
 "swojich přidatkow, wobhladajće sej prošu wersijowu historiju swojich přidatkow. Budźemy was tak bórze kaž móžno informować."
@@ -2977,11 +2991,11 @@ msgstr "E-mejlowa adresa"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
-"Jeli chceće e-mejlowu adresu za naprašowanja pomocy pokazać, zapodajće ju tu. Jeli maće rozdźělne adresy za kóždy rěč, móžeće wjacore přełožki tutoho pola přidać. To je jenož za nalistowane přidatki"
-" relewantne."
+"Jeli chceće e-mejlowu adresu za naprašowanja pomocy pokazać, zapodajće ju tu. Jeli maće rozdźělne adresy za kóždy rěč, móžeće wjacore přełožki tutoho pola přidać. To je jenož za nalistowane "
+"přidatki relewantne."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -3039,8 +3053,8 @@ msgstr "Informaciska taflička"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Informaciska tafla je městno, hdźež móžeće přepruwowarjam informacije podać, kotrež su za waš přidatk relewantne, njedźiwajo na wersiju. Wužiwajće ju, zo byšće móžnosće za testowanje přidatka a "
 "dalše informacije podał, kotrež móhli pomhać. Tuta Informaciska tafla da so tež wot přepruwowarjow wobdźěłać."
@@ -3604,7 +3618,8 @@ msgstr "Dźěłowy system a žadanja tworjenskeje wokoliny."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
-msgstr "Trěbna wersija a instalaciske instrukcije programow, kotrež so w twarjenskim procesu wužiwaja (na přikład <span class=\"tech-emphasis\">node</span> a <span class=\"tech-emphasis\">npm</span>)."
+msgstr ""
+"Trěbna wersija a instalaciske instrukcije programow, kotrež so w twarjenskim procesu wužiwaja (na přikład <span class=\"tech-emphasis\">node</span> a <span class=\"tech-emphasis\">npm</span>)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3740,8 +3755,8 @@ msgstr "Wróćo"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Awtentifikowane wołanja přećiwo <a %(a_attrs)s href=\"%(docs_url)s\">API</a> jako eksterny přetrjebar wuwjedł, dyrbiće <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> we hłowje "
 "<code>awtorizacije</code> za kóžde naprašowanje zapřijeć."
@@ -3862,20 +3877,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Waženy wužiwarjo přidatkow,\n"
 "\n"
-"my chcyli was nablaku informować: Smy zwěsćili, zo waše tajne přizjewjenske daty AMO API su w přidatku wobsahowane, kotryž je so pola addons.mozilla.org zapodał. Zo bychu waše konto a přidatki wěste wostali, smy sej dowolili, potrjechene přizjewjenske daty wotwołać. Njejsće ničo wopak činił – to so jenož druhdy stawa, a smy tu, zo bychmy wam pomhali, wšitko sporjadkować.\n"
+"my chcyli was nablaku informować: Smy zwěsćili, zo waše tajne přizjewjenske daty AMO API su w přidatku wobsahowane, kotryž je so pola addons.mozilla.org zapodał. Zo bychu waše konto a přidatki "
+"wěste wostali, smy sej dowolili, potrjechene přizjewjenske daty wotwołać. Njejsće ničo wopak činił – to so jenož druhdy stawa, a smy tu, zo bychmy wam pomhali, wšitko sporjadkować.\n"
 "Móžeće kóždy čas na %(api_keys_url)s nowe přizjewjenske daty API generować \n"
 "\n"
-"Zo bychu waše přizjewjenske daty w přichodźe wěste wostali, dźeržće je najlěpje dowěrliwe a njezapołožće je w zjawnym repozitoriju, přidatku abo na zjawnym městnje. Hdyžkuli maće wokomik chwile, dyrbjał wy swoje kodowe repozitorije a rozšěrjenja přepruwować, zo byšće wotkazy na swoje přizjewjenske AMO wotstronił.\n"
+"Zo bychu waše přizjewjenske daty w přichodźe wěste wostali, dźeržće je najlěpje dowěrliwe a njezapołožće je w zjawnym repozitoriju, přidatku abo na zjawnym městnje. Hdyžkuli maće wokomik chwile, "
+"dyrbjał wy swoje kodowe repozitorije a rozšěrjenja přepruwować, zo byšće wotkazy na swoje přizjewjenske AMO wotstronił.\n"
 "\n"
 "Wulki dźak,\n"
 "Team Mozilla Add-ons"
@@ -3930,8 +3949,8 @@ msgid "Please complete your add-on by adding a version or missing metadata."
 msgstr "Prošu přidajće wersiju abo falowace metadaty, zo byšće swój přidatk wudospołnił."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
-msgid "You will receive an email when the review is complete. Until then, your add-on is not listed in our gallery but can be accessed directly from its details page. "
-msgstr "Dóstanjeće e-mejlku, hdyž přepruwowanje je dokónčene. Hač do toho so waš přidatk w našej galeriji njenalistuje, ale přistup je móžno direktnje wot jeho strony podrobnosćow."
+msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
+msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -4066,12 +4085,11 @@ msgstr "Kompatibelnosć Firefox za Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Sće swoje rozšěrjenje testował, zo byšće zawěsćił, zo kaž wočakowane na Firefox za Android funguje? Jeli nic, hlejće prošu <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Rozšěrjenja za Firefox Android wuwiwać</a> (jendźelsce) za testowu proceduru, prjedy hač "
-"zapodawaće."
+"Sće swoje rozšěrjenje testował, zo byšće zawěsćił, zo kaž wočakowane na Firefox za Android funguje? Jeli nic, hlejće prošu <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Rozšěrjenja za Firefox Android wuwiwać</a> (jendźelsce) za testowu proceduru, prjedy hač zapodawaće."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -7173,36 +7191,36 @@ msgstr "Chceće woprawdźe wšě přełožki za <b>{0}</b> wotstronić? To njeda
 msgid "Delete Locale"
 msgstr "Rěč zhašeć"
 
-#: src/olympia/users/models.py:90
+#: src/olympia/users/models.py:92
 msgid "No user with that email."
 msgstr "Žadyn wužiwar z tutej e-mejlowej adresu."
 
-#: src/olympia/users/models.py:681
+#: src/olympia/users/models.py:683
 #, python-brace-format
 msgid "Firefox user {id}"
 msgstr "Wužiwar Firefox {id}"
 
-#: src/olympia/users/models.py:933
+#: src/olympia/users/models.py:947
 msgid "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
 msgstr "Wot wašeho stejnišća su so wjacore zapodaća pósłali, kotrež so přećiwo našim prawidłam přeńdu. IP-adresa je so zablokowała."
 
-#: src/olympia/users/models.py:1104
+#: src/olympia/users/models.py:1181
 msgid "The email address used for your account is not allowed for submissions."
 msgstr "E-mejlowa adresa, kotruž sće za swoje konto wužił, za zapodaća dowolena njeje."
 
-#: src/olympia/users/models.py:1237
+#: src/olympia/users/models.py:1368
 msgid "The software or device you are using is not allowed for submissions."
 msgstr "Software abo grat, kotrejž wužiwaće, za zapodaća dowolenej njejstej."
 
-#: src/olympia/users/models.py:1363
+#: src/olympia/users/models.py:1513
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Prjedy hač započnjeće, čitajće a akceptujće prošu naše dojednanje wo rozdźělowanju a naše přepruwowanske zasady a prawidła. Dojednanje wo rozdźělowanju Firefox tež na naš pokazku priwatnosće "
 "wotkazuje, kotryž wujasnja, kak z wašimi informacijemi wobchadźamy."
 
-#: src/olympia/users/models.py:1377
+#: src/olympia/users/models.py:1527
 #, python-brace-format
 msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Wopytajće {url} a čitajće a akceptujće prošu naše dojednanje wo rozdźělowanju přidatkow Firefox a naše přepruwowanske směrnicy a prawidła."
@@ -7336,7 +7354,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7346,7 +7365,8 @@ msgid ""
 msgstr ""
 "Witajće,\n"
 "\n"
-"dóstawaće tutu powěsć, zo byšće zhonił, zo waše wužiwarske konto %(name)s na %(site_url)s je so zhašało. Jeli sće njedawno swoje konto Mozilla zhašał, móže so to awtomatisce jak dźěl toho procesa stać.\n"
+"dóstawaće tutu powěsć, zo byšće zhonił, zo waše wužiwarske konto %(name)s na %(site_url)s je so zhašało. Jeli sće njedawno swoje konto Mozilla zhašał, móže so to awtomatisce jak dźěl toho procesa "
+"stać.\n"
 "\n"
 "Wulki dźak, zo sće dźěl zhromadźenstwa přidatkow Firefox. Jeli měniće, zo to je zmylk było abo jeli prašenja maće, stajće so z nami do zwiska.\n"
 "\n"
@@ -7354,33 +7374,33 @@ msgstr ""
 "\n"
 "Team Mozilla Add-ons"
 
-#: src/olympia/versions/models.py:1140
+#: src/olympia/versions/models.py:1152
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
 msgstr "Komdźeny wotpokazany, za %s planowany"
 
-#: src/olympia/versions/models.py:1145
+#: src/olympia/versions/models.py:1157
 msgid "Auto-approved, Confirmed"
 msgstr "Awtomatisce schwaleny, wobkrućeny"
 
-#: src/olympia/versions/models.py:1147
+#: src/olympia/versions/models.py:1159
 msgid "Auto-approved, not Confirmed"
 msgstr "Awtomatisce schwaleny, njewobkrućeny"
 
-#: src/olympia/versions/models.py:1150
+#: src/olympia/versions/models.py:1162
 msgid "Approved, Manual"
 msgstr "Schwaleny, manuelny"
 
-#: src/olympia/versions/models.py:1157
+#: src/olympia/versions/models.py:1169
 msgid "Disabled by Developer"
 msgstr "Wot wuwiwarja znjezmóžnjeny"
 
-#: src/olympia/versions/models.py:1515
+#: src/olympia/versions/models.py:1527
 #, python-brace-format
 msgid "{app} {min} and later"
 msgstr "{app} {min} a nowšimi"
 
-#: src/olympia/versions/models.py:1642
+#: src/olympia/versions/models.py:1654
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
 msgstr "Instalaciski pochad {origin} dowoleny njeje."
