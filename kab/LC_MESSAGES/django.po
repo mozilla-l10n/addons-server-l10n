@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-08 16:33+0000\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -116,7 +119,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -125,7 +129,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -134,14 +139,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -150,7 +156,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -159,7 +166,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -197,24 +205,24 @@ msgstr "Iseɣwan gedlen."
 msgid "This display name cannot be used."
 msgstr "Isem-a ur yettwaseqdac ara."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1042
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1056
 msgid "Images must be either PNG or JPG."
 msgstr "Tugniwin zemrent ad ilint PNG neɣ JPG."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1048
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1062
 msgid "Images cannot be animated."
 msgstr "Tugniwin ur zmirent ara ad mbawlent."
 
-#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1057
+#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1071
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Ttxil seqdec tugniwin meẓẓiyen ɣef %d MAṬ."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "Tesriḍ tallelt?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "Alɣu [%s] ulac-it"
@@ -268,11 +276,11 @@ msgstr "Isem n taggayt d arameɣtu"
 msgid "URL domain must be one of [{domains}]."
 msgstr "Taɣult n URL yessefk ad tili d yiwet seg [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:314
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "Abrid n URL i yimendaden n GitHub ilaq ad yesɛu /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:317
 msgid "URLs must start with https://."
 msgstr "URLs yezmer ad yebdu s https://."
 
@@ -286,7 +294,7 @@ msgstr ""
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Anaw n ufaylu ur ittusefrak ara, ma ulac aɣilif sali afaylu n uḥraz ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Taṛcivt diri-tt neɣ ahat texseṛ."
 
@@ -352,7 +360,7 @@ msgstr ""
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s ur ttwasefraken ara sɣur %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:959
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
@@ -369,11 +377,11 @@ msgstr "Azegrir yessefk ad yegber xaṛsum yiwen umeskar i yellan deg tebdart."
 msgid "Account not found."
 msgstr "Ulac amiḍan."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:458 src/olympia/devhub/forms.py:528
 msgid "An author can only be present once."
 msgstr "Ameskar ad d-yettwasken kan tikkelt."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:470
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Amiḍan yesra i yisem n uskan send ad yettwarnu am umeskar."
 
@@ -494,7 +502,7 @@ msgstr "Azen asentel amaynut"
 msgid "Developer Hub"
 msgstr "Tarbaɛt n ineflayen"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2182
 msgid "Manage API Keys"
 msgstr "Sefrek tisura API"
 
@@ -654,13 +662,13 @@ msgstr ""
 msgid "Add-on uploads have been temporarily disabled. Please check back later."
 msgstr ""
 
-#: src/olympia/amo/templatetags/jinja_helpers.py:147
+#: src/olympia/amo/templatetags/jinja_helpers.py:144
 #, python-brace-format
 msgid "Add-ons for {0}"
 msgstr "Izegrar i {0}"
 
 #. L10n: relative time in the past, like '4 days ago'
-#: src/olympia/amo/templatetags/jinja_helpers.py:180
+#: src/olympia/amo/templatetags/jinja_helpers.py:177
 #, python-brace-format
 msgid "{0} ago"
 msgstr "{0} aya"
@@ -681,43 +689,43 @@ msgstr "Azwel nniḍen"
 msgid "Another Body"
 msgstr "Tafekka nniḍen"
 
-#: src/olympia/api/authentication.py:65 src/olympia/api/authentication.py:252
+#: src/olympia/api/authentication.py:63 src/olympia/api/authentication.py:248
 msgid "Invalid Authorization header. No credentials provided."
 msgstr "Aqerru n tsiregt mačči d ameɣtu. Ulac talɣut n usulu yettwafen."
 
-#: src/olympia/api/authentication.py:73 src/olympia/api/authentication.py:256
+#: src/olympia/api/authentication.py:71 src/olympia/api/authentication.py:252
 msgid "Invalid Authorization header. Credentials string should not contain spaces."
 msgstr "Aqerru n tsiregt mačči d ameɣtu. Azrir igebren talɣut n usulu ur issefk ara ad yegber isekkilen imellalen."
 
-#: src/olympia/api/authentication.py:109
+#: src/olympia/api/authentication.py:107
 msgid "Valid user session not found matching the provided session key."
 msgstr "Ulac tiɣimit tameɣtut yemṣadan ɣer tsarut n tɣimit i d-yettwamudden."
 
-#: src/olympia/api/authentication.py:123
+#: src/olympia/api/authentication.py:121
 msgid "Access token refresh failed; user needs to login to FxA again."
 msgstr "Asesfer n ujiṭu n unekcum yecceḍ; aseqdac yesra ad yeqqen ɣer FxA i tikkelt-nniḍen."
 
-#: src/olympia/api/authentication.py:192
+#: src/olympia/api/authentication.py:188
 msgid "Wrong type for one or more keys in payload"
 msgstr "Yir anaw i yiwet neɣ ugar n tsura deg usali"
 
-#: src/olympia/api/authentication.py:195
+#: src/olympia/api/authentication.py:191
 msgid "Signature has expired."
 msgstr "Azmul yemmut."
 
-#: src/olympia/api/authentication.py:198
+#: src/olympia/api/authentication.py:194
 msgid "Error decoding signature."
 msgstr "Tuccḍa deg uzmek n uzmul."
 
-#: src/olympia/api/authentication.py:201
+#: src/olympia/api/authentication.py:197
 msgid "Invalid JWT Token."
 msgstr "Ajiṭun JWT mačči d ameɣtu."
 
-#: src/olympia/api/authentication.py:291
+#: src/olympia/api/authentication.py:287
 msgid "Invalid token or hash."
 msgstr "Yir ajiṭun neɣ awgelhen."
 
-#: src/olympia/api/authentication.py:294
+#: src/olympia/api/authentication.py:290
 msgid "Email address not found."
 msgstr "Tansa imayl ur tettwaf ara."
 
@@ -749,7 +757,7 @@ msgstr ""
 msgid "Invalid pk or slug \"%s\" - object does not exist."
 msgstr "Tasarut tamezwarut neɣ asulay ilulen \"%s\" mačči d ameɣtu. Taɣawsa ulmac-itt."
 
-#: src/olympia/api/models.py:148
+#: src/olympia/api/models.py:147
 msgid "Confirmation for developer API keys"
 msgstr "Asentem i tsura n API n uneflay"
 
@@ -1283,7 +1291,7 @@ msgstr ""
 msgid "Decision made"
 msgstr ""
 
-#: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:244
+#: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:241
 msgid "Firefox"
 msgstr "Firefox"
 
@@ -1327,7 +1335,7 @@ msgstr ""
 msgid "Disabled by Mozilla"
 msgstr "Isens-it Mozilla"
 
-#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1155
+#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1165
 msgid "Deleted"
 msgstr "Yettwakkes"
 
@@ -1451,242 +1459,242 @@ msgstr "Iwḥel"
 msgid "Restricted"
 msgstr "Yettwaqeyyed"
 
-#: src/olympia/constants/categories.py:68
+#: src/olympia/constants/categories.py:65
 msgid "Alerts & Updates"
 msgstr "Alɣu & Ileqman"
 
-#: src/olympia/constants/categories.py:70
+#: src/olympia/constants/categories.py:67
 msgid "Download Firefox extensions that help you stay up-to-date, track tasks, improve efficiency. Find extensions that reload tabs, manage productivity, and more."
 msgstr "Sader isiɣzaf Firefox ara k-iɛiwnen ad teqqimeḍ deg umaynut, aḍfaṛ n umahil, asnerni n temlilt-ik. Aff-d isiɣzaf i d-yettalsen asali n yiccaren, neɣ wid yessefraken tiffursa, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:78
+#: src/olympia/constants/categories.py:75
 msgid "Appearance"
 msgstr "Arwes"
 
-#: src/olympia/constants/categories.py:80
+#: src/olympia/constants/categories.py:77
 msgid "Download extensions that modify the appearance of websites and the browser Firefox. This category includes extensions for dark themes, tab management, and more."
 msgstr "Sader isiɣzaf ara yebeddlen udem n yismal akked yiminig Firefox. Taggayt-a tegber isiɣzaf n yisental iberkanen, asefrek n yiccaren, akked wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:88
+#: src/olympia/constants/categories.py:85
 msgid "Bookmarks"
 msgstr "Ticraḍ n isebtar"
 
-#: src/olympia/constants/categories.py:90
+#: src/olympia/constants/categories.py:87
 msgid "Download extensions that enhance bookmarks by password-protecting them, searching for duplicates, finding broken bookmarks, and more."
 msgstr "Sader isiɣzaf i yesnernayen ticraḍ n yisebtar s ummesten-nsen s wawal uffir, s unadi n wid yellan yakan, tifin n tecraḍ yeṛzen, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:97
+#: src/olympia/constants/categories.py:94
 msgid "Download Management"
 msgstr "Asefrek n usader"
 
-#: src/olympia/constants/categories.py:99
+#: src/olympia/constants/categories.py:96
 msgid "Download Firefox extensions that can help download web, music and video content. You can also find extensions to manage downloads, share files, and more."
 msgstr "Sader isiɣzaf Firefox i izemren ad ɛiwnen deg usader n ugbur web, aẓawan akked tvidyutin. Tzemreḍ daɣen ad tafeḍ isiɣzaf i usefrek n yiadaren, beṭṭu n yifuyla d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:106
+#: src/olympia/constants/categories.py:103
 msgid "Feeds, News & Blogging"
 msgstr "Isuddam, isallen & ublugi"
 
-#: src/olympia/constants/categories.py:108
+#: src/olympia/constants/categories.py:105
 msgid "Download Firefox extensions that remove clutter so you can stay up-to-date on social media, catch up on blogs, RSS feeds, reduce eye strain, and more."
 msgstr "Sader isiɣzaf Firefox ittekksen aexluḍ n yisefka deg yiẓeḍwa n tmetti, aqdaɛ n wayen yellan deg yiblugen, isuddam RSS, asenɣeṣ n ɛeyyu n wallen, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:115
+#: src/olympia/constants/categories.py:112
 msgid "Games & Entertainment"
 msgstr "Uraren & Zhu"
 
-#: src/olympia/constants/categories.py:117
+#: src/olympia/constants/categories.py:114
 msgid "Download Firefox extensions to boost your entertainment experience. This category includes extensions that can enhance gaming, control video playback, and more."
 msgstr "Sader isiɣzaf Firefox akken ad tesnerniḍ tarmit-ik n zhu. Taggayt-a tegber isiɣzaf i yezemren ad snernin uraren, taɣuri n tvidyutin, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:124
+#: src/olympia/constants/categories.py:121
 msgid "Language Support"
 msgstr "Asefrek n tutlayt"
 
-#: src/olympia/constants/categories.py:126
+#: src/olympia/constants/categories.py:123
 msgid "Download Firefox extensions that offer language support like grammar check, look-up words, translate text, provide text-to-speech, and more."
 msgstr "Sader isiɣzaf Firefox yettmuddun asefrek n tutlayt am usenqed n tjeṛṛumt, anadi n wawalen, tasuqqilt n yiḍrien, aḍris ɣer taɣect, atg."
 
-#: src/olympia/constants/categories.py:133
+#: src/olympia/constants/categories.py:130
 msgid "Photos, Music & Videos"
 msgstr "Tiwlafin, aẓawan & tvidyutin"
 
-#: src/olympia/constants/categories.py:135
+#: src/olympia/constants/categories.py:132
 msgid "Download Firefox extensions that enhance photo, music and video experiences. Extensions in this category modify audio and video, reverse image search, and more."
 msgstr "Sader isiɣzaf Firefox yesnernayen aseqdec n tewlafin, aẓawan d tvidyutin. Isiɣzaf n taggayt-a sirigen abeddel  n yifuyla imeslawen akked tvidyutin, anadi n tewlafin yettin, d wayen-nniḍen."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1132
 msgid "Privacy & Security"
 msgstr "Tabaḍnit  & Taɣellist"
 
-#: src/olympia/constants/categories.py:144
+#: src/olympia/constants/categories.py:141
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
 msgstr "Sader isiɣzaf Firefox i tunigin s wudem abaḍni neɣ aɣellsan. Taggayt-a tegber isiɣzaf yessirigen asewḥel n udellel, asewḥel n uḍfaṛ, asefrek n uwehhi, atg."
 
-#: src/olympia/constants/categories.py:152
+#: src/olympia/constants/categories.py:149
 msgid "Search Tools"
 msgstr "Ifecka n unadi"
 
-#: src/olympia/constants/categories.py:154
+#: src/olympia/constants/categories.py:151
 msgid "Download Firefox extensions for search and look-up. This category includes extensions that highlight and search text, lookup IP addresses/domains, and more."
 msgstr "Sader isiɣzaf Firefox i unadi. Taggayt-a tegber isiɣzaf yessebruṛuqen neɣ yettnadin aḍris, tansiwin IP/tiɣula d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:161
+#: src/olympia/constants/categories.py:158
 msgid "Shopping"
 msgstr "Tiɣin"
 
-#: src/olympia/constants/categories.py:163
+#: src/olympia/constants/categories.py:160
 msgid "Download Firefox extensions that can enhance your online shopping experience with coupon finders, deal finders, review analyzers, more."
 msgstr "Sader isiɣzaf Firefox yesnernayen tarmit-ik n tiɣin srid s yifecka n yitikiyen n useɣes di ssuma, ifecka n unadi n yiweẓla igerrzen, inaslaḍen n uktazal, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:170
+#: src/olympia/constants/categories.py:167
 msgid "Social & Communication"
 msgstr "Timetti & Taɣwalt"
 
-#: src/olympia/constants/categories.py:172
+#: src/olympia/constants/categories.py:169
 msgid "Download Firefox extensions to enhance social media and instant messaging. This category includes improved tab notifications, video downloaders, and more."
 msgstr "Sader isiɣzaf Firefox yesnernayen iẓedwa n tmetti akked yifecka n usefrek n yiznan imiranen. Taggayt-a tegber ilɣa n yiccaren yennerna, ifecka n usader n tvidyutin d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:179
+#: src/olympia/constants/categories.py:176
 msgid "Tabs"
 msgstr "Iccaren"
 
-#: src/olympia/constants/categories.py:181
+#: src/olympia/constants/categories.py:178
 msgid "Download Firefox extension to customize tabs and the new tab page. Discover extensions that can control tabs, change the way you interact with them, and more."
 msgstr ""
 "Sader isiɣzaf Firefox i tmerna n yiccaren udmawanen neɣ asebter amaynut n yiccer. Wali isiɣzaf i izemren ad erren iccaren n yiminig gar ifassen-ik,  ad snernin tarrayt n temyigawt yid-sen d wayen-"
 "nniḍen."
 
-#: src/olympia/constants/categories.py:188
+#: src/olympia/constants/categories.py:185
 msgid "Web Development"
 msgstr "Taneflit Web"
 
-#: src/olympia/constants/categories.py:190
+#: src/olympia/constants/categories.py:187
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Sader isiɣzaf Firefox yessumuren ifecka n tneflit web. Taggayt-a tegber isiɣzaf i GitHub, akken ad tbeddleḍ imeggi aseqdac, asefrek n yinagan n tuqqna d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
+#: src/olympia/constants/categories.py:195 src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:9
 msgid "Other"
 msgstr "Wiyaḍ"
 
-#: src/olympia/constants/categories.py:201
+#: src/olympia/constants/categories.py:198
 msgid "Download Firefox extensions that can be unpredictable and creative, yet useful for those odd tasks."
 msgstr "Sader isiɣzaf Firefox izemren ad k-swehmen, maca lhan i umahil ur nettwassen ara aṭas."
 
-#: src/olympia/constants/categories.py:209
+#: src/olympia/constants/categories.py:206
 msgid "Abstract"
 msgstr "Agzul"
 
-#: src/olympia/constants/categories.py:211
+#: src/olympia/constants/categories.py:208
 msgid "Download Firefox artistic and conceptual themes. This category includes colorful palettes and shapes, fantasy landscapes, playful cats, psychedelic flowers."
 msgstr "Sader isental Firefox n tẓuri d ufeṣṣel. Taggayt-a tegber initen, talɣiwin, udmawen n unecṛaḥ, imcac, ijeggigen."
 
-#: src/olympia/constants/categories.py:218
+#: src/olympia/constants/categories.py:215
 msgid "Causes"
 msgstr "Tignatin"
 
-#: src/olympia/constants/categories.py:220
+#: src/olympia/constants/categories.py:217
 msgid "Download Firefox themes for niche interests and topics. This category includes sports themes, holidays, philanthropic causes, nationalities, and much more."
 msgstr "Sader isental Firefox i yisental d wayen i tḥemmleḍ. Taggayt-a tegber isental n waddal, imuṛas, leqdic n tcemlit, timura d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:227
+#: src/olympia/constants/categories.py:224
 msgid "Fashion"
 msgstr "Amaynut"
 
-#: src/olympia/constants/categories.py:229
+#: src/olympia/constants/categories.py:226
 msgid "Download Firefox themes that celebrate style of all forms—patterns, florals, textures, models, and more."
 msgstr "Sader isental Firefox yesfugulen aɣanib-ik anurif n yal talɣa — tineɣrufin, initen, talɣiwind wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:235
+#: src/olympia/constants/categories.py:232
 msgid "Film and TV"
 msgstr "Isura & Tiliẓri"
 
-#: src/olympia/constants/categories.py:237
+#: src/olympia/constants/categories.py:234
 msgid "Download Firefox themes with movies and television. This category includes anime like Uchiha Madara, movies like The Matrix, shows (Game of Thrones), and more."
 msgstr "Sader isental n Firefox i d-yekkan seg yisura akked tiliẓri. Taggayt-a tegber unuɣen yettḥerriken am Uchiha Madara, isura am Matrix, tidwilin am (Game n Thrones), d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:246
+#: src/olympia/constants/categories.py:243
 msgid "Download Firefox themes with the Firefox browser theme. This category includes colorful, diverse depictions of the Firefox logo, including more general fox themes."
 msgstr "Asali n usentel Firefox akked uɣaniv n uminig . Taggayt-a tesɛa initen , tagensest n ulugut n Firefox , d ugar n iɣunav imuta fox.  "
 
-#: src/olympia/constants/categories.py:253
+#: src/olympia/constants/categories.py:250
 msgid "Foxkeh"
 msgstr "Foxkeh"
 
-#: src/olympia/constants/categories.py:255
+#: src/olympia/constants/categories.py:252
 msgid "Download Firefox themes with the Japanese Firefox. This category includes themes that depict the cute Foxkeh mascot in various poses on diverse landscapes."
 msgstr "Sader isental Firefox s Firefox Ajapuni. Taggayt-a tegber isental i yessebganen tiḥerztin FocKeh tucbiḥin s ddeqs n wudmawen."
 
-#: src/olympia/constants/categories.py:262
+#: src/olympia/constants/categories.py:259
 msgid "Holiday"
 msgstr "Amras"
 
-#: src/olympia/constants/categories.py:264
+#: src/olympia/constants/categories.py:261
 msgid "Download Firefox themes with holidays. This category includes Christmas, Halloween, Thanksgiving, St. Patrick’s Day, Easter, Fourth of July, and more."
 msgstr "Sader isental Firefox ɣef yimuṛas. Taggayt-a tegber isental yemmalen Noël, Haloween, Thanksgiving, St. Patrick’s Day, Easter, Rebɛa seg Yulyu, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:271
+#: src/olympia/constants/categories.py:268
 msgid "Music"
 msgstr "Aẓawan"
 
-#: src/olympia/constants/categories.py:273
+#: src/olympia/constants/categories.py:270
 msgid "Download Firefox themes for musical interests and artists. This category includes popular bands like Nirvana and BTS, instruments, music videos, and much more."
 msgstr "Sader isental i Firefox i yemṣadan d uẓawan d yinaẓuren i tḥemmleḍ. Taggayt-a tegber tirebbaɛ tiɣerffanin am Nirvana d BTS, allalen n uẓawan, tividyutin n uẓawan, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:281
+#: src/olympia/constants/categories.py:278
 msgid "Nature"
 msgstr "Agama"
 
-#: src/olympia/constants/categories.py:283
+#: src/olympia/constants/categories.py:280
 msgid "Download Firefox themes with animals and natural landscapes. This category includes flowers, sunsets, foxes, seasons, planets, kittens, birds, and more."
 msgstr "Sader isental i Firefox ɣef yiɣersiwen d ugama. Taggayt-a tegber ijeggigen, aɣelluy n yiṭij, uccanen, tisemhuyin, imtiwagen, imcac meẓẓiyen, igḍaḍ, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:293
+#: src/olympia/constants/categories.py:290
 msgid "Download Firefox themes that are interesting, creative, and unique."
 msgstr "Sader isental yelhan i Firefox, d ucbiḥen, ur sɛin timital."
 
-#: src/olympia/constants/categories.py:298
+#: src/olympia/constants/categories.py:295
 msgid "Scenery"
 msgstr "Iẓir"
 
-#: src/olympia/constants/categories.py:300
+#: src/olympia/constants/categories.py:297
 msgid "Download Firefox themes that feature the environment and the natural world. This category includes sunsets, beaches, illustrations, city skylines, and more."
 msgstr "Sader isental i Firefox i d-yeskanen tawennadt akked umaḍal n ugama. Taggayt-a tegber aɣelluy n yiṭij, tiftisin, unuɣen, iglan n temdinin, d wayen-nniḍen."
 
-#: src/olympia/constants/categories.py:307
+#: src/olympia/constants/categories.py:304
 msgid "Seasonal"
 msgstr "Asemhay"
 
-#: src/olympia/constants/categories.py:309
+#: src/olympia/constants/categories.py:306
 msgid "Download Firefox themes for all four seasons—fall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
 msgstr "Sader isental n Firefox yal tasemhuyt — amwan, tagrest, tafsut, d unebdu. Ifriwen n umwan, tiqiṛṛucin n udfel, ussan n unebdu s yiṭij akked ijeǧǧigen n tefsut."
 
-#: src/olympia/constants/categories.py:316
+#: src/olympia/constants/categories.py:313
 msgid "Solid"
 msgstr "Ukmil"
 
-#: src/olympia/constants/categories.py:318
+#: src/olympia/constants/categories.py:315
 msgid "Download Firefox themes with solid and gradient colors to personalize your browser. This category includes bold reds, pastels, soft greys, and much more."
 msgstr "Sader isental i Firefox s yiniten yedduklen neɣ udabder akken ad tmuddeḍ udem i Firefox. Taggayt-a tegber azeggaɣ iḥ€mqen, pastel, amumad aceɛlal, atg."
 
-#: src/olympia/constants/categories.py:325
+#: src/olympia/constants/categories.py:322
 msgid "Sports"
 msgstr "Addal"
 
-#: src/olympia/constants/categories.py:327
+#: src/olympia/constants/categories.py:324
 msgid "Download Firefox themes that feature a variety of sports. This category includes country flags, sports teams, soccer, hockey, and more."
 msgstr "Sader isental Firefox i d-yekkan seg ddeqs n waddalen. Taggayt-a tegber anayen n tmura, tirebbaɛ n waddal, ddabax n uḍaṛ, hockey, d wayen-nniden."
 
-#: src/olympia/constants/categories.py:334
+#: src/olympia/constants/categories.py:331
 msgid "Websites"
 msgstr "Ismal web"
 
-#: src/olympia/constants/categories.py:336
+#: src/olympia/constants/categories.py:333
 msgid "Download Firefox themes that capture the essence of the web—captivating, unusual, and distinctive."
 msgstr "Sader isental Firefox i ijebbden ul n web — ijebbed, izehhu daɣen ur yesɛi timital."
 
-#: src/olympia/constants/categories.py:341 src/olympia/constants/categories.py:342
+#: src/olympia/constants/categories.py:338 src/olympia/constants/categories.py:339
 msgid "General"
 msgstr "Amatu"
 
@@ -1804,282 +1812,282 @@ msgstr "Isnifal n melmi kan i yizegrar-iw"
 msgid "Open Search add-ons are {blog_link_open}no longer supported on AMO{blog_link_close}. You can create a {doc_link_open}search extension instead{doc_link_close}."
 msgstr "Izegrar Open Search ur ttusefraken ara s {blog_link_open}ɣef AMO{blog_link_close}. Tzemreḍ ad d-ternuḍ aseɣzaf n unadi {doc_link_open}deg wadeg n{doc_link_close}."
 
-#: src/olympia/devhub/forms.py:99
+#: src/olympia/devhub/forms.py:100
 msgid "This slug is already in use. Please choose another."
 msgstr "Anegzum-agi  yettwaseqdec yakan. Ma ulac aɣilif ɛreḍ wayeḍ."
 
-#: src/olympia/devhub/forms.py:102
+#: src/olympia/devhub/forms.py:103
 #, python-format
 msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Anegzum-agi ur yizmir ara ad yili d \"%(slug)s\". Ma ulac aɣilif fren wayeḍ."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:222
+#: src/olympia/devhub/forms.py:223
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Tzemreḍ kan ad tesɛuḍ {0} n taggayt."
 msgstr[1] "Tzemreḍ kan ad tesɛuḍ {0} n taggayin."
 
-#: src/olympia/devhub/forms.py:232
+#: src/olympia/devhub/forms.py:233
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Taggayt Ayen nniḍen ur tezmir ara ad tettwaseqdec akked tiyaḍ."
 
-#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
+#: src/olympia/devhub/forms.py:253 src/olympia/devhub/forms.py:1369
 msgid "There was an error uploading your image."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:307
+#: src/olympia/devhub/forms.py:308
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "Taɣult n URL yessefk ad tili d yiwet seg [%s]."
 
-#: src/olympia/devhub/forms.py:323
+#: src/olympia/devhub/forms.py:324
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "Ɣur-k {0} ugar n tebzimin."
 msgstr[1] "Ɣur-wen {0} ugar n tebzimin."
 
-#: src/olympia/devhub/forms.py:342
+#: src/olympia/devhub/forms.py:343
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Send asnifel n usideg inek amezwer yessefk ad tmuddeḍ isem, agzul akked uglam deg usideg agi aneggaru. Mazal xuṣṣen %s."
 
-#: src/olympia/devhub/forms.py:430
+#: src/olympia/devhub/forms.py:431
 msgid "Users can not be added directly"
 msgstr "Iseqdacen ur zmiren ara ad ttwarnun srid"
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:505
 msgid "Must have at least one owner."
 msgstr "Yessefk ad yegber xaṛsum yiwen n bab."
 
-#: src/olympia/devhub/forms.py:506
+#: src/olympia/devhub/forms.py:507
 msgid "At least one author must be listed."
 msgstr "Yessef ad d-bedreḍ xaṛsum yiwen n umeskar."
 
-#: src/olympia/devhub/forms.py:554
+#: src/olympia/devhub/forms.py:555
 msgid "Slug incorrect."
 msgstr "Tinzimin mačči d timeɣta."
 
-#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:590 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Talqayt"
 
-#: src/olympia/devhub/forms.py:610
+#: src/olympia/devhub/forms.py:611
 msgid "What is your license's name?"
 msgstr "Dacu-t yisem n turagt inek?"
 
-#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
+#: src/olympia/devhub/forms.py:613 src/olympia/devhub/forms.py:660
 msgid "Custom License"
 msgstr "Turagt tudmawant"
 
-#: src/olympia/devhub/forms.py:617
+#: src/olympia/devhub/forms.py:618
 msgid "Provide the text of your license."
 msgstr "Mudd aḍis i turagt inek."
 
-#: src/olympia/devhub/forms.py:667
+#: src/olympia/devhub/forms.py:668
 msgid "License text is required when choosing Other."
 msgstr "Aḍris n uselkin yettwasra ticki tferneḍ wayed."
 
-#: src/olympia/devhub/forms.py:723
+#: src/olympia/devhub/forms.py:724
 msgid "This add-on has an End-User License Agreement"
 msgstr "Azegrir-agi ɣur-s tiwtilin timatutin n useqdec"
 
-#: src/olympia/devhub/forms.py:728
+#: src/olympia/devhub/forms.py:729
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Ma ulac aɣilif, sbadu tiwtilin timatutin n useqdec n uzgrir inek:"
 
-#: src/olympia/devhub/forms.py:731
+#: src/olympia/devhub/forms.py:732
 msgid "This add-on has a Privacy Policy"
 msgstr "Azegrir-agi ɣur-s tasertit tabaḍnit"
 
-#: src/olympia/devhub/forms.py:736
+#: src/olympia/devhub/forms.py:737
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Ma ulac aɣilif, mudd-d tasertit n tbadnit n uzegrir inek:"
 
-#: src/olympia/devhub/forms.py:771
+#: src/olympia/devhub/forms.py:773
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Anaw n ufaylu ur ittusefrak ara, ma ulac aɣilif sali afaylu n uḥraz {extensions}."
 
-#: src/olympia/devhub/forms.py:815
+#: src/olympia/devhub/forms.py:817
 msgid "View current"
 msgstr "Wal lqem amiran"
 
-#: src/olympia/devhub/forms.py:938
+#: src/olympia/devhub/forms.py:940
 msgid "Invalid version range."
 msgstr "Azilal n lqem mačči d ameɣtu."
 
-#: src/olympia/devhub/forms.py:1044
+#: src/olympia/devhub/forms.py:1046
 msgid "Need at least one compatible application."
 msgstr "Yesra xaṛsum yiwen n usnas amṣadan."
 
-#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
+#: src/olympia/devhub/forms.py:1088 src/olympia/devhub/forms.py:1146
 msgid "There was an error with your upload. Please try again."
 msgstr "Teḍra-d tuccḍa akked usali inek. Ma ulac aɣilif ɛreḍ tikelt nniḍen."
 
-#: src/olympia/devhub/forms.py:1091
+#: src/olympia/devhub/forms.py:1093
 msgid "Override failed validation"
 msgstr "Zgel asentem yeccḍen"
 
-#: src/olympia/devhub/forms.py:1101
+#: src/olympia/devhub/forms.py:1103
 msgid "Need to select at least one application."
 msgstr "Fren xarṣum yiwen n usnas."
 
-#: src/olympia/devhub/forms.py:1106
+#: src/olympia/devhub/forms.py:1108
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Ddeqs n yifuyla i d-tuzneḍ srid tineggura-a. Ma ulac aɣilif, ɛreḍ akka kra n wakud ticki."
 
-#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1157 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "Lqem {version} yuli yakan sakin yettwakkes"
 
-#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1166 src/olympia/devhub/forms.py:1172 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "Lqem {version} yella yakan."
 
-#: src/olympia/devhub/forms.py:1166
+#: src/olympia/devhub/forms.py:1168
 msgid "Continue with existing upload instead?"
 msgstr "Kemmel s tuzna yellan?"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Ih"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "Ala"
 
-#: src/olympia/devhub/forms.py:1219
+#: src/olympia/devhub/forms.py:1221
 msgid "You have not uploaded a source file."
 msgstr "Ur tessuliḍ ara afaylu aɣbalu."
 
-#: src/olympia/devhub/forms.py:1222
+#: src/olympia/devhub/forms.py:1224
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Afaylu aɣbalu dayen yettwasuder-d, maca tenniḍ-d belli aɣbalu ur ilaq."
 
-#: src/olympia/devhub/forms.py:1286
+#: src/olympia/devhub/forms.py:1288
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Ḍmen d dakken isem akked ugzul gebren ma aṭas {limit_value} n yisekkilen (ɣur-sen meṛṛa {show_value})."
 
-#: src/olympia/devhub/forms.py:1416
+#: src/olympia/devhub/forms.py:1418
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Deg usmel-a. <span class=\"helptext\">Asumer-inek•inem tettwabder s wudem azayaz deg {site_domain}. </span>"
 
-#: src/olympia/devhub/forms.py:1423
+#: src/olympia/devhub/forms.py:1425
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
 "on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1439
+#: src/olympia/devhub/forms.py:1441
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1477 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Sken-d Isem"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Confirm email address"
 msgstr "Sentem tansa n yimayl"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Generate new credentials"
 msgstr "Sirew talɣut tamaynut n usesteb"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke and regenerate credentials"
 msgstr "Ḥwi sakin sirew talɣut n usesteb"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1511
 msgid "Revoke"
 msgstr "Ḥwi"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1512
 msgid "Re-send email confirmation"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1567
+#: src/olympia/devhub/forms.py:1569
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1592
+#: src/olympia/devhub/forms.py:1594
 msgid "You don't have any API credentials."
 msgstr "Ur ɣur-k ara talɣut n usesteb API."
 
-#: src/olympia/devhub/forms.py:1603
+#: src/olympia/devhub/forms.py:1605
 msgid "Something went wrong, please contact developer support."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1682
+#: src/olympia/devhub/forms.py:1684
 msgid "Release notes"
 msgstr "Iwenniten n lqem"
 
-#: src/olympia/devhub/forms.py:1683
+#: src/olympia/devhub/forms.py:1685
 msgid "Automatic rollback based on version [m.m]."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/devhub/forms.py:1770
 msgid "You must select a channel and version to rollback to."
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1778
-msgid "Choose a category"
-msgstr "Fren taggayt"
-
-#: src/olympia/devhub/forms.py:1779
-msgid "Technical support for making your add-on compliant"
-msgstr ""
-
-#: src/olympia/devhub/forms.py:1780
-msgid "Issue with addons.mozilla.org"
-msgstr ""
-
-#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1783 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Asentel"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1785
 msgid "Summarize the issue in a few words"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1789
+msgid "Choose a category"
+msgstr "Fren taggayt"
+
+#: src/olympia/devhub/forms.py:1790
 msgid "Select category"
 msgstr "Fren taggayt"
 
-#: src/olympia/devhub/forms.py:1800
+#: src/olympia/devhub/forms.py:1795
 msgid "Give us more details about the issue"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1802
+#: src/olympia/devhub/forms.py:1797
 msgid "Describe the issue"
 msgstr ""
 
-#: src/olympia/devhub/tasks.py:179
+#: src/olympia/devhub/serializers.py:7
+msgid "Technical support for making your add-on compliant"
+msgstr ""
+
+#: src/olympia/devhub/serializers.py:8
+msgid "Issue with addons.mozilla.org"
+msgstr ""
+
+#: src/olympia/devhub/tasks.py:175
 msgid "Invalid or corrupt add-on file."
 msgstr "Afaylu n uzegrir d arameɣtu neɣ yexseṛ."
 
-#: src/olympia/devhub/tasks.py:381
+#: src/olympia/devhub/tasks.py:368
 msgid "Your developer API key was found in the submitted file. To protect your account, the key will be revoked."
 msgstr "Tasarut-ik API n tneflit tettwaf deg ufaylu yettwaznen. Akken ad tḥerzeḍ amiḍan-ik, tasarutt ad tattwaḥwi."
 
-#: src/olympia/devhub/tasks.py:388
+#: src/olympia/devhub/tasks.py:375
 msgid "The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked."
 msgstr "Tasarut-ik API n tneflit numeskar-nniḍen tettwaf deg ufaylu yettwaznen. Akken ad tḥerzeḍ amiḍan-ik, tasarutt ad tattwaḥwi."
 
-#: src/olympia/devhub/tasks.py:693
+#: src/olympia/devhub/tasks.py:680
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Ulqu n tɣellist n Mozilla: Inekcam-ik AMOAPI ttwaḥwin"
 
@@ -2093,262 +2101,262 @@ msgstr "Asentem yegla-d s ddeqs n tuccḍiwin /warnings ihi %s n yiznan ttwagezm
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr ""
 
-#: src/olympia/devhub/views.py:117
+#: src/olympia/devhub/views.py:131
 msgid "Updated"
 msgstr "Yettusnifel"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:118 src/olympia/devhub/views.py:128
+#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
 msgid "Name"
 msgstr "Isem"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:119 src/olympia/devhub/views.py:127
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
 msgid "Created"
 msgstr "Yettwarna"
 
-#: src/olympia/devhub/views.py:120 src/olympia/devhub/views.py:129 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Isidar"
 
-#: src/olympia/devhub/views.py:121 src/olympia/devhub/views.py:130
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
 msgid "Rating"
 msgstr "Asezmel"
 
-#: src/olympia/devhub/views.py:196
+#: src/olympia/devhub/views.py:210
 msgid "All My Add-ons"
 msgstr "Akk izegrar-iw"
 
-#: src/olympia/devhub/views.py:224
+#: src/olympia/devhub/views.py:238
 msgid "All Activity"
 msgstr "Akk armud"
 
-#: src/olympia/devhub/views.py:225
+#: src/olympia/devhub/views.py:239
 msgid "Add-on Updates"
 msgstr "Ileqman n uzegrir"
 
-#: src/olympia/devhub/views.py:226
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Status"
 msgstr "Addad n uzegrir"
 
-#: src/olympia/devhub/views.py:227
+#: src/olympia/devhub/views.py:241
 msgid "User Collections"
 msgstr "Tigrummiwin n useqdac"
 
-#: src/olympia/devhub/views.py:228
+#: src/olympia/devhub/views.py:242
 msgid "User Reviews"
 msgstr "Iceggiren n useqdac"
 
-#: src/olympia/devhub/views.py:376
+#: src/olympia/devhub/views.py:390
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Azegrir ur yezmir ara ad yettwakkes. Sens-it deg umḍiq n tukksa."
 
-#: src/olympia/devhub/views.py:387
+#: src/olympia/devhub/views.py:401
 msgid "Theme deleted."
 msgstr "Asentel yettwakkes."
 
-#: src/olympia/devhub/views.py:387
+#: src/olympia/devhub/views.py:401
 msgid "Add-on deleted."
 msgstr "Azegrir yettwakkes."
 
-#: src/olympia/devhub/views.py:393
+#: src/olympia/devhub/views.py:407
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "Tansa URL mačči d tameɣtut. Asentel ur yettwakkes ara."
 
-#: src/olympia/devhub/views.py:395
+#: src/olympia/devhub/views.py:409
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "Tansa URL mačči d tameɣtut. Azegrir ur yettwakkes ara."
 
-#: src/olympia/devhub/views.py:437
+#: src/olympia/devhub/views.py:451
 msgid "Request for a new review of listing content acknowledged."
 msgstr ""
 
-#: src/olympia/devhub/views.py:481
+#: src/olympia/devhub/views.py:495
 msgid "Invitation accepted."
 msgstr "Tinubga tettwaqbel."
 
-#: src/olympia/devhub/views.py:484
+#: src/olympia/devhub/views.py:498
 msgid "Invitation declined."
 msgstr "Tinubga tettwagi."
 
-#: src/olympia/devhub/views.py:552
+#: src/olympia/devhub/views.py:566
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "Imayl n usentem yettwazen ɣer {email}"
 
-#: src/olympia/devhub/views.py:569 src/olympia/devhub/views.py:1185
+#: src/olympia/devhub/views.py:583 src/olympia/devhub/views.py:1199
 msgid "Changes successfully saved."
 msgstr "Isnifal ttwakelsen akken iwata."
 
-#: src/olympia/devhub/views.py:589
+#: src/olympia/devhub/views.py:603
 msgid "Validate Add-on"
 msgstr "Sentem azegrir"
 
-#: src/olympia/devhub/views.py:660
+#: src/olympia/devhub/views.py:674
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr ""
 
-#: src/olympia/devhub/views.py:1040
+#: src/olympia/devhub/views.py:1054
 msgid "Icons must be either PNG or JPG."
 msgstr "Tiginitin zemrent kan ad ilint PNG neɣ JPG."
 
-#: src/olympia/devhub/views.py:1046
+#: src/olympia/devhub/views.py:1060
 msgid "Icons cannot be animated."
 msgstr "Tignitin ur zmirent ara ad mbiwlent."
 
-#: src/olympia/devhub/views.py:1072
+#: src/olympia/devhub/views.py:1086
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Yessefk tugna ad tili s xarṣum {0} n yipiksilen di tehri akked {1} n yipiksilen di teɣzi."
 
-#: src/olympia/devhub/views.py:1076
+#: src/olympia/devhub/views.py:1090
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Issefk tisektiwin n tugna ad ilint deg ufmiḍi 4:3."
 
-#: src/olympia/devhub/views.py:1084
+#: src/olympia/devhub/views.py:1098
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Issefk tignit ad tili xarṣum {0} n yipiksilen deg tehri akked teɣzi."
 
-#: src/olympia/devhub/views.py:1089
+#: src/olympia/devhub/views.py:1103
 msgid "Icon must be square (same width and height)."
 msgstr "Issefk tignit ad tili d amkuẓ (teɣzi tegda tehri)."
 
-#: src/olympia/devhub/views.py:1095
+#: src/olympia/devhub/views.py:1109
 msgid "There was an error uploading your preview."
 msgstr "Taḍra-d tuccḍa di tuzzna n teskant inek."
 
-#: src/olympia/devhub/views.py:1241
+#: src/olympia/devhub/views.py:1255
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
 "Lqem aneggaru yettwaqeblen i uzegrir-a %s ur izmir ara ad yettwakkes neɣ ad yens acku lqem aqbur ur yettwaqbel ara i usmel %s. Ma ulac aɣilif, nermes inedbalen n AMO ma tesriḍ tallelt ɣef waya."
 
-#: src/olympia/devhub/views.py:1248
+#: src/olympia/devhub/views.py:1262
 #, python-format
 msgid "Version %s disabled."
 msgstr "Lqem %s yensa."
 
-#: src/olympia/devhub/views.py:1252
+#: src/olympia/devhub/views.py:1266
 #, python-format
 msgid "Version %s deleted."
 msgstr "Lqem %s yettwakkes."
 
-#: src/olympia/devhub/views.py:1263
+#: src/olympia/devhub/views.py:1277
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Lqem %s yermed tikelt nniḍen."
 
-#: src/olympia/devhub/views.py:1279
+#: src/olympia/devhub/views.py:1293
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "Tuzna-agi ur teddi ara deg usentem, ihi tezmer akken ur yelli ara ɣur-s ugmuḍ n usentem. Ɣur-k ticki tettawraḍeḍ-tt."
 
-#: src/olympia/devhub/views.py:1338
+#: src/olympia/devhub/views.py:1352
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr ""
 
-#: src/olympia/devhub/views.py:1484
+#: src/olympia/devhub/views.py:1498
 msgid "Header area background"
 msgstr "Tallunt n ugerru"
 
-#: src/olympia/devhub/views.py:1486
+#: src/olympia/devhub/views.py:1500
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Initen n ugilal n uqeṛṛu, i d-yettwaseknen deg uḥric n uqerru ur neffir ara neɣ win yettbanen s tugna n uqerru. Urti n umeskan:   frame."
 
-#: src/olympia/devhub/views.py:1494
+#: src/olympia/devhub/views.py:1508
 msgid "Header area text and icons"
 msgstr "Aḍris akked tignitin n uqerru"
 
-#: src/olympia/devhub/views.py:1496
+#: src/olympia/devhub/views.py:1510
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Ini n uḍris akked tignitin deg tjumma n uqerru, anagar iccer urmid. Urti n umeskan:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1503
+#: src/olympia/devhub/views.py:1517
 msgid "Toolbar area background"
 msgstr "Agilal n ufeggag n yifecka"
 
-#: src/olympia/devhub/views.py:1505
+#: src/olympia/devhub/views.py:1519
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Ini n ugilal i ufeggag n tunigin, i ufeggag n tecraḍ n yisebatr akked yiccer urmid.  Urti n umeskan:  toolbar."
 
-#: src/olympia/devhub/views.py:1512
+#: src/olympia/devhub/views.py:1526
 msgid "Toolbar area text and icons"
 msgstr "Aḍris akked tignitin n ufeggag n yifecka"
 
-#: src/olympia/devhub/views.py:1514
+#: src/olympia/devhub/views.py:1528
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Ini n uḍris akked tignitin def ufeggag n yifecka akked yiccer urmid. Urti n umeskan:   bookmark_text."
 
-#: src/olympia/devhub/views.py:1521
+#: src/olympia/devhub/views.py:1535
 msgid "Toolbar field area background"
 msgstr "Agilal n wurtan n ufeggag n yifecka"
 
-#: src/olympia/devhub/views.py:1523
+#: src/olympia/devhub/views.py:1537
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Ini n ugilal i wurtan deg ufeggag n yifecka, am ufeggag n tensa. Urti n umeskan:   toolbar_field."
 
-#: src/olympia/devhub/views.py:1530
+#: src/olympia/devhub/views.py:1544
 msgid "Toolbar field area text"
 msgstr "Aḍris n wurtan n ufeggag n  yifecka"
 
-#: src/olympia/devhub/views.py:1532
+#: src/olympia/devhub/views.py:1546
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Ini n uḍris n wurtan deg ufeggag n yifecka, am ufeggag n tensa. Urti n umeskan:   toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1540
+#: src/olympia/devhub/views.py:1554
 msgid "Tab highlight"
 msgstr "Asebruraq n yiccer"
 
-#: src/olympia/devhub/views.py:1542
+#: src/olympia/devhub/views.py:1556
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr ""
 
-#: src/olympia/devhub/views.py:1645
+#: src/olympia/devhub/views.py:1659
 msgid "Add-on uploads are temporarily unavailable"
 msgstr ""
 
-#: src/olympia/devhub/views.py:2017
+#: src/olympia/devhub/views.py:2031
 msgid "Review requested."
 msgstr "Aceggir yettwasuter."
 
-#: src/olympia/devhub/views.py:2019
+#: src/olympia/devhub/views.py:2033
 msgid "You must provide further details to proceed."
 msgstr "Ilaq ugar n talɣut akken ad tkemleḍ."
 
-#: src/olympia/devhub/views.py:2126
+#: src/olympia/devhub/views.py:2140
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr ""
 
-#: src/olympia/devhub/views.py:2141
+#: src/olympia/devhub/views.py:2155
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Talɣut inek n usesteb tettwaḥwi ihi ur tezgi d tameɣtut."
 
-#: src/olympia/devhub/views.py:2152
+#: src/olympia/devhub/views.py:2166
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr ""
 
-#: src/olympia/devhub/views.py:2180
+#: src/olympia/devhub/views.py:2194
 msgid "New API key created"
 msgstr "Tasarutt API tamaynut tettwarna"
 
-#: src/olympia/devhub/views.py:2191
+#: src/olympia/devhub/views.py:2205
 msgid "API key revoked"
 msgstr "Tasarutt API tettwaḥwi"
 
-#: src/olympia/devhub/views.py:2251
+#: src/olympia/devhub/views.py:2265
 msgid "Verify email"
 msgstr "Senqed tansa imayl"
 
-#: src/olympia/devhub/views.py:2253
+#: src/olympia/devhub/views.py:2267
 msgid "Send another email"
 msgstr "Azen imayl niḍen"
 
-#: src/olympia/devhub/views.py:2286
+#: src/olympia/devhub/views.py:2300
 msgid "Your email has been verified"
 msgstr "Imayl-ik yettwasenqed"
 
-#: src/olympia/devhub/views.py:2348
+#: src/olympia/devhub/views.py:2366
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr ""
 
@@ -2446,8 +2454,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2709,8 +2717,8 @@ msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
-"<p>Izegrar zemren ad sɛun ugar n yiwen n umeskar s snat n twuriwin:</p> <ul> <li><b>Bab-is :</b> yezmer ad isefrek meṛṛa anaḍen n uzegrir, am timerna neɣ tukksa n yimeskaren</li> "
-"<li><b>Aneflay :</b> yezmer ad isefrek meṛṛa anaḍen, ala timerna neɣ tukksa n yimeskaren akked usefrek n usellek</li> </ul>"
+"<p>Izegrar zemren ad sɛun ugar n yiwen n umeskar s snat n twuriwin:</p> <ul> <li><b>Bab-is :</b> yezmer ad isefrek meṛṛa anaḍen n uzegrir, am timerna neɣ tukksa n yimeskaren</li> <li><b>Aneflay :</"
+"b> yezmer ad isefrek meṛṛa anaḍen, ala timerna neɣ tukksa n yimeskaren akked usefrek n usellek</li> </ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2905,8 +2913,8 @@ msgstr "Imayl"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Ma tebɣiḍ ad teskneḍ tansa n yimayl i usuter n tallelt, sekcem-itt dagi. Ma ɣur-k tansiwin-nniḍen i yal tutlayt, tzemreḍ ad ternuḍ tisuqilin-nniḍen n wurti-agi. Urti-agi ilaq kan i yizegrar "
 "yettwabedren."
@@ -2967,8 +2975,8 @@ msgstr "Tafelwit tamellalt"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Tafelwit d amḍiq ara yeǧǧen ad d-nmudd talɣut icudden ar uzegrir-ik, akken yebɣu yella lqem, i yimceggiren. Aseqdec-is ad d-imudd tarrayin n usekyed n uzegrir, akked yal talɣut-nniḍen izemren ad "
 "tmudd afus. Tafelwit-a ad izmiren ad ttbeddlen imceggiren."
@@ -3659,8 +3667,8 @@ msgstr "Uɣal"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3741,10 +3749,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3784,8 +3794,8 @@ msgid "Please complete your add-on by adding a version or missing metadata."
 msgstr "Ma ulac aɣilif, kemmel azegrir-ik s tmerna n lqem neɣ iɣefiseka ixuṣṣen."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
-msgid "You will receive an email when the review is complete. Until then, your add-on is not listed in our gallery but can be accessed directly from its details page. "
-msgstr "Ad -dremseḍ imayl ticki acegger yemmed. Uqbel aya, azegrir-ik ur d-yettban ara deg tmidelt maca ad tizmireḍ ad tkecmeḍ srid seg usebter n telqayt."
+msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
+msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -3918,8 +3928,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -6548,7 +6558,7 @@ msgstr "Ur tezmireḍ ar ad ternuḍ ileqman i yettwabedren i uzegrir yellan deg
 msgid "You cannot add a listed version to this add-on via the API due to missing metadata. Please submit via the website"
 msgstr "Ur tezmireḍ ara ad tbedreḍ lqem-a n uzegrir s API imi tettuḍ iɣef isefka. Ma ulac aɣilif, azen-d deg usmel web"
 
-#: src/olympia/signing/views.py:292
+#: src/olympia/signing/views.py:285
 msgid "No uploaded file for that add-on and version."
 msgstr "Ulac afaylu yulin i uzegrir neɣ lqem-nni."
 
@@ -6940,8 +6950,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Arama kan ur yeddi ara akked <a href=\"https://www.mozilla.org/about/legal/\">tizmilin tusdifin</a>, agbur n usmel-agi yella ddaw n turagt <a href=\"https://creativecommons.org/licenses/by-"
-"sa/3.0/\">Creative Commons Attribution Share-Alike v3.0</a> neɣ ileqman imaynuten."
+"Arama kan ur yeddi ara akked <a href=\"https://www.mozilla.org/about/legal/\">tizmilin tusdifin</a>, agbur n usmel-agi yella ddaw n turagt <a href=\"https://creativecommons.org/licenses/by-sa/3.0/"
+"\">Creative Commons Attribution Share-Alike v3.0</a> neɣ ileqman imaynuten."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7003,36 +7013,36 @@ msgstr "Tebɣiḍ ad tekkseḍ akk <b>{0}</b> n tsuqilin? Ur tezmireḍ ara ad t
 msgid "Delete Locale"
 msgstr "Kkes tutlayt"
 
-#: src/olympia/users/models.py:90
+#: src/olympia/users/models.py:92
 msgid "No user with that email."
 msgstr "Ulac aseqdac s yimayl-agi."
 
-#: src/olympia/users/models.py:681
+#: src/olympia/users/models.py:683
 #, python-brace-format
 msgid "Firefox user {id}"
 msgstr "Aseqdac Firefox {id}"
 
-#: src/olympia/users/models.py:933
+#: src/olympia/users/models.py:943
 msgid "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
 msgstr ""
 
-#: src/olympia/users/models.py:1104
+#: src/olympia/users/models.py:1177
 msgid "The email address used for your account is not allowed for submissions."
 msgstr "Tansa n yimayl i yettwasqedcen i yumiḍan-ik ur tettwaqbal ara i tuzna."
 
-#: src/olympia/users/models.py:1237
+#: src/olympia/users/models.py:1364
 msgid "The software or device you are using is not allowed for submissions."
 msgstr ""
 
-#: src/olympia/users/models.py:1363
+#: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Send ad tebduḍ, ɣer syen qbel ma ulac aɣilif amtawa n uzuzer n yizegrar n Firefox akked tsertit tabaḍnit d yilugan n ucegger. Amtawa n uzuzer i yizegrar Firefox yegber aseɣwen ar tsertit-nneɣ "
 "tabaḍnit i d-yessegzayen amek i nessefrak talɣut i ak-yeɛnan."
 
-#: src/olympia/users/models.py:1377
+#: src/olympia/users/models.py:1523
 #, python-brace-format
 msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Ma ulac aɣilif ɣer syen qbel amtawi n uzuzer n yizegrar n Firefox  akked tsertiyin n tbaḍnit d yilugan n ucegger s tirza ɣer {url}"
@@ -7144,7 +7154,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7153,48 +7164,48 @@ msgid ""
 "The Mozilla Add-ons Team"
 msgstr ""
 
-#: src/olympia/versions/models.py:1140
+#: src/olympia/versions/models.py:1150
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
 msgstr ""
 
-#: src/olympia/versions/models.py:1145
+#: src/olympia/versions/models.py:1155
 msgid "Auto-approved, Confirmed"
 msgstr "Aqbal awurman, yentem"
 
-#: src/olympia/versions/models.py:1147
+#: src/olympia/versions/models.py:1157
 msgid "Auto-approved, not Confirmed"
 msgstr "Aqbal awurman, ur yentim ara"
 
-#: src/olympia/versions/models.py:1150
+#: src/olympia/versions/models.py:1160
 msgid "Approved, Manual"
 msgstr "Yettwasentem, s ufus"
 
-#: src/olympia/versions/models.py:1157
+#: src/olympia/versions/models.py:1167
 msgid "Disabled by Developer"
 msgstr "Yettwasens sur uneflay"
 
-#: src/olympia/versions/models.py:1515
+#: src/olympia/versions/models.py:1525
 #, python-brace-format
 msgid "{app} {min} and later"
 msgstr "{app} {min} neɣ ugar"
 
-#: src/olympia/versions/models.py:1642
+#: src/olympia/versions/models.py:1652
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
 msgstr "Aɣbalu n usebded {origin} ur yettusireg ara."
 
-#: src/olympia/versions/utils.py:198
+#: src/olympia/versions/utils.py:195
 #, python-brace-format
 msgid "Version {version_string} was uploaded before and deleted."
 msgstr "Lqem {version_string} yuli yakan sakin yettwakkes."
 
-#: src/olympia/versions/utils.py:200
+#: src/olympia/versions/utils.py:197
 #, python-brace-format
 msgid "Version {version_string} already exists."
 msgstr "Lqem {version_string} yella yakan."
 
-#: src/olympia/versions/utils.py:220
+#: src/olympia/versions/utils.py:217
 #, python-brace-format
 msgid "Version {version_string} must be greater than the previous approved version {previous_version_string}."
 msgstr ""

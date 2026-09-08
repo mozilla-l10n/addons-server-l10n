@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-08 16:33+0000\n"
 "Language: fur\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -77,8 +79,8 @@ msgstr "Graciis de segnalazion."
 msgid ""
 "We have already reviewed a similar appeal from another reporter, and have reversed our prior decision. We have taken action against the content and/or account holder in accordance with our policies."
 msgstr ""
-"O vin za revisionât un ricors simil de bande di un altri utent e o vin anulât la nestre decision di prime. O vin cjapât provediments cuintri i contignûts e/o il titolâr dal account in conformitât cu"
-" lis nestris politichis."
+"O vin za revisionât un ricors simil de bande di un altri utent e o vin anulât la nestre decision di prime. O vin cjapât provediments cuintri i contignûts e/o il titolâr dal account in conformitât "
+"cu lis nestris politichis."
 
 #: src/olympia/abuse/templates/abuse/appeal.html:38
 msgid "Because the decision you are appealing has already been overturned, your appeal will not be processed."
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -118,7 +121,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -127,7 +131,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -136,14 +141,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -152,7 +158,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -161,7 +168,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -211,24 +219,24 @@ msgstr "No son consintûts colegaments."
 msgid "This display name cannot be used."
 msgstr "Nol è pussibil doprâ chest non pe visualizazion."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1042
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1056
 msgid "Images must be either PNG or JPG."
 msgstr "Lis imagjins a scugnin jessi in formât PNG o JPG."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1048
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1062
 msgid "Images cannot be animated."
 msgstr "Lis imagjins no puedin jessi animadis."
 
-#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1057
+#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1071
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Dopre imagjins plui piçulis di %dMB."
 
-#: src/olympia/accounts/views.py:206
+#: src/olympia/accounts/views.py:208
 msgid "Need help?"
 msgstr "Ti covential jutori?"
 
-#: src/olympia/accounts/views.py:773
+#: src/olympia/accounts/views.py:775
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "La notifiche [%s] no esist"
@@ -282,11 +290,11 @@ msgstr "Non di categorie no valit."
 msgid "URL domain must be one of [{domains}]."
 msgstr "Il domini dal URL al scugne jessi un tra [{domains}]."
 
-#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:313
+#: src/olympia/addons/fields.py:125 src/olympia/devhub/forms.py:314
 msgid "URL path for GitHub Sponsors must contain /sponsors/."
 msgstr "Il percors dal URL pai sponsors GitHub al scugne contignî /sponsors/."
 
-#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:316
+#: src/olympia/addons/fields.py:128 src/olympia/devhub/forms.py:317
 msgid "URLs must start with https://."
 msgstr "I URLs a scugnin scomençâ cun https://."
 
@@ -300,7 +308,7 @@ msgstr "La licence cun slug={value} no esist."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Gjenar di file no supuartât. cjame in rêt un file archivi ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:803 src/olympia/files/utils.py:774
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:774
 msgid "Invalid or broken archive."
 msgstr "Archivi no valit o ruvinât."
 
@@ -368,7 +376,7 @@ msgstr "Nol è pussibil inviâ lis versions listadis intant che il component adi
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s no son supuartâts di %(app_name)s"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:957
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:959
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "Interval di versions no valit. Par Firefox par Android tu puedis selezionâ dome un interval che al tache cu la version %(max)s o superiôr o che al finìs cuntune version inferiôr a %(min)s."
@@ -385,11 +393,11 @@ msgstr "I components adizionâi a àn bisugne di almancul un autôr listât."
 msgid "Account not found."
 msgstr "Account no cjatât."
 
-#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:457 src/olympia/devhub/forms.py:527
+#: src/olympia/addons/serializers.py:982 src/olympia/devhub/forms.py:458 src/olympia/devhub/forms.py:528
 msgid "An author can only be present once."
 msgstr "Ogni autôr al pues vê dome une sole presince."
 
-#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:469
+#: src/olympia/addons/serializers.py:993 src/olympia/devhub/forms.py:470
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Par jessi zontât come autôr, l’account al à di jessi dotât di un non di visualizazion."
 
@@ -510,7 +518,7 @@ msgstr "Cjame in rêt un gnûf teme"
 msgid "Developer Hub"
 msgstr "Centri di svilup"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2168
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2182
 msgid "Manage API Keys"
 msgstr "Gjestion clâfs API"
 
@@ -612,8 +620,8 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>Nus displâs, no rivìn a cjatâ ce che tu stâs cirint.</h1> <p> La pagjine o il file domandâts no son disponibii su chest sît. Al è pussibil che tu vedis doprât un colegament scjadût o fat un erôr"
-" di scriture de direzion.</p> <ul> <li>Se tu âs inserît la direzion a man, verifiche che no vedi erôrs di scriture.</li> <li> Se invezit tu âs viert un colegament su chest sît, "
+"<h1>Nus displâs, no rivìn a cjatâ ce che tu stâs cirint.</h1> <p> La pagjine o il file domandâts no son disponibii su chest sît. Al è pussibil che tu vedis doprât un colegament scjadût o fat un "
+"erôr di scriture de direzion.</p> <ul> <li>Se tu âs inserît la direzion a man, verifiche che no vedi erôrs di scriture.</li> <li> Se invezit tu âs viert un colegament su chest sît, "
 "%(open_bug_link)svierç une segnalazion di erôr%(close_bug_link)s. Spieghinus il percors fat e ce che tu stavis cirint, o fasarìn di dut par comedâ l'erôr.</li></ul><p>In alternative, tu puedis "
 "visitâ cualchidune des pagjinis plui popolârs dal nestri sît.</p><ul><li>Desideristu cognossi <a href=\"%(rec)s\">i components adizionâi conseâts di nô</a>?</li><li>Opûr preferissistu <a "
 "href=\"%(search)s\">cirînt un par to cont</a>? Tu puedis fâlu sedi de  <a href=\"%(search)s\">pagjine di ricercje</a>, sedi midiant il cjamp di ricercje chi sore.</li><li> Se tu preferissis tornâ a "
@@ -672,13 +680,13 @@ msgstr "Cjariament in rêt di components adizionâi disativât in mût temporani
 msgid "Add-on uploads have been temporarily disabled. Please check back later."
 msgstr "Il cjariament in rêt di components adizionâi al è stât disativât pal moment. Torne prove plui indevant."
 
-#: src/olympia/amo/templatetags/jinja_helpers.py:147
+#: src/olympia/amo/templatetags/jinja_helpers.py:144
 #, python-brace-format
 msgid "Add-ons for {0}"
 msgstr "Components adizionâi par {0}"
 
 #. L10n: relative time in the past, like '4 days ago'
-#: src/olympia/amo/templatetags/jinja_helpers.py:180
+#: src/olympia/amo/templatetags/jinja_helpers.py:177
 #, python-brace-format
 msgid "{0} ago"
 msgstr "{0} indaûr"
@@ -699,43 +707,43 @@ msgstr "Altri titul"
 msgid "Another Body"
 msgstr "Altri cuarp"
 
-#: src/olympia/api/authentication.py:65 src/olympia/api/authentication.py:252
+#: src/olympia/api/authentication.py:63 src/olympia/api/authentication.py:248
 msgid "Invalid Authorization header. No credentials provided."
 msgstr "Intestazion di autorizazion no valide. Nissune credenziâl indicade."
 
-#: src/olympia/api/authentication.py:73 src/olympia/api/authentication.py:256
+#: src/olympia/api/authentication.py:71 src/olympia/api/authentication.py:252
 msgid "Invalid Authorization header. Credentials string should not contain spaces."
 msgstr "Intestazion di autorizazion no valide. La stringhe des credenziâls no à di contignî spazis."
 
-#: src/olympia/api/authentication.py:109
+#: src/olympia/api/authentication.py:107
 msgid "Valid user session not found matching the provided session key."
 msgstr "No je stade cjatade une session utent valide che e corispuint ae clâf di session furnide."
 
-#: src/olympia/api/authentication.py:123
+#: src/olympia/api/authentication.py:121
 msgid "Access token refresh failed; user needs to login to FxA again."
 msgstr "Inzornament falît dal gjeton di acès; l’utent al à di jentrâ di gnûf su FxA."
 
-#: src/olympia/api/authentication.py:192
+#: src/olympia/api/authentication.py:188
 msgid "Wrong type for one or more keys in payload"
 msgstr "Une o plui clâfs dal contignût a son di gjenar sbaliât"
 
-#: src/olympia/api/authentication.py:195
+#: src/olympia/api/authentication.py:191
 msgid "Signature has expired."
 msgstr "La firme e je scjadude."
 
-#: src/olympia/api/authentication.py:198
+#: src/olympia/api/authentication.py:194
 msgid "Error decoding signature."
 msgstr "Erôr te decodifiche de firme."
 
-#: src/olympia/api/authentication.py:201
+#: src/olympia/api/authentication.py:197
 msgid "Invalid JWT Token."
 msgstr "Gjeton JWT no valit."
 
-#: src/olympia/api/authentication.py:291
+#: src/olympia/api/authentication.py:287
 msgid "Invalid token or hash."
 msgstr "Gjeton o hash no valits."
 
-#: src/olympia/api/authentication.py:294
+#: src/olympia/api/authentication.py:290
 msgid "Email address not found."
 msgstr "Direzion e-mail no cjatade."
 
@@ -767,7 +775,7 @@ msgstr "Al covente un valôr te localizazion predefinide di “{lang_code}” se
 msgid "Invalid pk or slug \"%s\" - object does not exist."
 msgstr "\"%s\" nol è un pk o un slug valit - l’ogjet nol esist."
 
-#: src/olympia/api/models.py:148
+#: src/olympia/api/models.py:147
 msgid "Confirmation for developer API keys"
 msgstr "Conferme par clâfs API di svilupadôr"
 
@@ -1303,7 +1311,7 @@ msgstr ""
 msgid "Decision made"
 msgstr ""
 
-#: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:244
+#: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:241
 msgid "Firefox"
 msgstr "Firefox"
 
@@ -1347,7 +1355,7 @@ msgstr "Contignûts schede refudâts"
 msgid "Disabled by Mozilla"
 msgstr "Disativât di Mozilla"
 
-#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1155
+#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1165
 msgid "Deleted"
 msgstr "Eliminât"
 
@@ -1471,260 +1479,260 @@ msgstr "Blocât"
 msgid "Restricted"
 msgstr "Limitât"
 
-#: src/olympia/constants/categories.py:68
+#: src/olympia/constants/categories.py:65
 msgid "Alerts & Updates"
 msgstr "Avîs & inzornaments"
 
-#: src/olympia/constants/categories.py:70
+#: src/olympia/constants/categories.py:67
 msgid "Download Firefox extensions that help you stay up-to-date, track tasks, improve efficiency. Find extensions that reload tabs, manage productivity, and more."
 msgstr ""
 "Discjame lis estensions par Firefox che ti judin a restâ inzornât, sta daûr ai tiei impegns e deventâ plui eficient(e). Scuvierç estensions che ti tornin a cjariâ lis schedis, che a gjestissin la "
 "produtivitât e che a ufrissin tantis altris funzionalitâts."
 
-#: src/olympia/constants/categories.py:78
+#: src/olympia/constants/categories.py:75
 msgid "Appearance"
 msgstr "Aspiet"
 
-#: src/olympia/constants/categories.py:80
+#: src/olympia/constants/categories.py:77
 msgid "Download extensions that modify the appearance of websites and the browser Firefox. This category includes extensions for dark themes, tab management, and more."
 msgstr "Discjame estensions par modificâ l’aspiet dai sîts web e de interface di Firefox. Cheste categorie e inclût estensions pai temis scûrs, la gjestion des schedis e ancjemò altri."
 
-#: src/olympia/constants/categories.py:88
+#: src/olympia/constants/categories.py:85
 msgid "Bookmarks"
 msgstr "Segnelibris"
 
-#: src/olympia/constants/categories.py:90
+#: src/olympia/constants/categories.py:87
 msgid "Download extensions that enhance bookmarks by password-protecting them, searching for duplicates, finding broken bookmarks, and more."
 msgstr "Discjame estensions che a miorin la gjestion di segnelibris protezintlis cuntune password, cjatant elements doplis o che no funzionin e tant altri."
 
-#: src/olympia/constants/categories.py:97
+#: src/olympia/constants/categories.py:94
 msgid "Download Management"
 msgstr "Gjestion files discjariâts"
 
-#: src/olympia/constants/categories.py:99
+#: src/olympia/constants/categories.py:96
 msgid "Download Firefox extensions that can help download web, music and video content. You can also find extensions to manage downloads, share files, and more."
 msgstr ""
-"Discjame estensions par Firefox che ti puedin judâ a discjariâ in mût sempliç contignûts web, musiche e videos. Tu cjatarâs ancje estensions par gjestî i files discjariâts, condividi files e ancjemò"
-" altri."
+"Discjame estensions par Firefox che ti puedin judâ a discjariâ in mût sempliç contignûts web, musiche e videos. Tu cjatarâs ancje estensions par gjestî i files discjariâts, condividi files e "
+"ancjemò altri."
 
-#: src/olympia/constants/categories.py:106
+#: src/olympia/constants/categories.py:103
 msgid "Feeds, News & Blogging"
 msgstr "Feeds, notiziis e blogs"
 
-#: src/olympia/constants/categories.py:108
+#: src/olympia/constants/categories.py:105
 msgid "Download Firefox extensions that remove clutter so you can stay up-to-date on social media, catch up on blogs, RSS feeds, reduce eye strain, and more."
 msgstr ""
 "Discjame estensions par Firefox che a gjavin i elements di disturp cussì di miorâ la esperience di navigazion sui social media, restâ inzornât cun blogs e feeds RSS, ma ancje diminuî il stracament "
 "dai voi e tant altri."
 
-#: src/olympia/constants/categories.py:115
+#: src/olympia/constants/categories.py:112
 msgid "Games & Entertainment"
 msgstr "Zûcs e divertiment"
 
-#: src/olympia/constants/categories.py:117
+#: src/olympia/constants/categories.py:114
 msgid "Download Firefox extensions to boost your entertainment experience. This category includes extensions that can enhance gaming, control video playback, and more."
 msgstr ""
 "Discjame estensions par Firefox che ti aumentaran la esperience di intratigniment. In cheste categorie tu cjatarâs estensions par miorâ la esperience di zûc, controlâ la riproduzion dai video e "
 "altri."
 
-#: src/olympia/constants/categories.py:124
+#: src/olympia/constants/categories.py:121
 msgid "Language Support"
 msgstr "Supuart lenghis"
 
-#: src/olympia/constants/categories.py:126
+#: src/olympia/constants/categories.py:123
 msgid "Download Firefox extensions that offer language support like grammar check, look-up words, translate text, provide text-to-speech, and more."
 msgstr "Discjame estensions par Firefox che a ufrissin supuart pes lenghis, come coretôrs ortografics, ricercje definizions di peraulis, traduzion di tescj, sintesi vocâl e altri."
 
-#: src/olympia/constants/categories.py:133
+#: src/olympia/constants/categories.py:130
 msgid "Photos, Music & Videos"
 msgstr "Fotos, musiche e videos"
 
-#: src/olympia/constants/categories.py:135
+#: src/olympia/constants/categories.py:132
 msgid "Download Firefox extensions that enhance photo, music and video experiences. Extensions in this category modify audio and video, reverse image search, and more."
 msgstr ""
 "Discjame estensions par Firefox che ti permetin di gjoldi al massim di fotos, musiche e videos. In cheste categorie tu cjatarâs estensions par modificâ audio e video, fâ ricercjis contrariis di une "
 "imagjin e tant altri."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:142 src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1132
 msgid "Privacy & Security"
 msgstr "Riservatece e sigurece"
 
-#: src/olympia/constants/categories.py:144
+#: src/olympia/constants/categories.py:141
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
 msgstr ""
 "Discjame estension par Firefox par navigâ in mût sigûr e riservât. Cheste categorie e inclût estensions par blocâ publicitâts fastidiosis, impedî aes spiis dai sîts di stâti daûr, gjestî i "
 "indreçaments viers altris sîts e ancjemò altri."
 
-#: src/olympia/constants/categories.py:152
+#: src/olympia/constants/categories.py:149
 msgid "Search Tools"
 msgstr "Struments di ricercje"
 
-#: src/olympia/constants/categories.py:154
+#: src/olympia/constants/categories.py:151
 msgid "Download Firefox extensions for search and look-up. This category includes extensions that highlight and search text, lookup IP addresses/domains, and more."
 msgstr "Discjame estensions par Firefox che ti judin a cirî e consultâ. In cheste categorie tu cjatarâs struments par evidenziâ e cirî test, cirî direzions IP e dominis e tant altri."
 
-#: src/olympia/constants/categories.py:161
+#: src/olympia/constants/categories.py:158
 msgid "Shopping"
 msgstr "Compris"
 
-#: src/olympia/constants/categories.py:163
+#: src/olympia/constants/categories.py:160
 msgid "Download Firefox extensions that can enhance your online shopping experience with coupon finders, deal finders, review analyzers, more."
 msgstr "Discjame estensions par Firefox che a miorin la esperience des compris in rêt, cun struments che a individuin coupons e ocasions, cun analizadôrs di recensions e tant altri."
 
-#: src/olympia/constants/categories.py:170
+#: src/olympia/constants/categories.py:167
 msgid "Social & Communication"
 msgstr "Social e comunicazion"
 
-#: src/olympia/constants/categories.py:172
+#: src/olympia/constants/categories.py:169
 msgid "Download Firefox extensions to enhance social media and instant messaging. This category includes improved tab notifications, video downloaders, and more."
 msgstr ""
 "Discjame estensions par Firefox che a miorin i social media e lis aplicazions pai messaçs istantanis. Cheste categorie e inclût notifichis avanzadis pes schedis, struments par discjariâ videos e "
 "tant altri."
 
-#: src/olympia/constants/categories.py:179
+#: src/olympia/constants/categories.py:176
 msgid "Tabs"
 msgstr "Schedis"
 
-#: src/olympia/constants/categories.py:181
+#: src/olympia/constants/categories.py:178
 msgid "Download Firefox extension to customize tabs and the new tab page. Discover extensions that can control tabs, change the way you interact with them, and more."
 msgstr "Discjame estensions par Firefox che a personalizin schedis e la pagjine des gnovis schedis. Scuvierç estensions par gjestî lis schedis, modificâ la maniere di cun lôr e ancjemò altri."
 
-#: src/olympia/constants/categories.py:188
+#: src/olympia/constants/categories.py:185
 msgid "Web Development"
 msgstr "Disvilup web"
 
-#: src/olympia/constants/categories.py:190
+#: src/olympia/constants/categories.py:187
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Discjame estensions par Firefox che a ufrissin struments pal disvilup dal web. In cheste categorie tu cjatarâs estensions par GitHub, cambi di agjent utent, gjestion dai cookies e tant altri."
 
-#: src/olympia/constants/categories.py:198 src/olympia/constants/categories.py:290 src/olympia/devhub/forms.py:639 src/olympia/devhub/forms.py:1781
+#: src/olympia/constants/categories.py:195 src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:9
 msgid "Other"
 msgstr "Altri"
 
-#: src/olympia/constants/categories.py:201
+#: src/olympia/constants/categories.py:198
 msgid "Download Firefox extensions that can be unpredictable and creative, yet useful for those odd tasks."
 msgstr "Discjame estension par Firefox che ti stupiran cu la lôr imprevedibilitât e creativitât, ma che a risultin ancje utilis pes ativitâts plui strambis."
 
-#: src/olympia/constants/categories.py:209
+#: src/olympia/constants/categories.py:206
 msgid "Abstract"
 msgstr "Astrat"
 
-#: src/olympia/constants/categories.py:211
+#: src/olympia/constants/categories.py:208
 msgid "Download Firefox artistic and conceptual themes. This category includes colorful palettes and shapes, fantasy landscapes, playful cats, psychedelic flowers."
 msgstr "Discjame temis artistics e astrats par Firefox. In cheste categorie tu cjatarâs tonalitâts di colôr e formis, paisaçs fantastics, gjats mateons e rosis psichedelichis."
 
-#: src/olympia/constants/categories.py:218
+#: src/olympia/constants/categories.py:215
 msgid "Causes"
 msgstr "Iniziativis"
 
-#: src/olympia/constants/categories.py:220
+#: src/olympia/constants/categories.py:217
 msgid "Download Firefox themes for niche interests and topics. This category includes sports themes, holidays, philanthropic causes, nationalities, and much more."
 msgstr "Discjame temis par Firefox su interès e argoments di nicje. In cheste categorie tu cjatarâs temis ispirâts a sport, fiestis, causis filantropichis, nazionalitâts e tancj altris argoments."
 
-#: src/olympia/constants/categories.py:227
+#: src/olympia/constants/categories.py:224
 msgid "Fashion"
 msgstr "Mode"
 
-#: src/olympia/constants/categories.py:229
+#: src/olympia/constants/categories.py:226
 msgid "Download Firefox themes that celebrate style of all forms—patterns, florals, textures, models, and more."
 msgstr "Discjame temis par Firefox che a celebrin il stîl in dutis lis formis — motîfs astrats, floreâls, tramis, modei e ancjemò altri."
 
-#: src/olympia/constants/categories.py:235
+#: src/olympia/constants/categories.py:232
 msgid "Film and TV"
 msgstr "Cine e tv"
 
-#: src/olympia/constants/categories.py:237
+#: src/olympia/constants/categories.py:234
 msgid "Download Firefox themes with movies and television. This category includes anime like Uchiha Madara, movies like The Matrix, shows (Game of Thrones), and more."
 msgstr ""
 "Discjame temis par Firefox cun sogjets tirâts fûr dai films e de television. In cheste categorie tu cjatarâs personaçs di cartons (anime) come Uchiha Madara, cines come Matrix, seriis TV e spetacui "
 "come il Scagn di spadis e tancj altris."
 
-#: src/olympia/constants/categories.py:246
+#: src/olympia/constants/categories.py:243
 msgid "Download Firefox themes with the Firefox browser theme. This category includes colorful, diverse depictions of the Firefox logo, including more general fox themes."
 msgstr ""
 "Discjame temis par Firefox che come sogjet a àn propite Firefox. In cheste categorie tu cjatarâs interpretazions coloridis e origjinâls dal logo Firefox, ma ancje temis plui gjenerics di bolps."
 
-#: src/olympia/constants/categories.py:253
+#: src/olympia/constants/categories.py:250
 msgid "Foxkeh"
 msgstr "Foxkeh"
 
-#: src/olympia/constants/categories.py:255
+#: src/olympia/constants/categories.py:252
 msgid "Download Firefox themes with the Japanese Firefox. This category includes themes that depict the cute Foxkeh mascot in various poses on diverse landscapes."
 msgstr "Discjame temis par Firefox cu la mascotte gjaponese di Firefox. In cheste categorie tu cjatarâs temis che par rafigurin la mascotte ninine Foxkeh in varis posis e su diviers fonts."
 
-#: src/olympia/constants/categories.py:262
+#: src/olympia/constants/categories.py:259
 msgid "Holiday"
 msgstr "Vacancis"
 
-#: src/olympia/constants/categories.py:264
+#: src/olympia/constants/categories.py:261
 msgid "Download Firefox themes with holidays. This category includes Christmas, Halloween, Thanksgiving, St. Patrick’s Day, Easter, Fourth of July, and more."
 msgstr ""
 "Discjame temis par Firefox cun sogjets di fieste. In cheste categorie tu cjatarâs Nadâl, Halloween, il dì dal ringraciament, il dì di San Patrizi, Pasche, il cuatri di Lui e tantis altris fiestis."
 
-#: src/olympia/constants/categories.py:271
+#: src/olympia/constants/categories.py:268
 msgid "Music"
 msgstr "Musiche"
 
-#: src/olympia/constants/categories.py:273
+#: src/olympia/constants/categories.py:270
 msgid "Download Firefox themes for musical interests and artists. This category includes popular bands like Nirvana and BTS, instruments, music videos, and much more."
 msgstr ""
 "Discjame temis di Firefox su interès e artiscj musicâi. In cheste categorie tu cjatarâs temis ispirâts a famôs grups musicâi come i Nirvana e i BTS, struments musicâi, videos musicâi e tant altri."
 
-#: src/olympia/constants/categories.py:281
+#: src/olympia/constants/categories.py:278
 msgid "Nature"
 msgstr "Nature"
 
-#: src/olympia/constants/categories.py:283
+#: src/olympia/constants/categories.py:280
 msgid "Download Firefox themes with animals and natural landscapes. This category includes flowers, sunsets, foxes, seasons, planets, kittens, birds, and more."
 msgstr "Discjame temis par Firefox cun animâi e paisaçs naturâi. In cheste categorie tu cjatarâs rosis, tramonts, bolps, stagjons, planets, tuiuts, ucei e altris maraveis de nature."
 
-#: src/olympia/constants/categories.py:293
+#: src/olympia/constants/categories.py:290
 msgid "Download Firefox themes that are interesting, creative, and unique."
 msgstr "Discjame i temis par Firefox che a son interessants, creatîfs e origjinâi."
 
-#: src/olympia/constants/categories.py:298
+#: src/olympia/constants/categories.py:295
 msgid "Scenery"
 msgstr "Paisaçs"
 
-#: src/olympia/constants/categories.py:300
+#: src/olympia/constants/categories.py:297
 msgid "Download Firefox themes that feature the environment and the natural world. This category includes sunsets, beaches, illustrations, city skylines, and more."
 msgstr "Discjame temis par Firefox ispirâts al ambient e al mont de nature. In cheste categorie tu cjatarâs tramonts, splazis, ilustrazions, viodudis urbanis e altri."
 
-#: src/olympia/constants/categories.py:307
+#: src/olympia/constants/categories.py:304
 msgid "Seasonal"
 msgstr "Stagjons"
 
-#: src/olympia/constants/categories.py:309
+#: src/olympia/constants/categories.py:306
 msgid "Download Firefox themes for all four seasons—fall, winter, spring, and summer. Autumn leaves, snowy mountain peaks, sunny summer days, and spring flowers."
 msgstr "Discjame temis par Firefox ispirâts aes cuatri stagjons—Sierade, Invier, Vierte e Istât. Fueis di Sierade, pics di montagne cuvierts di nêf, zornadis soregladis di Istât e rosutis aviertanis."
 
-#: src/olympia/constants/categories.py:316
+#: src/olympia/constants/categories.py:313
 msgid "Solid"
 msgstr "Colôrs uniformis"
 
-#: src/olympia/constants/categories.py:318
+#: src/olympia/constants/categories.py:315
 msgid "Download Firefox themes with solid and gradient colors to personalize your browser. This category includes bold reds, pastels, soft greys, and much more."
 msgstr ""
 "Discjame temis par Firefox che ti permetin di personalizâ il navigadôr cun tintis unidis o gradients. In cheste categorie tu cjatarâs ros ardîts, colôrs pastel, grîs lizêrs e tancj altris colôrs."
 
-#: src/olympia/constants/categories.py:325
+#: src/olympia/constants/categories.py:322
 msgid "Sports"
 msgstr "Sports"
 
-#: src/olympia/constants/categories.py:327
+#: src/olympia/constants/categories.py:324
 msgid "Download Firefox themes that feature a variety of sports. This category includes country flags, sports teams, soccer, hockey, and more."
 msgstr "Discjame temis par Firefox ispirâts al mont dal sport. In cheste categorie tu cjatarâs bandieris nazionâls, scuadris sportivis, balon, hockey e tancj altris sports."
 
-#: src/olympia/constants/categories.py:334
+#: src/olympia/constants/categories.py:331
 msgid "Websites"
 msgstr "Sîts web"
 
-#: src/olympia/constants/categories.py:336
+#: src/olympia/constants/categories.py:333
 msgid "Download Firefox themes that capture the essence of the web—captivating, unusual, and distinctive."
 msgstr "Discjame temis par Firefox che a caturis la sostance dal web—inmagants, fûr dal solit e unics."
 
-#: src/olympia/constants/categories.py:341 src/olympia/constants/categories.py:342
+#: src/olympia/constants/categories.py:338 src/olympia/constants/categories.py:339
 msgid "General"
 msgstr "Gjenerâl"
 
@@ -1842,285 +1850,285 @@ msgstr "Modifichis resintis pai miei components adizionâi"
 msgid "Open Search add-ons are {blog_link_open}no longer supported on AMO{blog_link_close}. You can create a {doc_link_open}search extension instead{doc_link_close}."
 msgstr "I components adizionâi Open Search {blog_link_open}no son plui supuartâts su AMO{blog_link_close}. Al lôr puest tu puedis creâ une {doc_link_open}estension di ricercje{doc_link_close}."
 
-#: src/olympia/devhub/forms.py:99
+#: src/olympia/devhub/forms.py:100
 msgid "This slug is already in use. Please choose another."
 msgstr "Chest slug al è za in ûs. Sielç un altri."
 
-#: src/olympia/devhub/forms.py:102
+#: src/olympia/devhub/forms.py:103
 #, python-format
 msgid "The slug cannot be \"%(slug)s\". Please choose another."
 msgstr "Nol è pussibil che il slug al sedi “%(slug)s”. Sielç un altri."
 
 #. L10n: {0} is the number of categories.
-#: src/olympia/devhub/forms.py:222
+#: src/olympia/devhub/forms.py:223
 #, python-brace-format
 msgid "You can have only {0} category."
 msgid_plural "You can have only {0} categories."
 msgstr[0] "Tu puedis vê dome {0} categorie."
 msgstr[1] "Tu puedis vê dome {0} categoriis."
 
-#: src/olympia/devhub/forms.py:232
+#: src/olympia/devhub/forms.py:233
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "Nol è pussibil cumbinâ la categorie Variis adun cun altris categoriis."
 
-#: src/olympia/devhub/forms.py:252 src/olympia/devhub/forms.py:1367
+#: src/olympia/devhub/forms.py:253 src/olympia/devhub/forms.py:1369
 msgid "There was an error uploading your image."
 msgstr "Al è vignût fûr un erôr tal cjariâ in rêt la imagjin."
 
-#: src/olympia/devhub/forms.py:307
+#: src/olympia/devhub/forms.py:308
 #, python-format
 msgid "URL domain must be one of [%s]."
 msgstr "Il domini dal URL al scugne jessi un tra [%s]."
 
-#: src/olympia/devhub/forms.py:323
+#: src/olympia/devhub/forms.py:324
 #, python-brace-format
 msgid "You have {0} too many tags."
 msgid_plural "You have {0} too many tags."
 msgstr[0] "Tu âs {0} etichete di masse."
 msgstr[1] "Tu âs {0} etichetis di masse."
 
-#: src/olympia/devhub/forms.py:342
+#: src/olympia/devhub/forms.py:343
 #, python-format
 msgid "Before changing your default locale you must have a name, summary, and description in that locale. You are missing %s."
 msgstr "Prime di podê cambiâ la tô lenghe predefinide tu scugnis vê un non, un somari e une descrizion in chê lenghe. In chest moment ti mancje %s."
 
-#: src/olympia/devhub/forms.py:430
+#: src/olympia/devhub/forms.py:431
 msgid "Users can not be added directly"
 msgstr "Impussibil zontâ utents in mût diret"
 
-#: src/olympia/devhub/forms.py:504
+#: src/olympia/devhub/forms.py:505
 msgid "Must have at least one owner."
 msgstr "Tu scugnis vê almancul un proprietari."
 
-#: src/olympia/devhub/forms.py:506
+#: src/olympia/devhub/forms.py:507
 msgid "At least one author must be listed."
 msgstr "Al scugne jessi presint almancul un autôr."
 
-#: src/olympia/devhub/forms.py:554
+#: src/olympia/devhub/forms.py:555
 msgid "Slug incorrect."
 msgstr "Slug sbaliât."
 
-#: src/olympia/devhub/forms.py:589 src/olympia/devhub/templates/devhub/versions/edit.html:88
+#: src/olympia/devhub/forms.py:590 src/olympia/devhub/templates/devhub/versions/edit.html:88
 msgid "Details"
 msgstr "Detais"
 
-#: src/olympia/devhub/forms.py:610
+#: src/olympia/devhub/forms.py:611
 msgid "What is your license's name?"
 msgstr "Cuâl isal il non de tô licence?"
 
-#: src/olympia/devhub/forms.py:612 src/olympia/devhub/forms.py:659
+#: src/olympia/devhub/forms.py:613 src/olympia/devhub/forms.py:660
 msgid "Custom License"
 msgstr "Licence personalizade"
 
-#: src/olympia/devhub/forms.py:617
+#: src/olympia/devhub/forms.py:618
 msgid "Provide the text of your license."
 msgstr "Furnìs il test de tô licence."
 
-#: src/olympia/devhub/forms.py:667
+#: src/olympia/devhub/forms.py:668
 msgid "License text is required when choosing Other."
 msgstr "Tu scugnis specificâ il test de licence se tu sielzis Altri."
 
-#: src/olympia/devhub/forms.py:723
+#: src/olympia/devhub/forms.py:724
 msgid "This add-on has an End-User License Agreement"
 msgstr "Chest component adizionâl al à une licence cul utent finâl (EULA)"
 
-#: src/olympia/devhub/forms.py:728
+#: src/olympia/devhub/forms.py:729
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "Specifiche la licence cul utent finâl (EULA) di chest component adizionâl:"
 
-#: src/olympia/devhub/forms.py:731
+#: src/olympia/devhub/forms.py:732
 msgid "This add-on has a Privacy Policy"
 msgstr "Chest component adizionâl al à une informative su la riservatece"
 
-#: src/olympia/devhub/forms.py:736
+#: src/olympia/devhub/forms.py:737
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "Specifiche la informative su la riservatece dal to component adizionâl:"
 
-#: src/olympia/devhub/forms.py:771
+#: src/olympia/devhub/forms.py:773
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "Gjenar di file no supuartât, cjame in rêt un file archivi {extensions}."
 
-#: src/olympia/devhub/forms.py:815
+#: src/olympia/devhub/forms.py:817
 msgid "View current"
 msgstr "Mestre version corinte"
 
-#: src/olympia/devhub/forms.py:938
+#: src/olympia/devhub/forms.py:940
 msgid "Invalid version range."
 msgstr "Interval di versions sbaliât."
 
-#: src/olympia/devhub/forms.py:1044
+#: src/olympia/devhub/forms.py:1046
 msgid "Need at least one compatible application."
 msgstr "E covente almancul une aplicazion compatibile."
 
-#: src/olympia/devhub/forms.py:1086 src/olympia/devhub/forms.py:1144
+#: src/olympia/devhub/forms.py:1088 src/olympia/devhub/forms.py:1146
 msgid "There was an error with your upload. Please try again."
 msgstr "Al è vignût fûr un erôr cul to cjariament in rêt. Torne prove."
 
-#: src/olympia/devhub/forms.py:1091
+#: src/olympia/devhub/forms.py:1093
 msgid "Override failed validation"
 msgstr "La sostituzion sfuarçade no à passât la convalide"
 
-#: src/olympia/devhub/forms.py:1101
+#: src/olympia/devhub/forms.py:1103
 msgid "Need to select at least one application."
 msgstr "Al covente selezionâ almancul une aplicazion."
 
-#: src/olympia/devhub/forms.py:1106
+#: src/olympia/devhub/forms.py:1108
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "Tu âs mandât masse cjariaments in rêt di resint. Torne prove ca di un pôc di timp."
 
-#: src/olympia/devhub/forms.py:1155 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1157 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "La version {version} e je stade za cjariade in rêt e po eliminade."
 
-#: src/olympia/devhub/forms.py:1164 src/olympia/devhub/forms.py:1170 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1166 src/olympia/devhub/forms.py:1172 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "La version {version} e esist bielzà."
 
-#: src/olympia/devhub/forms.py:1166
+#: src/olympia/devhub/forms.py:1168
 msgid "Continue with existing upload instead?"
 msgstr "Continuâ invezit cul cjariament in rêt esistent?"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "Sì"
 
-#: src/olympia/devhub/forms.py:1204 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "No"
 
-#: src/olympia/devhub/forms.py:1219
+#: src/olympia/devhub/forms.py:1221
 msgid "You have not uploaded a source file."
 msgstr "No tu âs cjariât in rêt un file sorzint."
 
-#: src/olympia/devhub/forms.py:1222
+#: src/olympia/devhub/forms.py:1224
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "Al è stât cjariât in rêt un file sorzint ma tu vevis indicât che nol coventave nissun file sorzint."
 
-#: src/olympia/devhub/forms.py:1286
+#: src/olympia/devhub/forms.py:1288
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "Verifiche che il non e il somari no suparin in dut {limit_value} caratars (a'nd àn {show_value})."
 
-#: src/olympia/devhub/forms.py:1416
+#: src/olympia/devhub/forms.py:1418
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "Su chest sît. <span class=\"helptext\">Il to component adizionâl inviât al è listât in maniere publiche su {site_domain}.</span>"
 
-#: src/olympia/devhub/forms.py:1423
+#: src/olympia/devhub/forms.py:1425
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
 "on manifest’s <a {a_attrs}>update_url</a> is provided, as this is the URL where Firefox finds updates for automatic deployment to your users.</span>"
 msgstr ""
 "Par to cont. <span class=\"helptext\">Dopo che il to component adizionâl inviât al è stât firmât di Mozilla, tu puedis discjariâ il file .xpi dal Centri di svilup e rindilu disponibil al public. "
-"Siguriti di includi <a {a_attrs}>update_url</a> tal manifest dal component adizionâl, viodût che chest al è il URL là che Firefox al cjate i inzornaments pe distribuzion automatiche ai tiei "
-"utents.</span>"
+"Siguriti di includi <a {a_attrs}>update_url</a> tal manifest dal component adizionâl, viodût che chest al è il URL là che Firefox al cjate i inzornaments pe distribuzion automatiche ai tiei utents."
+"</span>"
 
-#: src/olympia/devhub/forms.py:1439
+#: src/olympia/devhub/forms.py:1441
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
 
-#: src/olympia/devhub/forms.py:1475 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1477 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "Non visualizât"
 
-#: src/olympia/devhub/forms.py:1506
+#: src/olympia/devhub/forms.py:1508
 msgid "Confirm email address"
 msgstr "Conferme la direzion e-mail"
 
-#: src/olympia/devhub/forms.py:1507
+#: src/olympia/devhub/forms.py:1509
 msgid "Generate new credentials"
 msgstr "Gjenere gnovis credenziâls"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke and regenerate credentials"
 msgstr "Revoche e torne a gjenerâ credenziâls"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1511
 msgid "Revoke"
 msgstr "Revoche"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1512
 msgid "Re-send email confirmation"
 msgstr "Torne mande la e-mail di conferme"
 
-#: src/olympia/devhub/forms.py:1567
+#: src/olympia/devhub/forms.py:1569
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "Fâs clic sul boton chi sot par gjenerâ lis credenziâls de API pal utent <strong>{name}</strong>."
 
-#: src/olympia/devhub/forms.py:1592
+#: src/olympia/devhub/forms.py:1594
 msgid "You don't have any API credentials."
 msgstr "No tu âs nissune credenziâl API."
 
-#: src/olympia/devhub/forms.py:1603
+#: src/olympia/devhub/forms.py:1605
 msgid "Something went wrong, please contact developer support."
 msgstr "Alc al è lât strucj, contate il supuart pai svilupadôrs."
 
-#: src/olympia/devhub/forms.py:1682
+#: src/olympia/devhub/forms.py:1684
 msgid "Release notes"
 msgstr "Notis di publicazion"
 
-#: src/olympia/devhub/forms.py:1683
+#: src/olympia/devhub/forms.py:1685
 msgid "Automatic rollback based on version [m.m]."
 msgstr "Ripristinament automatic in base ae version [m.m]."
 
-#: src/olympia/devhub/forms.py:1768
+#: src/olympia/devhub/forms.py:1770
 msgid "You must select a channel and version to rollback to."
 msgstr "Tu scugnis sielzi un canâl e une version dulà tornâ indaûr cul ripristinament."
 
-#: src/olympia/devhub/forms.py:1778
-msgid "Choose a category"
-msgstr "Sielç une categorie"
-
-#: src/olympia/devhub/forms.py:1779
-msgid "Technical support for making your add-on compliant"
-msgstr "Assistence tecniche par garantî la conformitât dal to component adizionâl"
-
-#: src/olympia/devhub/forms.py:1780
-msgid "Issue with addons.mozilla.org"
-msgstr "Probleme cun addons.mozilla.org"
-
-#: src/olympia/devhub/forms.py:1788 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1783 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "Ogjet"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1785
 msgid "Summarize the issue in a few words"
 msgstr "Met in struc il probleme in pocjis peraulis"
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1789
+msgid "Choose a category"
+msgstr "Sielç une categorie"
+
+#: src/olympia/devhub/forms.py:1790
 msgid "Select category"
 msgstr "Selezione categorie"
 
-#: src/olympia/devhub/forms.py:1800
+#: src/olympia/devhub/forms.py:1795
 msgid "Give us more details about the issue"
 msgstr "Dânus altris detais sul probleme"
 
-#: src/olympia/devhub/forms.py:1802
+#: src/olympia/devhub/forms.py:1797
 msgid "Describe the issue"
 msgstr "Descrîf il probleme"
 
-#: src/olympia/devhub/tasks.py:179
+#: src/olympia/devhub/serializers.py:7
+msgid "Technical support for making your add-on compliant"
+msgstr "Assistence tecniche par garantî la conformitât dal to component adizionâl"
+
+#: src/olympia/devhub/serializers.py:8
+msgid "Issue with addons.mozilla.org"
+msgstr "Probleme cun addons.mozilla.org"
+
+#: src/olympia/devhub/tasks.py:175
 msgid "Invalid or corrupt add-on file."
 msgstr "File dal component adizionâl no valit o ruvinât."
 
-#: src/olympia/devhub/tasks.py:381
+#: src/olympia/devhub/tasks.py:368
 msgid "Your developer API key was found in the submitted file. To protect your account, the key will be revoked."
 msgstr "La tô clâf API di svilupadôr e je stade cjatade tal file mandât. Par protezi il to account, la clâf e vignarà revocade."
 
-#: src/olympia/devhub/tasks.py:388
+#: src/olympia/devhub/tasks.py:375
 msgid "The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked."
 msgstr "La clâf API di svilupadôr di un coautôr e je stade cjatade tal file mandât. Par protezi il to component adizionâl, la clâf e vignarà revocade."
 
-#: src/olympia/devhub/tasks.py:693
+#: src/olympia/devhub/tasks.py:680
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Avîs di sigurece di Mozilla: lis tôs credenziâls API di AMO a son stadis revocadis"
 
@@ -2134,132 +2142,132 @@ msgstr "La convalide e à gjenerât masse erôr/avertiments duncje %s messaçs a
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr "Chest component adizionâl nol è un teme. Dopre la pagjine <a href=\"{link}\">Cjame in rêt un gnûf component adizionâl</a> par mandâ estensions."
 
-#: src/olympia/devhub/views.py:117
+#: src/olympia/devhub/views.py:131
 msgid "Updated"
 msgstr "Inzornât"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:118 src/olympia/devhub/views.py:128
+#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
 msgid "Name"
 msgstr "Non"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:119 src/olympia/devhub/views.py:127
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
 msgid "Created"
 msgstr "Creât"
 
-#: src/olympia/devhub/views.py:120 src/olympia/devhub/views.py:129 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Discjamâts"
 
-#: src/olympia/devhub/views.py:121 src/olympia/devhub/views.py:130
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
 msgid "Rating"
 msgstr "Valutazion"
 
-#: src/olympia/devhub/views.py:196
+#: src/olympia/devhub/views.py:210
 msgid "All My Add-ons"
 msgstr "Ducj i miei components adizionâi"
 
-#: src/olympia/devhub/views.py:224
+#: src/olympia/devhub/views.py:238
 msgid "All Activity"
 msgstr "Dutis lis ativitâts"
 
-#: src/olympia/devhub/views.py:225
+#: src/olympia/devhub/views.py:239
 msgid "Add-on Updates"
 msgstr "Inzornaments dal component adizionâl"
 
-#: src/olympia/devhub/views.py:226
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Status"
 msgstr "Stât dal component adizionâl"
 
-#: src/olympia/devhub/views.py:227
+#: src/olympia/devhub/views.py:241
 msgid "User Collections"
 msgstr "Racueltis dal utent"
 
-#: src/olympia/devhub/views.py:228
+#: src/olympia/devhub/views.py:242
 msgid "User Reviews"
 msgstr "Recensions"
 
-#: src/olympia/devhub/views.py:376
+#: src/olympia/devhub/views.py:390
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Nol è pussibil eliminâ il component adizionâl. Tu puedis invezit disativâ chest component adizionâl."
 
-#: src/olympia/devhub/views.py:387
+#: src/olympia/devhub/views.py:401
 msgid "Theme deleted."
 msgstr "Teme eliminât."
 
-#: src/olympia/devhub/views.py:387
+#: src/olympia/devhub/views.py:401
 msgid "Add-on deleted."
 msgstr "Component adizionâl eliminât."
 
-#: src/olympia/devhub/views.py:393
+#: src/olympia/devhub/views.py:407
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "Il non dal URL al jere sbaliât. Il teme nol è stât eliminât."
 
-#: src/olympia/devhub/views.py:395
+#: src/olympia/devhub/views.py:409
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "Il non dal URL al jere sbaliât. Il component adizionâl nol è stât eliminât."
 
-#: src/olympia/devhub/views.py:437
+#: src/olympia/devhub/views.py:451
 msgid "Request for a new review of listing content acknowledged."
 msgstr "La domande di une gnove revision dai contignûts de schede e je stade fate buine."
 
-#: src/olympia/devhub/views.py:481
+#: src/olympia/devhub/views.py:495
 msgid "Invitation accepted."
 msgstr "Invît acetât."
 
-#: src/olympia/devhub/views.py:484
+#: src/olympia/devhub/views.py:498
 msgid "Invitation declined."
 msgstr "Invît ricusât."
 
-#: src/olympia/devhub/views.py:552
+#: src/olympia/devhub/views.py:566
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "Une e-mail di conferme e je stade mandade a {email}"
 
-#: src/olympia/devhub/views.py:569 src/olympia/devhub/views.py:1185
+#: src/olympia/devhub/views.py:583 src/olympia/devhub/views.py:1199
 msgid "Changes successfully saved."
 msgstr "Modifichis salvadis cun sucès."
 
-#: src/olympia/devhub/views.py:589
+#: src/olympia/devhub/views.py:603
 msgid "Validate Add-on"
 msgstr "Convalide component adizionâl"
 
-#: src/olympia/devhub/views.py:660
+#: src/olympia/devhub/views.py:674
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">Ative la autenticazion a doi fatôrs tal to account par mandâ estensions.</a>"
 
-#: src/olympia/devhub/views.py:1040
+#: src/olympia/devhub/views.py:1054
 msgid "Icons must be either PNG or JPG."
 msgstr "Lis iconis a scugnin jessi in formât PNG o JPG."
 
-#: src/olympia/devhub/views.py:1046
+#: src/olympia/devhub/views.py:1060
 msgid "Icons cannot be animated."
 msgstr "Lis iconis no puedin jessi animadis."
 
-#: src/olympia/devhub/views.py:1072
+#: src/olympia/devhub/views.py:1086
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "La imagjin e scugne jessi largje almancul {0} pixels e alte {1} pixels."
 
-#: src/olympia/devhub/views.py:1076
+#: src/olympia/devhub/views.py:1090
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Lis dimensions de imagjin a scugnin vê une proporzion di 4:3."
 
-#: src/olympia/devhub/views.py:1084
+#: src/olympia/devhub/views.py:1098
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "La icone e à di vê une largjece e une altece di almancul {0} pixels."
 
-#: src/olympia/devhub/views.py:1089
+#: src/olympia/devhub/views.py:1103
 msgid "Icon must be square (same width and height)."
 msgstr "La icone e scugne jessi cuadrade (stesse largjece e altece)."
 
-#: src/olympia/devhub/views.py:1095
+#: src/olympia/devhub/views.py:1109
 msgid "There was an error uploading your preview."
 msgstr "Al è vignût fûr un erôr tal cjariâ in rêt la anteprime."
 
-#: src/olympia/devhub/views.py:1241
+#: src/olympia/devhub/views.py:1255
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
@@ -2267,130 +2275,130 @@ msgstr ""
 "Nol è pussibil eliminâ o disativâ la ultime version aprovade di chest component adizionâl %s parcè che la version prime no jere stade aprovade pe promozion ae categorie %s. Contate i aministradôrs "
 "di AMO se ti covente assistence in merit."
 
-#: src/olympia/devhub/views.py:1248
+#: src/olympia/devhub/views.py:1262
 #, python-format
 msgid "Version %s disabled."
 msgstr "Version %s disativade."
 
-#: src/olympia/devhub/views.py:1252
+#: src/olympia/devhub/views.py:1266
 #, python-format
 msgid "Version %s deleted."
 msgstr "Version %s eliminade."
 
-#: src/olympia/devhub/views.py:1263
+#: src/olympia/devhub/views.py:1277
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Version %s riativade."
 
-#: src/olympia/devhub/views.py:1279
+#: src/olympia/devhub/views.py:1293
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "Chest cjariament in rêt nol à passât la convalide e a podaressin mancjâ i risultâts complets de convalide. Ten iniments chest fat cuant che tu lu revisionis."
 
-#: src/olympia/devhub/views.py:1338
+#: src/olympia/devhub/views.py:1352
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Ripristinament mandât. Tu ricevarâs une notifiche cuant che al vignarà aprovât"
 
-#: src/olympia/devhub/views.py:1484
+#: src/olympia/devhub/views.py:1498
 msgid "Header area background"
 msgstr "Fonts de aree di intestazion"
 
-#: src/olympia/devhub/views.py:1486
+#: src/olympia/devhub/views.py:1500
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Il colôr dal fonts de aree di intestazion, visualizât te part de intestazion che no je cuvierte de imagjin di intestazion o che si viôt par vie di trasparencis. Cjamp dal manifest:  frame."
 
-#: src/olympia/devhub/views.py:1494
+#: src/olympia/devhub/views.py:1508
 msgid "Header area text and icons"
 msgstr "Test e iconis de aree di intestazion"
 
-#: src/olympia/devhub/views.py:1496
+#: src/olympia/devhub/views.py:1510
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Il colôr dal test e des iconis te aree di intestazion, gjavade la schede ative. Cjamp dal manifest:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1503
+#: src/olympia/devhub/views.py:1517
 msgid "Toolbar area background"
 msgstr "Fonts de aree de sbare dai struments"
 
-#: src/olympia/devhub/views.py:1505
+#: src/olympia/devhub/views.py:1519
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Il colôr di fonts pe sbare di navigazion, la sbare dai segnelibris e la schede ative.  Cjamp dal manifest:  toolbar."
 
-#: src/olympia/devhub/views.py:1512
+#: src/olympia/devhub/views.py:1526
 msgid "Toolbar area text and icons"
 msgstr "Iconis e test de sbare dai struments"
 
-#: src/olympia/devhub/views.py:1514
+#: src/olympia/devhub/views.py:1528
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Il colôr dal test e des iconis te sbare dai struments e te schede ative. Cjamp dal manifest:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1521
+#: src/olympia/devhub/views.py:1535
 msgid "Toolbar field area background"
 msgstr "Fonts de aree dal cjamp de sbare dai struments"
 
-#: src/olympia/devhub/views.py:1523
+#: src/olympia/devhub/views.py:1537
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Il colôr di fonts pai cjamps te sbare dai struments, come la sbare dal URL. Cjamp dal manifest:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1530
+#: src/olympia/devhub/views.py:1544
 msgid "Toolbar field area text"
 msgstr "Test de aree dal cjamp de sbare dai struments"
 
-#: src/olympia/devhub/views.py:1532
+#: src/olympia/devhub/views.py:1546
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Il colôr dal test tai cjamps de sbare dai struments, come la sbare dal URL. Cjamp dal manifest:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1540
+#: src/olympia/devhub/views.py:1554
 msgid "Tab highlight"
 msgstr "Evidenziazion schede"
 
-#: src/olympia/devhub/views.py:1542
+#: src/olympia/devhub/views.py:1556
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Il colôr par evidenziâ la schede ative. Implementât come un ôr tor ator de schede su Firefox 89+ e une linie sore de schede tes versions di Firefox plui vecjis. Cjamp dal manifest:  tab_line."
 
-#: src/olympia/devhub/views.py:1645
+#: src/olympia/devhub/views.py:1659
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Il cjariament in rêt di components adizionâi pal moment nol è disponibil"
 
-#: src/olympia/devhub/views.py:2017
+#: src/olympia/devhub/views.py:2031
 msgid "Review requested."
 msgstr "Revision domandade."
 
-#: src/olympia/devhub/views.py:2019
+#: src/olympia/devhub/views.py:2033
 msgid "You must provide further details to proceed."
 msgstr "Tu scugnis indicâ altris detais par continuâ."
 
-#: src/olympia/devhub/views.py:2126
+#: src/olympia/devhub/views.py:2140
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Ca di pôc un colegament di conferme ti vignarà mandât ae tô direzion e-mail."
 
-#: src/olympia/devhub/views.py:2141
+#: src/olympia/devhub/views.py:2155
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Lis tôs vecjis credenziâls a son stadis revocadis e no son plui validis."
 
-#: src/olympia/devhub/views.py:2152
+#: src/olympia/devhub/views.py:2166
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Lis gnovis credenziâls API a son stadis gjeneradis e a vegnin visualizadis chi sot. Viôt di copiâ il segret JWT parcè che no tu podarâs plui viodilu."
 
-#: src/olympia/devhub/views.py:2180
+#: src/olympia/devhub/views.py:2194
 msgid "New API key created"
 msgstr "Gnove clâf API creade"
 
-#: src/olympia/devhub/views.py:2191
+#: src/olympia/devhub/views.py:2205
 msgid "API key revoked"
 msgstr "Clâf API revocade"
 
-#: src/olympia/devhub/views.py:2251
+#: src/olympia/devhub/views.py:2265
 msgid "Verify email"
 msgstr "Verifiche e-mail"
 
-#: src/olympia/devhub/views.py:2253
+#: src/olympia/devhub/views.py:2267
 msgid "Send another email"
 msgstr "Mande une altre e-mail"
 
-#: src/olympia/devhub/views.py:2286
+#: src/olympia/devhub/views.py:2300
 msgid "Your email has been verified"
 msgstr "La tô e-mail e je stade verificade"
 
-#: src/olympia/devhub/views.py:2348
+#: src/olympia/devhub/views.py:2366
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "La domande di assistence e je stade mandade indevant. Ti contatarìn ca di pôc."
 
@@ -2488,11 +2496,11 @@ msgstr "Oten supuart par estensions e temis"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
-"Dopre chest formulari par ricevi assistence pal to account, par problemis di conformitât aes politichis e par altris resons. Plui detais tu condividis, plui facil al sarà par nô judâti. Par domandis"
-" su lis revisions dai tiei components adizionâi, fâs riferiment ae cronologjie des versions dai components adizionâi. Ti rispuindarìn il prin pussibil."
+"Dopre chest formulari par ricevi assistence pal to account, par problemis di conformitât aes politichis e par altris resons. Plui detais tu condividis, plui facil al sarà par nô judâti. Par "
+"domandis su lis revisions dai tiei components adizionâi, fâs riferiment ae cronologjie des versions dai components adizionâi. Ti rispuindarìn il prin pussibil."
 
 #: src/olympia/devhub/templates/devhub/support.html:17
 msgid "Send request"
@@ -2580,8 +2588,8 @@ msgid ""
 "The provided code is invalid, unauthorized, expired or incomplete. Please use the link in the email sent to your email address %(email)s. If the code is still not working, please request a new "
 "email."
 msgstr ""
-"Il codiç indicât nol è valit, nol è autorizât, al è scjadût o nol è complet. Dopre il colegament te e-mail che ti vin inviât ae direzion %(email)s. Se il codiç al continue a no funzionâ, domande che"
-" ti mandìn une gnove e-mail."
+"Il codiç indicât nol è valit, nol è autorizât, al è scjadût o nol è complet. Dopre il colegament te e-mail che ti vin inviât ae direzion %(email)s. Se il codiç al continue a no funzionâ, domande "
+"che ti mandìn une gnove e-mail."
 
 #: src/olympia/devhub/templates/devhub/verify_email.html:49
 msgid "<strong>Email history:</strong> The table below shows all emails we have attempted to send to you in the last 2 days."
@@ -2757,8 +2765,8 @@ msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
-"<p>I components adizionâi a puedin vê ducj i autôrs che si vûl cun 2 pussibii rûi:</p><ul><li><b>Proprietari:</b> Al pues gjestî ducj i aspiets di visualizazion dal component adizionâl, includude la"
-" zonte e la rimozion di altris autôrs</li><li><b>Svilupadôr:</b> Al pues gjestî ducj i aspiets di visualizazion dal component adizionâl, gjavadis la zonte e la rimozion di altris autôrs</li></ul>"
+"<p>I components adizionâi a puedin vê ducj i autôrs che si vûl cun 2 pussibii rûi:</p><ul><li><b>Proprietari:</b> Al pues gjestî ducj i aspiets di visualizazion dal component adizionâl, includude "
+"la zonte e la rimozion di altris autôrs</li><li><b>Svilupadôr:</b> Al pues gjestî ducj i aspiets di visualizazion dal component adizionâl, gjavadis la zonte e la rimozion di altris autôrs</li></ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2890,8 +2898,8 @@ msgstr "Visualize la pagjine dal prodot"
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:107 src/olympia/devhub/templates/devhub/addons/submit/describe.html:91
 msgid "This summary should clearly explain what your add-on does. It will be shown in listings and searches, and it will be used by reviewers to test your add-on."
 msgstr ""
-"Chest struc al à di spiegâ in mût clâr ce che al fâs il to component adizionâl. Al vignarà mostrât in listis e risultâts di ricercje e al vignarà doprât dai revisôrs come riferiment pes provis che a"
-" vignaran fatis sul component adizionâl."
+"Chest struc al à di spiegâ in mût clâr ce che al fâs il to component adizionâl. Al vignarà mostrât in listis e risultâts di ricercje e al vignarà doprât dai revisôrs come riferiment pes provis che "
+"a vignaran fatis sul component adizionâl."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:128
 msgid "Description"
@@ -2903,16 +2911,16 @@ msgid ""
 "A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's product page. Minimum length: %(min_length)s characters; Recommended "
 "length: 250 characters. If you need a longer description, make sure the first 250 characters contain the most important description points."
 msgstr ""
-"Une spiegazion plui detaiade di carateristichis, funzionalitâts e altris informazions impuartantis. Chest cjamp al ven visualizât nome te pagjine dal prodot dal component adizionâl. Lungjece minime:"
-" %(min_length)s caratars. Lungjece conseade: 250 caratars. Se ti covente une descrizion plui lungje, controle che i prins 250 caratars a tegnin i ponts descritîfs plui impuartants."
+"Une spiegazion plui detaiade di carateristichis, funzionalitâts e altris informazions impuartantis. Chest cjamp al ven visualizât nome te pagjine dal prodot dal component adizionâl. Lungjece "
+"minime: %(min_length)s caratars. Lungjece conseade: 250 caratars. Se ti covente une descrizion plui lungje, controle che i prins 250 caratars a tegnin i ponts descritîfs plui impuartants."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:140
 msgid ""
 "A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's product page. Recommended length: 250 characters. If you need a longer "
 "description, make sure the first 250 characters contain the most important description points."
 msgstr ""
-"Une spiegazion plui detaiade di carateristichis, funzionalitâts e altris informazions rilevantis. Chest cjamp al ven visualizât nome te pagjine dal prodot dal component adizionâl. Lungjece conseade:"
-" 250 caratars. Se ti covente une descrizion plui lungje, controle che i prins 250 caratars a tegnin i ponts descritîfs plui impuartants."
+"Une spiegazion plui detaiade di carateristichis, funzionalitâts e altris informazions rilevantis. Chest cjamp al ven visualizât nome te pagjine dal prodot dal component adizionâl. Lungjece "
+"conseade: 250 caratars. Se ti covente une descrizion plui lungje, controle che i prins 250 caratars a tegnin i ponts descritîfs plui impuartants."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:169
 msgid "Experimental?"
@@ -2961,8 +2969,8 @@ msgstr "E-mail"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Se tu desideris visualizâ une direzion e-mail pes domandis di supuart, inserissile achì. Se tu âs direzions diferentis par ogni lenghe supuartade, al è pussibil zontâ plui ocorincis di chest cjamp. "
 "Chest al è rilevant dome pai components adizionâi publics."
@@ -3002,8 +3010,8 @@ msgid ""
 "Any information end users may want to know that isn't necessarily applicable to the add-on summary or description. Common uses include listing known major bugs, information on how to report bugs, "
 "anticipated release date of a new version, etc. It is only relevant for listed add-ons."
 msgstr ""
-"Dutis lis informazions utilis pal utent finâl che no si puedin inserî tai cjamps somari o descrizion. Di solit al ven doprât par indicâ la liste dai erôrs cognossûts plui impuartants, lis istruzions"
-" par segnalâ erôrs, datis stimadis di publicazion e vie indenant. Chest al è rilevant pai components adizionâi publics."
+"Dutis lis informazions utilis pal utent finâl che no si puedin inserî tai cjamps somari o descrizion. Di solit al ven doprât par indicâ la liste dai erôrs cognossûts plui impuartants, lis "
+"istruzions par segnalâ erôrs, datis stimadis di publicazion e vie indenant. Chest al è rilevant pai components adizionâi publics."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:46
 msgid "Universally unique identifier"
@@ -3025,8 +3033,8 @@ msgstr "Bacheche"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "La bacheche e je un puest dulà dâ informazions impuartantis ai revisôrs par cualsisei version dal to component adizionâl. Doprile par spiegâ i passaçs par fâ provis dal component e da cualsisei "
 "informazion in plui che e torne utile. Ancje i revisôrs a puedin scrivi su cheste bachece."
@@ -3426,8 +3434,8 @@ msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
 msgstr ""
-"Lei i %(policy_requirements_open)srecuisîts de politiche%(policy_requirements_close)s in merit ai procès di compilazion e ae presentazion dal codiç sorzint. Se il to inviament al à bisugne dal codiç"
-" sorzint, tu scugnis dâ istruzions detaiadis pe compilazion o dentri dal pachet dal codiç sorzint o achì, in mût che e vegni creade une copie esate dal codiç."
+"Lei i %(policy_requirements_open)srecuisîts de politiche%(policy_requirements_close)s in merit ai procès di compilazion e ae presentazion dal codiç sorzint. Se il to inviament al à bisugne dal "
+"codiç sorzint, tu scugnis dâ istruzions detaiadis pe compilazion o dentri dal pachet dal codiç sorzint o achì, in mût che e vegni creade une copie esate dal codiç."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3589,7 +3597,8 @@ msgstr "Recuisîts su sisteme operatîf e ambient di compilazion."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
-msgstr "La version domandade e lis istruzions pe instalazion di ogni program doprât tal procès di compilazion (come <span class=\"tech-emphasis\">node</span> e <span class=\"tech-emphasis\">npm</span>)."
+msgstr ""
+"La version domandade e lis istruzions pe instalazion di ogni program doprât tal procès di compilazion (come <span class=\"tech-emphasis\">node</span> e <span class=\"tech-emphasis\">npm</span>)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3725,8 +3734,8 @@ msgstr "Indaûr"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Par fâ clamadis autenticadis ae <a %(a_attrs)s href=\"%(docs_url)s\">API</a> come utent esterni, al covente includi un <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> te intestazion "
 "<code>Authorization</code> par ogni domande."
@@ -3809,10 +3818,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3852,8 +3863,8 @@ msgid "Please complete your add-on by adding a version or missing metadata."
 msgstr "Complete il to component adizionâl zontant un numar di version o i metadâts che a mancjin."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
-msgid "You will receive an email when the review is complete. Until then, your add-on is not listed in our gallery but can be accessed directly from its details page. "
-msgstr "Une volte completade la revision, tu ricevarâs une e-mail. Fin chel moment il component adizionâl nol vignarà fûr tes listis de nestre galarie, ma al sarà acessibil de sô pagjine su AMO. "
+msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
+msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -3990,12 +4001,11 @@ msgstr "Compatibilitât cun Firefox par Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Âstu provade la tô estension su Firefox par Android, par controlâ che e funzioni come previodût? In altri câs, consulte la pagjine <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> par vê informazions su lis provis di fâ "
-"prime di mandâle."
+"Âstu provade la tô estension su Firefox par Android, par controlâ che e funzioni come previodût? In altri câs, consulte la pagjine <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> par vê informazions su lis provis di fâ prime di mandâle."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4040,8 +4050,8 @@ msgstr "Firme de version in spiete"
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:3
 msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Fat dut! ✨ Tu ricevarâs une e-mail une volte che il file firmât al sarà pront par podê jessi discjariât dal Centri di svilup. Se dopo 24 oris no tu viodis ancjemò nissune e-mail, controle la cartele"
-" de pueste malvolude."
+"Fat dut! ✨ Tu ricevarâs une e-mail une volte che il file firmât al sarà pront par podê jessi discjariât dal Centri di svilup. Se dopo 24 oris no tu viodis ancjemò nissune e-mail, controle la "
+"cartele de pueste malvolude."
 
 #: src/olympia/devhub/templates/devhub/includes/license_form.html:5 src/olympia/devhub/templates/devhub/versions/edit.html:83
 msgid "License"
@@ -4520,8 +4530,8 @@ msgstr "Elimine version {version}"
 msgid ""
 "You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on."
 msgstr ""
-"Tu stâs par eliminâ la version corinte di chest component adizionâl. Se cheste e je la uniche version publiche dal to component adizionâl, cheste operazion e podarès lâ a tocjâ il stât dal component"
-" adizionâl, opûr tu podaressis pierdi visibilitât sul sît."
+"Tu stâs par eliminâ la version corinte di chest component adizionâl. Se cheste e je la uniche version publiche dal to component adizionâl, cheste operazion e podarès lâ a tocjâ il stât dal "
+"component adizionâl, opûr tu podaressis pierdi visibilitât sul sît."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:275
 msgid "Deleting this version will permanently delete:"
@@ -4536,8 +4546,8 @@ msgid ""
 "Once a version has been deleted, you may not upload a new version with the same version number. The version will also be Restricted, which will disable and prevent any further installation in "
 "Firefox. Existing users can choose to re-enable the add-on."
 msgstr ""
-"Une volte che une version e ven eliminade, no tu podarâs cjariânt une gnove cul stes numar di version. Sore, la version e vignarà limitade, chest al significhe che a vignaran disativadis e impedidis"
-" gnovis lis sôs instalazions in Firefox. I utents che a vevin za instalât il component adizionâl a podaran sielzi di tornâ a ativâlu."
+"Une volte che une version e ven eliminade, no tu podarâs cjariânt une gnove cul stes numar di version. Sore, la version e vignarà limitade, chest al significhe che a vignaran disativadis e "
+"impedidis gnovis lis sôs instalazions in Firefox. I utents che a vevin za instalât il component adizionâl a podaran sielzi di tornâ a ativâlu."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:288
 msgid "Are you sure you wish to delete this version?"
@@ -6641,7 +6651,7 @@ msgstr "Impussibil zontâ versions publicadis a un component adizionâl metût i
 msgid "You cannot add a listed version to this add-on via the API due to missing metadata. Please submit via the website"
 msgstr "Nol è pussibil zontâ une version publicade a chest component adizionâl midiant API parcè che a mancjin metadâts. Mande vie sît web"
 
-#: src/olympia/signing/views.py:292
+#: src/olympia/signing/views.py:285
 msgid "No uploaded file for that add-on and version."
 msgstr "Nissun file cjariât in rêt pal component adizionâl e chê version."
 
@@ -7033,8 +7043,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Gjavât là che al è <a href=\"https://www.mozilla.org/about/legal/\">indicât</a> in mût diviers, i contignûts dal sît a son di considerâ distribuîts sot de licence <a "
-"href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Atribuzion - Condivît te stesse maniere version 3.0</a> o sucessivis."
+"Gjavât là che al è <a href=\"https://www.mozilla.org/about/legal/\">indicât</a> in mût diviers, i contignûts dal sît a son di considerâ distribuîts sot de licence <a href=\"https://creativecommons."
+"org/licenses/by-sa/3.0/\">Creative Commons Atribuzion - Condivît te stesse maniere version 3.0</a> o sucessivis."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7096,36 +7106,36 @@ msgstr "Gjavâ pardabon dutis lis traduzions par <b>{0}</b>? Nol sarà pussibil 
 msgid "Delete Locale"
 msgstr "Elimine localizazion"
 
-#: src/olympia/users/models.py:90
+#: src/olympia/users/models.py:92
 msgid "No user with that email."
 msgstr "Nissun utent cun chê e-mail."
 
-#: src/olympia/users/models.py:681
+#: src/olympia/users/models.py:683
 #, python-brace-format
 msgid "Firefox user {id}"
 msgstr "Utent Firefox {id}"
 
-#: src/olympia/users/models.py:933
+#: src/olympia/users/models.py:943
 msgid "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
 msgstr "De tô posizion a son stâts fats moltepliçs inviaments che a violin lis nestris politichis. La direzion IP e je stade blocade."
 
-#: src/olympia/users/models.py:1104
+#: src/olympia/users/models.py:1177
 msgid "The email address used for your account is not allowed for submissions."
 msgstr "La direzion e-mail dal to account no à i permès necessaris par fâ inviaments."
 
-#: src/olympia/users/models.py:1237
+#: src/olympia/users/models.py:1364
 msgid "The software or device you are using is not allowed for submissions."
 msgstr "Il software o il dispositîf che tu stâs doprant nol à il permès pal inviament."
 
-#: src/olympia/users/models.py:1363
+#: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Prime di scomençâ, lei e acete l'acuardi di distribuzion pai components adizionâi di Firefox e lis normis e lis liniis vuide pe revision. L'acuardi di distribuzion pai components adizionâi di "
 "Firefox si coleghe ancje ae nestre informative su la riservatece, che e spieghe cemût che o gjestìn lis informazions che tu nus mandis."
 
-#: src/olympia/users/models.py:1377
+#: src/olympia/users/models.py:1523
 #, python-brace-format
 msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Lei e acete l'acuardi di distribuzion pai components adizionâi di Firefox, lis regulis e lis liniis vuide pes revisions su {url}"
@@ -7237,7 +7247,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7246,48 +7257,48 @@ msgid ""
 "The Mozilla Add-ons Team"
 msgstr ""
 
-#: src/olympia/versions/models.py:1140
+#: src/olympia/versions/models.py:1150
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
 msgstr "Refudade cun ritart, programade pai %s"
 
-#: src/olympia/versions/models.py:1145
+#: src/olympia/versions/models.py:1155
 msgid "Auto-approved, Confirmed"
 msgstr "Aprovade in automatic, confermade"
 
-#: src/olympia/versions/models.py:1147
+#: src/olympia/versions/models.py:1157
 msgid "Auto-approved, not Confirmed"
 msgstr "Aprovade in automatic, no confermade"
 
-#: src/olympia/versions/models.py:1150
+#: src/olympia/versions/models.py:1160
 msgid "Approved, Manual"
 msgstr "Aprovade, a man"
 
-#: src/olympia/versions/models.py:1157
+#: src/olympia/versions/models.py:1167
 msgid "Disabled by Developer"
 msgstr "Disativade dal svilupadôr"
 
-#: src/olympia/versions/models.py:1515
+#: src/olympia/versions/models.py:1525
 #, python-brace-format
 msgid "{app} {min} and later"
 msgstr "{app} {min} e sucessivis"
 
-#: src/olympia/versions/models.py:1642
+#: src/olympia/versions/models.py:1652
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
 msgstr "La origjin de instalazion {origin} no je consintude."
 
-#: src/olympia/versions/utils.py:198
+#: src/olympia/versions/utils.py:195
 #, python-brace-format
 msgid "Version {version_string} was uploaded before and deleted."
 msgstr "La version {version_string} e je za stade cjariade e po eliminade."
 
-#: src/olympia/versions/utils.py:200
+#: src/olympia/versions/utils.py:197
 #, python-brace-format
 msgid "Version {version_string} already exists."
 msgstr "La version {version_string} e esist bielzà."
 
-#: src/olympia/versions/utils.py:220
+#: src/olympia/versions/utils.py:217
 #, python-brace-format
 msgid "Version {version_string} must be greater than the previous approved version {previous_version_string}."
 msgstr "La version {version_string} e scugne jessi plui grande de version aprovade prime {previous_version_string}."
