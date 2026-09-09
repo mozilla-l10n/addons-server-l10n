@@ -3941,6 +3941,7 @@ msgstr "Vervollständigen Sie Ihr Add-on bitte, indem Sie eine Version oder fehl
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
 msgstr ""
+"Sobald die Überprüfung abgeschlossen ist, erhalten Sie eine E-Mail. Bis dahin ist Ihr Add-on nicht öffentlich verfügbar. Als authentifizierter Autor können Sie jedoch auf die Detailseite zugreifen."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
