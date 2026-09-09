@@ -3925,7 +3925,7 @@ msgstr "Komplettera ditt tillägg genom att lägga till en version eller saknad 
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "Du får ett mejl när granskningen är slutförd. Fram till dess är ditt tillägg inte offentligt tillgängligt. Som autentiserad upphovsperson kan du öppna tilläggets informationssida."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
