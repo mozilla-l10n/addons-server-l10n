@@ -3928,7 +3928,7 @@ msgstr "Por favor complete o seu extra, adicionando uma versão ou metadados em 
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "Irá receber um email quando a revisão estiver concluída. Até lá, o seu complemento não estará disponível publicamente. Você, o autor autenticado, pode aceder à página de detalhes."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
