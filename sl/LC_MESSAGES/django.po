@@ -6071,12 +6071,12 @@ msgstr "Odstranite motnje, spremenite možnosti ogleda, hitrost predvajanja in v
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Odlično deluje za video in zvočne vsebine ter za pretočne vsebine na večini spletnih strani."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Ducati funkcij, s katerimi lahko YouTube dela za vas. Odstranite moteče promocije, spremenite YouTubovo vizualno postavitev, hitrost predvajanja, povečajte glasnost in drugo."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130

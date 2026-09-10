@@ -6192,12 +6192,14 @@ msgstr "Αφαιρέστε τους περισπασμούς, αλλάξτε τ�
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Λειτουργεί εξαιρετικά με βίντεο, ήχο και περιεχόμενο ροής στους περισσότερους ιστοτόπους."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Δεκάδες λειτουργίες για να προσαρμόσετε το YouTube στις ανάγκες σας. Αφαιρέστε ενοχλητικές προωθητικές ενέργειες, αλλάξτε τη διάταξη του YouTube, ρυθμίστε την ταχύτητα αναπαραγωγής, ενισχύστε την "
+"ένταση του ήχου και πολλά άλλα."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130

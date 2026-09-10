@@ -6114,12 +6114,12 @@ msgstr "Odstraňte rušivé prvky, upravte nastavení zobrazení, změňte rychl
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Funguje skvěle pro video, audio a streamovaný obsah napříč většinou webových stránek."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Desítky funkcí pro přizpůsobení si YouTube. Odstraňte rušivé propagace, změňte vizuální rozložení YouTube, rychlost přehrávání, hlasitost a další."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130

@@ -6068,12 +6068,12 @@ msgstr "Remova distrações, altere opções de visualização, altere a velocid
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Funciona muito bem com conteúdo de vídeo, áudio e streaming na maioria dos sites."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Dezenas de recursos para fazer o YouTube trabalhar para você. Remova promoções que distraem, altere o layout do YouTube, ajuste de velocidade de reprodução, aumento de volume e mais."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
