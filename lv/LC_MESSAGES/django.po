@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-10 12:22+0000\n"
+"POT-Creation-Date: 2026-09-10 13:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -211,9 +211,9 @@ msgstr ""
 msgid "Images cannot be animated."
 msgstr ""
 
-#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1071
-#, python-format
-msgid "Please use images smaller than %dMB."
+#: src/olympia/accounts/serializers.py:190
+#, python-brace-format
+msgid "Please use images smaller than {}MB."
 msgstr ""
 
 #: src/olympia/accounts/views.py:208
@@ -292,7 +292,7 @@ msgstr ""
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr ""
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:776
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:772
 msgid "Invalid or broken archive."
 msgstr ""
 
@@ -318,10 +318,10 @@ msgstr ""
 msgid "Images must be smaller than %dMB"
 msgstr ""
 
-#: src/olympia/addons/filters.py:19 src/olympia/search/filters.py:45 src/olympia/search/filters.py:58 src/olympia/search/filters.py:91 src/olympia/search/filters.py:166
-#: src/olympia/search/filters.py:206 src/olympia/search/filters.py:352 src/olympia/search/filters.py:457
-#, python-format
-msgid "Invalid \"%s\" parameter."
+#: src/olympia/addons/filters.py:19 src/olympia/search/filters.py:45 src/olympia/search/filters.py:59 src/olympia/search/filters.py:93 src/olympia/search/filters.py:168
+#: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
+#, python-brace-format
+msgid "Invalid \"{}\" parameter."
 msgstr ""
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
@@ -536,11 +536,11 @@ msgstr ""
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr ""
 
-#: src/olympia/amo/utils.py:1193 src/olympia/bandwagon/serializers.py:97
+#: src/olympia/amo/utils.py:1195 src/olympia/bandwagon/serializers.py:97
 msgid "This name cannot be used."
 msgstr ""
 
-#: src/olympia/amo/utils.py:1223
+#: src/olympia/amo/utils.py:1225
 msgid "URLs are not allowed."
 msgstr ""
 
@@ -2187,6 +2187,11 @@ msgstr ""
 
 #: src/olympia/devhub/views.py:1060
 msgid "Icons cannot be animated."
+msgstr ""
+
+#: src/olympia/devhub/views.py:1071
+#, python-format
+msgid "Please use images smaller than %dMB."
 msgstr ""
 
 #: src/olympia/devhub/views.py:1086
@@ -6230,7 +6235,7 @@ msgstr ""
 msgid "This upload has already been submitted."
 msgstr ""
 
-#: src/olympia/files/utils.py:157 src/olympia/files/utils.py:191 src/olympia/files/utils.py:883
+#: src/olympia/files/utils.py:157 src/olympia/files/utils.py:191 src/olympia/files/utils.py:879
 msgid "Could not parse the manifest file."
 msgstr ""
 
@@ -6239,118 +6244,118 @@ msgstr ""
 msgid "Lowest supported \"strict_min_version\" is {min_version}."
 msgstr ""
 
-#: src/olympia/files/utils.py:368
+#: src/olympia/files/utils.py:367
 #, python-brace-format
 msgid "Unknown \"strict_min_version\" {appver} for {app}"
 msgstr ""
 
-#: src/olympia/files/utils.py:382
+#: src/olympia/files/utils.py:379
 #, python-brace-format
 msgid "Unknown \"strict_max_version\" {appver} for {app}"
 msgstr ""
 
-#: src/olympia/files/utils.py:562
+#: src/olympia/files/utils.py:558
 msgid "Unsupported compression method in archive."
 msgstr ""
 
-#: src/olympia/files/utils.py:565
+#: src/olympia/files/utils.py:561
 msgid "Unsupported archive type."
 msgstr ""
 
-#: src/olympia/files/utils.py:574
+#: src/olympia/files/utils.py:570
 msgid "Invalid file name in archive. Please make sure all filenames are utf-8 or latin1 encoded."
 msgstr ""
 
 #. L10n: {0} is the name of the invalid file.
-#: src/olympia/files/utils.py:589
+#: src/olympia/files/utils.py:585
 #, python-brace-format
 msgid "Invalid file name in archive: {0}"
 msgstr ""
 
 #. L10n: {0} is the name of the invalid file.
-#: src/olympia/files/utils.py:597
+#: src/olympia/files/utils.py:593
 #, python-brace-format
 msgid "File exceeding size limit in archive: {0}"
 msgstr ""
 
-#: src/olympia/files/utils.py:617
+#: src/olympia/files/utils.py:613
 msgid "This archive contains a forbidden special file (symbolic / hard link or device / block file)"
 msgstr ""
 
-#: src/olympia/files/utils.py:652
+#: src/olympia/files/utils.py:648
 msgid "Uncompressed size is too large"
 msgstr ""
 
-#: src/olympia/files/utils.py:684
+#: src/olympia/files/utils.py:680
 msgid "Invalid archive."
 msgstr ""
 
-#: src/olympia/files/utils.py:871
+#: src/olympia/files/utils.py:867
 msgid "No manifest.json found"
 msgstr ""
 
-#: src/olympia/files/utils.py:876
+#: src/olympia/files/utils.py:872
 msgid "Invalid or corrupted file."
 msgstr ""
 
-#: src/olympia/files/utils.py:916
+#: src/olympia/files/utils.py:912
 #, python-format
 msgid "The add-on ID in your manifest.json (%s) does not match the ID of your add-on on AMO (%s)"
 msgstr ""
 
-#: src/olympia/files/utils.py:924
+#: src/olympia/files/utils.py:920
 msgid "Duplicate add-on ID found."
 msgstr ""
 
-#: src/olympia/files/utils.py:930
+#: src/olympia/files/utils.py:926
 #, python-brace-format
 msgid "Version numbers should have at most {max_length} characters."
 msgstr ""
 
-#: src/olympia/files/utils.py:936
+#: src/olympia/files/utils.py:932
 msgid "Version numbers should only contain letters, numbers, and these punctuation characters: +*.-_."
 msgstr ""
 
-#: src/olympia/files/utils.py:945
+#: src/olympia/files/utils.py:941
 #, python-brace-format
 msgid "Maximum size for WebExtension themes is {0}."
 msgstr ""
 
-#: src/olympia/files/utils.py:959
+#: src/olympia/files/utils.py:955
 msgid "You cannot submit this type of add-on"
 msgstr ""
 
-#: src/olympia/files/utils.py:963
+#: src/olympia/files/utils.py:959
 msgid "You cannot submit an add-on using an ID ending with this suffix"
 msgstr ""
 
-#: src/olympia/files/utils.py:968
+#: src/olympia/files/utils.py:964
 msgid "You cannot submit a Mozilla Signed Extension"
 msgstr ""
 
-#: src/olympia/files/utils.py:972
+#: src/olympia/files/utils.py:968
 msgid "You cannot submit a language pack"
 msgstr ""
 
-#: src/olympia/files/utils.py:981
+#: src/olympia/files/utils.py:977
 msgid "The locale of an existing dictionary/language pack cannot be changed"
 msgstr ""
 
-#: src/olympia/files/utils.py:1024
+#: src/olympia/files/utils.py:1020
 #, python-brace-format
 msgid "Unsupported file type, please upload a supported file {extensions}."
 msgstr ""
 
-#: src/olympia/files/utils.py:1033
+#: src/olympia/files/utils.py:1028
 msgid "Unexpected error."
 msgstr ""
 
-#: src/olympia/files/utils.py:1038
+#: src/olympia/files/utils.py:1033
 #, python-format
 msgid "The type (%s) does not match the type of your add-on on AMO (%s)"
 msgstr ""
 
-#: src/olympia/files/utils.py:1043
+#: src/olympia/files/utils.py:1038
 msgid "Unknown"
 msgstr ""
 
@@ -6426,16 +6431,16 @@ msgstr ""
 msgid "You can't leave more than one review for the same version of an add-on."
 msgstr ""
 
-#: src/olympia/ratings/serializers.py:317
+#: src/olympia/ratings/serializers.py:316
 #, python-brace-format
-msgid "Invalid flag [{}] - must be one of [{}]"
+msgid "Invalid flag [{flag}] - must be one of [{flags}]"
 msgstr ""
 
-#: src/olympia/ratings/serializers.py:329
+#: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
 msgstr ""
 
-#: src/olympia/ratings/serializers.py:338
+#: src/olympia/ratings/serializers.py:336
 msgid "A short explanation must be provided when selecting \"Other\" as a flag reason."
 msgstr ""
 
@@ -6468,20 +6473,20 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: src/olympia/search/filters.py:210 src/olympia/search/filters.py:330
-#, python-format
-msgid "Invalid combination of \"%s\" and \"%s\" parameters."
+#: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
+#, python-brace-format
+msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
 msgstr ""
 
-#: src/olympia/search/filters.py:272
+#: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
 msgstr ""
 
-#: src/olympia/search/filters.py:281
+#: src/olympia/search/filters.py:287
 msgid "Invalid Return To AMO guid (not in base64url format?)"
 msgstr ""
 
-#: src/olympia/search/filters.py:934
+#: src/olympia/search/filters.py:941
 msgid "Maximum query length exceeded."
 msgstr ""
 
@@ -7042,6 +7047,11 @@ msgstr ""
 
 #: src/olympia/users/notifications.py:105
 msgid "User Notifications"
+msgstr ""
+
+#: src/olympia/users/tasks.py:223
+#, python-brace-format
+msgid "Verify your email ({})"
 msgstr ""
 
 #: src/olympia/users/utils.py:92

@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-10 13:16+0000\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -112,7 +115,8 @@ msgstr ""
 "\n"
 "Dźakujemy so za wašu rozprawu wo %(name)s na Mozilla Add-ons a zo sće sej čas brał, wjace wo swojich wobmyslenjach dźělić.\n"
 "\n"
-"Po starosćiwym přepruwowanju wašeho spřećiwjenja, měnimy, zo předchadny rozsud – zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje – je korektny był. Tohodla přećiwo kontu abo wobsahej ničo njezakročimy.\n"
+"Po starosćiwym přepruwowanju wašeho spřećiwjenja, měnimy, zo předchadny rozsud – zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje – je korektny był. Tohodla přećiwo kontu abo "
+"wobsahej ničo njezakročimy.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Hišće raz wulki dźak za to, zo pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
@@ -123,12 +127,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Dźakujemy so za wašu rozprawu wo %(name)s na Mozilla Add-ons a zo sće sej čas brał, wjace wo swojich wobmyslenjach dźělić.\n"
 "\n"
-"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy nětko wobsah wotstronili a wužiwarja zdźělili. Wulki dźak, zo nam pomhaće, to porjedźić.\n"
+"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy nětko wobsah wotstronili a "
+"wužiwarja zdźělili. Wulki dźak, zo nam pomhaće, to porjedźić.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -136,12 +142,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Dźakujemy so za wašu rozprawu wo %(name)s na Mozilla Add-ons a zo sće dalše informacije wo swojich wobmyslenjach dźělił.\n"
 "\n"
-"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy wuwiwarja prosyli, změny přewjesć, a jeli jeho wobsah njeaktualizuje, budźemy jón wotstronjeć.\n"
+"Po přepruwowanju wašeho spřećiwjenja, měnimy, zo naš předchadny rozsud, zo tutón wobsah prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, je wopačny był. Smy wuwiwarja prosyli, změny "
+"přewjesć, a jeli jeho wobsah njeaktualizuje, budźemy jón wotstronjeć.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -149,18 +157,20 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Wulki dźak, zo sće sej čas brał, %(name)s na %(target_url)s zdźělić.\n"
 "\n"
-"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, tak zo so žane dalše naprawy činja. Hódnoćimy wšak, zo sće nam to zdźělił.\n"
+"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) wotpowěduje, tak zo so žane dalše naprawy činja. Hódnoćimy wšak, zo sće nam to "
+"zdźělił.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Jeli sej mysliće, zo wobsah prawidłam Mozilla njewotpowěduje, maće prawo, tutón rozsud w běhu 6 měsacow wot datuma tuteje mejlki wotprěć. Hlejće %(appeal_url)s za podrobnosće wo procesu wotprěća, "
 "mjez druhim, kak móžeće wotprěće za wotpowědny rozsud zapodać."
@@ -171,12 +181,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Wulki dźak, zo sće sej čas brał, slědowacy přidatk na Mozilla Add-ons zdźělić: %(name)s.\n"
 "\n"
-"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy tohodla wobsah wotstronili. Hódnoćimy, zo dale pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
+"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy tohodla wobsah wotstronili. Hódnoćimy, zo dale pomhaće, Mozilla "
+"Add-ons wěste dźeržeć.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -184,12 +196,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Wulki dźak, zo sće sej čas brał, slědowacy přidatk na Mozilla Add-ons zdźělić: %(name)s.\n"
 "\n"
-"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy wuwiwarja prosyli, změny přewjesć a jeli problem njerozrisuje, budźemy wobsah wotstronjeć. Wulki dźak, zo dale pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
+"Smy wašu rozprawu a wotpowědny wobsah přepruwowali, a zwěsćili, zo prawidłam Mozilla (%(policy_document_url)s) njewotpowěduje. Smy wuwiwarja prosyli, změny přewjesć a jeli problem njerozrisuje, "
+"budźemy wobsah wotstronjeć. Wulki dźak, zo dale pomhaće, Mozilla Add-ons wěste dźeržeć.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -246,10 +260,10 @@ msgstr "Wobrazy dyrbja format PNG abo JPG měć."
 msgid "Images cannot be animated."
 msgstr "Wobrazy njedadźa so animować."
 
-#: src/olympia/accounts/serializers.py:191 src/olympia/devhub/views.py:1071
-#, python-format
-msgid "Please use images smaller than %dMB."
-msgstr "Prošu wužiwajće wobrazy, kotrež su mjeńše hač %d MB."
+#: src/olympia/accounts/serializers.py:190
+#, python-brace-format
+msgid "Please use images smaller than {}MB."
+msgstr ""
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -329,7 +343,7 @@ msgstr "Licenca ze slug={value} njeeksistuje."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "Njepodpěrany datajowy typ, prošu nahrajće archiwowu dataju ({extensions})."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:776
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:772
 msgid "Invalid or broken archive."
 msgstr "Njepłaćiwy abo wobškodźeny archiw."
 
@@ -355,11 +369,11 @@ msgstr "Informacije wo kompatibelnosći , kotrež su w manifesće za tute nało�
 msgid "Images must be smaller than %dMB"
 msgstr "Wobrazy dyrbja mjeńše hač %d MB być"
 
-#: src/olympia/addons/filters.py:19 src/olympia/search/filters.py:45 src/olympia/search/filters.py:58 src/olympia/search/filters.py:91 src/olympia/search/filters.py:166
-#: src/olympia/search/filters.py:206 src/olympia/search/filters.py:352 src/olympia/search/filters.py:457
-#, python-format
-msgid "Invalid \"%s\" parameter."
-msgstr "Njepłaćiwy parameter \"%s\"."
+#: src/olympia/addons/filters.py:19 src/olympia/search/filters.py:45 src/olympia/search/filters.py:59 src/olympia/search/filters.py:93 src/olympia/search/filters.py:168
+#: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
+#, python-brace-format
+msgid "Invalid \"{}\" parameter."
+msgstr ""
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -575,11 +589,11 @@ msgstr "CIDR"
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Někotre funkcije su nachwilu znjemóžnjene, mjeztym websydło wothladujemy. Budźemy połnu funkcionalnosć bórze wotnowjeć."
 
-#: src/olympia/amo/utils.py:1193 src/olympia/bandwagon/serializers.py:97
+#: src/olympia/amo/utils.py:1195 src/olympia/bandwagon/serializers.py:97
 msgid "This name cannot be used."
 msgstr "Tute mjeno njeda so wužiwać."
 
-#: src/olympia/amo/utils.py:1223
+#: src/olympia/amo/utils.py:1225
 msgid "URLs are not allowed."
 msgstr "URL dowolene njejsu."
 
@@ -613,8 +627,8 @@ msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
 msgstr ""
-"Widźiće tutu powěsć, dokelž tute HTTPS-sydło hłowowu linku ‚Referer‘ trjeba, kotruž waš wobhladowak dyrbi słać, ale njeje pósłał. Tuta hłowowa linka je trěbna z přičinow wěstoty, zo by zawěsćiła, zo"
-" so waš wobhladowak wot třećich njekapruje."
+"Widźiće tutu powěsć, dokelž tute HTTPS-sydło hłowowu linku ‚Referer‘ trjeba, kotruž waš wobhladowak dyrbi słać, ale njeje pósłał. Tuta hłowowa linka je trěbna z přičinow wěstoty, zo by zawěsćiła, "
+"zo so waš wobhladowak wot třećich njekapruje."
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -656,8 +670,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>Hopla! Zmylk je wustupił.</h1> <p>Budźemy problem bórze rozrisować.</p><p> Móžeće spytać, stronu aktualizować abo wróćće so k <a href=\"%(home)s\">startowej stronje přidatkow</a>. Móžeće nam tež"
-" pomhać to rozrisać, hdyž <a href=\"https://github.com/mozilla/addons/issues/new\">zmylkowu rozprawu pisaće</a>, z podrobnosćemi, kak sće so k tutej stronje dóstał.</p>"
+"<h1>Hopla! Zmylk je wustupił.</h1> <p>Budźemy problem bórze rozrisować.</p><p> Móžeće spytać, stronu aktualizować abo wróćće so k <a href=\"%(home)s\">startowej stronje přidatkow</a>. Móžeće nam "
+"tež pomhać to rozrisać, hdyž <a href=\"https://github.com/mozilla/addons/issues/new\">zmylkowu rozprawu pisaće</a>, z podrobnosćemi, kak sće so k tutej stronje dóstał.</p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -2252,6 +2266,11 @@ msgstr "Symbole dyrbja pak we formaće PNG pak JPG być."
 msgid "Icons cannot be animated."
 msgstr "Symbole njedadźa so animować."
 
+#: src/olympia/devhub/views.py:1071
+#, python-format
+msgid "Please use images smaller than %dMB."
+msgstr "Prošu wužiwajće wobrazy, kotrež su mjeńše hač %d MB."
+
 #: src/olympia/devhub/views.py:1086
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
@@ -2503,8 +2522,8 @@ msgstr "Pomoc za rozšěrjenja a drasty dóstać"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Wužiwajće tutón formular za podpěru nastupajo na waše konto, problemy z konformnosću priwatnosće a wjace. Čim wjace podrobnosće dźěliće, ćim lóšo je za nas pomhać. Za prašenja wo přepruwowanjach "
 "swojich přidatkow, wobhladajće sej prošu wersijowu historiju swojich přidatkow. Budźemy was tak bórze kaž móžno informować."
@@ -2977,11 +2996,11 @@ msgstr "E-mejlowa adresa"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
-"Jeli chceće e-mejlowu adresu za naprašowanja pomocy pokazać, zapodajće ju tu. Jeli maće rozdźělne adresy za kóždy rěč, móžeće wjacore přełožki tutoho pola přidać. To je jenož za nalistowane přidatki"
-" relewantne."
+"Jeli chceće e-mejlowu adresu za naprašowanja pomocy pokazać, zapodajće ju tu. Jeli maće rozdźělne adresy za kóždy rěč, móžeće wjacore přełožki tutoho pola přidać. To je jenož za nalistowane "
+"přidatki relewantne."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -3039,8 +3058,8 @@ msgstr "Informaciska taflička"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Informaciska tafla je městno, hdźež móžeće přepruwowarjam informacije podać, kotrež su za waš přidatk relewantne, njedźiwajo na wersiju. Wužiwajće ju, zo byšće móžnosće za testowanje přidatka a "
 "dalše informacije podał, kotrež móhli pomhać. Tuta Informaciska tafla da so tež wot přepruwowarjow wobdźěłać."
@@ -3604,7 +3623,8 @@ msgstr "Dźěłowy system a žadanja tworjenskeje wokoliny."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
-msgstr "Trěbna wersija a instalaciske instrukcije programow, kotrež so w twarjenskim procesu wužiwaja (na přikład <span class=\"tech-emphasis\">node</span> a <span class=\"tech-emphasis\">npm</span>)."
+msgstr ""
+"Trěbna wersija a instalaciske instrukcije programow, kotrež so w twarjenskim procesu wužiwaja (na přikład <span class=\"tech-emphasis\">node</span> a <span class=\"tech-emphasis\">npm</span>)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3740,8 +3760,8 @@ msgstr "Wróćo"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Awtentifikowane wołanja přećiwo <a %(a_attrs)s href=\"%(docs_url)s\">API</a> jako eksterny přetrjebar wuwjedł, dyrbiće <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> we hłowje "
 "<code>awtorizacije</code> za kóžde naprašowanje zapřijeć."
@@ -3862,20 +3882,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Waženy wužiwarjo přidatkow,\n"
 "\n"
-"my chcyli was nablaku informować: Smy zwěsćili, zo waše tajne přizjewjenske daty AMO API su w přidatku wobsahowane, kotryž je so pola addons.mozilla.org zapodał. Zo bychu waše konto a přidatki wěste wostali, smy sej dowolili, potrjechene přizjewjenske daty wotwołać. Njejsće ničo wopak činił – to so jenož druhdy stawa, a smy tu, zo bychmy wam pomhali, wšitko sporjadkować.\n"
+"my chcyli was nablaku informować: Smy zwěsćili, zo waše tajne přizjewjenske daty AMO API su w přidatku wobsahowane, kotryž je so pola addons.mozilla.org zapodał. Zo bychu waše konto a přidatki "
+"wěste wostali, smy sej dowolili, potrjechene přizjewjenske daty wotwołać. Njejsće ničo wopak činił – to so jenož druhdy stawa, a smy tu, zo bychmy wam pomhali, wšitko sporjadkować.\n"
 "Móžeće kóždy čas na %(api_keys_url)s nowe přizjewjenske daty API generować \n"
 "\n"
-"Zo bychu waše přizjewjenske daty w přichodźe wěste wostali, dźeržće je najlěpje dowěrliwe a njezapołožće je w zjawnym repozitoriju, přidatku abo na zjawnym městnje. Hdyžkuli maće wokomik chwile, dyrbjał wy swoje kodowe repozitorije a rozšěrjenja přepruwować, zo byšće wotkazy na swoje přizjewjenske AMO wotstronił.\n"
+"Zo bychu waše přizjewjenske daty w přichodźe wěste wostali, dźeržće je najlěpje dowěrliwe a njezapołožće je w zjawnym repozitoriju, přidatku abo na zjawnym městnje. Hdyžkuli maće wokomik chwile, "
+"dyrbjał wy swoje kodowe repozitorije a rozšěrjenja přepruwować, zo byšće wotkazy na swoje přizjewjenske AMO wotstronił.\n"
 "\n"
 "Wulki dźak,\n"
 "Team Mozilla Add-ons"
@@ -4066,12 +4090,11 @@ msgstr "Kompatibelnosć Firefox za Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Sće swoje rozšěrjenje testował, zo byšće zawěsćił, zo kaž wočakowane na Firefox za Android funguje? Jeli nic, hlejće prošu <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Rozšěrjenja za Firefox Android wuwiwać</a> (jendźelsce) za testowu proceduru, prjedy hač "
-"zapodawaće."
+"Sće swoje rozšěrjenje testował, zo byšće zawěsćił, zo kaž wočakowane na Firefox za Android funguje? Jeli nic, hlejće prošu <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Rozšěrjenja za Firefox Android wuwiwać</a> (jendźelsce) za testowu proceduru, prjedy hač zapodawaće."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -6432,7 +6455,7 @@ msgstr "[status:%s]"
 msgid "This upload has already been submitted."
 msgstr "Tute nahraće je so hižo wotpósłało."
 
-#: src/olympia/files/utils.py:157 src/olympia/files/utils.py:191 src/olympia/files/utils.py:883
+#: src/olympia/files/utils.py:157 src/olympia/files/utils.py:191 src/olympia/files/utils.py:879
 msgid "Could not parse the manifest file."
 msgstr "Manifestowa dataja njeda so analyzować."
 
@@ -6441,118 +6464,118 @@ msgstr "Manifestowa dataja njeda so analyzować."
 msgid "Lowest supported \"strict_min_version\" is {min_version}."
 msgstr "Najniša podpěrana wersija \"strict_min_version\" je {min_version}."
 
-#: src/olympia/files/utils.py:368
+#: src/olympia/files/utils.py:367
 #, python-brace-format
 msgid "Unknown \"strict_min_version\" {appver} for {app}"
 msgstr "Njeznata \"strict_min_version\" {appver} za {app}"
 
-#: src/olympia/files/utils.py:382
+#: src/olympia/files/utils.py:379
 #, python-brace-format
 msgid "Unknown \"strict_max_version\" {appver} for {app}"
 msgstr "Njeznata \"strict_max_version\" {appver} za {app}"
 
-#: src/olympia/files/utils.py:562
+#: src/olympia/files/utils.py:558
 msgid "Unsupported compression method in archive."
 msgstr "Njepodpěrana kompresiska metoda w archiwje."
 
-#: src/olympia/files/utils.py:565
+#: src/olympia/files/utils.py:561
 msgid "Unsupported archive type."
 msgstr "Njepodpěrany archiwowy typ."
 
-#: src/olympia/files/utils.py:574
+#: src/olympia/files/utils.py:570
 msgid "Invalid file name in archive. Please make sure all filenames are utf-8 or latin1 encoded."
 msgstr "Njepłaćiwe datajowe mjeno w archiwje. Prošu zawěsćće, zo wšě datajowe mjena su z UTF-8 abo Latin 1 skodowane."
 
 #. L10n: {0} is the name of the invalid file.
-#: src/olympia/files/utils.py:589
+#: src/olympia/files/utils.py:585
 #, python-brace-format
 msgid "Invalid file name in archive: {0}"
 msgstr "Njepłaćiwe datajowe mjeno w archiwje: {0}"
 
 #. L10n: {0} is the name of the invalid file.
-#: src/olympia/files/utils.py:597
+#: src/olympia/files/utils.py:593
 #, python-brace-format
 msgid "File exceeding size limit in archive: {0}"
 msgstr "Dataja wulkosćowy limit w archiwje překročuje: {0}"
 
-#: src/olympia/files/utils.py:617
+#: src/olympia/files/utils.py:613
 msgid "This archive contains a forbidden special file (symbolic / hard link or device / block file)"
 msgstr "Tutón archiw zakazanu specialnu dataju wobsahuje (symboliski/twjerdy wotkaz abo grat/blokowa dataja)"
 
-#: src/olympia/files/utils.py:652
+#: src/olympia/files/utils.py:648
 msgid "Uncompressed size is too large"
 msgstr "Njekomprimowana wulkosć je přewulka"
 
-#: src/olympia/files/utils.py:684
+#: src/olympia/files/utils.py:680
 msgid "Invalid archive."
 msgstr "Njepłaćiwy archiw."
 
-#: src/olympia/files/utils.py:871
+#: src/olympia/files/utils.py:867
 msgid "No manifest.json found"
 msgstr "Dataja manifest.json njeje so namakała"
 
-#: src/olympia/files/utils.py:876
+#: src/olympia/files/utils.py:872
 msgid "Invalid or corrupted file."
 msgstr "Njepłaćiwa abo wobškodźena dataja."
 
-#: src/olympia/files/utils.py:916
+#: src/olympia/files/utils.py:912
 #, python-format
 msgid "The add-on ID in your manifest.json (%s) does not match the ID of your add-on on AMO (%s)"
 msgstr "ID přidatka we wašej dataji manifest.json (%s) ID wašeho přidatka na AMO (%s) njewotpowěduje"
 
-#: src/olympia/files/utils.py:924
+#: src/olympia/files/utils.py:920
 msgid "Duplicate add-on ID found."
 msgstr "Dwójny přidatkowy ID namakany."
 
-#: src/olympia/files/utils.py:930
+#: src/olympia/files/utils.py:926
 #, python-brace-format
 msgid "Version numbers should have at most {max_length} characters."
 msgstr "Wersijowe čisła dyrbjeli maksimalnje {max_length} znamješkow měć."
 
-#: src/olympia/files/utils.py:936
+#: src/olympia/files/utils.py:932
 msgid "Version numbers should only contain letters, numbers, and these punctuation characters: +*.-_."
 msgstr "Wersijowe čisła měli jenož pismiki, ličby a slědowace interpunkciske znamješka wobsahować: +*.-_."
 
-#: src/olympia/files/utils.py:945
+#: src/olympia/files/utils.py:941
 #, python-brace-format
 msgid "Maximum size for WebExtension themes is {0}."
 msgstr "Maksimalna wulkosć za drasty Webextension je {0}."
 
-#: src/olympia/files/utils.py:959
+#: src/olympia/files/utils.py:955
 msgid "You cannot submit this type of add-on"
 msgstr "Njemóžeće tutón přidatkowy typ zapodać"
 
-#: src/olympia/files/utils.py:963
+#: src/olympia/files/utils.py:959
 msgid "You cannot submit an add-on using an ID ending with this suffix"
 msgstr "Njemóžeće přidatk z ID zapodać, kotryž so z tutym sufiksom kónči"
 
-#: src/olympia/files/utils.py:968
+#: src/olympia/files/utils.py:964
 msgid "You cannot submit a Mozilla Signed Extension"
 msgstr "Njemóžeće signowane rozšěrjenje Mozilla zapodać"
 
-#: src/olympia/files/utils.py:972
+#: src/olympia/files/utils.py:968
 msgid "You cannot submit a language pack"
 msgstr "Njemóžeće rěčny pakćik zapodać"
 
-#: src/olympia/files/utils.py:981
+#: src/olympia/files/utils.py:977
 msgid "The locale of an existing dictionary/language pack cannot be changed"
 msgstr "Rěč eksistowaceho słownika/rěčneho pakćika njeda so změnić"
 
-#: src/olympia/files/utils.py:1024
+#: src/olympia/files/utils.py:1020
 #, python-brace-format
 msgid "Unsupported file type, please upload a supported file {extensions}."
 msgstr "Njepodpěrany datajowy typ, prošu nahrajće podpěranu dataju {extensions}."
 
-#: src/olympia/files/utils.py:1033
+#: src/olympia/files/utils.py:1028
 msgid "Unexpected error."
 msgstr "Njewočakowany zmylk."
 
-#: src/olympia/files/utils.py:1038
+#: src/olympia/files/utils.py:1033
 #, python-format
 msgid "The type (%s) does not match the type of your add-on on AMO (%s)"
 msgstr "Typ (%s) typej wašeho přidatka na AMO (%s) njewotpowěduje"
 
-#: src/olympia/files/utils.py:1043
+#: src/olympia/files/utils.py:1038
 msgid "Unknown"
 msgstr "Njeznaty"
 
@@ -6630,16 +6653,16 @@ msgstr "Njemóžeće pohódnoćenje za swójski přidatk zawostajić."
 msgid "You can't leave more than one review for the same version of an add-on."
 msgstr "Njemóžeće wjace hač jedne pohódnoćenje za samsnu wersiju přidatka zawostajić."
 
-#: src/olympia/ratings/serializers.py:317
+#: src/olympia/ratings/serializers.py:316
 #, python-brace-format
-msgid "Invalid flag [{}] - must be one of [{}]"
-msgstr "Njepłaćiwa chorhojčka [{}] - dyrbi jedna z [{}] być"
+msgid "Invalid flag [{flag}] - must be one of [{flags}]"
+msgstr ""
 
-#: src/olympia/ratings/serializers.py:329
+#: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
 msgstr "Tute pohódnoćenje njeda so markěrować, dokelž pohódnoćenski tekst nima."
 
-#: src/olympia/ratings/serializers.py:338
+#: src/olympia/ratings/serializers.py:336
 msgid "A short explanation must be provided when selecting \"Other\" as a flag reason."
 msgstr "Dyrbi so krótke wujasnjenje podać, hdyž so „Druhe“ jako přičina zdźělenki wuběra."
 
@@ -6674,20 +6697,20 @@ msgstr "Wšě pokazać"
 msgid "Save"
 msgstr "Składować"
 
-#: src/olympia/search/filters.py:210 src/olympia/search/filters.py:330
-#, python-format
-msgid "Invalid combination of \"%s\" and \"%s\" parameters."
-msgstr "Njepłaćiwa kombinacija parametrow \"%s\" a \"%s\"."
+#: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
+#, python-brace-format
+msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
+msgstr ""
 
-#: src/olympia/search/filters.py:272
+#: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
 msgstr "Wróćenje k AMO je tuchwilu znjemóžnjene"
 
-#: src/olympia/search/filters.py:281
+#: src/olympia/search/filters.py:287
 msgid "Invalid Return To AMO guid (not in base64url format?)"
 msgstr "Njepłaćiwe wróćenje k AMO-GUID (nic w URL-formaće base64)"
 
-#: src/olympia/search/filters.py:934
+#: src/olympia/search/filters.py:941
 msgid "Maximum query length exceeded."
 msgstr "Maksimalna dołhosć naprašowanjow je překročena."
 
@@ -7207,8 +7230,8 @@ msgstr "Software abo grat, kotrejž wužiwaće, za zapodaća dowolenej njejstej.
 
 #: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Prjedy hač započnjeće, čitajće a akceptujće prošu naše dojednanje wo rozdźělowanju a naše přepruwowanske zasady a prawidła. Dojednanje wo rozdźělowanju Firefox tež na naš pokazku priwatnosće "
 "wotkazuje, kotryž wujasnja, kak z wašimi informacijemi wobchadźamy."
@@ -7253,6 +7276,11 @@ msgstr "Mozilla dyrbi so mojeho přidatka dla do zwiska stajić"
 #: src/olympia/users/notifications.py:105
 msgid "User Notifications"
 msgstr "Wužiwarske zdźělenja"
+
+#: src/olympia/users/tasks.py:223
+#, python-brace-format
+msgid "Verify your email ({})"
+msgstr ""
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
@@ -7347,7 +7375,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7357,7 +7386,8 @@ msgid ""
 msgstr ""
 "Witajće,\n"
 "\n"
-"dóstawaće tutu powěsć, zo byšće zhonił, zo waše wužiwarske konto %(name)s na %(site_url)s je so zhašało. Jeli sće njedawno swoje konto Mozilla zhašał, móže so to awtomatisce jak dźěl toho procesa stać.\n"
+"dóstawaće tutu powěsć, zo byšće zhonił, zo waše wužiwarske konto %(name)s na %(site_url)s je so zhašało. Jeli sće njedawno swoje konto Mozilla zhašał, móže so to awtomatisce jak dźěl toho procesa "
+"stać.\n"
 "\n"
 "Wulki dźak, zo sće dźěl zhromadźenstwa přidatkow Firefox. Jeli měniće, zo to je zmylk było abo jeli prašenja maće, stajće so z nami do zwiska.\n"
 "\n"
