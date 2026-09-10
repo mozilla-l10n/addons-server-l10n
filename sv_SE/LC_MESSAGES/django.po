@@ -252,7 +252,7 @@ msgstr "Bilder kan inte vara animerade."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Använd bilder som är mindre än {} MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -360,7 +360,7 @@ msgstr "Bilder måste vara mindre än %dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Parametern \"{}\" är ogiltig."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6148,12 +6148,12 @@ msgstr "Ta bort distraktioner, ändra visningsalternativ, ändra uppspelningshas
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Passar utmärkt för video, ljud och strömmat innehåll på de flesta webbplatser."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Massor av funktioner som anpassar YouTube efter dina behov. Ta bort störande reklam, ändra YouTubes utseende, justera uppspelningshastigheten, höj volymen och mycket mer."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6625,7 +6625,7 @@ msgstr "Du kan inte lämna mer än en recension för samma version av ett tillä
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Ogiltig flagga [{flag}] – måste vara någon av [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6667,7 +6667,7 @@ msgstr "Spara"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Parametrarna \"{param1}\" och \"{param2}\" kan inte kombineras."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7247,7 +7247,7 @@ msgstr "Användaraviseringar"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Bekräfta din e-postadress ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
