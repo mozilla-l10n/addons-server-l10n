@@ -6159,6 +6159,7 @@ msgstr "Funguje wulkotnje za widejo, awdijo a wobsah streaming na najwjace websy
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Ducenty funkcije, kotrež zmóžnjeja, zo YouTube za was funguje. Wotstrońće wotchilace wabjenje, změńće wizuelny layout YouTube, wothrajće přiměrjenje spěšnosće, powjetšće sylnosć zwuka a wjace."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
