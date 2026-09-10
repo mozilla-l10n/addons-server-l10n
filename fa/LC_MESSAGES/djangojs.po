@@ -472,7 +472,7 @@ msgstr ""
 
 #: static/js/zamboni/reviewers.js:336
 msgid "Review page polling failed."
-msgstr ""
+msgstr "به‌روزرسانی صفحهٔ بررسی ناموفق بود."
 
 #: static/js/zamboni/reviewers.js:670
 #, python-brace-format
