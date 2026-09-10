@@ -250,7 +250,7 @@ msgstr "Wobraze njedaju se animěrowaś."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Pšosym wužywajśo wobraze, kótarež su mjeńše ako {} MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -360,7 +360,7 @@ msgstr "Wobraze muse mjeńše ako %d MB byś"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Njepłaśiwy parameter \"{}\"."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6158,12 +6158,13 @@ msgstr "Wótwónoźćo wótchylenja, změńśo naglědowe nastajenja, změńśo 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Funkcioněrujo wjelicnje za wideo, awdio a wopśimjeśe streaming na nejwěcej websedłach."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Ducenty funkcije, kótarež zmóžnjaju, až YouTube za was funkcioněrujo. Wótwónoźćo wótchylajuce wabjenje, změńśo wizuelny layout YouTube, wótgrajśo pśiměrjenje malsnosći, powětšćo głosnosć a wěcej."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6637,7 +6638,7 @@ msgstr "Njamóžośo wěcek ako jadno pógódnośenje za tu samsku wersiju dodan
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Njepłaśiwa chórgojcka [{flag}] - musy jadna z [{flags}] byś"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6681,7 +6682,7 @@ msgstr "Składowaś"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Njepłaśiwa kombinacija parametrowu \"{param1}\" a \"{param2}\"."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7261,7 +7262,7 @@ msgstr "Wužywaŕske powěźeńki"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Wobkšuśćo swóju e-mailowu adresu ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
