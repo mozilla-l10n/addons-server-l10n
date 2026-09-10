@@ -7140,7 +7140,7 @@ msgstr "Brukarmerknadar"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Stadfest e-postadressa di ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"

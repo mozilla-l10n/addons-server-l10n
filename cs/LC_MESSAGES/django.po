@@ -234,7 +234,7 @@ msgstr "Obrázky nemohou být animované."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Použijte prosím obrázky menší než {} MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -343,7 +343,7 @@ msgstr "Obrázky musí být menší než %d MB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Neplatný parametr \"{}\"."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6597,7 +6597,7 @@ msgstr "Nemůžete zanechat více než jednu recenzi ke stejné verzi doplňku."
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Neplatné označení [{flag}] – musí být jedno z těchto: [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6640,7 +6640,7 @@ msgstr "Uložit"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Neplatná kombinace parametrů \"{param1}\" a \"{param2}\"."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7220,7 +7220,7 @@ msgstr "Uživatelská oznámení"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Ověřit váš e-mail ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"

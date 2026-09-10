@@ -234,7 +234,7 @@ msgstr "Slike ne morejo biti animirane."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Uporabljajte slike, manjše od {} MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -344,7 +344,7 @@ msgstr "Slike morajo biti manjše od %d MB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Neveljaven parameter \"{}\"."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6555,7 +6555,7 @@ msgstr "Iste različice dodatka ne morete oceniti večkrat."
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Neveljavna zastavica [{flag}] – mora biti ena od [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6599,7 +6599,7 @@ msgstr "Shrani"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Neveljavna kombinacija parametrov \"{param1}\" in \"{param2}\"."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7179,7 +7179,7 @@ msgstr "Uporabniška obvestila"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Potrdite svoj e-poštni naslov ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
