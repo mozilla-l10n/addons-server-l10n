@@ -491,7 +491,7 @@ msgstr "این نقطه پایانی (endpoint) برای پوسته‌ها مع�
 #: src/olympia/addons/templates/addons/includes/dashboard_tabs.html:4 src/olympia/devhub/templates/devhub/nav.html:15 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:19
 #: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:16
 msgid "My Add-ons"
-msgstr "افزودنی‌های من"
+msgstr "افزونه‌های من"
 
 #: src/olympia/addons/templates/addons/includes/dashboard_tabs.html:6
 msgid "My Themes"
@@ -1500,7 +1500,7 @@ msgstr "افزونه‌های فایرفاکس را دانلود کنید که �
 
 #: src/olympia/constants/categories.py:75
 msgid "Appearance"
-msgstr "ظاهر برنامه"
+msgstr "ظاهر"
 
 #: src/olympia/constants/categories.py:77
 msgid "Download extensions that modify the appearance of websites and the browser Firefox. This category includes extensions for dark themes, tab management, and more."
@@ -1685,7 +1685,7 @@ msgstr "پوسته‌های فایرفاکس جذاب، خلاقانه و منح
 
 #: src/olympia/constants/categories.py:295
 msgid "Scenery"
-msgstr "منظره"
+msgstr "چشم‌انداز"
 
 #: src/olympia/constants/categories.py:297
 msgid "Download Firefox themes that feature the environment and the natural world. This category includes sunsets, beaches, illustrations, city skylines, and more."
@@ -3201,7 +3201,7 @@ msgstr "پنهان‌سازی پیام‌های نادیده‌گرفته‌شد
 #: src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:77 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:90
 #: src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:103
 msgid "Top"
-msgstr "بالای صفحه"
+msgstr "بالا"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/_delete_warning.html:1
 msgid "Deleting your add-on will permanently delete all versions and files you have submitted for this add-on, listed or not."
@@ -4099,7 +4099,7 @@ msgstr "لطفاً مجوزی متناسب با حقوقی که برای سور�
 
 #: src/olympia/devhub/templates/devhub/includes/listing_header.html:2
 msgid "Sort by:"
-msgstr "مرتب‌سازی بر حسب:"
+msgstr "مرتب‌سازی بر اساس:"
 
 #: src/olympia/devhub/templates/devhub/includes/listing_visibility.html:1
 msgid "Listing visibility"

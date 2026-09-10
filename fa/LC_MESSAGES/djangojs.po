@@ -553,7 +553,7 @@ msgstr "این آزمون‌ها اجرا نشدند."
 
 #: static/js/zamboni/validator.js:155 static/js/zamboni/validator.js:177
 msgid "Tests"
-msgstr "آزمونها"
+msgstr "آزمون‌ها"
 
 #: static/js/zamboni/validator.js:259 static/js/zamboni/validator.js:492 static/js/zamboni/validator.js:516
 msgid "Error"
