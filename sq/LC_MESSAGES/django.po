@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-10 09:39+0000\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -118,7 +121,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -127,7 +131,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -136,14 +141,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -152,7 +158,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -161,7 +168,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -352,8 +360,8 @@ msgstr "Kartela është e çaktivizuar tashmë."
 #, python-format
 msgid "The latest approved version of this %s add-on cannot be deleted because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
-"Versioni më i ri i miratuar i kësaj shtese %s s’mund të fshihet, ngaqë versioni i mëparshëm s’qe miratuar për promovim në %s. Nëse ju duhet ndihmë për këtë, ju lutemi, lidhuni me Përgjegjësit e "
-"AMO-s."
+"Versioni më i ri i miratuar i kësaj shtese %s s’mund të fshihet, ngaqë versioni i mëparshëm s’qe miratuar për promovim në %s. Nëse ju duhet ndihmë për këtë, ju lutemi, lidhuni me Përgjegjësit e AMO-"
+"s."
 
 #: src/olympia/addons/serializers.py:586
 msgid "Listed versions cannot be submitted while add-on is disabled."
@@ -596,8 +604,8 @@ msgid ""
 "You are seeing this message because this site requires a CSRF cookie when submitting forms. This cookie is required for security reasons, to ensure that your browser is not being hijacked by third "
 "parties."
 msgstr ""
-"Këtë mesazh po e shihni ngaqë ky sajt lyp një cookie CSRF, kur parashtrohen formularë. Kjo cookie është e domosdoshme për arsye sigurie, për të bërë të mundur që shfletuesi juaj të mos komprometohet"
-" nga palë të treta."
+"Këtë mesazh po e shihni ngaqë ky sajt lyp një cookie CSRF, kur parashtrohen formularë. Kjo cookie është e domosdoshme për arsye sigurie, për të bërë të mundur që shfletuesi juaj të mos "
+"komprometohet nga palë të treta."
 
 #: src/olympia/amo/templates/amo/404.html:3
 msgid "Not Found"
@@ -616,8 +624,8 @@ msgstr ""
 "<li>Nëse adresën e shkruat ju, ju lutemi, kontrolloni sërish drejtshkrimin.</li> <li> Nëse ndoqët një lidhje nga diku gjetkë, ju lutemi, %(open_bug_link)sna e bëni të ditur%(close_bug_link)s. "
 "Tregonani aty se prej nga mbërritët dhe se për çfarë po kërkonit, dhe do të bëjmë ç’është e mundur ta ndreqim. </li> </ul> <p>Ose mundeni të hidheni te disa faqe popullore te sajti ynë.</p> <ul> "
 "<li>Ju intereson një <a href=\"%(rec)s\">listë shtesash të zgjedhura</a>?</li> <li> Doni të <a href=\"%(search)s\">kërkoni për shtesa</a>? Mund të hidheni te <a href=\"%(search)s\">faqja e "
-"kërkimeve</a> ose just use ose thjesht përdorni kutinë e kërkimeve më sipër. </li> <li> Nëse parapëlqeni t’ia nisni nga e para, thjesht shkoni te <a href=\"%(home)s\">faqja hyrëse e shtesave</a>. "
-"</li> </ul>"
+"kërkimeve</a> ose just use ose thjesht përdorni kutinë e kërkimeve më sipër. </li> <li> Nëse parapëlqeni t’ia nisni nga e para, thjesht shkoni te <a href=\"%(home)s\">faqja hyrëse e shtesave</a>. </"
+"li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -1346,7 +1354,7 @@ msgstr "U hodh poshtë Lëndë Parashtrimi"
 msgid "Disabled by Mozilla"
 msgstr "Çaktivizuar nga Mozilla"
 
-#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1170
+#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1173
 msgid "Deleted"
 msgstr "Fshirë"
 
@@ -1535,7 +1543,7 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr "Shkarkoni zgjerime Firefox-i që përmirësojnë punën tuaj me fotot, muzikën dhe videon. Zgjerimet në këtë kategori modifikojnë audio dhe video, kërkim së prapthi për figura, etj."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1138
 msgid "Privacy & Security"
 msgstr "Privatësi & Siguri"
 
@@ -2244,8 +2252,8 @@ msgstr "Pati një gabim gjatë ngarkimit të paraparjes suaj."
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
-"Versioni më i ri i miratuar i kësaj shtese %s s’mund të fshihet apo të çaktivizohet, ngaqë versioni i mëparshëm s’qe miratuar për promovim në %s. Nëse ju duhet ndihmë për këtë, ju lutemi, lidhuni me"
-" Përgjegjësit e AMO-s."
+"Versioni më i ri i miratuar i kësaj shtese %s s’mund të fshihet apo të çaktivizohet, ngaqë versioni i mëparshëm s’qe miratuar për promovim në %s. Nëse ju duhet ndihmë për këtë, ju lutemi, lidhuni "
+"me Përgjegjësit e AMO-s."
 
 #: src/olympia/devhub/views.py:1262
 #, python-format
@@ -2468,8 +2476,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2934,8 +2942,8 @@ msgstr "Email"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Nëse dëshironi të shfaqni një adresë email për çështje asistence, jepeni këtu. Nëse keni adresa të ndryshme për çdo gjuhë, mund të shtohen përkthime të kësaj fushe. Kjo vlen vetëm për shtesa të "
 "shfaqura."
@@ -2996,8 +3004,8 @@ msgstr "Tabela"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Tabela është vendi për t’u dhënë shqyrtuesve hollësi që lidhen me shtesën tuaj, cilido qoftë versioni. Përdoreni për të ofruar rrugë për testimin e shtesës, dhe çfarëdo hollësie shtesë që mund të "
 "hyjnë në punë. Këtë tabelë mund ta përpunojnë gjithashtu edhe redaktorët."
@@ -3016,8 +3024,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Ngarkoni një ikonë për shtesën tuaj ose zgjidhni një nga tonat. Ikona shfaqet thuajse kudo ku shfaqet shtesa juaj. Figurat e ngarkuara duhet të jenë në një nga llojet vijuese për figura: .png, .jpg."
-" Kjo vlen vetëm për shtesa të shfaqura."
+"Ngarkoni një ikonë për shtesën tuaj ose zgjidhni një nga tonat. Ikona shfaqet thuajse kudo ku shfaqet shtesa juaj. Figurat e ngarkuara duhet të jenë në një nga llojet vijuese për figura: .png, ."
+"jpg. Kjo vlen vetëm për shtesa të shfaqura."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3320,8 +3328,8 @@ msgid ""
 "Warning: you have name/summary values in other locales that will be automatically cropped to fit under the limit of %(max_length)s characters.  To edit these go to Edit Product Page after the "
 "submission process is complete."
 msgstr ""
-"Kujdes: keni vlera emër/përmbledhje në gjuhë të tjera që do të qethen automatikisht që të hyjnë brenda kufirit prej %(max_length)s shenjash.  Që të përpunoni këto, shkoni te Përpunoni Faqe Produkti,"
-" pasi të jetë plotësuar procesi i parashtrimeve."
+"Kujdes: keni vlera emër/përmbledhje në gjuhë të tjera që do të qethen automatikisht që të hyjnë brenda kufirit prej %(max_length)s shenjash.  Që të përpunoni këto, shkoni te Përpunoni Faqe "
+"Produkti, pasi të jetë plotësuar procesi i parashtrimeve."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:52 src/olympia/devhub/templates/devhub/addons/submit/describe.html:73
 msgid "Add-on URL:"
@@ -3462,8 +3470,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Mbaruat! ✨ Do të merrni një email ripohimi, kur ky version të publikohet në %(site_domain)s. Kini parasysh se mund të duhen deri në 24 orë, përpara se të ndodhë publikimi, ose më gjatë, nëse shtesa "
-"juaj është përzgjedhur për shqyrtim dorazi. Nëse nuk shihni ndonjë email pas 24 orësh, ju lutemi, kontrolloni te dosja juaj e të padëshiruarve."
+"Mbaruat! ✨ Do të merrni një email ripohimi, kur ky version të publikohet në %(site_domain)s. Kini parasysh se mund të duhen deri në 24 orë, përpara se të ndodhë publikimi, ose më gjatë, nëse "
+"shtesa juaj është përzgjedhur për shqyrtim dorazi. Nëse nuk shihni ndonjë email pas 24 orësh, ju lutemi, kontrolloni te dosja juaj e të padëshiruarve."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3557,8 +3565,8 @@ msgstr "Domosdoshmëri për sistemin operativ dhe mjedisin e montimit."
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
 msgstr ""
-"Versionin e domosdoshëm dhe udhëzime instalimi të çfarëdo programesh të përdorur në procesin e montimit (të tillë si <span class=\"tech-emphasis\">node</span> dhe <span class=\"tech-"
-"emphasis\">npm</span>)."
+"Versionin e domosdoshëm dhe udhëzime instalimi të çfarëdo programesh të përdorur në procesin e montimit (të tillë si <span class=\"tech-emphasis\">node</span> dhe <span class=\"tech-emphasis\">npm</"
+"span>)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3694,11 +3702,11 @@ msgstr "Mbrapsht"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
-"Që të ekzekutoni thirrje të mirëfilltësuara kundrejt <a %(a_attrs)s href=\"%(docs_url)s\">API</a>-t si një klient i jashtëm, duhet të përfshini një <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token"
-" (JWT)</a> te kryet e <code>Autorizimit</code> për secilën kërkesë."
+"Që të ekzekutoni thirrje të mirëfilltësuara kundrejt <a %(a_attrs)s href=\"%(docs_url)s\">API</a>-t si një klient i jashtëm, duhet të përfshini një <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web "
+"Token (JWT)</a> te kryet e <code>Autorizimit</code> për secilën kërkesë."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -3778,10 +3786,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3957,11 +3967,11 @@ msgstr "Përputhje me Firefox për Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"A e testuat zgjerimin tuaj për t’u siguruar se funksionon siç pritet në Firefox për Android? Nëse jo, ju lutemi, shihni <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Zhvillim zgjerimesh për Firefox Android</a>, për udhëzime testimi para parashtrimit."
+"A e testuat zgjerimin tuaj për t’u siguruar se funksionon siç pritet në Firefox për Android? Nëse jo, ju lutemi, shihni <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Zhvillim zgjerimesh për Firefox Android</a>, për udhëzime testimi para parashtrimit."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4006,8 +4016,8 @@ msgstr "Në Pritje të Nënshkrimit të Versionit"
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:3
 msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Mbaruat! ✨ Do të njoftoheni me email, kur kartela e nënshkruar të jetë gati për t’u shkarkuar që nga Qendra e Zhvilluesve. Nëse nuk shihni ndonjë email pas 24 orësh, ju lutemi, kontrolloni te dosja "
-"juaj e të padëshiruarve."
+"Mbaruat! ✨ Do të njoftoheni me email, kur kartela e nënshkruar të jetë gati për t’u shkarkuar që nga Qendra e Zhvilluesve. Nëse nuk shihni ndonjë email pas 24 orësh, ju lutemi, kontrolloni te "
+"dosja juaj e të padëshiruarve."
 
 #: src/olympia/devhub/templates/devhub/includes/license_form.html:5 src/olympia/devhub/templates/devhub/versions/edit.html:83
 msgid "License"
@@ -4035,8 +4045,8 @@ msgstr "{label_open}E dukshme:{label_close} E dukshme për këdo te {site_url} d
 msgid ""
 "{label_open}Invisible:{label_close} Won't be included in search results, and its product page will indicate you disabled it. New version submissions for product won't be accepted in this state."
 msgstr ""
-"{label_open}E padukshme:{label_close} S’do të përfshihet në përfundime kërkimesh, dhe faqja për të do të tregojë që e keni çaktivizuar. Nën këtë gjendje, nuk do të pranohen për paraqitje parashtrime"
-" versionesh të reja."
+"{label_open}E padukshme:{label_close} S’do të përfshihet në përfundime kërkimesh, dhe faqja për të do të tregojë që e keni çaktivizuar. Nën këtë gjendje, nuk do të pranohen për paraqitje "
+"parashtrime versionesh të reja."
 
 #: src/olympia/devhub/templates/devhub/includes/macros.html:5
 msgid "Some Markdown supported."
@@ -5291,8 +5301,8 @@ msgstr "Ndiqni prodhimtarinë. Matni sasinë e kohës që shpenzoni në kompjute
 #: src/olympia/discovery/strings.jinja2:422
 msgid "Save your favorite stuff on the web. Clip content like articles, videos, images, and more to save and use for individual projects or real-time team collaboration."
 msgstr ""
-"Ruani gjërat tuaja të parapëlqyera në web. Prini lëndë web, fjala vjen, artikuj, video, figura, etj, për t’i ruajtur dhe përdorur për projekte individuale ose për bashkëpunim të atypëratyshëm brenda"
-" një ekipi."
+"Ruani gjërat tuaja të parapëlqyera në web. Prini lëndë web, fjala vjen, artikuj, video, figura, etj, për t’i ruajtur dhe përdorur për projekte individuale ose për bashkëpunim të atypëratyshëm "
+"brenda një ekipi."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -6040,261 +6050,271 @@ msgstr "Maskojeni Firefox-in si shfletuesin Chrome, për të ngatërruar sajte q
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr ""
 
-#. editorial content for the secondary hero shelves.
+#. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
+msgid "Works great for video, audio, and streaming content across most websites."
+msgstr ""
+
+#. editorial content for the primary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1127
+msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
+msgstr ""
+
+#. editorial content for the secondary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1130
 msgid "Extensions are like apps for Firefox."
 msgstr "Zgjerimet janë si aplikacione për Firefox-in."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1126
+#: src/olympia/discovery/strings.jinja2:1132
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr "Ato i shtojnë Firefox-it veçori për ta bërë shfletimin më të shpejtë, më të parrezik, ose thjesht më zbavitës."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1128
+#: src/olympia/discovery/strings.jinja2:1134
 msgid "See all extensions"
 msgstr "Shihni tërë zgjerimet"
 
 #. editorial content for the secondary hero shelves.
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1130 src/olympia/discovery/strings.jinja2:1198
+#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1204
 msgid "YouTube customization"
 msgstr "Përshtatje YouTube-i"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1134
+#: src/olympia/discovery/strings.jinja2:1140
 msgid "Reddit extensions"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
 msgid "See staff picks"
 msgstr "Shihni zgjedhje nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1143
+#: src/olympia/discovery/strings.jinja2:1149
 msgid "Recommended extensions"
 msgstr "Zgjerime të rekomanduara"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1145
+#: src/olympia/discovery/strings.jinja2:1151
 msgid "See more recommended extensions"
 msgstr "Shihni më tepër zgjerime të rekomanduara"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1148
+#: src/olympia/discovery/strings.jinja2:1154
 msgid "Popular themes"
 msgstr "Tema popullore"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1150
+#: src/olympia/discovery/strings.jinja2:1156
 msgid "See more popular themes"
 msgstr "Shihni më tepër tema popullore"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1153
+#: src/olympia/discovery/strings.jinja2:1159
 msgid "Privacy & security"
 msgstr "Privatësi & siguri"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1155
+#: src/olympia/discovery/strings.jinja2:1161
 msgid "See more privacy staff picks"
 msgstr "Shihni më tepër zgjedhje privatësie nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1158
+#: src/olympia/discovery/strings.jinja2:1164
 msgid "Popular extensions"
 msgstr "Zgjerime popullore"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1160
+#: src/olympia/discovery/strings.jinja2:1166
 msgid "See more popular extensions"
 msgstr "Shihni më tepër zgjerime popullore"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1163
+#: src/olympia/discovery/strings.jinja2:1169
 msgid "Recommended themes"
 msgstr "Tema të rekomanduara"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1165
+#: src/olympia/discovery/strings.jinja2:1171
 msgid "See more recommended themes"
 msgstr "Shihni më tepër tema të rekomanduara"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1168
+#: src/olympia/discovery/strings.jinja2:1174
 msgid "Strong password managers"
 msgstr "Përgjegjës të fuqishëm fjalëkalimesh"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1170
+#: src/olympia/discovery/strings.jinja2:1176
 msgid "See more password manager staff picks"
 msgstr "Shihni më tepër zgjerime përgjegjës fjalëkalimesh të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1173
+#: src/olympia/discovery/strings.jinja2:1179
 msgid "Translation tools"
 msgstr "Mjete përkthimi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1175
+#: src/olympia/discovery/strings.jinja2:1181
 msgid "See more translation tool staff picks"
 msgstr "Shihni më tepër mjete përkthimi të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1178
+#: src/olympia/discovery/strings.jinja2:1184
 msgid "Social streaming"
 msgstr "Transmetim shoqëror"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1180
+#: src/olympia/discovery/strings.jinja2:1186
 msgid "See more social streaming staff picks"
 msgstr "Shihni më tepër zgjerime transmetimi në shoqërorë të zgjedhur nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1183
+#: src/olympia/discovery/strings.jinja2:1189
 msgid "Tab managers"
 msgstr "Përgjegjës skedash"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1185
+#: src/olympia/discovery/strings.jinja2:1191
 msgid "See more tab management staff picks"
 msgstr "Shihni më tepër zgjerime administrimi skedash të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1188
+#: src/olympia/discovery/strings.jinja2:1194
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr "Zgjerime të etiketuara me “{tag}”"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1190
+#: src/olympia/discovery/strings.jinja2:1196
 #, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "Shihni më tepër zgjerime të etiketuara me \"{tag}\""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1193
+#: src/olympia/discovery/strings.jinja2:1199
 msgid "Elite ad blockers"
 msgstr "Bllokues reklamash elitarë"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1195
+#: src/olympia/discovery/strings.jinja2:1201
 msgid "See more ad blocker staff picks"
 msgstr "Shihni më tepër bllokues reklamash të zgjedhur nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1200
+#: src/olympia/discovery/strings.jinja2:1206
 msgid "See more YouTube extension staff picks"
 msgstr "Shihni më tepër zgjerime YouTube të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1203
+#: src/olympia/discovery/strings.jinja2:1209
 msgid "Trending themes"
 msgstr "Tema në modë"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1205
+#: src/olympia/discovery/strings.jinja2:1211
 msgid "See more trending themes"
 msgstr "Shihni më tepër tema në modë"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1208 src/olympia/discovery/strings.jinja2:1253
+#: src/olympia/discovery/strings.jinja2:1214 src/olympia/discovery/strings.jinja2:1259
 msgid "Top rated themes"
 msgstr "Temat më të vlerësuara"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
+#: src/olympia/discovery/strings.jinja2:1216 src/olympia/discovery/strings.jinja2:1261
 msgid "See more top rated themes"
 msgstr "Shihni më tepër tema nga më të vlerësuarat"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1213
+#: src/olympia/discovery/strings.jinja2:1219
 msgid "Trending extensions"
 msgstr "Zgjerime në modë"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1215
+#: src/olympia/discovery/strings.jinja2:1221
 msgid "See more trending extensions"
 msgstr "Shihni më tepër zgjerime në modë"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1218
+#: src/olympia/discovery/strings.jinja2:1224
 msgid "Steam enhancers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1220
+#: src/olympia/discovery/strings.jinja2:1226
 msgid "See more Steam staff picks"
 msgstr "Shihni më tepër zgjedhje nga stafi Steam"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1223
+#: src/olympia/discovery/strings.jinja2:1229
 msgid "Creativity extensions"
 msgstr "Zgjerime për frymë krijuese"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1225
+#: src/olympia/discovery/strings.jinja2:1231
 msgid "See more creativity staff picks"
 msgstr "Shihni më tepër mjete krijimtarie të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1228
+#: src/olympia/discovery/strings.jinja2:1234
 msgid "Social media extensions"
 msgstr "Zgjerime për media shoqërore"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1230
+#: src/olympia/discovery/strings.jinja2:1236
 msgid "See more social media staff picks"
 msgstr "Shihni më tepër zgjedhje për media shoqërore nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1233
+#: src/olympia/discovery/strings.jinja2:1239
 msgid "Top download managers"
 msgstr "Përgjegjës kryesues shkarkimesh"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1235
+#: src/olympia/discovery/strings.jinja2:1241
 msgid "See more download manager staff picks"
 msgstr "Shihni më tepër zgjerime përgjegjës shkarkimesh të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1238
+#: src/olympia/discovery/strings.jinja2:1244
 msgid "Accessibility extensions"
 msgstr "Zgjerime përdorimi nga persona me aftësi të kufizuara"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1240
+#: src/olympia/discovery/strings.jinja2:1246
 msgid "See more accessibility staff picks"
 msgstr "Shihni më tepër mjete përdorimi nga persona me aftësi të kufizuara, të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1243
+#: src/olympia/discovery/strings.jinja2:1249
 msgid "Extension starter pack"
 msgstr "Paketë fillestare zgjerimesh"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1245
+#: src/olympia/discovery/strings.jinja2:1251
 msgid "See more starter extension staff picks"
 msgstr "Shihni më tepër zgjerime fillestari të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1248
+#: src/olympia/discovery/strings.jinja2:1254
 msgid "Twitch extensions"
 msgstr "Zgjerime Twitch"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1250
+#: src/olympia/discovery/strings.jinja2:1256
 msgid "See more Twitch extension staff picks"
 msgstr "Shihni më tepër zgjerime Twitch të zgjedhura nga stafi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1258
+#: src/olympia/discovery/strings.jinja2:1264
 msgid "Gaming & media extensions"
 msgstr "Zgjerime për lojëra & media"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1260
+#: src/olympia/discovery/strings.jinja2:1266
 msgid "See more staff picks"
 msgstr "Shihni më tepër zgjedhje nga stafi"
 
@@ -6996,8 +7016,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Hiq atje ku <a href=\"https://www.mozilla.org/about/legal/\">shënohet</a> ndryshe, lënda e këtij sajti mund të përdoret sipas një licence <a href=\"https://creativecommons.org/licenses/by-"
-"sa/3.0/\">Creative Commons Attribution Share-Alike License v3.0</a> ose çfarëdo versioni të mëvonshëm."
+"Hiq atje ku <a href=\"https://www.mozilla.org/about/legal/\">shënohet</a> ndryshe, lënda e këtij sajti mund të përdoret sipas një licence <a href=\"https://creativecommons.org/licenses/by-sa/3.0/"
+"\">Creative Commons Attribution Share-Alike License v3.0</a> ose çfarëdo versioni të mëvonshëm."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7082,11 +7102,11 @@ msgstr "Software-i apo pajisja që po përdorni s’lejohet për parashtrime."
 
 #: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
-"Para se t’ia filloni, ju lutemi lexoni dhe pranoni Marrëveshjen mbi Shpërndarjen e Shtesave të Firefox-it, si dhe Rregullat tona mbi Shqyrtimet. Marrëveshja mbi Shpërndarjen e Shtesave të Firefox-it"
-" përmban edhe lidhje për te Shënimet tona mbi Privatësinë, ku shpjegohet se si i trajtojmë të dhënat tuaja."
+"Para se t’ia filloni, ju lutemi lexoni dhe pranoni Marrëveshjen mbi Shpërndarjen e Shtesave të Firefox-it, si dhe Rregullat tona mbi Shqyrtimet. Marrëveshja mbi Shpërndarjen e Shtesave të Firefox-"
+"it përmban edhe lidhje për te Shënimet tona mbi Privatësinë, ku shpjegohet se si i trajtojmë të dhënat tuaja."
 
 #: src/olympia/users/models.py:1523
 #, python-brace-format
@@ -7200,7 +7220,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7209,33 +7230,33 @@ msgid ""
 "The Mozilla Add-ons Team"
 msgstr ""
 
-#: src/olympia/versions/models.py:1155
+#: src/olympia/versions/models.py:1158
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
 msgstr "Zvarritje e hedhur poshtë, planifikuar për %s"
 
-#: src/olympia/versions/models.py:1160
+#: src/olympia/versions/models.py:1163
 msgid "Auto-approved, Confirmed"
 msgstr "E vetëmiratuar, e Ripohuar"
 
-#: src/olympia/versions/models.py:1162
+#: src/olympia/versions/models.py:1165
 msgid "Auto-approved, not Confirmed"
 msgstr "E vetëmiratuar, e Paripohuar"
 
-#: src/olympia/versions/models.py:1165
+#: src/olympia/versions/models.py:1168
 msgid "Approved, Manual"
 msgstr "E miratuar, Dorazi"
 
-#: src/olympia/versions/models.py:1172
+#: src/olympia/versions/models.py:1175
 msgid "Disabled by Developer"
 msgstr "Çaktivizuar nga Zhvilluesi"
 
-#: src/olympia/versions/models.py:1530
+#: src/olympia/versions/models.py:1533
 #, python-brace-format
 msgid "{app} {min} and later"
 msgstr "{app} {min} dhe më të vonshëm"
 
-#: src/olympia/versions/models.py:1657
+#: src/olympia/versions/models.py:1660
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
 msgstr "Origjina e instalimit {origin} nuk lejohet."

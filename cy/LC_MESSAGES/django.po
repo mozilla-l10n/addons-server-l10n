@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-09 08:58+0000\n"
+"POT-Creation-Date: 2026-09-10 09:39+0000\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1330,7 +1330,7 @@ msgstr ""
 msgid "Disabled by Mozilla"
 msgstr ""
 
-#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1170
+#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1173
 msgid "Deleted"
 msgstr ""
 
@@ -1522,7 +1522,7 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1138
 msgid "Privacy & Security"
 msgstr ""
 
@@ -6003,280 +6003,290 @@ msgstr ""
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr ""
 
-#. editorial content for the secondary hero shelves.
+#. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
+msgid "Works great for video, audio, and streaming content across most websites."
+msgstr ""
+
+#. editorial content for the primary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1127
+msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
+msgstr ""
+
+#. editorial content for the secondary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1130
 msgid "Extensions are like apps for Firefox."
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1126
+#: src/olympia/discovery/strings.jinja2:1132
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1128
+#: src/olympia/discovery/strings.jinja2:1134
 #, fuzzy
 msgid "See all extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the secondary hero shelves.
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1130 src/olympia/discovery/strings.jinja2:1198
+#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1204
 msgid "YouTube customization"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1134
+#: src/olympia/discovery/strings.jinja2:1140
 msgid "Reddit extensions"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
 msgid "See staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1143
+#: src/olympia/discovery/strings.jinja2:1149
 #, fuzzy
 msgid "Recommended extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1145
+#: src/olympia/discovery/strings.jinja2:1151
 #, fuzzy
 msgid "See more recommended extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1148
+#: src/olympia/discovery/strings.jinja2:1154
 msgid "Popular themes"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1150
+#: src/olympia/discovery/strings.jinja2:1156
 msgid "See more popular themes"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1153
+#: src/olympia/discovery/strings.jinja2:1159
 msgid "Privacy & security"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1155
+#: src/olympia/discovery/strings.jinja2:1161
 msgid "See more privacy staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1158
+#: src/olympia/discovery/strings.jinja2:1164
 #, fuzzy
 msgid "Popular extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1160
+#: src/olympia/discovery/strings.jinja2:1166
 #, fuzzy
 msgid "See more popular extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1163
+#: src/olympia/discovery/strings.jinja2:1169
 msgid "Recommended themes"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1165
+#: src/olympia/discovery/strings.jinja2:1171
 msgid "See more recommended themes"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1168
+#: src/olympia/discovery/strings.jinja2:1174
 msgid "Strong password managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1170
+#: src/olympia/discovery/strings.jinja2:1176
 #, fuzzy
 msgid "See more password manager staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1173
+#: src/olympia/discovery/strings.jinja2:1179
 msgid "Translation tools"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1175
+#: src/olympia/discovery/strings.jinja2:1181
 #, fuzzy
 msgid "See more translation tool staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1178
+#: src/olympia/discovery/strings.jinja2:1184
 msgid "Social streaming"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1180
+#: src/olympia/discovery/strings.jinja2:1186
 #, fuzzy
 msgid "See more social streaming staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1183
+#: src/olympia/discovery/strings.jinja2:1189
 msgid "Tab managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1185
+#: src/olympia/discovery/strings.jinja2:1191
 #, fuzzy
 msgid "See more tab management staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1188
+#: src/olympia/discovery/strings.jinja2:1194
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1190
+#: src/olympia/discovery/strings.jinja2:1196
 #, fuzzy, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1193
+#: src/olympia/discovery/strings.jinja2:1199
 msgid "Elite ad blockers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1195
+#: src/olympia/discovery/strings.jinja2:1201
 #, fuzzy
 msgid "See more ad blocker staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1200
+#: src/olympia/discovery/strings.jinja2:1206
 #, fuzzy
 msgid "See more YouTube extension staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1203
+#: src/olympia/discovery/strings.jinja2:1209
 msgid "Trending themes"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1205
+#: src/olympia/discovery/strings.jinja2:1211
 #, fuzzy
 msgid "See more trending themes"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1208 src/olympia/discovery/strings.jinja2:1253
+#: src/olympia/discovery/strings.jinja2:1214 src/olympia/discovery/strings.jinja2:1259
 #, fuzzy
 msgid "Top rated themes"
 msgstr "Creu Thema"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
+#: src/olympia/discovery/strings.jinja2:1216 src/olympia/discovery/strings.jinja2:1261
 #, fuzzy
 msgid "See more top rated themes"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1213
+#: src/olympia/discovery/strings.jinja2:1219
 #, fuzzy
 msgid "Trending extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1215
+#: src/olympia/discovery/strings.jinja2:1221
 #, fuzzy
 msgid "See more trending extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1218
+#: src/olympia/discovery/strings.jinja2:1224
 msgid "Steam enhancers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1220
+#: src/olympia/discovery/strings.jinja2:1226
 #, fuzzy
 msgid "See more Steam staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1223
+#: src/olympia/discovery/strings.jinja2:1229
 #, fuzzy
 msgid "Creativity extensions"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1225
+#: src/olympia/discovery/strings.jinja2:1231
 #, fuzzy
 msgid "See more creativity staff picks"
 msgstr "Estyniadau"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1228
+#: src/olympia/discovery/strings.jinja2:1234
 msgid "Social media extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1230
+#: src/olympia/discovery/strings.jinja2:1236
 msgid "See more social media staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1233
+#: src/olympia/discovery/strings.jinja2:1239
 msgid "Top download managers"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1235
+#: src/olympia/discovery/strings.jinja2:1241
 msgid "See more download manager staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1238
+#: src/olympia/discovery/strings.jinja2:1244
 msgid "Accessibility extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1240
+#: src/olympia/discovery/strings.jinja2:1246
 msgid "See more accessibility staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1243
+#: src/olympia/discovery/strings.jinja2:1249
 msgid "Extension starter pack"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1245
+#: src/olympia/discovery/strings.jinja2:1251
 msgid "See more starter extension staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1248
+#: src/olympia/discovery/strings.jinja2:1254
 msgid "Twitch extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1250
+#: src/olympia/discovery/strings.jinja2:1256
 msgid "See more Twitch extension staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1258
+#: src/olympia/discovery/strings.jinja2:1264
 msgid "Gaming & media extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1260
+#: src/olympia/discovery/strings.jinja2:1266
 msgid "See more staff picks"
 msgstr ""
 
@@ -7191,33 +7201,33 @@ msgid ""
 "The Mozilla Add-ons Team"
 msgstr ""
 
-#: src/olympia/versions/models.py:1155
+#: src/olympia/versions/models.py:1158
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
 msgstr ""
 
-#: src/olympia/versions/models.py:1160
+#: src/olympia/versions/models.py:1163
 msgid "Auto-approved, Confirmed"
 msgstr ""
 
-#: src/olympia/versions/models.py:1162
+#: src/olympia/versions/models.py:1165
 msgid "Auto-approved, not Confirmed"
 msgstr ""
 
-#: src/olympia/versions/models.py:1165
+#: src/olympia/versions/models.py:1168
 msgid "Approved, Manual"
 msgstr ""
 
-#: src/olympia/versions/models.py:1172
+#: src/olympia/versions/models.py:1175
 msgid "Disabled by Developer"
 msgstr ""
 
-#: src/olympia/versions/models.py:1530
+#: src/olympia/versions/models.py:1533
 #, python-brace-format
 msgid "{app} {min} and later"
 msgstr ""
 
-#: src/olympia/versions/models.py:1657
+#: src/olympia/versions/models.py:1660
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
 msgstr ""
