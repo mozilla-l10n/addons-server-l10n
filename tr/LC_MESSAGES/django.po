@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-10 09:51+0000\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -116,7 +119,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -125,7 +129,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -134,14 +139,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -150,7 +156,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -159,7 +166,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -586,8 +594,8 @@ msgstr ""
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
 msgstr ""
-"Tarayıcınızı 'Referer' üst bilgilerini devre dışı bırakacak şekilde yapılandırdıysanız, lütfen en azından bu site için veya HTTPS bağlantıları için veya 'same-origin' istekleri için bu üst bilgileri"
-" yeniden etkinleştirin."
+"Tarayıcınızı 'Referer' üst bilgilerini devre dışı bırakacak şekilde yapılandırdıysanız, lütfen en azından bu site için veya HTTPS bağlantıları için veya 'same-origin' istekleri için bu üst "
+"bilgileri yeniden etkinleştirin."
 
 #: src/olympia/amo/templates/amo/403.html:36
 msgid ""
@@ -611,10 +619,10 @@ msgid ""
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
 "<h1>Üzgünüz, aradığınız sayfayı bulamadık.</h1><p>Talep ettiğiniz sayfa veya dosya sitemizde bulunamadı. Eski bir bağlantıya tıklamış veya adresi yanlış yazmış olabilirsiniz.</p><ul><li>Adresi elle "
-"yazdıysanız lütfen tekrar kontrol edin.</li><li>Başka bir sayfadaki bağlantıya tıkladıysanız lütfen %(open_bug_link)ssorunu bildirin%(close_bug_link)s. Hangi sayfadan geldiğinizi ve neyi aradığınızı"
-" yazarsanız sorunu düzeltmek için elimizden geleni yaparız.</li></ul><p>İsterseniz, web sitemizdeki popüler sayfalara da göz atabilirsiniz.</p><ul><li><a href=\"%(rec)s\">Öne çıkan eklentiler</a> "
-"listesiyle mi ilgileniyorsunuz?</li><li><a href=\"%(search)s\">Eklenti araması</a> yapmak mı istiyorsunuz? <a href=\"%(search)s\">Arama sayfasına</a> gidebilir veya üstteki arama kutusunu "
-"kullanabilirsiniz.</li><li>Baştan başlamak isterseniz <a href=\"%(home)s\">eklenti ana sayfasına</a> gitmeniz yeterlidir.</li></ul>"
+"yazdıysanız lütfen tekrar kontrol edin.</li><li>Başka bir sayfadaki bağlantıya tıkladıysanız lütfen %(open_bug_link)ssorunu bildirin%(close_bug_link)s. Hangi sayfadan geldiğinizi ve neyi "
+"aradığınızı yazarsanız sorunu düzeltmek için elimizden geleni yaparız.</li></ul><p>İsterseniz, web sitemizdeki popüler sayfalara da göz atabilirsiniz.</p><ul><li><a href=\"%(rec)s\">Öne çıkan "
+"eklentiler</a> listesiyle mi ilgileniyorsunuz?</li><li><a href=\"%(search)s\">Eklenti araması</a> yapmak mı istiyorsunuz? <a href=\"%(search)s\">Arama sayfasına</a> gidebilir veya üstteki arama "
+"kutusunu kullanabilirsiniz.</li><li>Baştan başlamak isterseniz <a href=\"%(home)s\">eklenti ana sayfasına</a> gitmeniz yeterlidir.</li></ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -626,8 +634,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>Bir hata oluştu.</h1> <p>Yakında bu hatayı düzelteceğiz.</p> <p>Sayfayı yenilemeyi deneyebilir veya <a href=\"%(home)s\">Eklentiler Ana Sayfası</a>'na dönebilirsiniz. Ayrıca <a "
-"href=\"https://github.com/mozilla/addons/issues/new\">sorunu rapor edip</a> bu sayfaya nasıl geldiğiniz anlatarak sorunu gidermemize yardım edebilirsiniz.</p>"
+"<h1>Bir hata oluştu.</h1> <p>Yakında bu hatayı düzelteceğiz.</p> <p>Sayfayı yenilemeyi deneyebilir veya <a href=\"%(home)s\">Eklentiler Ana Sayfası</a>'na dönebilirsiniz. Ayrıca <a href=\"https://"
+"github.com/mozilla/addons/issues/new\">sorunu rapor edip</a> bu sayfaya nasıl geldiğiniz anlatarak sorunu gidermemize yardım edebilirsiniz.</p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1341,7 +1349,7 @@ msgstr "Sayfa içeriği reddedildi"
 msgid "Disabled by Mozilla"
 msgstr "Mozilla tarafından devre dışı bırakıldı"
 
-#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1170
+#: src/olympia/constants/base.py:30 src/olympia/versions/models.py:1173
 msgid "Deleted"
 msgstr "Silindi"
 
@@ -1530,15 +1538,15 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr "Fotoğraf, müzik ve video deneyimlerini geliştiren Firefox uzantılarını indirin. Bu kategorideki uzantılar ses ve videoyu düzenleyen ve daha fazlasını içeren araçları barındırır."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1138
 msgid "Privacy & Security"
 msgstr "Gizlilik ve Güvenlik"
 
 #: src/olympia/constants/categories.py:141
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
 msgstr ""
-"Web'de gizlice ve güvenle gezinmenizi sağlayacak Firefox uzantılarını indirin. Bu kategoride reklamları ve sinsi takip kodlarını engelleyen, yönlendirmeleri yöneten ve daha fazlasını yapan uzantılar"
-" yer alıyor."
+"Web'de gizlice ve güvenle gezinmenizi sağlayacak Firefox uzantılarını indirin. Bu kategoride reklamları ve sinsi takip kodlarını engelleyen, yönlendirmeleri yöneten ve daha fazlasını yapan "
+"uzantılar yer alıyor."
 
 #: src/olympia/constants/categories.py:149
 msgid "Search Tools"
@@ -2471,8 +2479,8 @@ msgstr "Uzantılar ve temalarla ilgili destek alın"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Hesabınızla ilgili destek, ilkelere uygunluk sorunları ve daha fazlası için bu formu kullanabilirsiniz. Ne kadar fazla ayrıntı paylaşırsanız yardımcı olmamız o kadar kolaylaşır. Eklentilerinizin "
 "incelenmesi hakkındaki sorular için lütfen eklentilerinizin sürüm geçmişine bakın. En kısa sürede size dönüş yapacağız."
@@ -2554,8 +2562,8 @@ msgid ""
 "An email with a confirmation link has been sent to your email address: %(email)s. Please click the link to confirm your email address. If you did not receive the email, please check your spam "
 "folder."
 msgstr ""
-"%(email)s e-posta adresinize doğrulama bağlantısı içeren bir e-posta gönderildi. E-posta adresinizi doğrulamak için lütfen bağlantıya tıklayın. E-postayı almadıysanız lütfen spam klasörünüzü kontrol"
-" edin."
+"%(email)s e-posta adresinize doğrulama bağlantısı içeren bir e-posta gönderildi. E-posta adresinizi doğrulamak için lütfen bağlantıya tıklayın. E-postayı almadıysanız lütfen spam klasörünüzü "
+"kontrol edin."
 
 #: src/olympia/devhub/templates/devhub/verify_email.html:39
 #, python-format
@@ -2936,8 +2944,8 @@ msgstr "E-posta"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Destek talepleri için bir e-posta adresi görüntülemek isterseniz buraya girin. Her dil için farklı adresleriniz varsa, bu alanın birden çok çevirisi eklenebilir. Yalnızca listelenen eklentiler için "
 "geçerlidir."
@@ -2998,8 +3006,8 @@ msgstr "Beyaz tahta"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Beyaz tahta, sürümü ne olursa olsun eklentinizle ilgili bilgileri inceleyicilere sağlayan yerdir. Eklentiyi test etmenin yollarını ve yardımcı olabilecek ek bilgileri sağlamak için kullanın. Bu "
 "beyaz tahta, inceleyiciler tarafından da düzenlenebilir."
@@ -3692,8 +3700,8 @@ msgstr "Geri"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Dış kullanıcı olarak <a %(a_attrs)s href=\"%(docs_url)s\">API</a> üzerinde yetkilendirilmiş çağrıları çalıştırmak için her istekte <code>Authorization</code> üst bilgisine bir <a %(a_attrs)s "
 "href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> eklemeniz gerekir."
@@ -3776,10 +3784,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3955,8 +3965,8 @@ msgstr "Android için Firefox uyumluluğu"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 "Uzantınızı Android için Firefox’ta test ederek beklendiği gibi çalıştığını kontrol ettiniz mi? Etmediyseniz lütfen uzantınızı göndermeden önce <a target=\"_blank\" rel=\"noopener noreferrer\" "
 "href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\"> Firefox Android için uzantı geliştirme</a> sayfasını inceleyerek uzantınızı test etme "
@@ -6028,261 +6038,271 @@ msgstr "Firefox’u engellemeye çalışan siteleri kandırmak için Firefox’u
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr "Dikkat dağıtıcı unsurları kaldırın, görüntüleme seçeneklerini değiştirin, oynatma hızını ayarlayın ve daha fazlasını yapın."
 
-#. editorial content for the secondary hero shelves.
+#. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
+msgid "Works great for video, audio, and streaming content across most websites."
+msgstr ""
+
+#. editorial content for the primary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1127
+msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
+msgstr ""
+
+#. editorial content for the secondary hero shelves.
+#: src/olympia/discovery/strings.jinja2:1130
 msgid "Extensions are like apps for Firefox."
 msgstr "Uzantılar Firefox’a özel uygulamalardır."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1126
+#: src/olympia/discovery/strings.jinja2:1132
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr "Daha hızlı, daha güvenli ve daha eğlenceli gezintiler için Firefox’a yeni özellikler kazandırırlar."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1128
+#: src/olympia/discovery/strings.jinja2:1134
 msgid "See all extensions"
 msgstr "Tüm uzantılara bak"
 
 #. editorial content for the secondary hero shelves.
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1130 src/olympia/discovery/strings.jinja2:1198
+#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1204
 msgid "YouTube customization"
 msgstr "YouTube özelleştirme"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1134
+#: src/olympia/discovery/strings.jinja2:1140
 msgid "Reddit extensions"
 msgstr "Reddit uzantıları"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1138 src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
 msgid "See staff picks"
 msgstr "Editörün seçtiklerini görün"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1143
+#: src/olympia/discovery/strings.jinja2:1149
 msgid "Recommended extensions"
 msgstr "Önerilen uzantılar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1145
+#: src/olympia/discovery/strings.jinja2:1151
 msgid "See more recommended extensions"
 msgstr "Önerdiğimiz diğer uzantılara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1148
+#: src/olympia/discovery/strings.jinja2:1154
 msgid "Popular themes"
 msgstr "Popüler temalar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1150
+#: src/olympia/discovery/strings.jinja2:1156
 msgid "See more popular themes"
 msgstr "Diğer popüler temalara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1153
+#: src/olympia/discovery/strings.jinja2:1159
 msgid "Privacy & security"
 msgstr "Gizlilik ve güvenlik"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1155
+#: src/olympia/discovery/strings.jinja2:1161
 msgid "See more privacy staff picks"
 msgstr "Editörün seçtiği diğer gizlilik uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1158
+#: src/olympia/discovery/strings.jinja2:1164
 msgid "Popular extensions"
 msgstr "Popüler uzantılar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1160
+#: src/olympia/discovery/strings.jinja2:1166
 msgid "See more popular extensions"
 msgstr "Diğer popüler uzantılara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1163
+#: src/olympia/discovery/strings.jinja2:1169
 msgid "Recommended themes"
 msgstr "Önerilen temalar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1165
+#: src/olympia/discovery/strings.jinja2:1171
 msgid "See more recommended themes"
 msgstr "Önerdiğimiz diğer temalara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1168
+#: src/olympia/discovery/strings.jinja2:1174
 msgid "Strong password managers"
 msgstr "Güçlü parola yöneticileri"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1170
+#: src/olympia/discovery/strings.jinja2:1176
 msgid "See more password manager staff picks"
 msgstr "Editörün seçtiği diğer parola yöneticilerine bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1173
+#: src/olympia/discovery/strings.jinja2:1179
 msgid "Translation tools"
 msgstr "Çeviri araçları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1175
+#: src/olympia/discovery/strings.jinja2:1181
 msgid "See more translation tool staff picks"
 msgstr "Editörün seçtiği diğer çeviri araçlarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1178
+#: src/olympia/discovery/strings.jinja2:1184
 msgid "Social streaming"
 msgstr "Sosyal akış"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1180
+#: src/olympia/discovery/strings.jinja2:1186
 msgid "See more social streaming staff picks"
 msgstr "Editörün seçtiği diğer sosyal akış uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1183
+#: src/olympia/discovery/strings.jinja2:1189
 msgid "Tab managers"
 msgstr "Sekme yöneticileri"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1185
+#: src/olympia/discovery/strings.jinja2:1191
 msgid "See more tab management staff picks"
 msgstr "Editörün seçtiği diğer sekme yönetimi uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1188
+#: src/olympia/discovery/strings.jinja2:1194
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr "“{tag}” etiketli uzantılar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1190
+#: src/olympia/discovery/strings.jinja2:1196
 #, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "\"{tag}\" etiketli diğer uzantılara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1193
+#: src/olympia/discovery/strings.jinja2:1199
 msgid "Elite ad blockers"
 msgstr "Reklam engelleyiciler"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1195
+#: src/olympia/discovery/strings.jinja2:1201
 msgid "See more ad blocker staff picks"
 msgstr "Editörün seçtiği diğer reklam engelleyicilere bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1200
+#: src/olympia/discovery/strings.jinja2:1206
 msgid "See more YouTube extension staff picks"
 msgstr "Editörün seçtiği diğer YouTube uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1203
+#: src/olympia/discovery/strings.jinja2:1209
 msgid "Trending themes"
 msgstr "Gündemdeki temalar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1205
+#: src/olympia/discovery/strings.jinja2:1211
 msgid "See more trending themes"
 msgstr "Gündemdeki diğer temalara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1208 src/olympia/discovery/strings.jinja2:1253
+#: src/olympia/discovery/strings.jinja2:1214 src/olympia/discovery/strings.jinja2:1259
 msgid "Top rated themes"
 msgstr "En yüksek puanlı temalar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1210 src/olympia/discovery/strings.jinja2:1255
+#: src/olympia/discovery/strings.jinja2:1216 src/olympia/discovery/strings.jinja2:1261
 msgid "See more top rated themes"
 msgstr "En yüksek puanlı diğer temalara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1213
+#: src/olympia/discovery/strings.jinja2:1219
 msgid "Trending extensions"
 msgstr "Gündemdeki uzantılar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1215
+#: src/olympia/discovery/strings.jinja2:1221
 msgid "See more trending extensions"
 msgstr "Gündemdeki diğer uzantılara bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1218
+#: src/olympia/discovery/strings.jinja2:1224
 msgid "Steam enhancers"
 msgstr "Steam uzantıları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1220
+#: src/olympia/discovery/strings.jinja2:1226
 msgid "See more Steam staff picks"
 msgstr "Editörün seçtiği diğer Steam uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1223
+#: src/olympia/discovery/strings.jinja2:1229
 msgid "Creativity extensions"
 msgstr "Yaratıcılık uzantıları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1225
+#: src/olympia/discovery/strings.jinja2:1231
 msgid "See more creativity staff picks"
 msgstr "Editörün seçtiği diğer yaratıcılık uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1228
+#: src/olympia/discovery/strings.jinja2:1234
 msgid "Social media extensions"
 msgstr "Sosyal medya uzantıları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1230
+#: src/olympia/discovery/strings.jinja2:1236
 msgid "See more social media staff picks"
 msgstr "Editörün seçtiği diğer sosyal medya uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1233
+#: src/olympia/discovery/strings.jinja2:1239
 msgid "Top download managers"
 msgstr "En iyi indirme yöneticileri"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1235
+#: src/olympia/discovery/strings.jinja2:1241
 msgid "See more download manager staff picks"
 msgstr "Editörün seçtiği diğer indirme yöneticilerine bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1238
+#: src/olympia/discovery/strings.jinja2:1244
 msgid "Accessibility extensions"
 msgstr "Erişilebilirlik uzantıları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1240
+#: src/olympia/discovery/strings.jinja2:1246
 msgid "See more accessibility staff picks"
 msgstr "Editörün seçtiği diğer erişilebilirlik uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1243
+#: src/olympia/discovery/strings.jinja2:1249
 msgid "Extension starter pack"
 msgstr "Uzantı başlangıç paketi"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1245
+#: src/olympia/discovery/strings.jinja2:1251
 msgid "See more starter extension staff picks"
 msgstr "Editörün seçtiği diğer başlangıç uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1248
+#: src/olympia/discovery/strings.jinja2:1254
 msgid "Twitch extensions"
 msgstr "Twitch uzantıları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1250
+#: src/olympia/discovery/strings.jinja2:1256
 msgid "See more Twitch extension staff picks"
 msgstr "Editörün seçtiği diğer Twitch uzantılarına bakın"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1258
+#: src/olympia/discovery/strings.jinja2:1264
 msgid "Gaming & media extensions"
 msgstr "Oyun ve medya uzantıları"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1260
+#: src/olympia/discovery/strings.jinja2:1266
 msgid "See more staff picks"
 msgstr "Editörün seçtiği diğer uzantılara bakın"
 
@@ -7070,8 +7090,8 @@ msgstr "Kullandığınız yazılım veya cihazın gönderim yapmasına izin veri
 
 #: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Başlamadan önce lütfen Firefox Eklenti Dağıtım Sözleşmesi ile İnceleme İlkeleri ve Kurallarımızı okuyup kabul edin. Firefox Eklenti Dağıtım Sözleşmesi ayrıca bilgilerinizi nasıl kullandığımızı "
 "açıklayan Gizlilik Bildirimimize de bağlantı verir."
@@ -7188,7 +7208,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7197,33 +7218,33 @@ msgid ""
 "The Mozilla Add-ons Team"
 msgstr ""
 
-#: src/olympia/versions/models.py:1155
+#: src/olympia/versions/models.py:1158
 #, python-format
 msgid "Delay-rejected, scheduled for %s"
 msgstr "Gecikme nedeniyle reddedildi, %s için planlandı"
 
-#: src/olympia/versions/models.py:1160
+#: src/olympia/versions/models.py:1163
 msgid "Auto-approved, Confirmed"
 msgstr "Otomatik onaylandı, doğrulandı"
 
-#: src/olympia/versions/models.py:1162
+#: src/olympia/versions/models.py:1165
 msgid "Auto-approved, not Confirmed"
 msgstr "Otomatik onaylandı, doğrulanmadı"
 
-#: src/olympia/versions/models.py:1165
+#: src/olympia/versions/models.py:1168
 msgid "Approved, Manual"
 msgstr "Onaylandı, manuel"
 
-#: src/olympia/versions/models.py:1172
+#: src/olympia/versions/models.py:1175
 msgid "Disabled by Developer"
 msgstr "Geliştirici tarafından devre dışı bırakıldı"
 
-#: src/olympia/versions/models.py:1530
+#: src/olympia/versions/models.py:1533
 #, python-brace-format
 msgid "{app} {min} and later"
 msgstr "{app} {min} ve sonrası"
 
-#: src/olympia/versions/models.py:1657
+#: src/olympia/versions/models.py:1660
 #, python-brace-format
 msgid "The install origin {origin} is not permitted."
 msgstr "{origin} yükleme kaynağına izin verilmiyor."
