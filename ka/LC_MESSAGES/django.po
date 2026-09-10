@@ -6148,7 +6148,7 @@ msgstr "საუკეთესოდ მუშაობს ვიდეო, �
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "ათობით შესაძლებლობა, რომ მოაწყოთ YouTube თქვენებურად. მოაცილეთ ყურადღების გასაფანტი რეკლამები, გადაალაგეთ YouTube სხვანაირად, ცვალეთ დაკვრის სიჩქარე, გააძლიერეთ ხმა და ა.შ."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130

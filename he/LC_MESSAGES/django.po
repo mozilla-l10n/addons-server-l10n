@@ -220,7 +220,7 @@ msgstr "אי אפשר להנפיש תמונות."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "נא להשתמש בתמונות הקטנות מ־{} מ״ב."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -328,7 +328,7 @@ msgstr "התמונות חייבות להיות קטנות מ־%dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "הפרמטר \"{}\" שגוי."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -5976,7 +5976,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "עובד מצוין עבור תוכן וידאו, אודיו ותכני הזרמה ברוב האתרים."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
@@ -6453,7 +6453,7 @@ msgstr "לא ניתן להשאיר יותר מסקירה אחת עבור אות�
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "הדגל [{flag}] לא חוקי - חייב להיות אחד מ־[{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6495,7 +6495,7 @@ msgstr "שמירה"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "שילוב לא חוקי של הפרמטרים ״{param1}״ ו־״{param2}״."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7073,7 +7073,7 @@ msgstr "התראות משתמש"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "אימות הדוא״ל שלך ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"

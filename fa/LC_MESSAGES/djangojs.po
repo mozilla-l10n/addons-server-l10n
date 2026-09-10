@@ -58,8 +58,8 @@ msgstr "لطفاً هرگونه مشکل دربارهٔ فرآیند خطایا�
 #, python-brace-format
 msgid "Your add-on failed validation with {0} error."
 msgid_plural "Your add-on failed validation with {0} errors."
-msgstr[0] "افزونه شما با {0} خطا، نتوانست اعتبارسنجی شود."
-msgstr[1] "افزونه شما با {0} خطا، نتوانست اعتبارسنجی شود."
+msgstr[0] "افزونه شما به‌دلیل {0} خطا تأیید اعتبار نشد."
+msgstr[1] "افزونه شما به‌دلیل {0} خطا تأیید اعتبار نشد."
 
 #: static/js/common/upload-addon.js:266
 #, python-brace-format
@@ -80,7 +80,7 @@ msgstr "در حال اعتبار سنجی {0}"
 #: static/js/common/upload-addon.js:350
 #, python-brace-format
 msgid "Your add-on exceeds the maximum size of {0}."
-msgstr "افزونه شما از حداکثر حجم {0} تجاوز می‌کند."
+msgstr "افزونه شما حداکثر حجم {0} را رد می‌کند."
 
 #: static/js/common/upload-addon.js:358
 #, python-brace-format
@@ -599,8 +599,8 @@ msgstr[1] "{0} هشدار"
 #, python-brace-format
 msgid "{0} notice"
 msgid_plural "{0} notices"
-msgstr[0] "{0} اعلامیه"
-msgstr[1] "{0} اعلامیه"
+msgstr[0] "{0} اعلان"
+msgstr[1] "{0} اعلان"
 
 #: static/js/zamboni/validator.js:494
 msgid "Validation task could not complete or completed with errors"
@@ -608,4 +608,4 @@ msgstr "عملیات اعتبارسنجی تکمیل نشد یا با خطا ه�
 
 #: static/js/zamboni/validator.js:517
 msgid "Internal server error"
-msgstr "خطای درونی کارگزار"
+msgstr "مشکل سمت سرور"

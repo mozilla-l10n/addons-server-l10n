@@ -6586,7 +6586,7 @@ msgstr "نمی‌توانید بیش از یک بازخورد برای یک نس
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "نشان [{flag}] نامعتبر است - باید یکی از [{flags}] باشد"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6628,7 +6628,7 @@ msgstr "ذخیره"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "ترکیب پارامترهای «{param1}» و «{param2}» نامعتبر است."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7208,7 +7208,7 @@ msgstr "اعلان‌های کاربر"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "ایمیل خود را تأیید کنید ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
