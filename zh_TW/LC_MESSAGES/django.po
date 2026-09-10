@@ -239,7 +239,7 @@ msgstr "不能使用動畫圖片。"
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "請使用小於 {}MB 的圖片。"
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -346,7 +346,7 @@ msgstr "圖片必須小於 %dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "參數「{}」無效。"
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6451,7 +6451,7 @@ msgstr "您不能對同一套附加元件的相同版本評論超過一次。"
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "無效的旗標 [{flag}]，必須是 [{flags}] 其一"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6492,7 +6492,7 @@ msgstr "儲存"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "「{param1}」和「{param2}」的參數組合無效。"
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7068,7 +7068,7 @@ msgstr "使用者通知"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "驗證您的電子郵件信箱（{}）"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
