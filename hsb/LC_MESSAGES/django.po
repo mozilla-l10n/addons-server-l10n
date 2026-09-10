@@ -6153,7 +6153,7 @@ msgstr "Wotstrońće wotchilenja, změńće napohladowe nastajenja, změńće wo
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Funguje wulkotnje za widejo, awdijo a wobsah streaming na najwjace websydłach."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
