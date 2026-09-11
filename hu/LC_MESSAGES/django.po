@@ -187,6 +187,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Köszönjük, hogy időt szán a következő Mozilla-kiegészítő jelentésére: %(name)s.\n"
+"\n"
+"Kivizsgáltuk a bejelentését és a kérdéses tartalmat, és megállapítottuk, hogy az nem felel meg a Mozilla irányelveinek (%(policy_document_url)s). Arra kértük a fejlesztőt, hogy végezzen változtatásokat, és ha nem oldja meg a problémát, akkor eltávolítjuk a tartalmat. Köszönjük, hogy segít a Mozilla kiegészítők biztonságosan tartásában.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
