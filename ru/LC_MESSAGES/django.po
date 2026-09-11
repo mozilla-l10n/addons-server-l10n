@@ -3934,6 +3934,8 @@ msgstr "Пожалуйста, завершите ваше дополнение, 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
 msgstr ""
+"После завершения проверки вы получите электронное письмо. До этого момента ваше дополнение не будет доступно публично. Вы, как автор, прошедший аутентификацию, сможете открыть страницу с подробной "
+"информацией о дополнении."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
