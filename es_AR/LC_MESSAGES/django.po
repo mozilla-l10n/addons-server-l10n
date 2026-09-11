@@ -251,7 +251,7 @@ msgstr "Las imágenes no pueden ser animadas."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Usá imágenes de menos de {}MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -359,7 +359,7 @@ msgstr "Las imágenes deben tener menos de %dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Parámetro \"{}\" no válido."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"

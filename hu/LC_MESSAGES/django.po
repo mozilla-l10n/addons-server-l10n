@@ -139,6 +139,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Köszönjük a következőről szóló bejelentését a Mozilla kiegészítők weboldalán: %(name)s, és hogy további információkat adott meg az aggályairól.\n"
+"\n"
+"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Arra kértük a fejlesztőt, hogy végezzen változtatásokat, és ha nem frissíti a tartalmat, akkor el fogjuk távolítani.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -148,6 +152,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Köszönjük a bejelentést erről: %(name)s, itt: %(target_url)s.\n"
+"\n"
+"Megvizsgáltuk a jelentését és a kérdéses tartalmat, és úgy találtuk, hogy az betartja a Mozilla irányelveit (%(policy_document_url)s), ezért nem lesz semmilyen moderálási tevékenység tárgya. Viszont a bejelentését köszönjük.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
@@ -155,6 +163,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"Ha azt gondolja, hogy a tartalom nem felel meg a Mozilla irányelveinek, akkor a döntés ellen az e-mail dátumától számított 6 hónapon belül fellebbezhet. A fellebbezési folyamat részleteiért – köztük"
+" a konkrét döntés elleni fellebbezés módjáért – lásd: %(appeal_url)s."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -232,7 +242,7 @@ msgstr "A kép nem lehet animált."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Használjon {} MB-nál kisebb képeket."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -340,7 +350,7 @@ msgstr "A képeknek %d MB-nál kisebbnek kell lenniük"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Érvénytelen „{}” paraméter."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
