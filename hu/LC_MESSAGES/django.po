@@ -3772,6 +3772,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Üdvözöljük!\n"
+"\n"
+"Köszönjük, hogy a Firefoxra épít! Azért kapja ezt az üzenetet, mert új fejlesztői API-kulcsokat kért ehhez: %(domain)s. A beállításuk befejezéséhez csak kattintson az alábbi hivatkozásra:\n"
+"\n"
+"%(api_key_confirmation_link)s\n"
+"\n"
+"Ha nem kérte ezeket a kulcsokat, akkor nyugodtan figyelmen kívül hagyhatja ezt a levelet, és nem lesz kulcs létrehozva.\n"
+"\n"
+"\n"
+"A Mozilla kiegészítők csapata"
 
 #: src/olympia/devhub/templates/devhub/emails/new-key-email.ltxt:14
 #, python-format
@@ -3791,6 +3801,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Üdvözöljük!\n"
+"\n"
+"Az új API-kulcs hozzá lett adva a fiókjához:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Ha ez Ön volt, akkor nincs további teendője.\n"
+"Ha azt gondolja, hogy a kulcs tévedésből jött létre, akkor eltávolítja a kulcsot, vagy letilthatja a hozzáférését itt:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Köszönjük, hogy a Firefoxra épít,\n"
+"\n"
+"A Mozilla kiegészítők csapata"
 
 #: src/olympia/devhub/templates/devhub/emails/revoked-key-email.ltxt:14
 #, python-format
@@ -3810,6 +3834,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Üdvözöljük!\n"
+"\n"
+"A következő API-kulcs vissza lett vonva a fiókjából, és már nem használható:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Ha számított erre, nincs teendője. \n"
+"Ha úgy gondolja, hogy a kulcs visszavonása hiba volt, itt hozhat létre újat:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Azért vagyunk itt, hogy segítsünk, ha valami nem stimmel,\n"
+"\n"
+"A Mozilla kiegészítők csapata"
 
 #: src/olympia/devhub/templates/devhub/emails/submission_api_key_revocation.txt:9
 #, python-format
@@ -3876,7 +3914,7 @@ msgstr "Kérjük fejezze be a kiegészítőjét, hozzáadva a verziót vagy a hi
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "Az ellenőrzés befejeztével kapni fog egy e-mailt. Addig a kiegészítő nem jelenik meg nyilvánosan. Ön, mint a hitelesített szerző, a kiegészítő részletes lapján keresztül férhet hozzá."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -6098,12 +6136,14 @@ msgstr "Távolítsa el a zavaró tényezőket, módosítsa a megtekintési beál
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Kiválóan használható videókhoz, hanganyagokhoz és közvetített tartalmakhoz a legtöbb weboldalon."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Több tucat funkció, hogy a saját igényeire szabhassa a YouTube-ot. Távolítsa el a zavaró hirdetéseket, alakítsa át a YouTube megjelenését, módosítsa a lejátszási sebességet, növelje a hangerőt és "
+"még sok más."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6129,7 +6169,7 @@ msgstr "YouTube testreszabás"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Reddit kiegészítők"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
@@ -6575,7 +6615,7 @@ msgstr "Nem készíthet több értékelést egy kiegészítő ugyanazon verziój
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Érvénytelen jelző [{flag}] – ezek egyikének kell lennie: [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6617,7 +6657,7 @@ msgstr "Mentés"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "A(z) „{param1}” és „{param2}” paraméterek érvénytelen kombinációja."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7197,7 +7237,7 @@ msgstr "Felhasználói értesítések"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "E-mail-cím megerősítése ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
