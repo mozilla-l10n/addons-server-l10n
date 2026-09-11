@@ -171,6 +171,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"感謝您花時間回報 Mozilla 附加元件站的下列附加元件：%(name)s 。\n"
+"\n"
+"經過審查後，我們認為此內容並未遵守 Mozilla 的政策（%(policy_document_url)s），已下架該內容。感謝您協助確保 Mozilla 附加元件站的內容安全。\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
