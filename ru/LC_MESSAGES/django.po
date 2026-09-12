@@ -358,7 +358,7 @@ msgstr "Размер файла изображения не должен пре�
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Неверный параметр «{}»."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6157,12 +6157,13 @@ msgstr "Убирайте отвлекающие элементы, настраи
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Отлично работает для видео, аудио и потокового содержимого на большинстве веб-сайтов."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Десятки функций, заставивших YouTube работать на вас. Уберите отвлекающую рекламу, измените визуальный макет YouTube, регулируйте скорость воспроизведения, увеличивайте громкость и многое другое."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6635,7 +6636,7 @@ msgstr "Нельзя оставить более одного отзыва дл�
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Некорректный флаг [{flag}] - должен быть одним из [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6678,7 +6679,7 @@ msgstr "Сохранить"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Некорректная комбинация параметров «{param1}» и «{param2}»."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7258,7 +7259,7 @@ msgstr "Уведомления пользователя"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Подтвердите свою электронную почту ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
