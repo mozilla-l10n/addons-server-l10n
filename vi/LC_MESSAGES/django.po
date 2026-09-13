@@ -251,7 +251,7 @@ msgstr "Hình ảnh không được chuyển động."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Vui lòng dùng hình ảnh nhỏ hơn {}MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -358,7 +358,7 @@ msgstr "Hình ảnh phải nhỏ hơn %dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Tham số \"{}\" không hợp lệ."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -3915,6 +3915,8 @@ msgstr "Vui lòng hoàn thiện tiện ích của bạn bằng cách thêm phiê
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
 msgstr ""
+"Bạn sẽ nhận được email khi quá trình xem xét hoàn tất. Cho đến lúc đó, tiện ích mở rộng của bạn chưa được công khai. Bạn, tác giả đã được xác thực, có thể truy cập trang chi tiết của tiện ích mở "
+"rộng."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -6127,12 +6129,12 @@ msgstr "Loại bỏ các yếu tố gây xao nhãng, thay đổi tùy chọn hi�
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Hoạt động rất tốt với video, âm thanh và nội dung phát trực tuyến trên hầu hết các trang web."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Hàng tá tính năng giúp bạn sử dụng YouTube hiệu quả hơn. Loại bỏ quảng cáo gây xao nhãng, thay đổi bố cục hình ảnh của YouTube, điều chỉnh tốc độ phát lại, tăng âm lượng và nhiều hơn nữa."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6158,7 +6160,7 @@ msgstr "Tùy chỉnh YouTube"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Tiện ích mở rộng Reddit"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
@@ -6603,7 +6605,7 @@ msgstr "Bạn không thể để lại nhiều đánh giá cho cùng một phiê
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Flag [{flag}] không hợp lệ - phải là một trong [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6644,7 +6646,7 @@ msgstr "Lưu"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Sự kết hợp không hợp lệ giữa tham số \"{param1}\" và \"{param2}\"."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7228,7 +7230,7 @@ msgstr "Thông báo cho Người dùng"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Xác minh email của bạn ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
