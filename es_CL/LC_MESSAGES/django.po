@@ -164,6 +164,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"Si consideras que el contenido no cumple con las políticas de Mozilla, tienes el derecho a apelar esta decisión dentro de los 6 meses a partir de la fecha de este correo electrónico. Revisa "
+"%(appeal_url)s para obtener detalles sobre el proceso de apelación, incluido cómo presentar una apelación para esta decisión en particular."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -173,6 +175,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Gracias por tomarte el tiempo de reportar el siguiente complemento en Complementos de Mozilla: %(name)s.\n"
+"\n"
+"Hemos revisado tu reporte y el contenido en cuestión, y hemos comprobado que no cumple con las políticas de Mozilla (%(policy_document_url)s). Por lo tanto, hemos eliminado el contenido. Agradecemos tu colaboración para mantener seguros los complementos de Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -182,6 +188,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Gracias por tomarse el tiempo de reportar el siguiente complemento en Complementos de Mozilla: %(name)s.\n"
+"\n"
+"Hemos revisado tu reporte y el contenido en cuestión, y hemos comprobado que no cumple con las políticas de Mozilla (%(policy_document_url)s). Hemos solicitado al desarrollador que realice los cambios necesarios y, si no se resuelve el problema, eliminaremos el contenido. Gracias por tu colaboración para mantener seguros los complementos de Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -241,7 +251,7 @@ msgstr "Las imágenes no pueden ser animadas."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Por favor, usa imágenes de menos de {}MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -349,7 +359,7 @@ msgstr "Las imágenes tienen que ser menores a %dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Parámetro \"{}\" inválido."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -3787,6 +3797,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hola,\n"
+"\n"
+"¡Gracias por desarrollar para Firefox! Recibiste este mensaje porque solicitaste nuevas claves de API para desarrolladores para %(domain)s. Para terminar de configurarlas, solo haz clic en el siguiente enlace:\n"
+"\n"
+"%(api_key_confirmation_link)s\n"
+"\n"
+"Si no solicitaste estas claves, puedes ignorar este correo con toda tranquilidad y no se creará ninguna clave.\n"
+"\n"
+"\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/new-key-email.ltxt:14
 #, python-format
@@ -3806,6 +3826,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hola,\n"
+"\n"
+"Se acaba de agregar una nueva clave de API a tu cuenta:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Si fuiste tú, no tienes que hacer nada más.\n"
+"Si crees que esta clave se creó por error, puedes eliminarla y deshabilitar el acceso aquí:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Gracias por desarrollar para Firefox,\n"
+"\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/revoked-key-email.ltxt:14
 #, python-format
@@ -3825,6 +3859,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hola,\n"
+"\n"
+"La siguiente clave de API fue revocada de tu cuenta y ya no se puede usar:\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Si esperabas que esto ocurriera, no necesitas hacer nada. \n"
+"Si crees que esta clave fue revocada por error, puedes crear una nueva aquí:\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Estamos aquí para ayudarte si algo no parece estar bien,\n"
+"\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/submission_api_key_revocation.txt:9
 #, python-format
@@ -3839,6 +3887,15 @@ msgid ""
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
+"Estimado desarrollador de complementos,\n"
+"\n"
+"Queremos informarte de inmediato que detectamos que tus credenciales secretas de la API de AMO estaban incluidas en un complemento enviado a addons.mozilla.org. Para proteger tu cuenta y tus complementos, revocamos las credenciales afectadas. No hiciste nada malo; esto puede ocurrir y estamos aquí para ayudarte a resolverlo.\n"
+"Puede generar nuevas credenciales de API en cualquier momento en %(api_keys_url)s\n"
+"\n"
+"Para mantener tus credenciales seguras de ahora en adelante, te recomendamos conservarlas en privado y evitar incluirlas en repositorios públicos, complementos u otros espacios públicos. Cuando puedas, revisa tus repositorios de código y extensiones para eliminar cualquier referencia a tus credenciales de AMO.\n"
+"\n"
+"Gracias,\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-completed.ltxt:6
 msgid ""
@@ -3849,6 +3906,12 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hola,\n"
+"\n"
+"Tu dirección de correo electrónico fue verificada y ya está todo listo. ¡Gracias por desarrollar para Firefox!\n"
+"\n"
+"\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-requested.ltxt:10
 #, python-format
@@ -3864,6 +3927,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hola,\n"
+"\n"
+"¡Gracias por desarrollar para Firefox! Recibiste este mensaje porque solicitaste verificar tu dirección de correo electrónico. Para completar el proceso, solo haz clic en el siguiente enlace:\n"
+"\n"
+"%(confirmation_link)s\n"
+"\n"
+"Si no hiciste esta solicitud, puedes ignorar este correo de forma segura.\n"
+"\n"
+"\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:6 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:4
 msgid "Invisible"
@@ -3875,7 +3948,7 @@ msgstr "Por favor, completa tu complemento agregándole una versión o los metad
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "Recibirás un correo electrónico cuando termine la revisión. Hasta entonces, tu complemento no estará disponible públicamente. Como autor autentificado, puedes acceder a su página de detalles."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -5824,7 +5897,7 @@ msgstr "Personaliza los gestos del ratón. Descubre una nueva forma de navegar c
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:824
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
-msgstr ""
+msgstr "Elimina las distracciones, cambia tu experiencia visual, modifica la velocidad de reproducción y mucho más."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:872
@@ -6104,12 +6177,14 @@ msgstr "Elimina las distracciones, cambia las opciones de visualización, modifi
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Funciona de maravilla para vídeo, audio y contenido en streaming en la mayoría de los sitios web."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Docenas de funcionalidades para sacarle el máximo provecho a YouTube. Elimina las publicidades molestas, cambia el diseño visual de YouTube, ajusta la velocidad de reproducción, aumenta el volumen y"
+" mucho más."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6581,7 +6656,7 @@ msgstr "No puedes escribir más de una revisión para la misma versión del comp
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Bandera inválida [{flag}] - debe ser una de [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6623,7 +6698,7 @@ msgstr "Guardar"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Combinación no válida de parámetros \"{param1}\" y \"{param2}\"."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -6665,7 +6740,7 @@ msgstr "ID de complemento no válido en URL o paquete"
 
 #: src/olympia/signing/views.py:209
 msgid "Only API v5+ supports enterprise channels."
-msgstr ""
+msgstr "Solo la API v5+ admite canales empresariales."
 
 #: src/olympia/signing/views.py:222
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
@@ -7203,7 +7278,7 @@ msgstr "Notificaciones de usuario"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Verifica tu correo ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
@@ -7231,6 +7306,16 @@ msgid ""
 "Thanks for building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hola,\n"
+"\n"
+"Se agregó un nuevo autor a tu complemento %(addon_name)s ( %(addon_url)s ):\n"
+"\n"
+"%(author_name)s ( %(author_url)s ): %(author_role)s\n"
+"\n"
+"Si no esperabas este cambio, revisa la configuración de autores de tu complemento en la página indicada arriba.\n"
+"\n"
+"Gracias por desarrollar para Firefox,\n"
+"El equipo de complementos de Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_added_confirmation.ltxt:12
 #, python-format
