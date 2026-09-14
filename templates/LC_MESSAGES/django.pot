@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-10 13:16+0000\n"
+"POT-Creation-Date: 2026-09-14 12:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8084,17 +8084,17 @@ msgstr ""
 msgid "The install origin {origin} is not permitted."
 msgstr ""
 
-#: src/olympia/versions/utils.py:195
+#: src/olympia/versions/utils.py:198
 #, python-brace-format
 msgid "Version {version_string} was uploaded before and deleted."
 msgstr ""
 
-#: src/olympia/versions/utils.py:197
+#: src/olympia/versions/utils.py:200
 #, python-brace-format
 msgid "Version {version_string} already exists."
 msgstr ""
 
-#: src/olympia/versions/utils.py:217
+#: src/olympia/versions/utils.py:220
 #, python-brace-format
 msgid ""
 "Version {version_string} must be greater than the previous approved version "

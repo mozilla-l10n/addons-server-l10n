@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-10 13:16+0000\n"
+"POT-Creation-Date: 2026-09-14 12:22+0000\n"
 "PO-Revision-Date: 2024-01-15 13:27+0000\n"
 "Last-Translator: Bund10z <abu.avila@gmail.com>\n"
 "Language-Team: Español (España) <nave@elistas.net>\n"
@@ -7368,17 +7368,17 @@ msgstr "{app} {min} y posterior"
 msgid "The install origin {origin} is not permitted."
 msgstr ""
 
-#: src/olympia/versions/utils.py:195
+#: src/olympia/versions/utils.py:198
 #, python-brace-format
 msgid "Version {version_string} was uploaded before and deleted."
 msgstr ""
 
-#: src/olympia/versions/utils.py:197
+#: src/olympia/versions/utils.py:200
 #, python-brace-format
 msgid "Version {version_string} already exists."
 msgstr ""
 
-#: src/olympia/versions/utils.py:217
+#: src/olympia/versions/utils.py:220
 #, python-brace-format
 msgid "Version {version_string} must be greater than the previous approved version {previous_version_string}."
 msgstr ""
