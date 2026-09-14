@@ -111,6 +111,13 @@ msgid ""
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Gracias por tu reporte acerca de %(name)s en los complementos de Mozilla y por tomarte el tiempo para compartir tus inquietudes.\n"
+"\n"
+"Tras revisar cuidadosamente tu petición, constatamos que la decisión anterior —de que este contenido cumple con las políticas de Mozilla (%(policy_document_url)s)— era correcta. Por lo tanto, no tomaremos medidas contra la cuenta ni contra el contenido.\n"
+"%(manual_reasoning_text)s.\n"
+"\n"
+"Gracias nuevamente por ayudarnos a mantener seguros los complementos de Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
@@ -120,6 +127,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
+"\n"
+"Gracias por su reporte acerca de %(name)s en los complementos de Mozilla y por tomarte el tiempo para compartir tus inquietudes.\n"
+"\n"
+"Tras revisar tu petición, constatamos que nuestra decisión anterior, según la cual este contenido cumplía con las políticas de Mozilla (%(policy_document_url)s), era incorrecta. Ya hemos eliminado el contenido y notificado al usuario. Gracias por ayudarnos en corregir este error.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -129,6 +140,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Gracias por tu reporte acerca de %(name)s en los complementos de Mozilla y por brindar más información sobre tus inquietudes.\n"
+"\n"
+"Tras revisar tu reporte, hemos determinado que nuestra decisión anterior, según la cual este contenido cumplía con las políticas de Mozilla (%(policy_document_url)s), era incorrecta. Hemos solicitado al desarrollador que realice los cambios necesarios y, de no actualizar el contenido, lo eliminaremos.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -138,6 +153,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Gracias por tomarte el tiempo de reportar %(name)s en %(target_url)s.\n"
+"\n"
+"Hemos revisado tu reporte y el contenido en cuestión, y hemos comprobado que cumple con las políticas de Mozilla (%(policy_document_url)s), por lo que no se tomarán medidas de moderación. Sin embargo, te agradecemos que nos lo hayas reportado.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
