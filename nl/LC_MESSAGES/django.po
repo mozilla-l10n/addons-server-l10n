@@ -6607,7 +6607,7 @@ msgstr "U kunt niet meerdere beoordelingen voor dezelfde versie van een add-on s
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr "Ongeldige markering [{flag}] – moet een van [{flags}] zijn"
+msgstr "Ongeldig label [{flag}] – moet een van [{flags}] zijn"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
