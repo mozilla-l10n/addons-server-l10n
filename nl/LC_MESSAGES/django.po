@@ -6135,7 +6135,7 @@ msgstr "Werkt uitstekend voor video, audio en streaming inhoud op de meeste webs
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr "Tientallen functies om YouTube voor u te laten werken. Verwijder afleidende promoties, wijzig de visuele vormgeving van YouTube, aanpassing van afspeelsnelheid, volumeversterking en meer."
+msgstr "Tientallen functies om YouTube voor u te laten werken. Afleidende reclame verwijderen, de visuele vormgeving van YouTube wijzigen, de afspeelsnelheid aanpassen, volumeversterking en meer."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
