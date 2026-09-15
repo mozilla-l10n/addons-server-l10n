@@ -3799,6 +3799,12 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Merhaba,\n"
+"\n"
+"E-posta adresiniz doğrulandı, artık her şey hazır. Firefox için eklenti geliştirdiğiniz için teşekkür ederiz.\n"
+"\n"
+"\n"
+"Mozilla Add-ons Ekibi"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-requested.ltxt:10
 #, python-format
