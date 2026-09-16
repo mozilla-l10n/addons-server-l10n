@@ -238,7 +238,7 @@ msgstr "Ofbyldingen meie net bewegend wêze."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Brûk ôfbyldingen lytser as {} MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -346,7 +346,7 @@ msgstr "Ofbyldingen moatte lytser wêze as %dMB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Unjildige parameter ‘{}’."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -3912,7 +3912,7 @@ msgstr "Foltôgje jo add-on troch in ferzje of ûntbrekkende metagegevens ta te 
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "Jo ûntfange in e-mailberjocht as de beoardieling foltôge is. Oant dy tiid wurdt jo add-on net publyklik beskikber. Jo, de autentisearre skriuwer, hawwe tagong ta de detailside derfan."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
