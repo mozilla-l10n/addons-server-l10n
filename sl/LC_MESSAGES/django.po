@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-16 15:25+0000\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "Generated-By: Pontoon\n"
@@ -104,13 +106,16 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
-" Hvala za poročilo o %(name)s za Mozilline dodatke in za to, da ste si vzeli čas in povedali več o svojih pomislekih. Po skrbnem pregledu vaše pritožbe smo ugotovili, da je prejšnja odločitev – da je ta vsebina v skladu z Mozillinimi pravilniki (%(policy_document_url)s) – pravilna. Zato zoper ta račun ali vsebino ne bomo ukrepali. %(manual_reasoning_text)s. Še enkrat se vam zahvaljujemo, ker nam pomagate ohranjati dodatke Mozilla varne. \n"
+" Hvala za poročilo o %(name)s za Mozilline dodatke in za to, da ste si vzeli čas in povedali več o svojih pomislekih. Po skrbnem pregledu vaše pritožbe smo ugotovili, da je prejšnja odločitev – da "
+"je ta vsebina v skladu z Mozillinimi pravilniki (%(policy_document_url)s) – pravilna. Zato zoper ta račun ali vsebino ne bomo ukrepali. %(manual_reasoning_text)s. Še enkrat se vam zahvaljujemo, ker "
+"nam pomagate ohranjati dodatke Mozilla varne. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
@@ -118,10 +123,12 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
-" Hvala za poročilo o %(name)s za Mozilline dodatke in za to, da ste si vzeli čas in povedali več o svojih pomislekih. Po pregledu vašega razloga smo ugotovili, da je bila naša predhodna odločitev, da je ta vsebina skladna z Mozillinimi pravilniki (%(policy_document_url)s), nepravilna. Vsebino smo odstranili in o tem obvestili uporabnika. Hvala, ker nam pomagate to odpraviti. \n"
+" Hvala za poročilo o %(name)s za Mozilline dodatke in za to, da ste si vzeli čas in povedali več o svojih pomislekih. Po pregledu vašega razloga smo ugotovili, da je bila naša predhodna odločitev, "
+"da je ta vsebina skladna z Mozillinimi pravilniki (%(policy_document_url)s), nepravilna. Vsebino smo odstranili in o tem obvestili uporabnika. Hvala, ker nam pomagate to odpraviti. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -129,10 +136,12 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
-" Hvala za poročilo o %(name)s za Mozilline dodatke in za več informacij o svojih pomislekih. Po pregledu vašega razloga smo ugotovili, da je bila naša predhodna odločitev, da je ta vsebina skladna z Mozillinimi pravilniki (%(policy_document_url)s), nepravilna. Razvijalca smo prosili za spremembe. Če vsebine ne posodobijo, jo bomo odstranili. \n"
+" Hvala za poročilo o %(name)s za Mozilline dodatke in za več informacij o svojih pomislekih. Po pregledu vašega razloga smo ugotovili, da je bila naša predhodna odločitev, da je ta vsebina skladna "
+"z Mozillinimi pravilniki (%(policy_document_url)s), nepravilna. Razvijalca smo prosili za spremembe. Če vsebine ne posodobijo, jo bomo odstranili. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -140,16 +149,18 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
-" Hvala, ker ste si vzeli čas za prijavo %(name)s na %(target_url)s. Pregledali smo vaše poročilo in zadevno vsebino ter ugotovili, da je v skladu z Mozillinimi pravilniki (%(policy_document_url)s), zato ne bo predmet moderiranja. Cenimo pa, da ga označite namesto nas. \n"
+" Hvala, ker ste si vzeli čas za prijavo %(name)s na %(target_url)s. Pregledali smo vaše poročilo in zadevno vsebino ter ugotovili, da je v skladu z Mozillinimi pravilniki (%(policy_document_url)s), "
+"zato ne bo predmet moderiranja. Cenimo pa, da ga označite namesto nas. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 "Če menite, da vsebina ni v skladu z Mozillinimi pravilniki, se imate na to odločitev pravico pritožiti v roku 6 mesecev od datuma tega e-poštnega sporočila. Oglejte si %(appeal_url)s za podrobnosti "
 "o postopku pritožbe, vključno s tem, kako vložiti pritožbo na to odločitev."
@@ -160,10 +171,12 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
-" Hvala, ker ste si vzeli čas in prijavili naslednji dodatek o Mozillinih dodatkih: %(name)s. Pregledali smo vaše poročilo in zadevno vsebino ter ugotovili, da nista v skladu z Mozillinimi pravilniki (%(policy_document_url)s). Zaradi tega smo vsebino odstranili. Cenimo vašo pomoč pri ohranjanju varnosti dodatkov Mozille. \n"
+" Hvala, ker ste si vzeli čas in prijavili naslednji dodatek o Mozillinih dodatkih: %(name)s. Pregledali smo vaše poročilo in zadevno vsebino ter ugotovili, da nista v skladu z Mozillinimi "
+"pravilniki (%(policy_document_url)s). Zaradi tega smo vsebino odstranili. Cenimo vašo pomoč pri ohranjanju varnosti dodatkov Mozille. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -171,10 +184,12 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
-" Hvala, ker ste si vzeli čas in prijavili naslednji dodatek o Mozillinih dodatkih: %(name)s. Pregledali smo vaše poročilo in zadevno vsebino ter ugotovili, da nista v skladu z Mozillinimi pravilniki (%(policy_document_url)s). Od razvijalca smo zahtevali spremembe, in če ne bodo odpravile težave, bomo vsebino odstranili. Hvala, ker pomagate ohranjati dodatke Mozilla varne. \n"
+" Hvala, ker ste si vzeli čas in prijavili naslednji dodatek o Mozillinih dodatkih: %(name)s. Pregledali smo vaše poročilo in zadevno vsebino ter ugotovili, da nista v skladu z Mozillinimi "
+"pravilniki (%(policy_document_url)s). Od razvijalca smo zahtevali spremembe, in če ne bodo odpravile težave, bomo vsebino odstranili. Hvala, ker pomagate ohranjati dodatke Mozilla varne. \n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -223,11 +238,11 @@ msgstr "Povezave niso dovoljene."
 msgid "This display name cannot be used."
 msgstr "Tega prikaznega imena ni mogoče uporabljati."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1056
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1020
 msgid "Images must be either PNG or JPG."
 msgstr "Slike morajo biti bodisi PNG ali JPG."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1062
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1026
 msgid "Images cannot be animated."
 msgstr "Slike ne morejo biti animirane."
 
@@ -262,11 +277,11 @@ msgstr[1] "Različici {0}"
 msgstr[2] "Različice {0}"
 msgstr[3] "Različice {0}"
 
-#: src/olympia/activity/serializers.py:56
+#: src/olympia/activity/serializers.py:66
 msgid "Review note"
 msgstr "Opomba pregleda"
 
-#: src/olympia/activity/views.py:134
+#: src/olympia/activity/views.py:176
 msgid "Request content length is too large."
 msgstr "Vsebina zahtevka je predolga."
 
@@ -522,7 +537,7 @@ msgstr "Pošlji novo temo"
 msgid "Developer Hub"
 msgstr "Razvojni center"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2182
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2146
 msgid "Manage API Keys"
 msgstr "Upravljaj ključe API"
 
@@ -625,9 +640,9 @@ msgid ""
 msgstr ""
 "<h1>Žal ne najdemo tega, kar iščete.</h1><p> Strani ali datoteke, ki ste jo zahtevali, ni bilo mogoče najti na naši spletni strani. Možno je, da ste kliknili na povezavo, ki je zastarela, ali pa "
 "vnesli napačen naslov.</p><ul><li>Če ste sami vtipkali naslov, še enkrat preverite črkovanje.</li> <li> Če ste sledili povezavi od kod drugje, %(open_bug_link)sprijavite težavo%(close_bug_link)s. "
-"Sporočite nam, od kod ste prišli in kaj ste iskali, mi pa se bomo potrudili, da to popravimo. </li></ul><p>Lahko pa enostavno skočite na nekatere od priljubljenih strani na našem spletnem mestu. "
-"</p><ul><li>Ali vas zanima <a href=\"%(rec)s\">seznam izbranih razširitev</a>?</li><li> Želite <a href=\"%(search)s\">iskati razširitve</a>? Pojdite morda na <a href=\"%(search)s\">stran za "
-"iskanje</a> ali pa uporabite polje za iskanje zgoraj. </li><li> Če želite začeti znova, pojdite na <a href=\"%(home)s\">naslovno stran za dodatke</a>. </li> </ul>"
+"Sporočite nam, od kod ste prišli in kaj ste iskali, mi pa se bomo potrudili, da to popravimo. </li></ul><p>Lahko pa enostavno skočite na nekatere od priljubljenih strani na našem spletnem mestu. </"
+"p><ul><li>Ali vas zanima <a href=\"%(rec)s\">seznam izbranih razširitev</a>?</li><li> Želite <a href=\"%(search)s\">iskati razširitve</a>? Pojdite morda na <a href=\"%(search)s\">stran za iskanje</"
+"a> ali pa uporabite polje za iskanje zgoraj. </li><li> Če želite začeti znova, pojdite na <a href=\"%(home)s\">naslovno stran za dodatke</a>. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -2118,277 +2133,277 @@ msgstr "V poslani datoteki je bil najden razvijalski ključ API sorazvijalca. Za
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Mozillino varnostno obvestilo: Vaše poverilnice API za AMO so bile preklicane"
 
-#: src/olympia/devhub/utils.py:89
+#: src/olympia/devhub/utils.py:90
 #, python-format
 msgid "Validation generated too many errors/warnings so %s messages were truncated. After addressing the visible messages, you'll be able to see the others."
 msgstr "Med preverjanjem veljavnosti je prišlo do preveč napak/opozoril, tako da je bilo %s sporočil skrajšanih. Ko enkrat spravite v red vidna sporočila, boste lahko videli tudi preostala."
 
-#: src/olympia/devhub/utils.py:210
+#: src/olympia/devhub/utils.py:211
 #, python-brace-format
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr "Ta dodatek ni tema. Za predložitev razširitve uporabite stran <a href=\"{link}\">Pošlji nov dodatek</a>."
 
-#: src/olympia/devhub/views.py:131
+#: src/olympia/devhub/views.py:132
 msgid "Updated"
 msgstr "Posodobljeno"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
+#: src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:143
 msgid "Name"
 msgstr "Ime"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:142
 msgid "Created"
 msgstr "Ustvarjeno"
 
-#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Prenosi"
 
-#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
+#: src/olympia/devhub/views.py:136 src/olympia/devhub/views.py:145
 msgid "Rating"
 msgstr "Ocena"
 
-#: src/olympia/devhub/views.py:210
+#: src/olympia/devhub/views.py:211
 msgid "All My Add-ons"
 msgstr "Vsi moji dodatki"
 
-#: src/olympia/devhub/views.py:238
+#: src/olympia/devhub/views.py:239
 msgid "All Activity"
 msgstr "Vsa aktivnost"
 
-#: src/olympia/devhub/views.py:239
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Updates"
 msgstr "Posodobitve dodatkov"
 
-#: src/olympia/devhub/views.py:240
+#: src/olympia/devhub/views.py:241
 msgid "Add-on Status"
 msgstr "Stanje dodatka"
 
-#: src/olympia/devhub/views.py:241
+#: src/olympia/devhub/views.py:242
 msgid "User Collections"
 msgstr "Uporabniške zbirke"
 
-#: src/olympia/devhub/views.py:242
+#: src/olympia/devhub/views.py:243
 msgid "User Reviews"
 msgstr "Ocene uporabnikov"
 
-#: src/olympia/devhub/views.py:390
+#: src/olympia/devhub/views.py:354
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Dodatka ni mogoče zbrisati. Namesto tega ga onemogočite."
 
-#: src/olympia/devhub/views.py:401
+#: src/olympia/devhub/views.py:365
 msgid "Theme deleted."
 msgstr "Tema zbrisana."
 
-#: src/olympia/devhub/views.py:401
+#: src/olympia/devhub/views.py:365
 msgid "Add-on deleted."
 msgstr "Dodatek izbrisan."
 
-#: src/olympia/devhub/views.py:407
+#: src/olympia/devhub/views.py:371
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "Nepravilno ime spletnega naslova. Tema ni bila izbrisana."
 
-#: src/olympia/devhub/views.py:409
+#: src/olympia/devhub/views.py:373
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "Nepravilno ime spletnega naslova. Dodatek ni bil izbrisan."
 
-#: src/olympia/devhub/views.py:451
+#: src/olympia/devhub/views.py:415
 msgid "Request for a new review of listing content acknowledged."
 msgstr "Zahteva za nov pregled vsebine objave je zabeležena."
 
-#: src/olympia/devhub/views.py:495
+#: src/olympia/devhub/views.py:459
 msgid "Invitation accepted."
 msgstr "Povabilo sprejeto."
 
-#: src/olympia/devhub/views.py:498
+#: src/olympia/devhub/views.py:462
 msgid "Invitation declined."
 msgstr "Povabilo zavrnjeno."
 
-#: src/olympia/devhub/views.py:566
+#: src/olympia/devhub/views.py:530
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "Potrditvena e-pošta je bila poslana na {email}"
 
-#: src/olympia/devhub/views.py:583 src/olympia/devhub/views.py:1199
+#: src/olympia/devhub/views.py:547 src/olympia/devhub/views.py:1163
 msgid "Changes successfully saved."
 msgstr "Spremembe uspešno shranjene."
 
-#: src/olympia/devhub/views.py:603
+#: src/olympia/devhub/views.py:567
 msgid "Validate Add-on"
 msgstr "Preveri veljavnost dodatka"
 
-#: src/olympia/devhub/views.py:674
+#: src/olympia/devhub/views.py:638
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">Če želite predložiti razširitev, vključite dvostopenjsko overjanje za svoj račun.</a>"
 
-#: src/olympia/devhub/views.py:1054
+#: src/olympia/devhub/views.py:1018
 msgid "Icons must be either PNG or JPG."
 msgstr "Ikone morajo biti bodisi PNG ali JPG."
 
-#: src/olympia/devhub/views.py:1060
+#: src/olympia/devhub/views.py:1024
 msgid "Icons cannot be animated."
 msgstr "Ikone ne morejo biti animirane."
 
-#: src/olympia/devhub/views.py:1071
+#: src/olympia/devhub/views.py:1035
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Uporabljajte slike, ki so manjše od %d MB."
 
-#: src/olympia/devhub/views.py:1086
+#: src/olympia/devhub/views.py:1050
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Slika mora biti široka vsaj {0} pik in visoka vsaj {1} pik."
 
-#: src/olympia/devhub/views.py:1090
+#: src/olympia/devhub/views.py:1054
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Dimenzije slik morajo biti v razmerju 4:3."
 
-#: src/olympia/devhub/views.py:1098
+#: src/olympia/devhub/views.py:1062
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Ikona mora biti široka in visoka vsaj {0} pik."
 
-#: src/olympia/devhub/views.py:1103
+#: src/olympia/devhub/views.py:1067
 msgid "Icon must be square (same width and height)."
 msgstr "Ikona mora biti kvadratna (enake širine in višine)."
 
-#: src/olympia/devhub/views.py:1109
+#: src/olympia/devhub/views.py:1073
 msgid "There was an error uploading your preview."
 msgstr "Med nalaganjem predogleda je prišlo do napake."
 
-#: src/olympia/devhub/views.py:1255
+#: src/olympia/devhub/views.py:1219
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
 "Zadnje odobrene različice tega dodatka %s ni mogoče izbrisati ali onemogočiti, ker prejšnja različica ni bila odobrena za promocijo %s. Če potrebujete pomoč pri tem, se obrnite na skrbnike AMO."
 
-#: src/olympia/devhub/views.py:1262
+#: src/olympia/devhub/views.py:1226
 #, python-format
 msgid "Version %s disabled."
 msgstr "Različica %s onemogočena."
 
-#: src/olympia/devhub/views.py:1266
+#: src/olympia/devhub/views.py:1230
 #, python-format
 msgid "Version %s deleted."
 msgstr "Različica %s izbrisana."
 
-#: src/olympia/devhub/views.py:1277
+#: src/olympia/devhub/views.py:1241
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Različica %s ponovno omogočena."
 
-#: src/olympia/devhub/views.py:1293
+#: src/olympia/devhub/views.py:1257
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "Ta prenos ni opravil preverjanja veljavnosti in morda rezultati preverjanja veljavnosti ne bodo v celoti na razpolago. Bodite pozorni, ko ga boste pregledovali."
 
-#: src/olympia/devhub/views.py:1352
+#: src/olympia/devhub/views.py:1316
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Vrnitev na prejšnjo različico poslana. Ko bo odobrena, boste obveščeni"
 
-#: src/olympia/devhub/views.py:1498
+#: src/olympia/devhub/views.py:1462
 msgid "Header area background"
 msgstr "Ozadje območja glave"
 
-#: src/olympia/devhub/views.py:1500
+#: src/olympia/devhub/views.py:1464
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Barva ozadja območja glave, s katero je zapolnjen del, ki ga ne prekriva slika glave. Polje manifesta:  frame."
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1472
 msgid "Header area text and icons"
 msgstr "Besedilo in ikone območja glave"
 
-#: src/olympia/devhub/views.py:1510
+#: src/olympia/devhub/views.py:1474
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Barva besedila in ikon v območju glave, razen na dejavnem zavihku. Polje manifesta:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1481
 msgid "Toolbar area background"
 msgstr "Ozadje območja orodne vrstice"
 
-#: src/olympia/devhub/views.py:1519
+#: src/olympia/devhub/views.py:1483
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Barva ozadja za vrstico za brskanje, vrstico zaznamkov in dejavni zavihek.  Polje manifesta:  toolbar."
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1490
 msgid "Toolbar area text and icons"
 msgstr "Besedilo in ikone območja orodne vrstice"
 
-#: src/olympia/devhub/views.py:1528
+#: src/olympia/devhub/views.py:1492
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Barva besedila in ikon v orodni vrstici in na dejavnem zavihku. Polje manifesta:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1535
+#: src/olympia/devhub/views.py:1499
 msgid "Toolbar field area background"
 msgstr "Ozadje območja polja orodne vrstice"
 
-#: src/olympia/devhub/views.py:1537
+#: src/olympia/devhub/views.py:1501
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Barva ozadja polj v orodni vrstici, kot je naslovna vrstica. Polje manifesta:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1544
+#: src/olympia/devhub/views.py:1508
 msgid "Toolbar field area text"
 msgstr "Besedilo območja polja orodne vrstice"
 
-#: src/olympia/devhub/views.py:1546
+#: src/olympia/devhub/views.py:1510
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Barva besedila v poljih orodne vrstice, kot je naslovna vrstica. Polje manifesta:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1554
+#: src/olympia/devhub/views.py:1518
 msgid "Tab highlight"
 msgstr "Poudarki zavihkov"
 
-#: src/olympia/devhub/views.py:1556
+#: src/olympia/devhub/views.py:1520
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Barvni označevalnik aktivnega zavihka: kot obroba okoli zavihka v Firefoxu 89+, v starejših različicah pa kot črta nad zavihkom. Polje manifesta:  tab_line."
 
-#: src/olympia/devhub/views.py:1659
+#: src/olympia/devhub/views.py:1623
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Nalaganje dodatkov trenutno ni na voljo"
 
-#: src/olympia/devhub/views.py:2031
+#: src/olympia/devhub/views.py:1995
 msgid "Review requested."
 msgstr "Pregled zahtevan."
 
-#: src/olympia/devhub/views.py:2033
+#: src/olympia/devhub/views.py:1997
 msgid "You must provide further details to proceed."
 msgstr "Za nadaljevanje morate vnesti nadaljnje podrobnosti."
 
-#: src/olympia/devhub/views.py:2140
+#: src/olympia/devhub/views.py:2104
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Na svoj e-poštni naslov boste kmalu prejeli potrditveno povezavo."
 
-#: src/olympia/devhub/views.py:2155
+#: src/olympia/devhub/views.py:2119
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Vaša stara poverila so bila preklicana in niso več veljavna."
 
-#: src/olympia/devhub/views.py:2166
+#: src/olympia/devhub/views.py:2130
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Ustvarjene so bile nove poverilnice API, prikazane spodaj. Kopirajte skrivnost JWT, saj ne bo nikoli več prikazana."
 
-#: src/olympia/devhub/views.py:2194
+#: src/olympia/devhub/views.py:2158
 msgid "New API key created"
 msgstr "Nov ključ API ustvarjen"
 
-#: src/olympia/devhub/views.py:2205
+#: src/olympia/devhub/views.py:2169
 msgid "API key revoked"
 msgstr "Ključ API preklican"
 
-#: src/olympia/devhub/views.py:2265
+#: src/olympia/devhub/views.py:2229
 msgid "Verify email"
 msgstr "Potrdi naslov"
 
-#: src/olympia/devhub/views.py:2267
+#: src/olympia/devhub/views.py:2231
 msgid "Send another email"
 msgstr "Pošlji drugo sporočilo"
 
-#: src/olympia/devhub/views.py:2300
+#: src/olympia/devhub/views.py:2264
 msgid "Your email has been verified"
 msgstr "Vaš e-poštni naslov je potrjen"
 
-#: src/olympia/devhub/views.py:2366
+#: src/olympia/devhub/views.py:2330
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Vaš zahtevek za podporo je bil poslan. Kmalu se vam oglasimo."
 
@@ -2486,8 +2501,8 @@ msgstr "Pridobite podporo za razširitve in teme"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Uporabite ta obrazec za podporo v zvezi z vašim računom, skladnostjo s pravilniki in drugo. Več podrobnosti kot delite, laže vam lahko pomagamo. Za vprašanja o pregledih vaših dodatkov si oglejte "
 "zgodovino različic dodatkov. Odgovorili vam bomo v najkrajšem možnem času."
@@ -2859,8 +2874,8 @@ msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
 msgstr ""
-"Povzetek bi moral pojasniti, kaj vaš dodatek naredi, kratko in jedrnato. Ime in povzetek sta prikazana na strani izdelka in v rezultatih iskanja. Največja skupna dolžina je 70 znakov, najmanjša pa 2"
-" znaka za vsakega posebej."
+"Povzetek bi moral pojasniti, kaj vaš dodatek naredi, kratko in jedrnato. Ime in povzetek sta prikazana na strani izdelka in v rezultatih iskanja. Največja skupna dolžina je 70 znakov, najmanjša pa "
+"2 znaka za vsakega posebej."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2954,8 +2969,8 @@ msgstr "E-pošta"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr "Če želite prikazati e-poštni naslov za podporo, ga vnesite sem. Če za različne jezike uporabljate različne naslove, lahko dodate prevode tega polja. Velja samo za javno vidne dodatke."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
@@ -3013,8 +3028,8 @@ msgstr "Bela tabla"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Bela tabla je mesto, kjer lahko pregledovalcu posredujete informacije o svojem dodatku (ne glede na različico). Prek nje lahko pregledovalcu posredujete možne načine preskušanja dodatka in "
 "kakršnekoli dodatne informacije. Belo tablo lahko urejajo tudi pregledovalci."
@@ -3339,8 +3354,8 @@ msgid ""
 "Warning: you have name/summary values in other locales that will be automatically cropped to fit under the limit of %(max_length)s characters.  To edit these go to Edit Product Page after the "
 "submission process is complete."
 msgstr ""
-"Pozor: v drugih jezikih imate imena ali povzetke, ki so predolgi in bodo samodejno skrajšani na omejitev %(max_length)s znakov.  Uredili jih boste lahko v odseku Urejanje strani izdelka, potem ko bo"
-" postopek oddaje zaključen."
+"Pozor: v drugih jezikih imate imena ali povzetke, ki so predolgi in bodo samodejno skrajšani na omejitev %(max_length)s znakov.  Uredili jih boste lahko v odseku Urejanje strani izdelka, potem ko "
+"bo postopek oddaje zaključen."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:52 src/olympia/devhub/templates/devhub/addons/submit/describe.html:73
 msgid "Add-on URL:"
@@ -3712,8 +3727,8 @@ msgstr "Nazaj"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Za izvajanje overjenih klicev proti <a %(a_attrs)s href=\"%(docs_url)s\">API</a> kot zunanjemu uporabniku, morate vključiti <a %(a_attrs)s href=\"%(jwt_url)s\">Spletni žeton JSON (JWT)</a> v glavi "
 "<code>Authorization</code> za vsako zahtevo."
@@ -3802,16 +3817,18 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
-"Spoštovani razvijalec dodatkov, Takoj smo vas želeli obvestiti: opazili smo, da so vaše tajne poverilnice AMO API vključene v dodatek, poslan na addons.mozilla.org. Da bi vaš račun in dodatki ostali"
-" varni, smo zadevne poverilnice razveljavili. Z vaše strani ni nič narobe – to se včasih zgodi, mi pa smo tu, da vam pomagamo priti nazaj na pravo pot. Sveže poverilnice API lahko kadarkoli "
+"Spoštovani razvijalec dodatkov, Takoj smo vas želeli obvestiti: opazili smo, da so vaše tajne poverilnice AMO API vključene v dodatek, poslan na addons.mozilla.org. Da bi vaš račun in dodatki "
+"ostali varni, smo zadevne poverilnice razveljavili. Z vaše strani ni nič narobe – to se včasih zgodi, mi pa smo tu, da vam pomagamo priti nazaj na pravo pot. Sveže poverilnice API lahko kadarkoli "
 "ustvarite na %(api_keys_url)s. Da svoje poverilnice še naprej ohranjate varne, jih je najbolje ohraniti zasebne in se jim izogniti v kakršnihkoli javnih shrambah, v dodatkih ali na drugih javnih "
 "mestih. Kadarkoli imate trenutek, je vredno pregledati repozitorije kod in razširitev, da odstranijo vse sklice na vaše poverilnice AMO.  Hvala, ekipa Dodatkov Mozilla"
 
@@ -3995,8 +4012,8 @@ msgstr "Združljivost s Firefoxom za Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 "Ste svojo razširitev preizkusili in se prepričali, da deluje po pričakovanjih v Firefoxu za Android? Če niste, si pred predložitvijo preberite navodila za preskušanje <a target=\"_blank\" "
 "rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a>."
@@ -7129,8 +7146,8 @@ msgstr "Iz programske opreme ali naprave, ki jo uporabljate, pošiljanje ni dovo
 
 #: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Pred začetkom si preberite in sprejmite Sporazum o razširjanju Firefoxovih dodatkov, kot tudi našo politiko in pravila pregledov. Sporazum vsebuje tudi povezavo na naše Obvestilo o zasebnosti, ki "
 "razlaga, kako ravnamo z vašimi podatki."
@@ -7265,7 +7282,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"

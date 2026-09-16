@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-16 15:25+0000\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -105,7 +107,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -113,7 +116,8 @@ msgstr ""
 "\n"
 "Köszönjük a bejelentését a következőről a Mozilla kiegészítők weboldalán: %(name)s, és hogy időt szánt az aggályai megosztására.\n"
 "\n"
-"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk helyes, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s). Ezek alapján a fellebbezést elutasítottuk, és nem teszünk semmit a fiókkal vagy a tartalommal szemben.\n"
+"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk helyes, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s). Ezek alapján a fellebbezést "
+"elutasítottuk, és nem teszünk semmit a fiókkal vagy a tartalommal szemben.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Köszönjük, hogy segít biztonságosan tartani a Mozilla kiegészítőket.\n"
@@ -124,12 +128,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Köszönjük a bejelentését a következőről a Mozilla kiegészítők weboldalán: %(name)s, és hogy időt szánt az aggályai megosztására.\n"
 "\n"
-"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Így a tartalmat eltávolítottuk, és értesítettük a felhasználót. Köszönjük, hogy segített.\n"
+"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Így a tartalmat "
+"eltávolítottuk, és értesítettük a felhasználót. Köszönjük, hogy segített.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -137,12 +143,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Köszönjük a következőről szóló bejelentését a Mozilla kiegészítők weboldalán: %(name)s, és hogy további információkat adott meg az aggályairól.\n"
 "\n"
-"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Arra kértük a fejlesztőt, hogy végezzen változtatásokat, és ha nem frissíti a tartalmat, akkor el fogjuk távolítani.\n"
+"A fellebbezésének vizsgálata után megállapítottuk, hogy a korábbi döntésünk, miszerint a tartalom nem sérti a Mozilla irányelveit (%(policy_document_url)s), helytelen volt. Arra kértük a "
+"fejlesztőt, hogy végezzen változtatásokat, és ha nem frissíti a tartalmat, akkor el fogjuk távolítani.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -150,21 +158,23 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Köszönjük a bejelentést erről: %(name)s, itt: %(target_url)s.\n"
 "\n"
-"Megvizsgáltuk a jelentését és a kérdéses tartalmat, és úgy találtuk, hogy az betartja a Mozilla irányelveit (%(policy_document_url)s), ezért nem lesz semmilyen moderálási tevékenység tárgya. Viszont a bejelentését köszönjük.\n"
+"Megvizsgáltuk a jelentését és a kérdéses tartalmat, és úgy találtuk, hogy az betartja a Mozilla irányelveit (%(policy_document_url)s), ezért nem lesz semmilyen moderálási tevékenység tárgya. "
+"Viszont a bejelentését köszönjük.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
-"Ha azt gondolja, hogy a tartalom nem felel meg a Mozilla irányelveinek, akkor a döntés ellen az e-mail dátumától számított 6 hónapon belül fellebbezhet. A fellebbezési folyamat részleteiért – köztük"
-" a konkrét döntés elleni fellebbezés módjáért – lásd: %(appeal_url)s."
+"Ha azt gondolja, hogy a tartalom nem felel meg a Mozilla irányelveinek, akkor a döntés ellen az e-mail dátumától számított 6 hónapon belül fellebbezhet. A fellebbezési folyamat részleteiért – "
+"köztük a konkrét döntés elleni fellebbezés módjáért – lásd: %(appeal_url)s."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -172,12 +182,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Köszönjük, hogy időt szán a következő Mozilla-kiegészítő jelentésére: %(name)s.\n"
 "\n"
-"Kivizsgáltuk a bejelentését és a kérdéses tartalmat, és megállapítottuk, hogy az nem felel meg a Mozilla irányelveinek (%(policy_document_url)s). Ezért eltávolítottuk a tartalmat. Köszönjük, hogy segít a Mozilla kiegészítők biztonságosan tartásában.\n"
+"Kivizsgáltuk a bejelentését és a kérdéses tartalmat, és megállapítottuk, hogy az nem felel meg a Mozilla irányelveinek (%(policy_document_url)s). Ezért eltávolítottuk a tartalmat. Köszönjük, hogy "
+"segít a Mozilla kiegészítők biztonságosan tartásában.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -185,12 +197,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Köszönjük, hogy időt szán a következő Mozilla-kiegészítő jelentésére: %(name)s.\n"
 "\n"
-"Kivizsgáltuk a bejelentését és a kérdéses tartalmat, és megállapítottuk, hogy az nem felel meg a Mozilla irányelveinek (%(policy_document_url)s). Arra kértük a fejlesztőt, hogy végezzen változtatásokat, és ha nem oldja meg a problémát, akkor eltávolítjuk a tartalmat. Köszönjük, hogy segít a Mozilla kiegészítők biztonságosan tartásában.\n"
+"Kivizsgáltuk a bejelentését és a kérdéses tartalmat, és megállapítottuk, hogy az nem felel meg a Mozilla irányelveinek (%(policy_document_url)s). Arra kértük a fejlesztőt, hogy végezzen "
+"változtatásokat, és ha nem oldja meg a problémát, akkor eltávolítjuk a tartalmat. Köszönjük, hogy segít a Mozilla kiegészítők biztonságosan tartásában.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -239,11 +253,11 @@ msgstr "Hivatkozások nem engedélyezettek."
 msgid "This display name cannot be used."
 msgstr "Ez a megjelenítendő név nem használható."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1056
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1020
 msgid "Images must be either PNG or JPG."
 msgstr "Az ikonnak PNG-nek vagy JPG-nek kell lennie."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1062
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1026
 msgid "Images cannot be animated."
 msgstr "A kép nem lehet animált."
 
@@ -276,11 +290,11 @@ msgid_plural "Versions {0}"
 msgstr[0] "{0} verzió"
 msgstr[1] "{0} verzió"
 
-#: src/olympia/activity/serializers.py:56
+#: src/olympia/activity/serializers.py:66
 msgid "Review note"
 msgstr "Ellenőrzési megjegyzés"
 
-#: src/olympia/activity/views.py:134
+#: src/olympia/activity/views.py:176
 msgid "Request content length is too large."
 msgstr "A kérés tartalmának hossza túl nagy."
 
@@ -538,7 +552,7 @@ msgstr "Új téma beküldése"
 msgid "Developer Hub"
 msgstr "Fejlesztőközpont"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2182
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2146
 msgid "Manage API Keys"
 msgstr "API kulcsok kezelése"
 
@@ -2142,147 +2156,147 @@ msgstr "Egy társszerző fejlesztői API kulcsa megtalálható a beküldött fá
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Mozilla biztonsági közlemény: Az AMO API engedélyei vissza lettek vonva"
 
-#: src/olympia/devhub/utils.py:89
+#: src/olympia/devhub/utils.py:90
 #, python-format
 msgid "Validation generated too many errors/warnings so %s messages were truncated. After addressing the visible messages, you'll be able to see the others."
 msgstr "Az ellenőrzés túl sok hibát/figyelmeztetést generált, így %s üzenet csonkítva lett. A látható üzenetek megoldása után láthatja a többit is."
 
-#: src/olympia/devhub/utils.py:210
+#: src/olympia/devhub/utils.py:211
 #, python-brace-format
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr "Ez a kiegészítő nem téma. Használja az <a href=\"{link}\">Új kiegészítő benyújtása</a> oldalt a kiegészítők beküldéséhez."
 
-#: src/olympia/devhub/views.py:131
+#: src/olympia/devhub/views.py:132
 msgid "Updated"
 msgstr "Frissítve"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
+#: src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:143
 msgid "Name"
 msgstr "Név"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:142
 msgid "Created"
 msgstr "Létrehozva"
 
-#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Letöltések"
 
-#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
+#: src/olympia/devhub/views.py:136 src/olympia/devhub/views.py:145
 msgid "Rating"
 msgstr "Értékelés"
 
-#: src/olympia/devhub/views.py:210
+#: src/olympia/devhub/views.py:211
 msgid "All My Add-ons"
 msgstr "Összes saját kiegészítő"
 
-#: src/olympia/devhub/views.py:238
+#: src/olympia/devhub/views.py:239
 msgid "All Activity"
 msgstr "Összes tevékenység"
 
-#: src/olympia/devhub/views.py:239
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Updates"
 msgstr "Kiegészítő frissítései"
 
-#: src/olympia/devhub/views.py:240
+#: src/olympia/devhub/views.py:241
 msgid "Add-on Status"
 msgstr "Kiegészítő állapota"
 
-#: src/olympia/devhub/views.py:241
+#: src/olympia/devhub/views.py:242
 msgid "User Collections"
 msgstr "Felhasználó gyűjteményei"
 
-#: src/olympia/devhub/views.py:242
+#: src/olympia/devhub/views.py:243
 msgid "User Reviews"
 msgstr "Felhasználói értékelések"
 
-#: src/olympia/devhub/views.py:390
+#: src/olympia/devhub/views.py:354
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "A kiegészítő nem törölhető. Inkább tiltsa le azt."
 
-#: src/olympia/devhub/views.py:401
+#: src/olympia/devhub/views.py:365
 msgid "Theme deleted."
 msgstr "A téma törölve."
 
-#: src/olympia/devhub/views.py:401
+#: src/olympia/devhub/views.py:365
 msgid "Add-on deleted."
 msgstr "A kiegészítő letörölve."
 
-#: src/olympia/devhub/views.py:407
+#: src/olympia/devhub/views.py:371
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "A webcím neve helytelen volt. A téma nem törlődött."
 
-#: src/olympia/devhub/views.py:409
+#: src/olympia/devhub/views.py:373
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "A webcím neve helytelen volt. A kiegészítő nem törlődött."
 
-#: src/olympia/devhub/views.py:451
+#: src/olympia/devhub/views.py:415
 msgid "Request for a new review of listing content acknowledged."
 msgstr "A listázási tartalomhoz kért új ellenőrzés kérése elfogadva."
 
-#: src/olympia/devhub/views.py:495
+#: src/olympia/devhub/views.py:459
 msgid "Invitation accepted."
 msgstr "Meghívó elfogadva."
 
-#: src/olympia/devhub/views.py:498
+#: src/olympia/devhub/views.py:462
 msgid "Invitation declined."
 msgstr "Meghívó elutasítva."
 
-#: src/olympia/devhub/views.py:566
+#: src/olympia/devhub/views.py:530
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "Megerősítő e-mail elküldve ide: {email}"
 
-#: src/olympia/devhub/views.py:583 src/olympia/devhub/views.py:1199
+#: src/olympia/devhub/views.py:547 src/olympia/devhub/views.py:1163
 msgid "Changes successfully saved."
 msgstr "A változások sikeresen elmentve."
 
-#: src/olympia/devhub/views.py:603
+#: src/olympia/devhub/views.py:567
 msgid "Validate Add-on"
 msgstr "Kiegészítő ellenőrzése"
 
-#: src/olympia/devhub/views.py:674
+#: src/olympia/devhub/views.py:638
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">A kiegészítő beküldéséhez adjon hozzá kétlépcsős hitelesítést a fiókjához.</a>"
 
-#: src/olympia/devhub/views.py:1054
+#: src/olympia/devhub/views.py:1018
 msgid "Icons must be either PNG or JPG."
 msgstr "Az ikonnak PNG-nek vagy JPG-nek kell lennie."
 
-#: src/olympia/devhub/views.py:1060
+#: src/olympia/devhub/views.py:1024
 msgid "Icons cannot be animated."
 msgstr "Az ikon nem lehet animált."
 
-#: src/olympia/devhub/views.py:1071
+#: src/olympia/devhub/views.py:1035
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Használjon %dMB méretnél kisebb képeket."
 
-#: src/olympia/devhub/views.py:1086
+#: src/olympia/devhub/views.py:1050
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "A képnek legalább {0} képpont szélesnek és {1} képpont magasnak kell lennie."
 
-#: src/olympia/devhub/views.py:1090
+#: src/olympia/devhub/views.py:1054
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "A kép méretarányának 4:3-asnak kell lennie."
 
-#: src/olympia/devhub/views.py:1098
+#: src/olympia/devhub/views.py:1062
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Az ikonnak legalább {0} képpont szélesnek és magasnak kell lennie."
 
-#: src/olympia/devhub/views.py:1103
+#: src/olympia/devhub/views.py:1067
 msgid "Icon must be square (same width and height)."
 msgstr "Az ikonnak négyzetesnek kell lennie (azonos szélességű és magasságú)."
 
-#: src/olympia/devhub/views.py:1109
+#: src/olympia/devhub/views.py:1073
 msgid "There was an error uploading your preview."
 msgstr "Hiba történt az előnézet feltöltésekor."
 
-#: src/olympia/devhub/views.py:1255
+#: src/olympia/devhub/views.py:1219
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
@@ -2290,130 +2304,130 @@ msgstr ""
 "A(z) %s kiegészítő legutóbbi jóváhagyott verzióját nem lehet törölni vagy letiltani, mert az előző verzió nem lett promotáltként elfogadva a(z) %s csoportban. Lépjen kapcsolatba az AMO "
 "adminisztrátorokkal, ha segítségre van szüksége."
 
-#: src/olympia/devhub/views.py:1262
+#: src/olympia/devhub/views.py:1226
 #, python-format
 msgid "Version %s disabled."
 msgstr "%s verzió letiltva."
 
-#: src/olympia/devhub/views.py:1266
+#: src/olympia/devhub/views.py:1230
 #, python-format
 msgid "Version %s deleted."
 msgstr "%s verzió törölve."
 
-#: src/olympia/devhub/views.py:1277
+#: src/olympia/devhub/views.py:1241
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "%s verzió újra engedélyezve."
 
-#: src/olympia/devhub/views.py:1293
+#: src/olympia/devhub/views.py:1257
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "Ezen feltöltés ellenőrzése sikertelen lett, és hiányozhatnak az értékelés teljes eredményei. A vizsgálat során legyen különösen figyelmes."
 
-#: src/olympia/devhub/views.py:1352
+#: src/olympia/devhub/views.py:1316
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Visszagörgetés beküldve. Értesítést fog kapni, ha jóváhagyták."
 
-#: src/olympia/devhub/views.py:1498
+#: src/olympia/devhub/views.py:1462
 msgid "Header area background"
 msgstr "A fejlécterület háttere"
 
-#: src/olympia/devhub/views.py:1500
+#: src/olympia/devhub/views.py:1464
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "A fejlécterület háttere, amely a fejléc azon részét érinti, amelyet nem fed le a fejléckép, vagy átlátszó. Leírófájl: frame."
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1472
 msgid "Header area text and icons"
 msgstr "Fejlécterület szövege és ikonjai"
 
-#: src/olympia/devhub/views.py:1510
+#: src/olympia/devhub/views.py:1474
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "A fejlécterületen megjelenített szöveg színe és ikonja, kivéve az aktív lapot. Leírófájl: tab_background_text."
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1481
 msgid "Toolbar area background"
 msgstr "Az eszköztárterület háttere"
 
-#: src/olympia/devhub/views.py:1519
+#: src/olympia/devhub/views.py:1483
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "A navigációs sáv, a könyvjelző eszköztár és az aktív lap háttérszíne.  Leírófájl mező:  toolbar."
 
-#: src/olympia/devhub/views.py:1526
+#: src/olympia/devhub/views.py:1490
 msgid "Toolbar area text and icons"
 msgstr "Az eszköztárterület szövege és ikonok"
 
-#: src/olympia/devhub/views.py:1528
+#: src/olympia/devhub/views.py:1492
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Az eszköztáron és aktív lapon található szöveg színe és ikonjai. Leírófájl mező: bookmark_text."
 
-#: src/olympia/devhub/views.py:1535
+#: src/olympia/devhub/views.py:1499
 msgid "Toolbar field area background"
 msgstr "Az eszköztár mezőterületének háttere"
 
-#: src/olympia/devhub/views.py:1537
+#: src/olympia/devhub/views.py:1501
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Az eszköztáron található mezők, mint a keresősáv, háttere. Leírófájl mező: toolbar_field."
 
-#: src/olympia/devhub/views.py:1544
+#: src/olympia/devhub/views.py:1508
 msgid "Toolbar field area text"
 msgstr "Az eszköztár mezőterületének szövege"
 
-#: src/olympia/devhub/views.py:1546
+#: src/olympia/devhub/views.py:1510
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Az eszköztáron található mezők, mint a keresősáv, szövegszíne. Leírófájl mező: toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1554
+#: src/olympia/devhub/views.py:1518
 msgid "Tab highlight"
 msgstr "Lapfül kiemelése"
 
-#: src/olympia/devhub/views.py:1556
+#: src/olympia/devhub/views.py:1520
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Az aktív lap kiemelési színe. A Firefox 89-től kezdve szegélyként van megvalósítva, régebbi Firefoxokban pedig egy a lapfül feletti vonalként. Leírófájl mező:  tab_line."
 
-#: src/olympia/devhub/views.py:1659
+#: src/olympia/devhub/views.py:1623
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "A kiegészítőfeltöltések ideiglenesen nem érhetők el"
 
-#: src/olympia/devhub/views.py:2031
+#: src/olympia/devhub/views.py:1995
 msgid "Review requested."
 msgstr "Ellenőrzés kérve."
 
-#: src/olympia/devhub/views.py:2033
+#: src/olympia/devhub/views.py:1997
 msgid "You must provide further details to proceed."
 msgstr "További részleteket kell megadnia a továbblépéshez."
 
-#: src/olympia/devhub/views.py:2140
+#: src/olympia/devhub/views.py:2104
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Hamarosan egy megerősítő hivatkozás lesz küldve az e-mail-címére."
 
-#: src/olympia/devhub/views.py:2155
+#: src/olympia/devhub/views.py:2119
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Régi hitelesítő adatait visszavonták, és már nem érvényesek."
 
-#: src/olympia/devhub/views.py:2166
+#: src/olympia/devhub/views.py:2130
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Új API hitelesítő adatok lettek létrehozva, és alul jelennek meg. Másolja le a JWT-titkot, mert az soha többé nem jelenik meg."
 
-#: src/olympia/devhub/views.py:2194
+#: src/olympia/devhub/views.py:2158
 msgid "New API key created"
 msgstr "Új API kulcs létrehozva"
 
-#: src/olympia/devhub/views.py:2205
+#: src/olympia/devhub/views.py:2169
 msgid "API key revoked"
 msgstr "API kulcs visszavonva"
 
-#: src/olympia/devhub/views.py:2265
+#: src/olympia/devhub/views.py:2229
 msgid "Verify email"
 msgstr "E-mail-cím ellenőrzése"
 
-#: src/olympia/devhub/views.py:2267
+#: src/olympia/devhub/views.py:2231
 msgid "Send another email"
 msgstr "Másik e-mail küldése"
 
-#: src/olympia/devhub/views.py:2300
+#: src/olympia/devhub/views.py:2264
 msgid "Your email has been verified"
 msgstr "Az e-mail-címe ellenőrizve lett"
 
-#: src/olympia/devhub/views.py:2366
+#: src/olympia/devhub/views.py:2330
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "A támogatási kérése beküldve. Hamarosan kapcsolatba lépünk."
 
@@ -2511,8 +2525,8 @@ msgstr "Támogatás kérése a kiegészítőkhöz és a témákhoz"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Használja ezt az űrlapot a fiókjával, irányelv-megfeleléssel, és más problémákkal kapcsolatos támogatásért. Minél több részletet oszt meg, annál könnyebben tudunk segíteni. A "
 "kiegészítőértékelésekkel kapcsolatos kérdések esetén nézze meg a kiegészítői verzióelőzményeit. A lehető leghamarabb kapcsolatba lépünk Önnel."
@@ -2980,8 +2994,8 @@ msgstr "E-mail"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Ha szeretne megjeleníteni egy e-mail-címet a támogatási kérdések fogadására, azt itt adja meg. Ha különböző címek tartoznak egyes nyelvekhez, ezen mező többszöri fordítása hozzáadható. Ez csak "
 "listázott kiegészítőkre érvényes."
@@ -3042,11 +3056,11 @@ msgstr "Faliújság"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
-"A faliújság a szerkesztőnek szánt, kiegészítőre vonatkozó információk helye, verziótól függetlenül. Használja a kiegészítő tesztelhetőségnek leírására vagy hasznos kiegészítő információk megadására."
-" Ezt a faliújságot az ellenőrzők is szerkeszthetik."
+"A faliújság a szerkesztőnek szánt, kiegészítőre vonatkozó információk helye, verziótól függetlenül. Használja a kiegészítő tesztelhetőségnek leírására vagy hasznos kiegészítő információk "
+"megadására. Ezt a faliújságot az ellenőrzők is szerkeszthetik."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
 #, python-brace-format
@@ -3062,8 +3076,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"Töltsön fel egy ikont kiegészítőjéhez vagy használjon egyet a mieink közül. Ez az ikon szinte mindenhol megjelenik a kiegészítő mellett. A feltöltött kép a következő kiterjesztésű lehet: .png, .jpg."
-" Csak listázott kiegészítőkre érvényes."
+"Töltsön fel egy ikont kiegészítőjéhez vagy használjon egyet a mieink közül. Ez az ikon szinte mindenhol megjelenik a kiegészítő mellett. A feltöltött kép a következő kiterjesztésű lehet: .png, ."
+"jpg. Csak listázott kiegészítőkre érvényes."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3441,8 +3455,8 @@ msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
 msgstr ""
-"Olvassa el az összeállítási folyamatokról és a forráskód beküldésről szóló %(policy_requirements_open)sházirend-követelményeinket%(policy_requirements_close)s. Ha a beküldéséhez forráskód szükséges,"
-" akkor olyan lépésről lépesre szóló összeállítási utasításokat kell megadnia, akár a forráskódcsomagon belül, akár itt, amellyel a kód pontos másolata jön létre."
+"Olvassa el az összeállítási folyamatokról és a forráskód beküldésről szóló %(policy_requirements_open)sházirend-követelményeinket%(policy_requirements_close)s. Ha a beküldéséhez forráskód "
+"szükséges, akkor olyan lépésről lépesre szóló összeállítási utasításokat kell megadnia, akár a forráskódcsomagon belül, akár itt, amellyel a kód pontos másolata jön létre."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3508,8 +3522,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Kész van! ✨ Megerősítő e-mailt fog kapni, ha a verzió közzétételre került a(z) %(site_domain)s oldalon. Vegye figyelembe, hogy akár 24 óra is eltelhet a közzétételig, vagy még több, ha kiválasztják "
-"kézi ellenőrzésre. Ha 24 óra múlva sem látja a levelet, akkor nézze meg a levélszemét mappáját."
+"Kész van! ✨ Megerősítő e-mailt fog kapni, ha a verzió közzétételre került a(z) %(site_domain)s oldalon. Vegye figyelembe, hogy akár 24 óra is eltelhet a közzétételig, vagy még több, ha "
+"kiválasztják kézi ellenőrzésre. Ha 24 óra múlva sem látja a levelet, akkor nézze meg a levélszemét mappáját."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3603,7 +3617,8 @@ msgstr "Operációs rendszer és összeállítási környezeti követelmények."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:59
 msgid "The required version and installation instructions of any programs used in the build process (such as <span class=\"tech-emphasis\">node</span> and <span class=\"tech-emphasis\">npm</span>)."
-msgstr "Az összeállítási folyamat során szükséges programok verziói és telepítési leírásai (például: használt <span class=\"tech-emphasis\">node</span> és <span class=\"tech-emphasis\">npm</span> verziók)."
+msgstr ""
+"Az összeállítási folyamat során szükséges programok verziói és telepítési leírásai (például: használt <span class=\"tech-emphasis\">node</span> és <span class=\"tech-emphasis\">npm</span> verziók)."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/source.html:62
 msgid "Source files (aside from open-source third party libraries) cannot be transpiled, concatenated, minified, or otherwise machine-generated."
@@ -3740,8 +3755,8 @@ msgstr "Vissza"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Hogy hitelesített hívásokat hajtson végre az <a %(a_attrs)s href=\"%(docs_url)s\">API-n</a> keresztül külső fogyasztóként, egy <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Tokenre (JWT)</a> van "
 "szüksége minden egyes kérés <code>Authorization</code> fejlécében."
@@ -3862,20 +3877,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Tisztelt kiegészítőfejlesztő!\n"
 "\n"
-"Azonnal szeretnénk értesíteni: észrevettük, hogy a titkos AMO API hitelesítő adatai szerepelnek egy az addons.mozilla.org-ra beküldött kiegészítőben. A fiók és a kiegészítők biztonsága érdekében visszavontuk az érintett hitelesítő adatokat. Nincs semmi baj az Ön oldalán – ez csak néha megtörténik, és azért vagyunk itt, hogy segítsünk visszatérnie a normális kerékvágásba.\n"
+"Azonnal szeretnénk értesíteni: észrevettük, hogy a titkos AMO API hitelesítő adatai szerepelnek egy az addons.mozilla.org-ra beküldött kiegészítőben. A fiók és a kiegészítők biztonsága érdekében "
+"visszavontuk az érintett hitelesítő adatokat. Nincs semmi baj az Ön oldalán – ez csak néha megtörténik, és azért vagyunk itt, hogy segítsünk visszatérnie a normális kerékvágásba.\n"
 "Bármikor előállíthat friss API hitelesítési adatokat itt: %(api_keys_url)s\n"
 "\n"
-"Hogy a hitelesítési adatai biztonságban maradjanak, a legjobb, ha bizalmasan kezeli őket, és kerüli a nyilvános tárolóban, kiegészítőben vagy más nyilvános helyen való tárolásukat. Ha csak egy pillanata van, érdemes átnézni a kódtárolóit és kiegészítőit, hogy eltávolítson minden hivatkozást az AMO hitelesítő adataira.\n"
+"Hogy a hitelesítési adatai biztonságban maradjanak, a legjobb, ha bizalmasan kezeli őket, és kerüli a nyilvános tárolóban, kiegészítőben vagy más nyilvános helyen való tárolásukat. Ha csak egy "
+"pillanata van, érdemes átnézni a kódtárolóit és kiegészítőit, hogy eltávolítson minden hivatkozást az AMO hitelesítő adataira.\n"
 "\n"
 "Köszönjük,\n"
 "A Mozilla kiegészítők csapata"
@@ -4067,11 +4086,11 @@ msgstr "Firefox for Android kompatibilitás"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Tesztelte a kiegészítőt, hogy a várt módon működik a Firefox for Androidon? Ha nem, akkor beküldés előtt tekintse meg a <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Kiegészítők fejlesztése az androidos Firefoxra</a> leírást."
+"Tesztelte a kiegészítőt, hogy a várt módon működik a Firefox for Androidon? Ha nem, akkor beküldés előtt tekintse meg a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Kiegészítők fejlesztése az androidos Firefoxra</a> leírást."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4237,8 +4256,8 @@ msgstr "Készítse el a legjobb kiegészítőket és témákat"
 #: src/olympia/devhub/templates/devhub/new-landing/components/banner.html:7 src/olympia/devhub/templates/devhub/new-landing/components/overview.html:5
 msgid "Whether you’re new to extension development, polishing up or porting an existing extension or theme, or creating a custom enterprise solution, we’ve got the resources to support you."
 msgstr ""
-"Függetlenül attól, hogy csak most kezdte el a kiegészítőfejlesztést, egy meglévő kiegészítőt vagy témát csiszolt tovább vagy portol, vagy egyéni vállalati megoldásokat hoz létre, nálunk elérhetők az"
-" Önt támogató erőforrások."
+"Függetlenül attól, hogy csak most kezdte el a kiegészítőfejlesztést, egy meglévő kiegészítőt vagy témát csiszolt tovább vagy portol, vagy egyéni vállalati megoldásokat hoz létre, nálunk elérhetők "
+"az Önt támogató erőforrások."
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/banner.html:13
 msgid "Visit the Firefox Extension Workshop"
@@ -7204,8 +7223,8 @@ msgstr "A használt szoftvere vagy eszköze nem engedélyezett a beküldésekhez
 
 #: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Kezdés előtt olvassa el és fogadja el a Firefox kiegészítő-terjesztési megállapodásunkat, valamint az értékelési irányelveinket és szabályzatunkat. A Firefox kiegészítő-terjesztési megállapodás "
 "hivatkozik az adatvédelmi nyilatkozatra is, amely elmagyarázza, hogyan kezeljük az adatait."
@@ -7311,7 +7330,8 @@ msgid ""
 msgstr ""
 "Üdvözöljük %(author_name)s!\n"
 "\n"
-"Jó hír, meghívták, hogy a(z) %(addon_name)s szerzője legyen a(z) %(domain)s oldalon. Az elfogadás lehetővé teszi a kiegészítő szerkesztését, és a neve megjelenhet a szerzők listájában a weboldalon.\n"
+"Jó hír, meghívták, hogy a(z) %(addon_name)s szerzője legyen a(z) %(domain)s oldalon. Az elfogadás lehetővé teszi a kiegészítő szerkesztését, és a neve megjelenhet a szerzők listájában a "
+"weboldalon.\n"
 "\n"
 "Ha szeretné elfogadni a meghívást, kattintson az alábbi hivatkozásra:\n"
 "\n"
@@ -7349,7 +7369,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7359,7 +7380,8 @@ msgid ""
 msgstr ""
 "Üdvözöljük!\n"
 "\n"
-"Ezt az üzenetet azért kapja, met a(z) %(name)s felhasználói fiókját a(z) %(site_url)s oldalon törölték. Ha nemrég törölte Mozilla-fiókját, akkor ez automatikusan történhetett, a folyamat részeként.\n"
+"Ezt az üzenetet azért kapja, met a(z) %(name)s felhasználói fiókját a(z) %(site_url)s oldalon törölték. Ha nemrég törölte Mozilla-fiókját, akkor ez automatikusan történhetett, a folyamat "
+"részeként.\n"
 "\n"
 "Köszönjük, hogy része volt a Firefox kiegészítők közösségének. Ha úgy gondolja, hogy ez hiba volt, vagy kérdése van, lépjen velünk kapcsolatba.\n"
 "\n"
