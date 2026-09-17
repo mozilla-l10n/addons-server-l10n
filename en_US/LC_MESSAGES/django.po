@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-16 15:25+0000\n"
+"POT-Creation-Date: 2026-09-17 11:05+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -42,7 +42,7 @@ msgstr "Please explain why you believe that this decision was made in error, and
 msgid "User profile"
 msgstr "User profile"
 
-#: src/olympia/abuse/models.py:1582
+#: src/olympia/abuse/models.py:1584
 #, python-brace-format
 msgid "\"{}\" for {}"
 msgstr "\"{}\" for {}"
