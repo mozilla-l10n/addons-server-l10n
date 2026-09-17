@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  messages.pootle\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-16 15:25+0000\n"
+"POT-Creation-Date: 2026-09-17 11:05+0000\n"
 "PO-Revision-Date: 2013-11-07 07:24+0000\n"
 "Last-Translator: Julen <julenx@gmail.com>\n"
 "Language-Team: librezale@librezale.org\n"
@@ -43,7 +43,7 @@ msgstr ""
 msgid "User profile"
 msgstr ""
 
-#: src/olympia/abuse/models.py:1582
+#: src/olympia/abuse/models.py:1584
 #, python-brace-format
 msgid "\"{}\" for {}"
 msgstr ""
