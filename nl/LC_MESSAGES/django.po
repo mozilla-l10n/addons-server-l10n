@@ -6130,7 +6130,7 @@ msgstr "Verwijder afleidingen, wijzig weergaveopties, wijzig afspeelsnelheid en 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr "Werkt uitstekend voor video, audio en streaming inhoud op de meeste websites."
+msgstr "Werkt op de meeste websites uitstekend voor video-, audio- en streaminginhoud."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127

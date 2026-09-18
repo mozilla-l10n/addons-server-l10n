@@ -6133,12 +6133,12 @@ msgstr "Smyt ôfliedingen, wizigje werjefteopsjes, wizigje de ôfspylsnelheid en
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Wurket op de measte websites geweldich foar fideo-, audio- en streamingynhâld."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Tsientallen funksjes om YouTube foar jo te wurkje te litten. Ferwiderje ôfliedende reklame, wizigje de fisuele yndieling fan YouTube, pas de ôfspielsnelheid, folumeferheging en mear oan."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -6164,7 +6164,7 @@ msgstr "YouTube-oanpassingen"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Reddit-útwreidingen"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
@@ -6610,7 +6610,7 @@ msgstr "Jo kinne net mear beoardielingen foar deselde ferzje fan in add-on skriu
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Unjildich label [{flag}] – moat der ien fan [{flags}] wêze"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6652,7 +6652,7 @@ msgstr "Bewarje"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Unjildige kombinaasje fan parameters ‘{param1}’ en ‘{param2}’."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -7232,7 +7232,7 @@ msgstr "Brûkersnotifikaasjes"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Ferifiearje jo e-mailadres ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
