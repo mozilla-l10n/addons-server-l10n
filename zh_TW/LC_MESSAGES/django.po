@@ -5884,7 +5884,7 @@ msgstr "自訂 YouTube 以符合您的需求。"
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1028
 msgid "Delete browsing data directly from the browser toolbar."
-msgstr "直接從瀏覽器工具列刪除上網資料。"
+msgstr "直接從瀏覽器工具列刪除瀏覽資料。"
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1031
