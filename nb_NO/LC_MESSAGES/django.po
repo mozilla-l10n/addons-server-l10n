@@ -229,7 +229,7 @@ msgstr "Bilder kan ikke være animerte."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr "Please use images smaller than {}MB."
+msgstr "Bruk bilder som er mindre enn {} MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -6526,7 +6526,7 @@ msgstr "Du kan ikke legge igjen mer enn én omtale for den samme versjonen av et
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Ugyldig flagg [{flag}] – må være ett av [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6568,7 +6568,7 @@ msgstr "Lagre"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Ugyldig kombinasjon av parameterne «{param1}» og «{param2}»."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
