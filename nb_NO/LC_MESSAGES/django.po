@@ -229,7 +229,7 @@ msgstr "Bilder kan ikke være animerte."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Please use images smaller than {}MB."
 
 #: src/olympia/accounts/views.py:208
 msgid "Need help?"
@@ -337,7 +337,7 @@ msgstr "Bilder må være mindre enn %d MB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Ugyldig parameter «{}»."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -7148,7 +7148,7 @@ msgstr "Brukervarsler"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Bekreft din e-postadresse ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"

@@ -6578,11 +6578,11 @@ msgstr "Nieprawidłowa kombinacja parametrów „{param1}” i „{param2}”."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
-msgstr ""
+msgstr "Funkcja Return To AMO jest obecnie wyłączona"
 
 #: src/olympia/search/filters.py:287
 msgid "Invalid Return To AMO guid (not in base64url format?)"
-msgstr ""
+msgstr "Nieprawidłowy identyfikator GUID funkcji Return To AMO (nie jest w formacie base64url?)"
 
 #: src/olympia/search/filters.py:941
 msgid "Maximum query length exceeded."
@@ -7154,7 +7154,7 @@ msgstr "Powiadomienia użytkownika"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Potwierdź swój adres e-mail ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
