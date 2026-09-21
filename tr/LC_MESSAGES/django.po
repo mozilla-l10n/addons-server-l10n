@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-21 15:00+0000\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -116,7 +119,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -125,7 +129,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -134,14 +139,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -150,7 +156,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -159,7 +166,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -205,15 +213,15 @@ msgstr ""
 msgid "No links are allowed."
 msgstr "Bağlantılara izin verilmez."
 
-#: src/olympia/accounts/serializers.py:170
+#: src/olympia/accounts/serializers.py:170 src/olympia/devhub/serializers.py:38
 msgid "This display name cannot be used."
 msgstr "Bu görünen ad kullanılamaz."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1020
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1019
 msgid "Images must be either PNG or JPG."
 msgstr "Resimler PNG veya JPG olmalıdır."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1026
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1025
 msgid "Images cannot be animated."
 msgstr "Resimler hareketli olamaz."
 
@@ -506,7 +514,7 @@ msgstr "Yeni tema gönder"
 msgid "Developer Hub"
 msgstr "Geliştirici Merkezi"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2146
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2145
 msgid "Manage API Keys"
 msgstr "API Anahtarlarını Yönet"
 
@@ -586,8 +594,8 @@ msgstr ""
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
 msgstr ""
-"Tarayıcınızı 'Referer' üst bilgilerini devre dışı bırakacak şekilde yapılandırdıysanız, lütfen en azından bu site için veya HTTPS bağlantıları için veya 'same-origin' istekleri için bu üst bilgileri"
-" yeniden etkinleştirin."
+"Tarayıcınızı 'Referer' üst bilgilerini devre dışı bırakacak şekilde yapılandırdıysanız, lütfen en azından bu site için veya HTTPS bağlantıları için veya 'same-origin' istekleri için bu üst "
+"bilgileri yeniden etkinleştirin."
 
 #: src/olympia/amo/templates/amo/403.html:36
 msgid ""
@@ -611,10 +619,10 @@ msgid ""
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
 "<h1>Üzgünüz, aradığınız sayfayı bulamadık.</h1><p>Talep ettiğiniz sayfa veya dosya sitemizde bulunamadı. Eski bir bağlantıya tıklamış veya adresi yanlış yazmış olabilirsiniz.</p><ul><li>Adresi elle "
-"yazdıysanız lütfen tekrar kontrol edin.</li><li>Başka bir sayfadaki bağlantıya tıkladıysanız lütfen %(open_bug_link)ssorunu bildirin%(close_bug_link)s. Hangi sayfadan geldiğinizi ve neyi aradığınızı"
-" yazarsanız sorunu düzeltmek için elimizden geleni yaparız.</li></ul><p>İsterseniz, web sitemizdeki popüler sayfalara da göz atabilirsiniz.</p><ul><li><a href=\"%(rec)s\">Öne çıkan eklentiler</a> "
-"listesiyle mi ilgileniyorsunuz?</li><li><a href=\"%(search)s\">Eklenti araması</a> yapmak mı istiyorsunuz? <a href=\"%(search)s\">Arama sayfasına</a> gidebilir veya üstteki arama kutusunu "
-"kullanabilirsiniz.</li><li>Baştan başlamak isterseniz <a href=\"%(home)s\">eklenti ana sayfasına</a> gitmeniz yeterlidir.</li></ul>"
+"yazdıysanız lütfen tekrar kontrol edin.</li><li>Başka bir sayfadaki bağlantıya tıkladıysanız lütfen %(open_bug_link)ssorunu bildirin%(close_bug_link)s. Hangi sayfadan geldiğinizi ve neyi "
+"aradığınızı yazarsanız sorunu düzeltmek için elimizden geleni yaparız.</li></ul><p>İsterseniz, web sitemizdeki popüler sayfalara da göz atabilirsiniz.</p><ul><li><a href=\"%(rec)s\">Öne çıkan "
+"eklentiler</a> listesiyle mi ilgileniyorsunuz?</li><li><a href=\"%(search)s\">Eklenti araması</a> yapmak mı istiyorsunuz? <a href=\"%(search)s\">Arama sayfasına</a> gidebilir veya üstteki arama "
+"kutusunu kullanabilirsiniz.</li><li>Baştan başlamak isterseniz <a href=\"%(home)s\">eklenti ana sayfasına</a> gitmeniz yeterlidir.</li></ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -626,8 +634,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>Bir hata oluştu.</h1> <p>Yakında bu hatayı düzelteceğiz.</p> <p>Sayfayı yenilemeyi deneyebilir veya <a href=\"%(home)s\">Eklentiler Ana Sayfası</a>'na dönebilirsiniz. Ayrıca <a "
-"href=\"https://github.com/mozilla/addons/issues/new\">sorunu rapor edip</a> bu sayfaya nasıl geldiğiniz anlatarak sorunu gidermemize yardım edebilirsiniz.</p>"
+"<h1>Bir hata oluştu.</h1> <p>Yakında bu hatayı düzelteceğiz.</p> <p>Sayfayı yenilemeyi deneyebilir veya <a href=\"%(home)s\">Eklentiler Ana Sayfası</a>'na dönebilirsiniz. Ayrıca <a href=\"https://"
+"github.com/mozilla/addons/issues/new\">sorunu rapor edip</a> bu sayfaya nasıl geldiğiniz anlatarak sorunu gidermemize yardım edebilirsiniz.</p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1537,8 +1545,8 @@ msgstr "Gizlilik ve Güvenlik"
 #: src/olympia/constants/categories.py:141
 msgid "Download Firefox extensions to browse privately and securely. This category includes extensions to block annoying ads, prevent tracking, manage redirects, and more."
 msgstr ""
-"Web'de gizlice ve güvenle gezinmenizi sağlayacak Firefox uzantılarını indirin. Bu kategoride reklamları ve sinsi takip kodlarını engelleyen, yönlendirmeleri yöneten ve daha fazlasını yapan uzantılar"
-" yer alıyor."
+"Web'de gizlice ve güvenle gezinmenizi sağlayacak Firefox uzantılarını indirin. Bu kategoride reklamları ve sinsi takip kodlarını engelleyen, yönlendirmeleri yöneten ve daha fazlasını yapan "
+"uzantılar yer alıyor."
 
 #: src/olympia/constants/categories.py:149
 msgid "Search Tools"
@@ -1580,7 +1588,7 @@ msgstr "Web Geliştirme"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Web geliştirme araçlarını içeren Firefox uzantılarını indirin. Bu kategoride GitHub, user agent değiştirme, çerez yönetimi ve daha fazlasını içeren uzantılar bulacaksınız."
 
-#: src/olympia/constants/categories.py:195 src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:9
+#: src/olympia/constants/categories.py:195 src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:14
 msgid "Other"
 msgstr "Diğer"
 
@@ -2083,11 +2091,11 @@ msgstr "Bize sorunla ilgili daha fazla bilgi verin"
 msgid "Describe the issue"
 msgstr "Sorunu açıklayın"
 
-#: src/olympia/devhub/serializers.py:7
+#: src/olympia/devhub/serializers.py:12
 msgid "Technical support for making your add-on compliant"
 msgstr "Eklentinizi uyumlu hale getirmek için teknik destek"
 
-#: src/olympia/devhub/serializers.py:8
+#: src/olympia/devhub/serializers.py:13
 msgid "Issue with addons.mozilla.org"
 msgstr "addons.mozilla.org ile ilgili bir sorun"
 
@@ -2107,147 +2115,147 @@ msgstr "Gönderilen dosyada bir ortak yazarın geliştirici API anahtarı bulund
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Mozilla Güvenlik Bildirimi: AMO API kimlik bilgileriniz iptal edildi"
 
-#: src/olympia/devhub/utils.py:90
+#: src/olympia/devhub/utils.py:92
 #, python-format
 msgid "Validation generated too many errors/warnings so %s messages were truncated. After addressing the visible messages, you'll be able to see the others."
 msgstr "Doğrulama çok fazla hata/uyarı üretti, %s iletileri kesildi. Görünen iletileri ele aldıktan sonra, diğerlerini görebilirsiniz."
 
-#: src/olympia/devhub/utils.py:211
+#: src/olympia/devhub/utils.py:213
 #, python-brace-format
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr "Bu eklenti bir tema değil. Uzantıları göndermek için <a href=\"{link}\">Yeni Eklenti Gönder</a> sayfasını kullanın."
 
-#: src/olympia/devhub/views.py:132
+#: src/olympia/devhub/views.py:131
 msgid "Updated"
 msgstr "Güncelleme"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:143
+#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
 msgid "Name"
 msgstr "İsim"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:142
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
 msgid "Created"
 msgstr "Oluşturma"
 
-#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "İndirme"
 
-#: src/olympia/devhub/views.py:136 src/olympia/devhub/views.py:145
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
 msgid "Rating"
 msgstr "Puan"
 
-#: src/olympia/devhub/views.py:211
+#: src/olympia/devhub/views.py:210
 msgid "All My Add-ons"
 msgstr "Tüm eklentilerim"
 
-#: src/olympia/devhub/views.py:239
+#: src/olympia/devhub/views.py:238
 msgid "All Activity"
 msgstr "Tüm Etkinlikler"
 
-#: src/olympia/devhub/views.py:240
+#: src/olympia/devhub/views.py:239
 msgid "Add-on Updates"
 msgstr "Eklenti güncellemeleri"
 
-#: src/olympia/devhub/views.py:241
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Status"
 msgstr "Eklenti durumu"
 
-#: src/olympia/devhub/views.py:242
+#: src/olympia/devhub/views.py:241
 msgid "User Collections"
 msgstr "Kullanıcı koleksiyonları"
 
-#: src/olympia/devhub/views.py:243
+#: src/olympia/devhub/views.py:242
 msgid "User Reviews"
 msgstr "Kullanıcı incelemeleri"
 
-#: src/olympia/devhub/views.py:354
+#: src/olympia/devhub/views.py:353
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Eklenti silinemiyor. Bunun yerine bu eklentiyi devre dışı bırakın."
 
-#: src/olympia/devhub/views.py:365
+#: src/olympia/devhub/views.py:364
 msgid "Theme deleted."
 msgstr "Tema silindi."
 
-#: src/olympia/devhub/views.py:365
+#: src/olympia/devhub/views.py:364
 msgid "Add-on deleted."
 msgstr "Eklenti silindi."
 
-#: src/olympia/devhub/views.py:371
+#: src/olympia/devhub/views.py:370
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "URL adı yanlış. Tema silinmedi."
 
-#: src/olympia/devhub/views.py:373
+#: src/olympia/devhub/views.py:372
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "URL adı yanlış. Eklenti silinmedi."
 
-#: src/olympia/devhub/views.py:415
+#: src/olympia/devhub/views.py:414
 msgid "Request for a new review of listing content acknowledged."
 msgstr "Listeleme içeriği için yeni inceleme talebiniz alınmıştır."
 
-#: src/olympia/devhub/views.py:459
+#: src/olympia/devhub/views.py:458
 msgid "Invitation accepted."
 msgstr "Davet kabul edildi."
 
-#: src/olympia/devhub/views.py:462
+#: src/olympia/devhub/views.py:461
 msgid "Invitation declined."
 msgstr "Davet reddedildi."
 
-#: src/olympia/devhub/views.py:530
+#: src/olympia/devhub/views.py:529
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "{email} adresine onay e-postası gönderildi"
 
-#: src/olympia/devhub/views.py:547 src/olympia/devhub/views.py:1163
+#: src/olympia/devhub/views.py:546 src/olympia/devhub/views.py:1162
 msgid "Changes successfully saved."
 msgstr "Değişiklikler başarıyla kaydedildi."
 
-#: src/olympia/devhub/views.py:567
+#: src/olympia/devhub/views.py:566
 msgid "Validate Add-on"
 msgstr "Eklentiyi doğrula"
 
-#: src/olympia/devhub/views.py:638
+#: src/olympia/devhub/views.py:637
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">Uzantı gönderebilmek için lütfen hesabınıza iki aşamalı kimlik doğrulama ekleyin.</a>"
 
-#: src/olympia/devhub/views.py:1018
+#: src/olympia/devhub/views.py:1017
 msgid "Icons must be either PNG or JPG."
 msgstr "Simgeler PNG veya JPG olmalıdır."
 
-#: src/olympia/devhub/views.py:1024
+#: src/olympia/devhub/views.py:1023
 msgid "Icons cannot be animated."
 msgstr "Simgeler hareketli olamaz."
 
-#: src/olympia/devhub/views.py:1035
+#: src/olympia/devhub/views.py:1034
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Lütfen %d MB'den küçük resimler kullanın."
 
-#: src/olympia/devhub/views.py:1050
+#: src/olympia/devhub/views.py:1049
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Resim en az {0} piksel eninde ve {1} piksel boyunda olmalıdır."
 
-#: src/olympia/devhub/views.py:1054
+#: src/olympia/devhub/views.py:1053
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Görüntü boyutları 4:3 oranında olmalıdır."
 
-#: src/olympia/devhub/views.py:1062
+#: src/olympia/devhub/views.py:1061
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Simge en az {0} piksel eninde ve boyunda olmalıdır."
 
-#: src/olympia/devhub/views.py:1067
+#: src/olympia/devhub/views.py:1066
 msgid "Icon must be square (same width and height)."
 msgstr "Simge kare olmalıdır (aynı genişlik ve yükseklik)."
 
-#: src/olympia/devhub/views.py:1073
+#: src/olympia/devhub/views.py:1072
 msgid "There was an error uploading your preview."
 msgstr "Ön izlemenizi yüklerken bir hata oluştu."
 
-#: src/olympia/devhub/views.py:1219
+#: src/olympia/devhub/views.py:1218
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
@@ -2255,130 +2263,130 @@ msgstr ""
 "Bu %s eklentisinin en son onaylanmış sürümü silinemez veya devre dışı bırakılamaz çünkü önceki sürüm %s tanıtımı için onaylanmamış. Bu konuda yardıma ihtiyacınız varsa lütfen AMO yöneticileri ile "
 "iletişime geçin."
 
-#: src/olympia/devhub/views.py:1226
+#: src/olympia/devhub/views.py:1225
 #, python-format
 msgid "Version %s disabled."
 msgstr "%s sürümü devre dışı bırakıldı."
 
-#: src/olympia/devhub/views.py:1230
+#: src/olympia/devhub/views.py:1229
 #, python-format
 msgid "Version %s deleted."
 msgstr "%s sürümü silindi."
 
-#: src/olympia/devhub/views.py:1241
+#: src/olympia/devhub/views.py:1240
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Sürüm %s yeniden etkinleştirildi."
 
-#: src/olympia/devhub/views.py:1257
+#: src/olympia/devhub/views.py:1256
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "Bu yükleme doğrulamadan geçemedi. Tam doğrulama sonuçları eksik olabilir. Lütfen gözden geçirirken dikkatli olun."
 
-#: src/olympia/devhub/views.py:1316
+#: src/olympia/devhub/views.py:1315
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Geri döndürme gönderildi. Onaylandığında bilgilendirileceksiniz"
 
-#: src/olympia/devhub/views.py:1462
+#: src/olympia/devhub/views.py:1461
 msgid "Header area background"
 msgstr "Başlık alanı arka planı"
 
-#: src/olympia/devhub/views.py:1464
+#: src/olympia/devhub/views.py:1463
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "Header alanının arka plan rengi. Header'ın örtülmeyen kısmında veya header görselinin arka planında görünür. Manifest alanı:  frame."
 
-#: src/olympia/devhub/views.py:1472
+#: src/olympia/devhub/views.py:1471
 msgid "Header area text and icons"
 msgstr "Başlık alanı metin ve simgeleri"
 
-#: src/olympia/devhub/views.py:1474
+#: src/olympia/devhub/views.py:1473
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "Üst bilgi alanındaki metin ve simgelerin rengi (etkin sekme hariç). Manifest alanı:  tab_background_text."
 
-#: src/olympia/devhub/views.py:1481
+#: src/olympia/devhub/views.py:1480
 msgid "Toolbar area background"
 msgstr "Araç çubuğu alanı arka planı"
 
-#: src/olympia/devhub/views.py:1483
+#: src/olympia/devhub/views.py:1482
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "Gezinme çubuğunun, yer imleri çubuğunun ve seçili sekmenin arka plan rengi.  Manifest alanı:  araç çubuğu."
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1489
 msgid "Toolbar area text and icons"
 msgstr "Araç çubuğu alanı metni ve simgeleri"
 
-#: src/olympia/devhub/views.py:1492
+#: src/olympia/devhub/views.py:1491
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "Araç çubuğundaki ve etkin sekmedeki metnin ve simgelerin rengi. Manifest alanı:  bookmark_text."
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1498
 msgid "Toolbar field area background"
 msgstr "Araç çubuğu alanı arka planı"
 
-#: src/olympia/devhub/views.py:1501
+#: src/olympia/devhub/views.py:1500
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "Araç çubuğundaki alanlar (örn. adres çubuğu) için arka plan rengi. Manifest alanı:  toolbar_field."
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1507
 msgid "Toolbar field area text"
 msgstr "Araç çubuğu alan metni"
 
-#: src/olympia/devhub/views.py:1510
+#: src/olympia/devhub/views.py:1509
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "Araç çubuğundaki alanlar (örn. adres çubuğu) için metin rengi. Manifest alanı:  toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1518
+#: src/olympia/devhub/views.py:1517
 msgid "Tab highlight"
 msgstr "Sekme vurgulama"
 
-#: src/olympia/devhub/views.py:1520
+#: src/olympia/devhub/views.py:1519
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "Etkin sekmenin vurgu rengi. Firefox 89+'da sekmenin etrafında bir kenarlık ve eski Firefox'larda sekmenin üzerinde bir çizgi olarak uygulanır. Manifest alanı:  tab_line."
 
-#: src/olympia/devhub/views.py:1623
+#: src/olympia/devhub/views.py:1622
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Eklenti gönderme geçici olarak kullanılamıyor"
 
-#: src/olympia/devhub/views.py:1995
+#: src/olympia/devhub/views.py:1994
 msgid "Review requested."
 msgstr "İnceleme talep edildi."
 
-#: src/olympia/devhub/views.py:1997
+#: src/olympia/devhub/views.py:1996
 msgid "You must provide further details to proceed."
 msgstr "Devam etmek için daha fazla ayrıntı vermelisiniz."
 
-#: src/olympia/devhub/views.py:2104
+#: src/olympia/devhub/views.py:2103
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Kısa süre içinde e-posta adresinize bir onay bağlantısı gönderilecektir."
 
-#: src/olympia/devhub/views.py:2119
+#: src/olympia/devhub/views.py:2118
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Eski kimlik bilgileriniz iptal edildi ve artık geçerli değil."
 
-#: src/olympia/devhub/views.py:2130
+#: src/olympia/devhub/views.py:2129
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "Yeni API kimlik bilgileri oluşturuldu ve aşağıda gösterilmektedir. JWT gizli anahtarını kopyalamayı unutmayın. Bu anahtar bir daha asla gösterilmeyecektir."
 
-#: src/olympia/devhub/views.py:2158
+#: src/olympia/devhub/views.py:2157
 msgid "New API key created"
 msgstr "Yeni API anahtarı oluşturuldu"
 
-#: src/olympia/devhub/views.py:2169
+#: src/olympia/devhub/views.py:2168
 msgid "API key revoked"
 msgstr "API anahtarı iptal edildi"
 
-#: src/olympia/devhub/views.py:2229
+#: src/olympia/devhub/views.py:2228
 msgid "Verify email"
 msgstr "E-postayı doğrula"
 
-#: src/olympia/devhub/views.py:2231
+#: src/olympia/devhub/views.py:2230
 msgid "Send another email"
 msgstr "Başka bir e-posta gönder"
 
-#: src/olympia/devhub/views.py:2264
+#: src/olympia/devhub/views.py:2263
 msgid "Your email has been verified"
 msgstr "E-postanız doğrulandı"
 
-#: src/olympia/devhub/views.py:2330
+#: src/olympia/devhub/views.py:2329
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Destek isteğiniz iletilmiştir. Yakında sizinle iletişime geçeceğiz."
 
@@ -2476,8 +2484,8 @@ msgstr "Uzantılar ve temalarla ilgili destek alın"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Hesabınızla ilgili destek, ilkelere uygunluk sorunları ve daha fazlası için bu formu kullanabilirsiniz. Ne kadar fazla ayrıntı paylaşırsanız yardımcı olmamız o kadar kolaylaşır. Eklentilerinizin "
 "incelenmesi hakkındaki sorular için lütfen eklentilerinizin sürüm geçmişine bakın. En kısa sürede size dönüş yapacağız."
@@ -2559,8 +2567,8 @@ msgid ""
 "An email with a confirmation link has been sent to your email address: %(email)s. Please click the link to confirm your email address. If you did not receive the email, please check your spam "
 "folder."
 msgstr ""
-"%(email)s e-posta adresinize doğrulama bağlantısı içeren bir e-posta gönderildi. E-posta adresinizi doğrulamak için lütfen bağlantıya tıklayın. E-postayı almadıysanız lütfen spam klasörünüzü kontrol"
-" edin."
+"%(email)s e-posta adresinize doğrulama bağlantısı içeren bir e-posta gönderildi. E-posta adresinizi doğrulamak için lütfen bağlantıya tıklayın. E-postayı almadıysanız lütfen spam klasörünüzü "
+"kontrol edin."
 
 #: src/olympia/devhub/templates/devhub/verify_email.html:39
 #, python-format
@@ -2941,8 +2949,8 @@ msgstr "E-posta"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Destek talepleri için bir e-posta adresi görüntülemek isterseniz buraya girin. Her dil için farklı adresleriniz varsa, bu alanın birden çok çevirisi eklenebilir. Yalnızca listelenen eklentiler için "
 "geçerlidir."
@@ -3003,8 +3011,8 @@ msgstr "Beyaz tahta"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Beyaz tahta, sürümü ne olursa olsun eklentinizle ilgili bilgileri inceleyicilere sağlayan yerdir. Eklentiyi test etmenin yollarını ve yardımcı olabilecek ek bilgileri sağlamak için kullanın. Bu "
 "beyaz tahta, inceleyiciler tarafından da düzenlenebilir."
@@ -3697,8 +3705,8 @@ msgstr "Geri"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "Dış kullanıcı olarak <a %(a_attrs)s href=\"%(docs_url)s\">API</a> üzerinde yetkilendirilmiş çağrıları çalıştırmak için her istekte <code>Authorization</code> üst bilgisine bir <a %(a_attrs)s "
 "href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> eklemeniz gerekir."
@@ -3781,10 +3789,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3966,8 +3976,8 @@ msgstr "Android için Firefox uyumluluğu"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 "Uzantınızı Android için Firefox’ta test ederek beklendiği gibi çalıştığını kontrol ettiniz mi? Etmediyseniz lütfen uzantınızı göndermeden önce <a target=\"_blank\" rel=\"noopener noreferrer\" "
 "href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\"> Firefox Android için uzantı geliştirme</a> sayfasını inceleyerek uzantınızı test etme "
@@ -7072,32 +7082,32 @@ msgstr "Dili Sil"
 msgid "No user with that email."
 msgstr "Bu e-posta ile kayıtlı kullanıcı yok."
 
-#: src/olympia/users/models.py:683
+#: src/olympia/users/models.py:663
 #, python-brace-format
 msgid "Firefox user {id}"
 msgstr "Firefox kullanıcısı {id}"
 
-#: src/olympia/users/models.py:943
+#: src/olympia/users/models.py:923
 msgid "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
 msgstr "Konumunuzdan politikalarımızı ihlal eden birden fazla gönderim yapıldı. IP adresi engellendi."
 
-#: src/olympia/users/models.py:1177
+#: src/olympia/users/models.py:1157
 msgid "The email address used for your account is not allowed for submissions."
 msgstr "Hesabınızda kullanılan e-posta adresine gönderim izni verilmiyor."
 
-#: src/olympia/users/models.py:1364
+#: src/olympia/users/models.py:1344
 msgid "The software or device you are using is not allowed for submissions."
 msgstr "Kullandığınız yazılım veya cihazın gönderim yapmasına izin verilmiyor."
 
-#: src/olympia/users/models.py:1509
+#: src/olympia/users/models.py:1489
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Başlamadan önce lütfen Firefox Eklenti Dağıtım Sözleşmesi ile İnceleme İlkeleri ve Kurallarımızı okuyup kabul edin. Firefox Eklenti Dağıtım Sözleşmesi ayrıca bilgilerinizi nasıl kullandığımızı "
 "açıklayan Gizlilik Bildirimimize de bağlantı verir."
 
-#: src/olympia/users/models.py:1523
+#: src/olympia/users/models.py:1503
 #, python-brace-format
 msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Lütfen {url} adresini ziyaret ederek Firefox Eklenti Dağıtım Sözleşmemizi ve İnceleme Politikaları ve Kuralları'mızı okuyup kabul edin"
@@ -7214,7 +7224,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
