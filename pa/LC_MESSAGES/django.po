@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-17 11:05+0000\n"
+"POT-Creation-Date: 2026-09-21 08:47+0000\n"
 "PO-Revision-Date: 2015-07-18 03:09+0000\n"
 "Last-Translator: ubuntuser13 <ubuntuser13@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1306,31 +1306,31 @@ msgstr ""
 msgid "Decision made"
 msgstr ""
 
-#: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:241
+#: src/olympia/constants/applications.py:24 src/olympia/constants/categories.py:241
 msgid "Firefox"
 msgstr "ਫ਼ਾਇਰਫ਼ਾਕਸ"
 
-#: src/olympia/constants/applications.py:49
+#: src/olympia/constants/applications.py:38
 msgid "Thunderbird"
 msgstr "ਥੰਡਰਬਰਡ"
 
-#: src/olympia/constants/applications.py:61
+#: src/olympia/constants/applications.py:50
 msgid "SeaMonkey"
 msgstr "ਸੀਮੰਕੀ"
 
-#: src/olympia/constants/applications.py:78
+#: src/olympia/constants/applications.py:67
 msgid "Sunbird"
 msgstr "ਸਨਬਰਡ"
 
-#: src/olympia/constants/applications.py:95
+#: src/olympia/constants/applications.py:84
 msgid "Mobile"
 msgstr "ਮੋਬਾਈਲ"
 
-#: src/olympia/constants/applications.py:108
+#: src/olympia/constants/applications.py:97
 msgid "Firefox for Android"
 msgstr "ਐਨਡਰੋਇਡ ਲਈ ਫ਼ਾਇਰਫ਼ਾਕਸ"
 
-#: src/olympia/constants/applications.py:144
+#: src/olympia/constants/applications.py:125
 msgid "Mozilla"
 msgstr "ਮੌਜ਼ੀਲਾ"
 
