@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-21 10:57+0000\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -112,7 +115,8 @@ msgstr ""
 "\n"
 "از گزارش شما درباره %(name)s در افزونه‌های موزیلا و اینکه وقت گذاشتید تا دغدغه‌های خود را با ما در میان بگذارید، سپاسگزاریم.\n"
 "\n"
-"پس از بررسی دقیق درخواست تجدیدنظر شما، مشخص شد که تصمیم قبلی — مبنی بر اینکه این محتوا مطابق با خط‌مشی‌های موزیلا (%(policy_document_url)s) است — درست بوده است. به همین دلیل اقدامی علیه حساب یا محتوا انجام نخواهیم داد.\n"
+"پس از بررسی دقیق درخواست تجدیدنظر شما، مشخص شد که تصمیم قبلی — مبنی بر اینکه این محتوا مطابق با خط‌مشی‌های موزیلا (%(policy_document_url)s) است — درست بوده است. به همین دلیل اقدامی علیه حساب یا محتوا "
+"انجام نخواهیم داد.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "باز هم از اینکه به ما در حفظ امنیت افزونه‌های موزیلا کمک می‌کنید، سپاسگزاریم.\n"
@@ -123,12 +127,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "از گزارش شما درباره %(name)s در افزونه‌های موزیلا و اینکه وقت گذاشتید تا دغدغه‌های خود را با ما در میان بگذارید، سپاسگزاریم.\n"
 "\n"
-"پس از بررسی درخواست تجدیدنظر شما، متوجه شدیم که تصمیم قبلی ما مبنی بر انطباق این محتوا با خط‌مشی‌های موزیلا (%(policy_document_url)s)، نادرست بوده است. اکنون محتوا را حذف کرده و به کاربر اطلاع داده‌ایم. از اینکه به اصلاح این موضوع کمک کردید ممنونیم.\n"
+"پس از بررسی درخواست تجدیدنظر شما، متوجه شدیم که تصمیم قبلی ما مبنی بر انطباق این محتوا با خط‌مشی‌های موزیلا (%(policy_document_url)s)، نادرست بوده است. اکنون محتوا را حذف کرده و به کاربر اطلاع "
+"داده‌ایم. از اینکه به اصلاح این موضوع کمک کردید ممنونیم.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -136,12 +142,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "از گزارش شما درباره %(name)s در افزونه‌های موزیلا و ارائه اطلاعات بیشتر درباره دغدغه‌هایتان سپاسگزاریم.\n"
 "\n"
-"پس از بررسی درخواست تجدیدنظر شما، دریافتیم که تصمیم قبلی ما مبنی بر انطباق این محتوا با خط‌مشی‌های موزیلا (%(policy_document_url)s)، نادرست بوده است. از توسعه‌دهنده خواسته‌ایم تغییراتی ایجاد کند و اگر محتوای خود را به‌روز نکند، آن را حذف خواهیم کرد.\n"
+"پس از بررسی درخواست تجدیدنظر شما، دریافتیم که تصمیم قبلی ما مبنی بر انطباق این محتوا با خط‌مشی‌های موزیلا (%(policy_document_url)s)، نادرست بوده است. از توسعه‌دهنده خواسته‌ایم تغییراتی ایجاد کند و اگر "
+"محتوای خود را به‌روز نکند، آن را حذف خواهیم کرد.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -149,21 +157,23 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "از اینکه وقت گذاشتید و %(name)s در %(target_url)s را گزارش دادید متشکریم.\n"
 "\n"
-"گزارش شما و محتوای مربوطه را بررسی کردیم و متوجه شدیم که با خط‌مشی‌های موزیلا (%(policy_document_url)s) مطابقت دارد، بنابراین مشمول اقدام نظارتی نخواهد شد. با این وجود، از اینکه آن را به اطلاع ما رساندید متشکریم.\n"
+"گزارش شما و محتوای مربوطه را بررسی کردیم و متوجه شدیم که با خط‌مشی‌های موزیلا (%(policy_document_url)s) مطابقت دارد، بنابراین مشمول اقدام نظارتی نخواهد شد. با این وجود، از اینکه آن را به اطلاع ما "
+"رساندید متشکریم.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
-"چنانچه بر این باورید که محتوای موردنظر با خط‌مشی‌های موزیلا همخوانی ندارد، می‌توانید ظرف ۶ ماه از تاریخ این ایمیل، به این تصمیم اعتراض کنید. برای مشاهدهٔ جزئیات روند تجدیدنظر و نحوهٔ ثبت درخواست "
-"برای این تصمیم خاص، به %(appeal_url)s مراجعه فرمایید."
+"چنانچه بر این باورید که محتوای موردنظر با خط‌مشی‌های موزیلا همخوانی ندارد، می‌توانید ظرف ۶ ماه از تاریخ این ایمیل، به این تصمیم اعتراض کنید. برای مشاهدهٔ جزئیات روند تجدیدنظر و نحوهٔ ثبت درخواست برای "
+"این تصمیم خاص، به %(appeal_url)s مراجعه فرمایید."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -171,12 +181,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "از اینکه وقت گذاشتید و افزونه روبرو را در افزونه‌های موزیلا گزارش دادید سپاسگزاریم: %(name)s.\n"
 "\n"
-"ما گزارش شما و محتوای مربوطه را بررسی کردیم و متوجه شدیم که با خط‌مشی‌های موزیلا (%(policy_document_url)s) مطابقت ندارد. در نتیجه محتوا را حذف کردیم. از کمک شما در حفظ امنیت افزونه‌های موزیلا متشکریم.\n"
+"ما گزارش شما و محتوای مربوطه را بررسی کردیم و متوجه شدیم که با خط‌مشی‌های موزیلا (%(policy_document_url)s) مطابقت ندارد. در نتیجه محتوا را حذف کردیم. از کمک شما در حفظ امنیت افزونه‌های موزیلا "
+"متشکریم.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -184,12 +196,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "از اینکه وقت گذاشتید و افزونه روبرو را در افزونه‌های موزیلا گزارش دادید سپاسگزاریم: %(name)s.\n"
 "\n"
-"ما گزارش شما و محتوای مربوطه را بررسی کردیم و متوجه شدیم که با خط‌مشی‌های موزیلا (%(policy_document_url)s) مطابقت ندارد. از توسعه‌دهنده درخواست کردیم تغییراتی اعمال کند و اگر مشکل را حل نکند، محتوا را حذف خواهیم کرد. از کمک شما در حفظ امنیت افزونه‌های موزیلا متشکریم.\n"
+"ما گزارش شما و محتوای مربوطه را بررسی کردیم و متوجه شدیم که با خط‌مشی‌های موزیلا (%(policy_document_url)s) مطابقت ندارد. از توسعه‌دهنده درخواست کردیم تغییراتی اعمال کند و اگر مشکل را حل نکند، محتوا را "
+"حذف خواهیم کرد. از کمک شما در حفظ امنیت افزونه‌های موزیلا متشکریم.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -255,7 +269,7 @@ msgstr "لطفا از تصاویر با حجم کمتر از {} مگابایت �
 msgid "Need help?"
 msgstr "به راهنمایی نیاز دارید؟"
 
-#: src/olympia/accounts/views.py:784
+#: src/olympia/accounts/views.py:783
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "اعلان [%s] وجود ندارد"
@@ -300,7 +314,7 @@ msgstr "تعداد دسته‌ها از حداکثر مجاز برای هر بر
 msgid "The \"other\" category cannot be combined with another category"
 msgstr "دسته «سایر» نمی‌تواند با دسته دیگری ترکیب شود"
 
-#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1297
+#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1298
 msgid "Invalid category name."
 msgstr "نام دسته نامعتبر است."
 
@@ -327,7 +341,7 @@ msgstr "مجوزی با نامک {value}= وجود ندارد."
 msgid "Unsupported file type, please upload an archive file ({extensions})."
 msgstr "نوع فایل پشتیبانی نمی‌شود، لطفاً یک فایل فشرده ({extensions}) بارگذاری کنید."
 
-#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:805 src/olympia/files/utils.py:772
+#: src/olympia/addons/fields.py:233 src/olympia/devhub/forms.py:804 src/olympia/files/utils.py:771
 msgid "Invalid or broken archive."
 msgstr "فایل فشرده نامعتبر یا خراب است."
 
@@ -384,7 +398,7 @@ msgstr "جدیدترین نسخه تأییدشده این افزونه %s را �
 msgid "Listed versions cannot be submitted while add-on is disabled."
 msgstr "هنگامی که افزونه غیرفعال است نمی‌توان نسخه‌های فهرست‌شده را ارسال کرد."
 
-#: src/olympia/addons/serializers.py:593 src/olympia/signing/views.py:228
+#: src/olympia/addons/serializers.py:593 src/olympia/signing/views.py:227
 msgid "Listed versions cannot be submitted while add-on listing is rejected."
 msgstr "هنگامی که فهرست افزونه رد شده است، نمی‌توان نسخه‌های فهرست‌شده را ارسال کرد."
 
@@ -393,7 +407,7 @@ msgstr "هنگامی که فهرست افزونه رد شده است، نمی‌
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s توسط %(app_name)s پشتیبانی نمی‌شوند"
 
-#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:959
+#: src/olympia/addons/serializers.py:673 src/olympia/devhub/forms.py:958
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr "محدوده نسخه نامعتبر است. برای فایرفاکس اندروید، فقط می‌توانید محدوده‌ای را انتخاب کنید که از نسخه %(max)s یا بالاتر شروع شود، یا با نسخه‌ای پایین‌تر از %(min)s به پایان برسد."
@@ -418,20 +432,20 @@ msgstr "یک نویسنده فقط یک بار می‌تواند افزوده ش
 msgid "The account needs a display name before it can be added as an author."
 msgstr "حساب کاربری قبل از افزوده شدن به‌عنوان نویسنده، به یک نام نمایشی نیاز دارد."
 
-#: src/olympia/addons/serializers.py:1277
+#: src/olympia/addons/serializers.py:1278
 msgid "This slug cannot be used. Please choose another."
 msgstr "این نامک قابل استفاده نیست. لطفاً نام دیگری انتخاب کنید."
 
-#: src/olympia/addons/serializers.py:1898
+#: src/olympia/addons/serializers.py:1899
 msgid "There is no rollback available in this channel."
 msgstr "امکان بازگشت به نسخه قبل در این کانال وجود ندارد."
 
-#: src/olympia/addons/serializers.py:1908
+#: src/olympia/addons/serializers.py:1909
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr "بازگشت به نسخه قبل تنها برای نسخه %s در این کانال در دسترس است."
 
-#: src/olympia/addons/serializers.py:1917
+#: src/olympia/addons/serializers.py:1918
 msgid "Only approved versions can be rolled back, except the most recent version."
 msgstr "فقط نسخه‌های تأییدشده را می‌توان به نسخه قبل بازگرداند، به استثنای جدیدترین نسخه."
 
@@ -571,11 +585,11 @@ msgstr "CIDR"
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "برخی از قابلیت‌ها موقتاً در حین عملیات نگهداری وب‌سایت غیرفعال شده‌اند. به‌زودی با ظرفیت کامل بازخواهیم گشت."
 
-#: src/olympia/amo/utils.py:1195 src/olympia/bandwagon/serializers.py:97
+#: src/olympia/amo/utils.py:1193 src/olympia/bandwagon/serializers.py:97
 msgid "This name cannot be used."
 msgstr "این نام قابل استفاده نیست."
 
-#: src/olympia/amo/utils.py:1225
+#: src/olympia/amo/utils.py:1223
 msgid "URLs are not allowed."
 msgstr "پیوندها مجاز نیستند."
 
@@ -609,8 +623,8 @@ msgid ""
 "You are seeing this message because this HTTPS site requires a 'Referer header' to be sent by your Web browser, but none was sent. This header is required for security reasons, to ensure that your "
 "browser is not being hijacked by third parties."
 msgstr ""
-"این پیام به این دلیل نمایش داده می‌شود که این وب‌سایت HTTPS به ارسال «سربرگ ارجاع» (Referer header) از سوی مرورگر شما نیاز دارد، اما سربرگی ارسال نشده است. این سربرگ به دلایل امنیتی و جهت اطمینان از"
-" عدم کنترل یا ربوده شدن مرورگر شما توسط اشخاص ثالث الزامی است."
+"این پیام به این دلیل نمایش داده می‌شود که این وب‌سایت HTTPS به ارسال «سربرگ ارجاع» (Referer header) از سوی مرورگر شما نیاز دارد، اما سربرگی ارسال نشده است. این سربرگ به دلایل امنیتی و جهت اطمینان از "
+"عدم کنترل یا ربوده شدن مرورگر شما توسط اشخاص ثالث الزامی است."
 
 #: src/olympia/amo/templates/amo/403.html:26
 msgid "If you have configured your browser to disable 'Referer' headers, please re-enable them, at least for this site, or for HTTPS connections, or for 'same-origin' requests."
@@ -636,10 +650,10 @@ msgid ""
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
 "<h1>متأسفیم، اما چیزی را که به دنبال آن هستید پیدا نکردیم.</h1> <p> صفحه یا فایلی که درخواست کردید در سایت ما یافت نشد. ممکن است روی پیوندی منسوخ کلیک کرده باشید یا نشانی را اشتباه وارد کرده باشید. "
-"</p> <ul> <li>اگر نشانی را تایپ کردید، لطفاً املای آن را دوباره بررسی کنید.</li> <li> اگر از جای دیگری روی پیوند کلیک کرده‌اید، لطفاً %(open_bug_link)sیک گزارش مشکل ثبت کنید%(close_bug_link)s. به ما"
-" بگویید از کجا آمدید و دنبال چه چیزی بودید تا تمام تلاشمان را برای رفع آن انجام دهیم. </li> </ul> <p>یا می‌توانید مستقیماً به برخی از صفحه‌های محبوب وب‌سایت ما بروید.</p> <ul> <li>آیا به <a "
-"href=\"%(rec)s\">فهرست افزونه‌های برگزیده</a> علاقه‌مندید؟</li> <li> می‌خواهید <a href=\"%(search)s\">افزونه‌ها را جستجو کنید</a>؟ می‌توانید به <a href=\"%(search)s\">صفحه جستجو</a> بروید یا از کادر"
-" جستجوی بالا استفاده کنید. </li> <li> اگر ترجیح می‌دهید از اول شروع کنید، مستقیماً به <a href=\"%(home)s\">صفحه اصلی افزونه‌ها</a> بروید. </li> </ul>"
+"</p> <ul> <li>اگر نشانی را تایپ کردید، لطفاً املای آن را دوباره بررسی کنید.</li> <li> اگر از جای دیگری روی پیوند کلیک کرده‌اید، لطفاً %(open_bug_link)sیک گزارش مشکل ثبت کنید%(close_bug_link)s. به ما "
+"بگویید از کجا آمدید و دنبال چه چیزی بودید تا تمام تلاشمان را برای رفع آن انجام دهیم. </li> </ul> <p>یا می‌توانید مستقیماً به برخی از صفحه‌های محبوب وب‌سایت ما بروید.</p> <ul> <li>آیا به <a "
+"href=\"%(rec)s\">فهرست افزونه‌های برگزیده</a> علاقه‌مندید؟</li> <li> می‌خواهید <a href=\"%(search)s\">افزونه‌ها را جستجو کنید</a>؟ می‌توانید به <a href=\"%(search)s\">صفحه جستجو</a> بروید یا از کادر "
+"جستجوی بالا استفاده کنید. </li> <li> اگر ترجیح می‌دهید از اول شروع کنید، مستقیماً به <a href=\"%(home)s\">صفحه اصلی افزونه‌ها</a> بروید. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -651,8 +665,8 @@ msgid ""
 "<h1>Oops! We had an error.</h1> <p>We'll get to fixing that soon.</p> <p> You can try refreshing the page, or head back to the <a href=\"%(home)s\">Add-ons homepage</a>. You can also help us fix "
 "this by <a href=\"https://github.com/mozilla/addons/issues/new\">filing an issue</a> with the details of how you got to this page. </p>"
 msgstr ""
-"<h1>اوه! خطایی رخ داد.</h1> <p>به‌زودی آن را برطرف خواهیم کرد.</p> <p> می‌توانید صفحه را بازخوانی کنید یا به <a href=\"%(home)s\">صفحه اصلی افزونه‌ها</a> برگردید. همچنین می‌توانید با <a "
-"href=\"https://github.com/mozilla/addons/issues/new\">ثبت یک گزارش مشکل</a> و توضیح اینکه چطور به این صفحه رسیدید، به ما در رفع آن کمک کنید. </p>"
+"<h1>اوه! خطایی رخ داد.</h1> <p>به‌زودی آن را برطرف خواهیم کرد.</p> <p> می‌توانید صفحه را بازخوانی کنید یا به <a href=\"%(home)s\">صفحه اصلی افزونه‌ها</a> برگردید. همچنین می‌توانید با <a href=\"https://"
+"github.com/mozilla/addons/issues/new\">ثبت یک گزارش مشکل</a> و توضیح اینکه چطور به این صفحه رسیدید، به ما در رفع آن کمک کنید. </p>"
 
 #. abbreviation of 'previous'
 #: src/olympia/amo/templates/amo/paginator.html:5 src/olympia/devhub/templates/devhub/addons/includes/validation_test_results.html:49
@@ -1862,7 +1876,7 @@ msgstr[1] "شما تنها می‌توانید {0} دسته داشته باشی�
 msgid "The miscellaneous category cannot be combined with additional categories."
 msgstr "دسته متفرقه نمی‌تواند با دسته‌های دیگر ترکیب شود."
 
-#: src/olympia/devhub/forms.py:253 src/olympia/devhub/forms.py:1369
+#: src/olympia/devhub/forms.py:253 src/olympia/devhub/forms.py:1368
 msgid "There was an error uploading your image."
 msgstr "هنگام بارگذاری تصویر شما خطایی رخ داد."
 
@@ -1919,98 +1933,98 @@ msgstr "متن مجوز خود را وارد کنید."
 msgid "License text is required when choosing Other."
 msgstr "هنگام انتخاب گزینه «سایر»، وارد کردن متن مجوز الزامی است."
 
-#: src/olympia/devhub/forms.py:724
+#: src/olympia/devhub/forms.py:723
 msgid "This add-on has an End-User License Agreement"
 msgstr "این افزونه دارای قرارداد مجوز کاربر نهایی (EULA) است"
 
-#: src/olympia/devhub/forms.py:729
+#: src/olympia/devhub/forms.py:728
 msgid "Please specify your add-on's End-User License Agreement:"
 msgstr "لطفاً قرارداد مجوز کاربر نهایی (EULA) افزونه خود را مشخص کنید:"
 
-#: src/olympia/devhub/forms.py:732
+#: src/olympia/devhub/forms.py:731
 msgid "This add-on has a Privacy Policy"
 msgstr "این افزونه دارای سیاست حفظ حریم خصوصی است"
 
-#: src/olympia/devhub/forms.py:737
+#: src/olympia/devhub/forms.py:736
 msgid "Please specify your add-on's Privacy Policy:"
 msgstr "لطفاً سیاست حفظ حریم خصوصی افزونه خود را مشخص کنید:"
 
-#: src/olympia/devhub/forms.py:773
+#: src/olympia/devhub/forms.py:772
 #, python-brace-format
 msgid "Unsupported file type, please upload an archive file {extensions}."
 msgstr "نوع فایل پشتیبانی نمی‌شود، لطفاً یک فایل فشرده {extensions} بارگذاری کنید."
 
-#: src/olympia/devhub/forms.py:817
+#: src/olympia/devhub/forms.py:816
 msgid "View current"
 msgstr "مشاهده فعلی"
 
-#: src/olympia/devhub/forms.py:940
+#: src/olympia/devhub/forms.py:939
 msgid "Invalid version range."
 msgstr "محدوده نسخه نامعتبر است."
 
-#: src/olympia/devhub/forms.py:1046
+#: src/olympia/devhub/forms.py:1045
 msgid "Need at least one compatible application."
 msgstr "حداقل به یک برنامه سازگار نیاز است."
 
-#: src/olympia/devhub/forms.py:1088 src/olympia/devhub/forms.py:1146
+#: src/olympia/devhub/forms.py:1087 src/olympia/devhub/forms.py:1145
 msgid "There was an error with your upload. Please try again."
 msgstr "در بارگذاری شما خطایی رخ داد. لطفاً دوباره امتحان کنید."
 
-#: src/olympia/devhub/forms.py:1093
+#: src/olympia/devhub/forms.py:1092
 msgid "Override failed validation"
 msgstr "نادیده‌گرفتن اعتبارسنجی ناموفق"
 
-#: src/olympia/devhub/forms.py:1103
+#: src/olympia/devhub/forms.py:1102
 msgid "Need to select at least one application."
 msgstr "باید حداقل یک برنامه را انتخاب کنید."
 
-#: src/olympia/devhub/forms.py:1108
+#: src/olympia/devhub/forms.py:1107
 msgid "You have submitted too many uploads recently. Please try again after some time."
 msgstr "اخیراً بارگذاری‌های زیادی انجام داده‌اید. لطفاً پس از مدتی دوباره امتحان کنید."
 
-#: src/olympia/devhub/forms.py:1157 src/olympia/signing/views.py:156
+#: src/olympia/devhub/forms.py:1156 src/olympia/signing/views.py:156
 #, python-brace-format
 msgid "Version {version} was uploaded before and deleted."
 msgstr "نسخه {version} قبلاً بارگذاری شده و سپس حذف شده بود."
 
-#: src/olympia/devhub/forms.py:1166 src/olympia/devhub/forms.py:1172 src/olympia/signing/views.py:158
+#: src/olympia/devhub/forms.py:1165 src/olympia/devhub/forms.py:1171 src/olympia/signing/views.py:158
 #, python-brace-format
 msgid "Version {version} already exists."
 msgstr "نسخه {version} در حال حاضر وجود دارد."
 
-#: src/olympia/devhub/forms.py:1168
+#: src/olympia/devhub/forms.py:1167
 msgid "Continue with existing upload instead?"
 msgstr "مایلید با بارگذاری موجود ادامه دهید؟"
 
-#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:7 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:22
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:37
 msgid "Yes"
 msgstr "بله"
 
-#: src/olympia/devhub/forms.py:1206 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
+#: src/olympia/devhub/forms.py:1205 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:13 src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:28
 #: src/olympia/devhub/templates/devhub/addons/includes/cc_license_chooser.html:52
 msgid "No"
 msgstr "خیر"
 
-#: src/olympia/devhub/forms.py:1221
+#: src/olympia/devhub/forms.py:1220
 msgid "You have not uploaded a source file."
 msgstr "شما فایل سورس کدی بارگذاری نکرده‌اید."
 
-#: src/olympia/devhub/forms.py:1224
+#: src/olympia/devhub/forms.py:1223
 msgid "Source file uploaded but you indicated no source was needed."
 msgstr "فایل سورس کد بارگذاری شده، اما مشخص کرده بودید نیازی به سورس کد نیست."
 
-#: src/olympia/devhub/forms.py:1288
+#: src/olympia/devhub/forms.py:1287
 #, python-brace-format
 msgid "Ensure name and summary combined are at most {limit_value} characters (they have {show_value})."
 msgstr "اطمینان حاصل کنید طول نام و خلاصه روی هم حداکثر {limit_value} نویسه باشد (اکنون {show_value} نویسه دارند)."
 
-#: src/olympia/devhub/forms.py:1418
+#: src/olympia/devhub/forms.py:1417
 #, python-brace-format
 msgid "On this site. <span class=\"helptext\">Your submission is publicly listed on {site_domain}.</span>"
 msgstr "در همین سایت. <span class=\"helptext\">مورد ارسالی شما به‌صورت عمومی در {site_domain} فهرست خواهد شد.</span>"
 
-#: src/olympia/devhub/forms.py:1425
+#: src/olympia/devhub/forms.py:1424
 #, python-brace-format
 msgid ""
 "On your own. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience. Please make sure the add-"
@@ -2019,84 +2033,84 @@ msgstr ""
 "به‌صورت مستقل. <span class=\"helptext\">پس از امضای مورد ارسالی توسط موزیلا، می‌توانید فایل xpi. را از مرکز توسعه‌دهندگان دریافت کرده و میان کاربران خود توزیع کنید. لطفاً اطمینان حاصل کنید که <a "
 "{a_attrs}>update_url</a> در مانیفست افزونه قید شده باشد، زیرا فایرفاکس از این نشانی برای یافتن به‌روزرسانی‌ها و نصب خودکار برای کاربران استفاده می‌کند.</span>"
 
-#: src/olympia/devhub/forms.py:1441
+#: src/olympia/devhub/forms.py:1440
 msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
-"افزونه سازمانی. <span class=\"helptext\">پس از امضای مورد ارسالی توسط موزیلا، می‌توانید فایل xpi. را از مرکز توسعه‌دهندگان دریافت کرده و از طریق خط‌مشی نسخه سازمانی فایرفاکس (Firefox for Enterprise)"
-" میان کاربران خود توزیع کنید.</span>"
+"افزونه سازمانی. <span class=\"helptext\">پس از امضای مورد ارسالی توسط موزیلا، می‌توانید فایل xpi. را از مرکز توسعه‌دهندگان دریافت کرده و از طریق خط‌مشی نسخه سازمانی فایرفاکس (Firefox for Enterprise) "
+"میان کاربران خود توزیع کنید.</span>"
 
-#: src/olympia/devhub/forms.py:1477 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1476 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
 msgstr "نام نمایشی"
 
-#: src/olympia/devhub/forms.py:1508
+#: src/olympia/devhub/forms.py:1507
 msgid "Confirm email address"
 msgstr "تأیید نشانی ایمیل"
 
-#: src/olympia/devhub/forms.py:1509
+#: src/olympia/devhub/forms.py:1508
 msgid "Generate new credentials"
 msgstr "ایجاد اطلاعات هویتی جدید"
 
-#: src/olympia/devhub/forms.py:1510
+#: src/olympia/devhub/forms.py:1509
 msgid "Revoke and regenerate credentials"
 msgstr "ابطال و ایجاد مجدد اطلاعات هویتی"
 
-#: src/olympia/devhub/forms.py:1511
+#: src/olympia/devhub/forms.py:1510
 msgid "Revoke"
 msgstr "ابطال"
 
-#: src/olympia/devhub/forms.py:1512
+#: src/olympia/devhub/forms.py:1511
 msgid "Re-send email confirmation"
 msgstr "ارسال مجدد ایمیل تأیید"
 
-#: src/olympia/devhub/forms.py:1569
+#: src/olympia/devhub/forms.py:1568
 #, python-brace-format
 msgid "Please click the button below to generate API credentials for user <strong>{name}</strong>."
 msgstr "لطفاً برای ایجاد اطلاعات هویتی API برای کاربر <strong>{name}</strong>، روی دکمه زیر کلیک کنید."
 
-#: src/olympia/devhub/forms.py:1594
+#: src/olympia/devhub/forms.py:1593
 msgid "You don't have any API credentials."
 msgstr "شما هیچ اطلاعات هویتی API ندارید."
 
-#: src/olympia/devhub/forms.py:1605
+#: src/olympia/devhub/forms.py:1604
 msgid "Something went wrong, please contact developer support."
 msgstr "مشکلی رخ داد، لطفاً با پشتیبانی توسعه‌دهندگان تماس بگیرید."
 
-#: src/olympia/devhub/forms.py:1684
+#: src/olympia/devhub/forms.py:1683
 msgid "Release notes"
 msgstr "یادداشت‌های انتشار"
 
-#: src/olympia/devhub/forms.py:1685
+#: src/olympia/devhub/forms.py:1684
 msgid "Automatic rollback based on version [m.m]."
 msgstr "بازگشت خودکار بر اساس نسخه [m.m]."
 
-#: src/olympia/devhub/forms.py:1770
+#: src/olympia/devhub/forms.py:1769
 msgid "You must select a channel and version to rollback to."
 msgstr "باید یک کانال و نسخه را برای بازگشت به آن انتخاب کنید."
 
-#: src/olympia/devhub/forms.py:1783 src/olympia/devhub/templates/devhub/verify_email.html:60
+#: src/olympia/devhub/forms.py:1782 src/olympia/devhub/templates/devhub/verify_email.html:60
 msgid "Subject"
 msgstr "موضوع"
 
-#: src/olympia/devhub/forms.py:1785
+#: src/olympia/devhub/forms.py:1784
 msgid "Summarize the issue in a few words"
 msgstr "مشکل را در چند کلمه خلاصه کنید"
 
-#: src/olympia/devhub/forms.py:1789
+#: src/olympia/devhub/forms.py:1788
 msgid "Choose a category"
 msgstr "یک دسته‌بندی انتخاب کنید"
 
-#: src/olympia/devhub/forms.py:1790
+#: src/olympia/devhub/forms.py:1789
 msgid "Select category"
 msgstr "انتخاب دسته‌بندی"
 
-#: src/olympia/devhub/forms.py:1795
+#: src/olympia/devhub/forms.py:1794
 msgid "Give us more details about the issue"
 msgstr "جزئیات بیشتری درباره مشکل در اختیار ما قرار دهید"
 
-#: src/olympia/devhub/forms.py:1797
+#: src/olympia/devhub/forms.py:1796
 msgid "Describe the issue"
 msgstr "مشکل را شرح دهید"
 
@@ -2120,7 +2134,7 @@ msgstr "کلید API توسعه‌دهنده شما در فایل ارسالی �
 msgid "The developer API key of a coauthor was found in the submitted file. To protect your add-on, the key will be revoked."
 msgstr "کلید API توسعه‌دهنده یکی از همکاران شما در فایل ارسالی یافت شد. برای محافظت از افزونه شما، این کلید باطل خواهد شد."
 
-#: src/olympia/devhub/tasks.py:680
+#: src/olympia/devhub/tasks.py:677
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "اطلاعیه امنیتی موزیلا: اطلاعات هویتی API شما در AMO باطل شده است"
 
@@ -2491,8 +2505,8 @@ msgstr "دریافت پشتیبانی برای افزونه‌ها و پوسته
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "از این فرم برای دریافت پشتیبانی مربوط به حساب کاربری، مسائل انطباق با خط‌مشی‌ها و موارد دیگر استفاده کنید. هرچه جزئیات بیشتری ارائه دهید، کمک کردن برای ما آسان‌تر خواهد بود. برای سؤالات دربارهٔ "
 "بررسی‌های افزونه‌های خود، لطفاً به تاریخچه نسخه افزونه‌هایتان مراجعه کنید. ما در اسرع وقت پاسخ خواهیم داد."
@@ -2580,8 +2594,7 @@ msgstr "ایمیلی حاوی پیوند تأیید به نشانی ایمیل �
 msgid ""
 "The provided code is invalid, unauthorized, expired or incomplete. Please use the link in the email sent to your email address %(email)s. If the code is still not working, please request a new "
 "email."
-msgstr ""
-"کد ارائه‌شده نامعتبر، غیرمجاز، منقضی‌شده یا ناقص است. لطفاً از پیوند موجود در ایمیلی که به نشانی %(email)s ارسال شده استفاده کنید. اگر کد همچنان کار نمی‌کند، لطفاً درخواست یک ایمیل جدید بدهید."
+msgstr "کد ارائه‌شده نامعتبر، غیرمجاز، منقضی‌شده یا ناقص است. لطفاً از پیوند موجود در ایمیلی که به نشانی %(email)s ارسال شده استفاده کنید. اگر کد همچنان کار نمی‌کند، لطفاً درخواست یک ایمیل جدید بدهید."
 
 #: src/olympia/devhub/templates/devhub/verify_email.html:49
 msgid "<strong>Email history:</strong> The table below shows all emails we have attempted to send to you in the last 2 days."
@@ -2861,8 +2874,7 @@ msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
 msgstr ""
-"خلاصه باید عملکرد افزونه شما را به‌طور واضح و مختصر بیان کند. نام و خلاصه هر دو در صفحه محصول و نتایج جستجوی شما نمایش داده خواهند شد. مجموع طول آن‌ها حداکثر ۷۰ نویسه و حداقل طول هر کدام ۲ نویسه "
-"است."
+"خلاصه باید عملکرد افزونه شما را به‌طور واضح و مختصر بیان کند. نام و خلاصه هر دو در صفحه محصول و نتایج جستجوی شما نمایش داده خواهند شد. مجموع طول آن‌ها حداکثر ۷۰ نویسه و حداقل طول هر کدام ۲ نویسه است."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2899,16 +2911,16 @@ msgid ""
 "A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's product page. Minimum length: %(min_length)s characters; Recommended "
 "length: 250 characters. If you need a longer description, make sure the first 250 characters contain the most important description points."
 msgstr ""
-"توضیح کامل‌تری از امکانات، قابلیت‌ها و سایر اطلاعات مربوطه. این بخش فقط در صفحه محصول افزونه نمایش داده می‌شود. حداقل طول: %(min_length)s نویسه؛ طول پیشنهادی: ۲۵۰ نویسه. اگر به توضیحات طولانی‌تری "
-"نیاز دارید، مطمئن شوید که ۲۵۰ نویسه اول حاوی مهم‌ترین نکات توضیحی باشد."
+"توضیح کامل‌تری از امکانات، قابلیت‌ها و سایر اطلاعات مربوطه. این بخش فقط در صفحه محصول افزونه نمایش داده می‌شود. حداقل طول: %(min_length)s نویسه؛ طول پیشنهادی: ۲۵۰ نویسه. اگر به توضیحات طولانی‌تری نیاز "
+"دارید، مطمئن شوید که ۲۵۰ نویسه اول حاوی مهم‌ترین نکات توضیحی باشد."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:140
 msgid ""
 "A longer explanation of features, functionality, and other relevant information. This field is only displayed on the add-on's product page. Recommended length: 250 characters. If you need a longer "
 "description, make sure the first 250 characters contain the most important description points."
 msgstr ""
-"توضیح کامل‌تری از امکانات، قابلیت‌ها و سایر اطلاعات مربوطه. این بخش فقط در صفحه محصول افزونه نمایش داده می‌شود. طول پیشنهادی: ۲۵۰ نویسه. اگر به توضیحات طولانی‌تری نیاز دارید، مطمئن شوید که ۲۵۰ نویسه"
-" اول حاوی مهم‌ترین نکات توضیحی باشد."
+"توضیح کامل‌تری از امکانات، قابلیت‌ها و سایر اطلاعات مربوطه. این بخش فقط در صفحه محصول افزونه نمایش داده می‌شود. طول پیشنهادی: ۲۵۰ نویسه. اگر به توضیحات طولانی‌تری نیاز دارید، مطمئن شوید که ۲۵۰ نویسه "
+"اول حاوی مهم‌ترین نکات توضیحی باشد."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:169
 msgid "Experimental?"
@@ -2956,11 +2968,11 @@ msgstr "ایمیل"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
-"اگر می‌خواهید نشانی ایمیلی را برای درخواست‌های پشتیبانی نمایش دهید، آن را اینجا وارد کنید. اگر برای زبان‌های مختلف نشانی‌های متفاوتی دارید، می‌توانید ترجمه‌های متعددی برای این فیلد اضافه کنید. این "
-"مورد فقط برای افزونه‌های فهرست‌شده کاربرد دارد."
+"اگر می‌خواهید نشانی ایمیلی را برای درخواست‌های پشتیبانی نمایش دهید، آن را اینجا وارد کنید. اگر برای زبان‌های مختلف نشانی‌های متفاوتی دارید، می‌توانید ترجمه‌های متعددی برای این فیلد اضافه کنید. این مورد "
+"فقط برای افزونه‌های فهرست‌شده کاربرد دارد."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:246
 msgid "Website"
@@ -2971,8 +2983,8 @@ msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
 msgstr ""
-"اگر افزونه شما وبسایت پشتیبانی یا تالار گفت‌وگو دارد، نشانی آن را اینجا وارد کنید. اگر وبسایت شما به زبان‌های دیگر محلی‌سازی شده است، می‌توانید ترجمه‌های متعددی برای این فیلد اضافه کنید. این مورد "
-"فقط برای افزونه‌های فهرست‌شده کاربرد دارد."
+"اگر افزونه شما وبسایت پشتیبانی یا تالار گفت‌وگو دارد، نشانی آن را اینجا وارد کنید. اگر وبسایت شما به زبان‌های دیگر محلی‌سازی شده است، می‌توانید ترجمه‌های متعددی برای این فیلد اضافه کنید. این مورد فقط "
+"برای افزونه‌های فهرست‌شده کاربرد دارد."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -3018,11 +3030,11 @@ msgstr "تخته یادداشت"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
-"تخته یادداشت مکانی برای ارائه اطلاعات مربوط به افزونه شما (صرف‌نظر از شماره نسخه) به بازبین‌ها است. از آن برای توضیح نحوه آزمایش افزونه و هر اطلاعات تکمیلی مفیدی استفاده کنید. این بخش توسط بازبین‌ها"
-" نیز قابل ویرایش است."
+"تخته یادداشت مکانی برای ارائه اطلاعات مربوط به افزونه شما (صرف‌نظر از شماره نسخه) به بازبین‌ها است. از آن برای توضیح نحوه آزمایش افزونه و هر اطلاعات تکمیلی مفیدی استفاده کنید. این بخش توسط بازبین‌ها "
+"نیز قابل ویرایش است."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
 #, python-brace-format
@@ -3038,8 +3050,8 @@ msgid ""
 "Upload an icon for your add-on or choose from one of ours. The icon is displayed nearly everywhere your add-on is. Uploaded images must be one of the following image types: .png, .jpg. It is only "
 "relevant for listed add-ons."
 msgstr ""
-"یک آیکون برای افزونه خود بارگذاری کنید یا از میان آیکون‌های ما یکی را انتخاب کنید. این آیکون تقریباً در هر جایی که افزونه شما باشد نمایش داده می‌شود. تصاویر بارگذاری‌شده باید دارای یکی از پسوندهای "
-"png. یا jpg. باشند. این مورد فقط برای افزونه‌های فهرست‌شده کاربرد دارد."
+"یک آیکون برای افزونه خود بارگذاری کنید یا از میان آیکون‌های ما یکی را انتخاب کنید. این آیکون تقریباً در هر جایی که افزونه شما باشد نمایش داده می‌شود. تصاویر بارگذاری‌شده باید دارای یکی از پسوندهای png. "
+"یا jpg. باشند. این مورد فقط برای افزونه‌های فهرست‌شده کاربرد دارد."
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:25
 msgid "Select an icon for your add-on:"
@@ -3342,8 +3354,8 @@ msgid ""
 "Warning: you have name/summary values in other locales that will be automatically cropped to fit under the limit of %(max_length)s characters.  To edit these go to Edit Product Page after the "
 "submission process is complete."
 msgstr ""
-"هشدار: مقادیر نام/خلاصه در سایر زبان‌ها تعریف کرده‌اید که برای گنجانده شدن در سقف %(max_length)s نویسه، به‌طور خودکار بریده خواهند شد. برای ویرایش این موارد، پس از اتمام فرآیند ارسال، به صفحه "
-"«ویرایش صفحه محصول» مراجعه کنید."
+"هشدار: مقادیر نام/خلاصه در سایر زبان‌ها تعریف کرده‌اید که برای گنجانده شدن در سقف %(max_length)s نویسه، به‌طور خودکار بریده خواهند شد. برای ویرایش این موارد، پس از اتمام فرآیند ارسال، به صفحه «ویرایش "
+"صفحه محصول» مراجعه کنید."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:52 src/olympia/devhub/templates/devhub/addons/submit/describe.html:73
 msgid "Add-on URL:"
@@ -3503,8 +3515,8 @@ msgstr "مدیریت فهرست"
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:47
 msgid "You can also edit this version to add version notes, or source code if your submission includes minified, concatenated or otherwise machine-generated code."
 msgstr ""
-"همچنین می‌توانید این نسخه را ویرایش کنید تا یادداشت‌های نسخه را اضافه نمایید، یا در صورتی که مورد ارسالی شما حاوی کدهای فشرده‌شده (minified)، پیوسته‌شده یا کدهای تولیدشده توسط ماشین است، سورس کد آن "
-"را قرار دهید."
+"همچنین می‌توانید این نسخه را ویرایش کنید تا یادداشت‌های نسخه را اضافه نمایید، یا در صورتی که مورد ارسالی شما حاوی کدهای فشرده‌شده (minified)، پیوسته‌شده یا کدهای تولیدشده توسط ماشین است، سورس کد آن را "
+"قرار دهید."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:52
 #, python-brace-format
@@ -3713,8 +3725,8 @@ msgstr "بازگشت"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 "برای اجرای فراخوانی‌های احراز هویت‌شده به <a %(a_attrs)s href=\"%(docs_url)s\">API</a> به‌عنوان یک مصرف‌کننده خارجی، باید در هدر <code>Authorization</code> هر درخواست یک <a %(a_attrs)s "
 "href=\"%(jwt_url)s\">توکن وب جیسون (JWT)</a> قرار دهید."
@@ -3755,7 +3767,8 @@ msgid ""
 msgstr ""
 "سلام،\n"
 "\n"
-"از اینکه برای فایرفاکس محصول تولید می‌کنید سپاسگزاریم! این پیام را به این دلیل دریافت می‌کنید که درخواست ایجاد کلیدهای API توسعه‌دهنده جدید برای %(domain)s را ثبت کرده‌اید. برای تکمیل راه‌اندازی، کافی است روی پیوند زیر کلیک کنید:\n"
+"از اینکه برای فایرفاکس محصول تولید می‌کنید سپاسگزاریم! این پیام را به این دلیل دریافت می‌کنید که درخواست ایجاد کلیدهای API توسعه‌دهنده جدید برای %(domain)s را ثبت کرده‌اید. برای تکمیل راه‌اندازی، کافی "
+"است روی پیوند زیر کلیک کنید:\n"
 "\n"
 "%(api_key_confirmation_link)s\n"
 "\n"
@@ -3835,20 +3848,24 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "توسعه‌دهنده گرامی افزونه،\n"
 "\n"
-"خواستیم بلافاصله به شما اطلاع دهیم: متوجه شدیم که اطلاعات هویتی محرمانه API مربوط به AMO شما در افزونه‌ای که به addons.mozilla.org ارسال شده بود، قرار گرفته است. برای حفظ امنیت حساب کاربری و افزونه(های) شما، اطلاعات هویتی آسیب‌دیده را باطل کردیم. هیچ مشکلی متوجه شما نیست — این اتفاق گاهی رخ می‌دهد و ما اینجا هستیم تا به شما برای ادامه کار کمک کنیم.\n"
+"خواستیم بلافاصله به شما اطلاع دهیم: متوجه شدیم که اطلاعات هویتی محرمانه API مربوط به AMO شما در افزونه‌ای که به addons.mozilla.org ارسال شده بود، قرار گرفته است. برای حفظ امنیت حساب کاربری و "
+"افزونه(های) شما، اطلاعات هویتی آسیب‌دیده را باطل کردیم. هیچ مشکلی متوجه شما نیست — این اتفاق گاهی رخ می‌دهد و ما اینجا هستیم تا به شما برای ادامه کار کمک کنیم.\n"
 "شما می‌توانید در هر زمان اطلاعات هویتی جدید API را در %(api_keys_url)s ایجاد کنید.\n"
 "\n"
-"برای کمک به حفظ امنیت اطلاعات هویتی‌تان در آینده، بهتر است آن‌ها را خصوصی نگه داشته و از قرار دادنشان در هرگونه مخزن عمومی، افزونه یا مکان عمومی دیگر خودداری کنید. هر زمان که فرصت داشتید، مخازن کد و افزونه‌های خود را بازبینی کنید تا هرگونه ارجاع به اطلاعات هویتی AMO حذف شود.\n"
+"برای کمک به حفظ امنیت اطلاعات هویتی‌تان در آینده، بهتر است آن‌ها را خصوصی نگه داشته و از قرار دادنشان در هرگونه مخزن عمومی، افزونه یا مکان عمومی دیگر خودداری کنید. هر زمان که فرصت داشتید، مخازن کد و "
+"افزونه‌های خود را بازبینی کنید تا هرگونه ارجاع به اطلاعات هویتی AMO حذف شود.\n"
 "\n"
 "با تشکر،\n"
 "تیم افزونه‌های موزیلا"
@@ -4009,8 +4026,8 @@ msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
-"پیش از شروع، لطفاً توافق‌نامه توزیع افزونه فایرفاکس، قوانین و خط‌مشی‌های بررسی و همچنین <a %(a_attrs)s href=\"%(faq_url)s\">پرسش‌های متداول</a> ما را مطالعه و با آن‌ها موافقت کنید. توافق‌نامه توزیع "
-"افزونه فایرفاکس همچنین به بیانیه حریم خصوصی ما پیوند دارد که نحوه مدیریت اطلاعات شما را توضیح می‌دهد."
+"پیش از شروع، لطفاً توافق‌نامه توزیع افزونه فایرفاکس، قوانین و خط‌مشی‌های بررسی و همچنین <a %(a_attrs)s href=\"%(faq_url)s\">پرسش‌های متداول</a> ما را مطالعه و با آن‌ها موافقت کنید. توافق‌نامه توزیع افزونه "
+"فایرفاکس همچنین به بیانیه حریم خصوصی ما پیوند دارد که نحوه مدیریت اطلاعات شما را توضیح می‌دهد."
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:10
 msgid "Review Policies and Rules"
@@ -4039,11 +4056,11 @@ msgstr "سازگاری با فایرفاکس برای اندروید"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"آیا افزونه خود را آزمایش کرده‌اید تا مطمئن شوید روی فایرفاکس اندروید مطابق انتظار کار می‌کند؟ اگر نه، لطفاً پیش از ارسال، برای راهنمای آزمودن به صفحه <a target=\"_blank\" rel=\"noopener noreferrer\""
-" href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">توسعه افزونه‌ها برای فایرفاکس اندروید</a> مراجعه کنید."
+"آیا افزونه خود را آزمایش کرده‌اید تا مطمئن شوید روی فایرفاکس اندروید مطابق انتظار کار می‌کند؟ اگر نه، لطفاً پیش از ارسال، برای راهنمای آزمودن به صفحه <a target=\"_blank\" rel=\"noopener noreferrer\" "
+"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">توسعه افزونه‌ها برای فایرفاکس اندروید</a> مراجعه کنید."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4180,8 +4197,7 @@ msgstr "سیاست حفظ حریم خصوصی"
 
 #: src/olympia/devhub/templates/devhub/includes/policy_form.html:22
 msgid "If your add-on transmits any data from the user's computer, a privacy policy is required that explains what data is sent and how it is used. It is only relevant for listed add-ons."
-msgstr ""
-"اگر افزونه شما داده‌ای را از رایانه کاربر ارسال می‌کند، ارائه سیاست حفظ حریم خصوصی برای توضیح داده‌های ارسالی و نحوه استفاده از آن‌ها الزامی است. این بخش تنها مربوط به افزونه‌های فهرست‌شده است."
+msgstr "اگر افزونه شما داده‌ای را از رایانه کاربر ارسال می‌کند، ارائه سیاست حفظ حریم خصوصی برای توضیح داده‌های ارسالی و نحوه استفاده از آن‌ها الزامی است. این بخش تنها مربوط به افزونه‌های فهرست‌شده است."
 
 #: src/olympia/devhub/templates/devhub/includes/source_form_field.html:3
 msgid "If your add-on contains minified, concatenated or otherwise machine-generated code other than known libraries, upload its sources for review."
@@ -6387,7 +6403,7 @@ msgstr "[وضعیت:%s]"
 msgid "This upload has already been submitted."
 msgstr "این مورد قبلاً ارسال شده است."
 
-#: src/olympia/files/utils.py:157 src/olympia/files/utils.py:191 src/olympia/files/utils.py:879
+#: src/olympia/files/utils.py:157 src/olympia/files/utils.py:191 src/olympia/files/utils.py:878
 msgid "Could not parse the manifest file."
 msgstr "تجزیه فایل مانیفست امکان‌پذیر نبود."
 
@@ -6419,95 +6435,95 @@ msgid "Invalid file name in archive. Please make sure all filenames are utf-8 or
 msgstr "نام فایل نامعتبر در آرشیو. لطفاً مطمئن شوید همه نام‌های فایل با کدگذاری utf-8 یا latin1 هستند."
 
 #. L10n: {0} is the name of the invalid file.
-#: src/olympia/files/utils.py:585
+#: src/olympia/files/utils.py:584
 #, python-brace-format
 msgid "Invalid file name in archive: {0}"
 msgstr "نام فایل نامعتبر در آرشیو: {0}"
 
 #. L10n: {0} is the name of the invalid file.
-#: src/olympia/files/utils.py:593
+#: src/olympia/files/utils.py:592
 #, python-brace-format
 msgid "File exceeding size limit in archive: {0}"
 msgstr "فایل فراتر از حد مجاز اندازه در آرشیو: {0}"
 
-#: src/olympia/files/utils.py:613
+#: src/olympia/files/utils.py:612
 msgid "This archive contains a forbidden special file (symbolic / hard link or device / block file)"
 msgstr "این آرشیو حاوی یک فایل خاص غیرمجاز است (پیوند نمادین / سخت یا فایل دستگاه / بلوک)"
 
-#: src/olympia/files/utils.py:648
+#: src/olympia/files/utils.py:647
 msgid "Uncompressed size is too large"
 msgstr "حجم فایل خارج‌شده از حالت فشرده بیش از حد بزرگ است"
 
-#: src/olympia/files/utils.py:680
+#: src/olympia/files/utils.py:679
 msgid "Invalid archive."
 msgstr "آرشیو نامعتبر است."
 
-#: src/olympia/files/utils.py:867
+#: src/olympia/files/utils.py:866
 msgid "No manifest.json found"
 msgstr "فایل manifest.json پیدا نشد"
 
-#: src/olympia/files/utils.py:872
+#: src/olympia/files/utils.py:871
 msgid "Invalid or corrupted file."
 msgstr "فایل نامعتبر یا آسیب‌دیده است."
 
-#: src/olympia/files/utils.py:912
+#: src/olympia/files/utils.py:911
 #, python-format
 msgid "The add-on ID in your manifest.json (%s) does not match the ID of your add-on on AMO (%s)"
 msgstr "شناسه افزونه در manifest.json شما (%s) با شناسه افزونه‌تان در AMO (%s) مطابقت ندارد"
 
-#: src/olympia/files/utils.py:920
+#: src/olympia/files/utils.py:919
 msgid "Duplicate add-on ID found."
 msgstr "شناسه افزونه تکراری پیدا شد."
 
-#: src/olympia/files/utils.py:926
+#: src/olympia/files/utils.py:925
 #, python-brace-format
 msgid "Version numbers should have at most {max_length} characters."
 msgstr "شماره‌های نسخه باید حداکثر {max_length} نویسه داشته باشند."
 
-#: src/olympia/files/utils.py:932
+#: src/olympia/files/utils.py:931
 msgid "Version numbers should only contain letters, numbers, and these punctuation characters: +*.-_."
 msgstr "شماره‌های نسخه تنها باید شامل حروف، اعداد و این علائم نگارشی باشند: +*.-_."
 
-#: src/olympia/files/utils.py:941
+#: src/olympia/files/utils.py:940
 #, python-brace-format
 msgid "Maximum size for WebExtension themes is {0}."
 msgstr "حداکثر اندازه برای پوسته‌های WebExtension برابر با {0} است."
 
-#: src/olympia/files/utils.py:955
+#: src/olympia/files/utils.py:954
 msgid "You cannot submit this type of add-on"
 msgstr "شما نمی‌توانید این نوع افزونه را ارسال کنید"
 
-#: src/olympia/files/utils.py:959
+#: src/olympia/files/utils.py:958
 msgid "You cannot submit an add-on using an ID ending with this suffix"
 msgstr "شما نمی‌توانید افزونه‌ای با شناسه‌ای که به این پسوند ختم می‌شود ارسال کنید"
 
-#: src/olympia/files/utils.py:964
+#: src/olympia/files/utils.py:963
 msgid "You cannot submit a Mozilla Signed Extension"
 msgstr "شما نمی‌توانید یک افزونه امضاشده توسط موزیلا را ارسال کنید"
 
-#: src/olympia/files/utils.py:968
+#: src/olympia/files/utils.py:967
 msgid "You cannot submit a language pack"
 msgstr "شما نمی‌توانید بسته زبان ارسال کنید"
 
-#: src/olympia/files/utils.py:977
+#: src/olympia/files/utils.py:976
 msgid "The locale of an existing dictionary/language pack cannot be changed"
 msgstr "زبان یک واژه‌نامه/بسته زبان موجود قابل تغییر نیست"
 
-#: src/olympia/files/utils.py:1020
+#: src/olympia/files/utils.py:1019
 #, python-brace-format
 msgid "Unsupported file type, please upload a supported file {extensions}."
 msgstr "نوع فایل پشتیبانی نمی‌شود، لطفاً فایلی با پسوند معتبر {extensions} بارگذاری کنید."
 
-#: src/olympia/files/utils.py:1028
+#: src/olympia/files/utils.py:1027
 msgid "Unexpected error."
 msgstr "خطای غیرمنتظره."
 
-#: src/olympia/files/utils.py:1033
+#: src/olympia/files/utils.py:1032
 #, python-format
 msgid "The type (%s) does not match the type of your add-on on AMO (%s)"
 msgstr "نوع (%s) با نوع افزونه شما در AMO (%s) مطابقت ندارد"
 
-#: src/olympia/files/utils.py:1038
+#: src/olympia/files/utils.py:1037
 msgid "Unknown"
 msgstr "نامشخص"
 
@@ -6664,23 +6680,23 @@ msgstr "شماره نسخه با فایل مانیفست مطابقت ندارد
 msgid "Please specify your Add-on ID in the manifest if it's longer than 64 characters."
 msgstr "اگر شناسه افزونه طولانی‌تر از ۶۴ نویسه است، لطفاً آن را در فایل مانیفست مشخص کنید."
 
-#: src/olympia/signing/views.py:192
+#: src/olympia/signing/views.py:191
 msgid "Invalid Add-on ID in URL or package"
 msgstr "شناسه افزونه در نشانی اینترنتی یا بسته نامعتبر است"
 
-#: src/olympia/signing/views.py:209
+#: src/olympia/signing/views.py:208
 msgid "Only API v5+ supports enterprise channels."
 msgstr "تنها نسخه ۵ به بالای API از کانال‌های سازمانی پشتیبانی می‌کند."
 
-#: src/olympia/signing/views.py:222
+#: src/olympia/signing/views.py:221
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
 msgstr "نمی‌توان نسخه‌های فهرست‌شده را به افزونه‌ای با وضعیت «نامرئی» اضافه کرد."
 
-#: src/olympia/signing/views.py:237
+#: src/olympia/signing/views.py:236
 msgid "You cannot add a listed version to this add-on via the API due to missing metadata. Please submit via the website"
 msgstr "به دلیل نبود برخی متاداده‌ها، نمی‌توان نسخه فهرست‌شده‌ای را از طریق API به این افزونه اضافه کرد. لطفاً از طریق وبسایت ارسال نمایید"
 
-#: src/olympia/signing/views.py:285
+#: src/olympia/signing/views.py:284
 msgid "No uploaded file for that add-on and version."
 msgstr "هیچ فایلی برای آن افزونه و نسخه بارگذاری نشده است."
 
@@ -7158,11 +7174,11 @@ msgstr "نرم‌افزار یا دستگاهی که استفاده می‌کن�
 
 #: src/olympia/users/models.py:1509
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
-"پیش از شروع، لطفاً توافق‌نامه توزیع افزونه فایرفاکس و همچنین قوانین و خط‌مشی‌های بررسی ما را مطالعه و قبول کنید. توافق‌نامه توزیع افزونه فایرفاکس همچنین حاوی پیوندی به بیانیه حریم خصوصی ماست که نحوه"
-" مدیریت اطلاعات شما را شرح می‌دهد."
+"پیش از شروع، لطفاً توافق‌نامه توزیع افزونه فایرفاکس و همچنین قوانین و خط‌مشی‌های بررسی ما را مطالعه و قبول کنید. توافق‌نامه توزیع افزونه فایرفاکس همچنین حاوی پیوندی به بیانیه حریم خصوصی ماست که نحوه "
+"مدیریت اطلاعات شما را شرح می‌دهد."
 
 #: src/olympia/users/models.py:1523
 #, python-brace-format
@@ -7303,7 +7319,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7313,7 +7330,8 @@ msgid ""
 msgstr ""
 "سلام،\n"
 "\n"
-"این پیام برای اطلاع شما از این است که حساب کاربری‌تان با نام %(name)s در %(site_url)s حذف شده است. اگر اخیراً حساب موزیلای خود را حذف کرده‌اید، ممکن است این مورد به‌صورت خودکار به‌عنوان بخشی از آن فرآیند رخ داده باشد.\n"
+"این پیام برای اطلاع شما از این است که حساب کاربری‌تان با نام %(name)s در %(site_url)s حذف شده است. اگر اخیراً حساب موزیلای خود را حذف کرده‌اید، ممکن است این مورد به‌صورت خودکار به‌عنوان بخشی از آن "
+"فرآیند رخ داده باشد.\n"
 "\n"
 "از اینکه بخشی از جامعه کاربری افزونه‌های فایرفاکس بوده‌اید سپاسگزاریم. چنانچه معتقدید اشتباهی رخ داده یا سؤالی دارید، لطفاً با ما تماس بگیرید.\n"
 "\n"
