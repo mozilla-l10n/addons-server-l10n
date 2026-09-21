@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-17 11:05+0000\n"
+"POT-Creation-Date: 2026-09-21 08:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1278,31 +1278,31 @@ msgstr ""
 msgid "Decision made"
 msgstr ""
 
-#: src/olympia/constants/applications.py:28 src/olympia/constants/categories.py:241
+#: src/olympia/constants/applications.py:24 src/olympia/constants/categories.py:241
 msgid "Firefox"
 msgstr ""
 
-#: src/olympia/constants/applications.py:49
+#: src/olympia/constants/applications.py:38
 msgid "Thunderbird"
 msgstr ""
 
-#: src/olympia/constants/applications.py:61
+#: src/olympia/constants/applications.py:50
 msgid "SeaMonkey"
 msgstr ""
 
-#: src/olympia/constants/applications.py:78
+#: src/olympia/constants/applications.py:67
 msgid "Sunbird"
 msgstr ""
 
-#: src/olympia/constants/applications.py:95
+#: src/olympia/constants/applications.py:84
 msgid "Mobile"
 msgstr ""
 
-#: src/olympia/constants/applications.py:108
+#: src/olympia/constants/applications.py:97
 msgid "Firefox for Android"
 msgstr ""
 
-#: src/olympia/constants/applications.py:144
+#: src/olympia/constants/applications.py:125
 msgid "Mozilla"
 msgstr ""
 
