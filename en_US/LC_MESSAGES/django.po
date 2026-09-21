@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-21 13:15+0000\n"
+"POT-Creation-Date: 2026-09-21 15:00+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -251,15 +251,15 @@ msgstr ""
 msgid "No links are allowed."
 msgstr "No links are allowed."
 
-#: src/olympia/accounts/serializers.py:170
+#: src/olympia/accounts/serializers.py:170 src/olympia/devhub/serializers.py:38
 msgid "This display name cannot be used."
 msgstr "This display name cannot be used."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1020
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1019
 msgid "Images must be either PNG or JPG."
 msgstr "Images must be either PNG or JPG."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1026
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1025
 msgid "Images cannot be animated."
 msgstr "Images cannot be animated."
 
@@ -557,7 +557,7 @@ msgstr "Submit a New Theme"
 msgid "Developer Hub"
 msgstr "Developer Hub"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2146
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2145
 msgid "Manage API Keys"
 msgstr "Manage API Keys"
 
@@ -1660,7 +1660,7 @@ msgstr "Extension Development"
 msgid "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 msgstr "Download Firefox extensions that feature web development tools. This category includes extensions for GitHub, user agent switching, cookie management, and more."
 
-#: src/olympia/constants/categories.py:195 src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:9
+#: src/olympia/constants/categories.py:195 src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640 src/olympia/devhub/serializers.py:14
 msgid "Other"
 msgstr "Other"
 
@@ -2164,11 +2164,11 @@ msgstr "Give us more details about the issue"
 msgid "Describe the issue"
 msgstr "Describe the issue"
 
-#: src/olympia/devhub/serializers.py:7
+#: src/olympia/devhub/serializers.py:12
 msgid "Technical support for making your add-on compliant"
 msgstr "Technical support for making your add-on compliant"
 
-#: src/olympia/devhub/serializers.py:8
+#: src/olympia/devhub/serializers.py:13
 msgid "Issue with addons.mozilla.org"
 msgstr "Issue with addons.mozilla.org"
 
@@ -2191,292 +2191,292 @@ msgstr "The developer API key of a coauthor was found in the submitted file. To 
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Mozilla Security Notice: Your AMO API credentials have been revoked"
 
-#: src/olympia/devhub/utils.py:90
+#: src/olympia/devhub/utils.py:92
 #, python-format
 msgid "Validation generated too many errors/warnings so %s messages were truncated. After addressing the visible messages, you'll be able to see the others."
 msgstr "Validation generated too many errors/warnings so %s messages were truncated. After addressing the visible messages, you'll be able to see the others."
 
-#: src/olympia/devhub/utils.py:211
+#: src/olympia/devhub/utils.py:213
 #, python-brace-format
 msgid "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 msgstr "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</a> page to submit extensions."
 
-#: src/olympia/devhub/views.py:132
+#: src/olympia/devhub/views.py:131
 msgid "Updated"
 msgstr "Updated"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38 src/olympia/devhub/templates/devhub/addons/edit/describe.html:75 src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:143
+#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
 msgid "Name"
 msgstr "Name"
 
-#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:142
+#: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
 msgid "Created"
 msgstr "Created"
 
-#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144 src/olympia/stats/templates/stats/addon_report_menu.html:8
+#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Downloads"
 
-#: src/olympia/devhub/views.py:136 src/olympia/devhub/views.py:145
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
 msgid "Rating"
 msgstr "Rating"
 
-#: src/olympia/devhub/views.py:211
+#: src/olympia/devhub/views.py:210
 msgid "All My Add-ons"
 msgstr "All My Add-ons"
 
-#: src/olympia/devhub/views.py:239
+#: src/olympia/devhub/views.py:238
 msgid "All Activity"
 msgstr "All Activity"
 
-#: src/olympia/devhub/views.py:240
+#: src/olympia/devhub/views.py:239
 msgid "Add-on Updates"
 msgstr "Add-on Updates"
 
-#: src/olympia/devhub/views.py:241
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Status"
 msgstr "Add-on Status"
 
-#: src/olympia/devhub/views.py:242
+#: src/olympia/devhub/views.py:241
 msgid "User Collections"
 msgstr "User Collections"
 
-#: src/olympia/devhub/views.py:243
+#: src/olympia/devhub/views.py:242
 msgid "User Reviews"
 msgstr "User Reviews"
 
-#: src/olympia/devhub/views.py:354
+#: src/olympia/devhub/views.py:353
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Add-on cannot be deleted. Disable this add-on instead."
 
-#: src/olympia/devhub/views.py:365
+#: src/olympia/devhub/views.py:364
 msgid "Theme deleted."
 msgstr "Theme deleted."
 
-#: src/olympia/devhub/views.py:365
+#: src/olympia/devhub/views.py:364
 msgid "Add-on deleted."
 msgstr "Add-on deleted."
 
-#: src/olympia/devhub/views.py:371
+#: src/olympia/devhub/views.py:370
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "URL name was incorrect. Theme was not deleted."
 
-#: src/olympia/devhub/views.py:373
+#: src/olympia/devhub/views.py:372
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "URL name was incorrect. Add-on was not deleted."
 
-#: src/olympia/devhub/views.py:415
+#: src/olympia/devhub/views.py:414
 msgid "Request for a new review of listing content acknowledged."
 msgstr "Request for a new review of listing content acknowledged."
 
-#: src/olympia/devhub/views.py:459
+#: src/olympia/devhub/views.py:458
 msgid "Invitation accepted."
 msgstr "Invitation accepted."
 
-#: src/olympia/devhub/views.py:462
+#: src/olympia/devhub/views.py:461
 msgid "Invitation declined."
 msgstr "Invitation declined."
 
-#: src/olympia/devhub/views.py:530
+#: src/olympia/devhub/views.py:529
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "A confirmation email has been sent to {email}"
 
-#: src/olympia/devhub/views.py:547 src/olympia/devhub/views.py:1163
+#: src/olympia/devhub/views.py:546 src/olympia/devhub/views.py:1162
 msgid "Changes successfully saved."
 msgstr "Changes successfully saved."
 
-#: src/olympia/devhub/views.py:567
+#: src/olympia/devhub/views.py:566
 msgid "Validate Add-on"
 msgstr "Validate Add-on"
 
-#: src/olympia/devhub/views.py:638
+#: src/olympia/devhub/views.py:637
 #, python-brace-format
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 
-#: src/olympia/devhub/views.py:1018
+#: src/olympia/devhub/views.py:1017
 msgid "Icons must be either PNG or JPG."
 msgstr "Icons must be either PNG or JPG."
 
-#: src/olympia/devhub/views.py:1024
+#: src/olympia/devhub/views.py:1023
 msgid "Icons cannot be animated."
 msgstr "Icons cannot be animated."
 
-#: src/olympia/devhub/views.py:1035
+#: src/olympia/devhub/views.py:1034
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Please use images smaller than %dMB."
 
-#: src/olympia/devhub/views.py:1050
+#: src/olympia/devhub/views.py:1049
 #, fuzzy, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Image must be exactly {0} pixels wide and {1} pixels tall."
 
-#: src/olympia/devhub/views.py:1054
+#: src/olympia/devhub/views.py:1053
 #, fuzzy
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Images must be either PNG or JPG."
 
-#: src/olympia/devhub/views.py:1062
+#: src/olympia/devhub/views.py:1061
 #, fuzzy, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Image must be exactly {0} pixels wide and {1} pixels tall."
 
-#: src/olympia/devhub/views.py:1067
+#: src/olympia/devhub/views.py:1066
 msgid "Icon must be square (same width and height)."
 msgstr "Icon must be square (same width and height)."
 
-#: src/olympia/devhub/views.py:1073
+#: src/olympia/devhub/views.py:1072
 msgid "There was an error uploading your preview."
 msgstr "There was an error uploading your preview."
 
-#: src/olympia/devhub/views.py:1219
+#: src/olympia/devhub/views.py:1218
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 
-#: src/olympia/devhub/views.py:1226
+#: src/olympia/devhub/views.py:1225
 #, python-format
 msgid "Version %s disabled."
 msgstr "Version %s disabled."
 
-#: src/olympia/devhub/views.py:1230
+#: src/olympia/devhub/views.py:1229
 #, python-format
 msgid "Version %s deleted."
 msgstr "Version %s deleted."
 
-#: src/olympia/devhub/views.py:1241
+#: src/olympia/devhub/views.py:1240
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Version %s re-enabled."
 
-#: src/olympia/devhub/views.py:1257
+#: src/olympia/devhub/views.py:1256
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 
-#: src/olympia/devhub/views.py:1316
+#: src/olympia/devhub/views.py:1315
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Rollback submitted. You'll be notified when it's approved"
 
-#: src/olympia/devhub/views.py:1462
+#: src/olympia/devhub/views.py:1461
 #, fuzzy
 msgid "Header area background"
 msgstr "Header area background (accentcolor)"
 
-#: src/olympia/devhub/views.py:1464
+#: src/olympia/devhub/views.py:1463
 #, fuzzy
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "The color of the header area background, displayed in the part of the header not covered or visible through the header image."
 
-#: src/olympia/devhub/views.py:1472
+#: src/olympia/devhub/views.py:1471
 #, fuzzy
 msgid "Header area text and icons"
 msgstr "Header area text (textcolor)"
 
-#: src/olympia/devhub/views.py:1474
+#: src/olympia/devhub/views.py:1473
 #, fuzzy
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "The color of the text displayed in the header area."
 
-#: src/olympia/devhub/views.py:1481
+#: src/olympia/devhub/views.py:1480
 #, fuzzy
 msgid "Toolbar area background"
 msgstr "Toolbar area background (toolbar)."
 
-#: src/olympia/devhub/views.py:1483
+#: src/olympia/devhub/views.py:1482
 #, fuzzy
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "The background color for the navigation bar, the bookmarks bar, and the selected tab."
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1489
 #, fuzzy
 msgid "Toolbar area text and icons"
 msgstr "Toolbar area text (toolbar_text)."
 
-#: src/olympia/devhub/views.py:1492
+#: src/olympia/devhub/views.py:1491
 #, fuzzy
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "The color of text in fields in the toolbar, such as the URL bar"
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1498
 #, fuzzy
 msgid "Toolbar field area background"
 msgstr "Toolbar field area background (toolbar_field)."
 
-#: src/olympia/devhub/views.py:1501
+#: src/olympia/devhub/views.py:1500
 #, fuzzy
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "The background color for fields in the toolbar, such as the URL bar."
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1507
 #, fuzzy
 msgid "Toolbar field area text"
 msgstr "Toolbar field area text (toolbar_field_text)."
 
-#: src/olympia/devhub/views.py:1510
+#: src/olympia/devhub/views.py:1509
 #, fuzzy
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "The color of text in fields in the toolbar, such as the URL bar"
 
-#: src/olympia/devhub/views.py:1518
+#: src/olympia/devhub/views.py:1517
 msgid "Tab highlight"
 msgstr "Tab highlight"
 
-#: src/olympia/devhub/views.py:1520
+#: src/olympia/devhub/views.py:1519
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 
-#: src/olympia/devhub/views.py:1623
+#: src/olympia/devhub/views.py:1622
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Add-on uploads are temporarily unavailable"
 
-#: src/olympia/devhub/views.py:1995
+#: src/olympia/devhub/views.py:1994
 #, fuzzy
 msgid "Review requested."
 msgstr "Review requested"
 
-#: src/olympia/devhub/views.py:1997
+#: src/olympia/devhub/views.py:1996
 #, fuzzy
 msgid "You must provide further details to proceed."
 msgstr "Review requested.  You must provide further details to proceed."
 
-#: src/olympia/devhub/views.py:2104
+#: src/olympia/devhub/views.py:2103
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "A confirmation link will be sent to your email address shortly."
 
-#: src/olympia/devhub/views.py:2119
+#: src/olympia/devhub/views.py:2118
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Your old credentials were revoked and are no longer valid."
 
-#: src/olympia/devhub/views.py:2130
+#: src/olympia/devhub/views.py:2129
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 
-#: src/olympia/devhub/views.py:2158
+#: src/olympia/devhub/views.py:2157
 msgid "New API key created"
 msgstr "New API key created"
 
-#: src/olympia/devhub/views.py:2169
+#: src/olympia/devhub/views.py:2168
 msgid "API key revoked"
 msgstr "API key revoked"
 
-#: src/olympia/devhub/views.py:2229
+#: src/olympia/devhub/views.py:2228
 msgid "Verify email"
 msgstr "Verify email"
 
-#: src/olympia/devhub/views.py:2231
+#: src/olympia/devhub/views.py:2230
 msgid "Send another email"
 msgstr "Send another email"
 
-#: src/olympia/devhub/views.py:2264
+#: src/olympia/devhub/views.py:2263
 msgid "Your email has been verified"
 msgstr "Your email has been verified"
 
-#: src/olympia/devhub/views.py:2330
+#: src/olympia/devhub/views.py:2329
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Your support request has been submitted. We will be in touch soon."
 
@@ -7506,31 +7506,31 @@ msgstr "Delete Locale"
 msgid "No user with that email."
 msgstr "No user with that email."
 
-#: src/olympia/users/models.py:683
+#: src/olympia/users/models.py:663
 #, fuzzy, python-brace-format
 msgid "Firefox user {id}"
 msgstr "Firefox for Android"
 
-#: src/olympia/users/models.py:943
+#: src/olympia/users/models.py:923
 msgid "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
 msgstr "Multiple submissions violating our policies have been sent from your location. The IP address has been blocked."
 
-#: src/olympia/users/models.py:1177
+#: src/olympia/users/models.py:1157
 msgid "The email address used for your account is not allowed for submissions."
 msgstr "The email address used for your account is not allowed for submissions."
 
-#: src/olympia/users/models.py:1364
+#: src/olympia/users/models.py:1344
 msgid "The software or device you are using is not allowed for submissions."
 msgstr "The software or device you are using is not allowed for submissions."
 
-#: src/olympia/users/models.py:1509
+#: src/olympia/users/models.py:1489
 #, fuzzy
 msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
 "Notice which explains how we handle your information."
 msgstr "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 
-#: src/olympia/users/models.py:1523
+#: src/olympia/users/models.py:1503
 #, fuzzy, python-brace-format
 msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."

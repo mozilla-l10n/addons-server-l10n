@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-21 13:15+0000\n"
+"POT-Creation-Date: 2026-09-21 15:00+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -270,17 +270,17 @@ msgstr ""
 msgid "No links are allowed."
 msgstr "Veze nisu dozvoljene."
 
-#: src/olympia/accounts/serializers.py:170
+#: src/olympia/accounts/serializers.py:170 src/olympia/devhub/serializers.py:38
 msgid "This display name cannot be used."
 msgstr "Ovo ime za prikazivanje ne može da se koristi."
 
 #: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366
-#: src/olympia/devhub/views.py:1020
+#: src/olympia/devhub/views.py:1019
 msgid "Images must be either PNG or JPG."
 msgstr "Slike moraju biti PNG ili JPG."
 
 #: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371
-#: src/olympia/devhub/views.py:1026
+#: src/olympia/devhub/views.py:1025
 msgid "Images cannot be animated."
 msgstr "Slike ne mogu biti animirane."
 
@@ -625,7 +625,7 @@ msgstr "Centar za programere"
 
 #: src/olympia/amo/context_processors.py:79
 #: src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20
-#: src/olympia/devhub/views.py:2146
+#: src/olympia/devhub/views.py:2145
 msgid "Manage API Keys"
 msgstr "Upravljajte API ključevima"
 
@@ -1876,7 +1876,7 @@ msgstr ""
 
 #: src/olympia/constants/categories.py:195
 #: src/olympia/constants/categories.py:287 src/olympia/devhub/forms.py:640
-#: src/olympia/devhub/serializers.py:9
+#: src/olympia/devhub/serializers.py:14
 msgid "Other"
 msgstr "Drugo"
 
@@ -2497,11 +2497,11 @@ msgstr "Dajte nam još detalja o problemu"
 msgid "Describe the issue"
 msgstr "Opišite problem"
 
-#: src/olympia/devhub/serializers.py:7
+#: src/olympia/devhub/serializers.py:12
 msgid "Technical support for making your add-on compliant"
 msgstr "Tehnička podrška za usklađivanje vašeg dodatka"
 
-#: src/olympia/devhub/serializers.py:8
+#: src/olympia/devhub/serializers.py:13
 msgid "Issue with addons.mozilla.org"
 msgstr "Problem sa addons.mozilla.org"
 
@@ -2529,7 +2529,7 @@ msgstr ""
 msgid "Mozilla Security Notice: Your AMO API credentials have been revoked"
 msgstr "Bezbednosno obaveštenje Mozilla-e: Vaši AMO API akreditivi su opozvani"
 
-#: src/olympia/devhub/utils.py:90
+#: src/olympia/devhub/utils.py:92
 #, python-format
 msgid ""
 "Validation generated too many errors/warnings so %s messages were truncated. "
@@ -2538,7 +2538,7 @@ msgstr ""
 "Provera je proizvela previše grešaka/upozorenja, pa su %s poruka skraćene. "
 "Nakon što rešite vidljive poruke, moći ćete da vidite ostale."
 
-#: src/olympia/devhub/utils.py:211
+#: src/olympia/devhub/utils.py:213
 #, python-brace-format
 msgid ""
 "This add-on is not a theme. Use the <a href=\"{link}\">Submit a New Add-on</"
@@ -2547,101 +2547,101 @@ msgstr ""
 "Ovaj dodatak nije tema. Koristite stranicu <a href=\"{link}\">Pošalji novi "
 "dodatak</a> za slanje dodataka."
 
-#: src/olympia/devhub/views.py:132
+#: src/olympia/devhub/views.py:131
 msgid "Updated"
 msgstr "Ažurirano"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:38
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:75
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:35
-#: src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:143
+#: src/olympia/devhub/views.py:132 src/olympia/devhub/views.py:142
 msgid "Name"
 msgstr "Naziv"
 
 #: src/olympia/devhub/templates/devhub/api/key.html:29
-#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:142
+#: src/olympia/devhub/views.py:133 src/olympia/devhub/views.py:141
 msgid "Created"
 msgstr "Kreirano"
 
-#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
+#: src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:143
 #: src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
 msgstr "Preuzimanja"
 
-#: src/olympia/devhub/views.py:136 src/olympia/devhub/views.py:145
+#: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144
 msgid "Rating"
 msgstr "Ocena"
 
-#: src/olympia/devhub/views.py:211
+#: src/olympia/devhub/views.py:210
 msgid "All My Add-ons"
 msgstr "Svi moji dodaci"
 
-#: src/olympia/devhub/views.py:239
+#: src/olympia/devhub/views.py:238
 msgid "All Activity"
 msgstr "Sva aktivnost"
 
-#: src/olympia/devhub/views.py:240
+#: src/olympia/devhub/views.py:239
 msgid "Add-on Updates"
 msgstr "Ažuriranja dodataka"
 
-#: src/olympia/devhub/views.py:241
+#: src/olympia/devhub/views.py:240
 msgid "Add-on Status"
 msgstr "Status dodatka"
 
-#: src/olympia/devhub/views.py:242
+#: src/olympia/devhub/views.py:241
 msgid "User Collections"
 msgstr "Korisničke zbirke"
 
-#: src/olympia/devhub/views.py:243
+#: src/olympia/devhub/views.py:242
 msgid "User Reviews"
 msgstr "Ocene korisnika"
 
-#: src/olympia/devhub/views.py:354
+#: src/olympia/devhub/views.py:353
 msgid "Add-on cannot be deleted. Disable this add-on instead."
 msgstr "Dodatak se ne može izbrisati. Umesto toga ga onemogućite."
 
-#: src/olympia/devhub/views.py:365
+#: src/olympia/devhub/views.py:364
 msgid "Theme deleted."
 msgstr "Tema obrisana."
 
-#: src/olympia/devhub/views.py:365
+#: src/olympia/devhub/views.py:364
 msgid "Add-on deleted."
 msgstr "Dodatak obrisan."
 
-#: src/olympia/devhub/views.py:371
+#: src/olympia/devhub/views.py:370
 msgid "URL name was incorrect. Theme was not deleted."
 msgstr "Naziv URL-a je bio pogrešan. Tema nije obrisana."
 
-#: src/olympia/devhub/views.py:373
+#: src/olympia/devhub/views.py:372
 msgid "URL name was incorrect. Add-on was not deleted."
 msgstr "Naziv URL-a je bio pogrešan. Dodatak nije obrisan."
 
-#: src/olympia/devhub/views.py:415
+#: src/olympia/devhub/views.py:414
 msgid "Request for a new review of listing content acknowledged."
 msgstr "Zahtev za novim pregledom sadržaja objave je primljen."
 
-#: src/olympia/devhub/views.py:459
+#: src/olympia/devhub/views.py:458
 msgid "Invitation accepted."
 msgstr "Poziv je prihvaćen."
 
-#: src/olympia/devhub/views.py:462
+#: src/olympia/devhub/views.py:461
 msgid "Invitation declined."
 msgstr "Poziv je odbijen."
 
-#: src/olympia/devhub/views.py:530
+#: src/olympia/devhub/views.py:529
 #, python-brace-format
 msgid "A confirmation email has been sent to {email}"
 msgstr "E-pošta za potvrdu je poslata na {email}"
 
-#: src/olympia/devhub/views.py:547 src/olympia/devhub/views.py:1163
+#: src/olympia/devhub/views.py:546 src/olympia/devhub/views.py:1162
 msgid "Changes successfully saved."
 msgstr "Izmene su uspešno sačuvane."
 
-#: src/olympia/devhub/views.py:567
+#: src/olympia/devhub/views.py:566
 msgid "Validate Add-on"
 msgstr "Proverite ispravnost dodataka"
 
-#: src/olympia/devhub/views.py:638
+#: src/olympia/devhub/views.py:637
 #, python-brace-format
 msgid ""
 "<a href=\"{link}\">Please add two-factor authentication to your account to "
@@ -2650,42 +2650,42 @@ msgstr ""
 "<a href=\"{link}\">Dodajte dvofaktorsko potvrđivanje identiteta na vaš nalog "
 "da biste mogli da šaljete dodatke.</a>"
 
-#: src/olympia/devhub/views.py:1018
+#: src/olympia/devhub/views.py:1017
 msgid "Icons must be either PNG or JPG."
 msgstr "Ikonice moraju biti ili PNG ili JPG formata."
 
-#: src/olympia/devhub/views.py:1024
+#: src/olympia/devhub/views.py:1023
 msgid "Icons cannot be animated."
 msgstr "Ikonice ne mogu biti animirane."
 
-#: src/olympia/devhub/views.py:1035
+#: src/olympia/devhub/views.py:1034
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Koristite slike manje od %dMB."
 
-#: src/olympia/devhub/views.py:1050
+#: src/olympia/devhub/views.py:1049
 #, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Slika mora biti najmanje {0} piksela široka i {1} piksela visoka."
 
-#: src/olympia/devhub/views.py:1054
+#: src/olympia/devhub/views.py:1053
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Dimenzije slike moraju biti u odnosu 4:3."
 
-#: src/olympia/devhub/views.py:1062
+#: src/olympia/devhub/views.py:1061
 #, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Ikonica mora biti najmanje {0} piksela široka i visoka."
 
-#: src/olympia/devhub/views.py:1067
+#: src/olympia/devhub/views.py:1066
 msgid "Icon must be square (same width and height)."
 msgstr "Ikonica mora biti kvadratna (ista širina i visina)."
 
-#: src/olympia/devhub/views.py:1073
+#: src/olympia/devhub/views.py:1072
 msgid "There was an error uploading your preview."
 msgstr "Došlo je do greške prilikom otpremanja vašeg pretpregleda."
 
-#: src/olympia/devhub/views.py:1219
+#: src/olympia/devhub/views.py:1218
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled "
@@ -2696,22 +2696,22 @@ msgstr ""
 "onemogućeno zato što prethodno izdanje nije bilo odobreno za %s promociju. "
 "Kontaktirajte administratore AMO-a ako vam je potrebna pomoć oko ovoga."
 
-#: src/olympia/devhub/views.py:1226
+#: src/olympia/devhub/views.py:1225
 #, python-format
 msgid "Version %s disabled."
 msgstr "Izdanje %s onemogućeno."
 
-#: src/olympia/devhub/views.py:1230
+#: src/olympia/devhub/views.py:1229
 #, python-format
 msgid "Version %s deleted."
 msgstr "Izdanje %s obrisano."
 
-#: src/olympia/devhub/views.py:1241
+#: src/olympia/devhub/views.py:1240
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Izdanje %s ponovo omogućeno."
 
-#: src/olympia/devhub/views.py:1257
+#: src/olympia/devhub/views.py:1256
 msgid ""
 "This upload has failed validation, and may lack complete validation results. "
 "Please take due care when reviewing it."
@@ -2719,15 +2719,15 @@ msgstr ""
 "Ovo otpremanje nije prošlo potvrđivanje i možda ne sadrži potpune rezultate "
 "potvrđivanja. Budite pažljivi prilikom pregledanja."
 
-#: src/olympia/devhub/views.py:1316
+#: src/olympia/devhub/views.py:1315
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Vraćanje je podneto. Bićete obavešteni kada bude odobreno."
 
-#: src/olympia/devhub/views.py:1462
+#: src/olympia/devhub/views.py:1461
 msgid "Header area background"
 msgstr "Pozadina oblasti zaglavlja"
 
-#: src/olympia/devhub/views.py:1464
+#: src/olympia/devhub/views.py:1463
 msgid ""
 "The color of the header area background, displayed in the part of the header "
 "not covered or visible through the header image. Manifest field:  frame."
@@ -2735,11 +2735,11 @@ msgstr ""
 "Boja pozadine oblasti zaglavlja, koja se prikazuje u delu zaglavlja koji "
 "nije prekriven ili je vidljiv kroz sliku zaglavlja. Polje manifesta: frame."
 
-#: src/olympia/devhub/views.py:1472
+#: src/olympia/devhub/views.py:1471
 msgid "Header area text and icons"
 msgstr "Tekst i ikonice oblasti zaglavlja"
 
-#: src/olympia/devhub/views.py:1474
+#: src/olympia/devhub/views.py:1473
 msgid ""
 "The color of the text and icons in the header area, except the active tab. "
 "Manifest field:  tab_background_text."
@@ -2747,11 +2747,11 @@ msgstr ""
 "Boja teksta i ikonica u oblasti zaglavlja, izuzev aktivnog jezička. Polje "
 "manifesta: tab_background_text."
 
-#: src/olympia/devhub/views.py:1481
+#: src/olympia/devhub/views.py:1480
 msgid "Toolbar area background"
 msgstr "Pozadina oblasti alatne trake"
 
-#: src/olympia/devhub/views.py:1483
+#: src/olympia/devhub/views.py:1482
 msgid ""
 "The background color for the navigation bar, the bookmarks bar, and the "
 "active tab.  Manifest field:  toolbar."
@@ -2759,11 +2759,11 @@ msgstr ""
 "Boja pozadine za traku navigacije, traku obeleživača i aktivni jezičak. "
 "Polje manifesta: toolbar."
 
-#: src/olympia/devhub/views.py:1490
+#: src/olympia/devhub/views.py:1489
 msgid "Toolbar area text and icons"
 msgstr "Tekst i ikonice oblasti alatne trake"
 
-#: src/olympia/devhub/views.py:1492
+#: src/olympia/devhub/views.py:1491
 msgid ""
 "The color of the text and icons in the toolbar and the active tab. Manifest "
 "field:  bookmark_text."
@@ -2771,11 +2771,11 @@ msgstr ""
 "Boja teksta i ikonica u alatnoj traci i aktivnom jezičku. Polje manifesta: "
 "bookmark_text."
 
-#: src/olympia/devhub/views.py:1499
+#: src/olympia/devhub/views.py:1498
 msgid "Toolbar field area background"
 msgstr "Pozadina oblasti polja alatne trake"
 
-#: src/olympia/devhub/views.py:1501
+#: src/olympia/devhub/views.py:1500
 msgid ""
 "The background color for fields in the toolbar, such as the URL bar. "
 "Manifest field:  toolbar_field."
@@ -2783,11 +2783,11 @@ msgstr ""
 "Boja pozadine za polja u alatnoj traci, kao što je URL traka. Polje "
 "manifesta: toolbar_field."
 
-#: src/olympia/devhub/views.py:1508
+#: src/olympia/devhub/views.py:1507
 msgid "Toolbar field area text"
 msgstr "Tekst oblasti polja alatne trake"
 
-#: src/olympia/devhub/views.py:1510
+#: src/olympia/devhub/views.py:1509
 msgid ""
 "The color of text in fields in the toolbar, such as the URL bar. Manifest "
 "field:  toolbar_field_text."
@@ -2795,11 +2795,11 @@ msgstr ""
 "Boja teksta u poljima u alatnoj traci, kao što je URL traka. Polje "
 "manifesta: toolbar_field_text."
 
-#: src/olympia/devhub/views.py:1518
+#: src/olympia/devhub/views.py:1517
 msgid "Tab highlight"
 msgstr "Isticanje jezička"
 
-#: src/olympia/devhub/views.py:1520
+#: src/olympia/devhub/views.py:1519
 msgid ""
 "The highlight color of the active tab. Implemented as a border around the "
 "tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest "
@@ -2809,27 +2809,27 @@ msgstr ""
 "u 89+ i kao linija iznad jezička u starijim verzijama Firefox-a. Polje u "
 "manifestu: tab_line."
 
-#: src/olympia/devhub/views.py:1623
+#: src/olympia/devhub/views.py:1622
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Otpremanje dodataka je privremeno nedostupno"
 
-#: src/olympia/devhub/views.py:1995
+#: src/olympia/devhub/views.py:1994
 msgid "Review requested."
 msgstr "Zahtevana recenzija"
 
-#: src/olympia/devhub/views.py:1997
+#: src/olympia/devhub/views.py:1996
 msgid "You must provide further details to proceed."
 msgstr "Morate da obezbedite dodatne detalje da biste nastavili."
 
-#: src/olympia/devhub/views.py:2104
+#: src/olympia/devhub/views.py:2103
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "Uskoro će vam biti poslata adresa za potvrdu na adresu e-pošte."
 
-#: src/olympia/devhub/views.py:2119
+#: src/olympia/devhub/views.py:2118
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Vaši stari akreditivi su opozvani i više nisu ispravni."
 
-#: src/olympia/devhub/views.py:2130
+#: src/olympia/devhub/views.py:2129
 msgid ""
 "New API credentials have been generated and are displayed below. Make sure "
 "to copy the JWT secret, it will never be displayed again."
@@ -2837,27 +2837,27 @@ msgstr ""
 "Novi API akreditivi su generisani i prikazani su ispod. Postarajte se da "
 "kopirate JWT tajnu, jer nikada više neće biti prikazana."
 
-#: src/olympia/devhub/views.py:2158
+#: src/olympia/devhub/views.py:2157
 msgid "New API key created"
 msgstr "Novi API ključ je napravljen"
 
-#: src/olympia/devhub/views.py:2169
+#: src/olympia/devhub/views.py:2168
 msgid "API key revoked"
 msgstr "API ključ je opozvan"
 
-#: src/olympia/devhub/views.py:2229
+#: src/olympia/devhub/views.py:2228
 msgid "Verify email"
 msgstr "Potvrdite adresu e-pošte"
 
-#: src/olympia/devhub/views.py:2231
+#: src/olympia/devhub/views.py:2230
 msgid "Send another email"
 msgstr "Pošaljite još jednu e-poštu"
 
-#: src/olympia/devhub/views.py:2264
+#: src/olympia/devhub/views.py:2263
 msgid "Your email has been verified"
 msgstr "Vaša e-pošta je potvrđena"
 
-#: src/olympia/devhub/views.py:2330
+#: src/olympia/devhub/views.py:2329
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Vaš zahtev za podršku je podnet. Uskoro ćemo vam se javiti."
 
@@ -8849,12 +8849,12 @@ msgstr "Obriši lokalitet"
 msgid "No user with that email."
 msgstr "Nema korisnika sa tom adresom e-pošte."
 
-#: src/olympia/users/models.py:683
+#: src/olympia/users/models.py:663
 #, python-brace-format
 msgid "Firefox user {id}"
 msgstr "Firefox korisnik {id}"
 
-#: src/olympia/users/models.py:943
+#: src/olympia/users/models.py:923
 msgid ""
 "Multiple submissions violating our policies have been sent from your "
 "location. The IP address has been blocked."
@@ -8862,15 +8862,15 @@ msgstr ""
 "Višestruke prijave koje krše naša pravila poslate su sa vaše lokacije. IP "
 "adresa je blokirana."
 
-#: src/olympia/users/models.py:1177
+#: src/olympia/users/models.py:1157
 msgid "The email address used for your account is not allowed for submissions."
 msgstr "E-pošta koja se koristi za vaš nalog nije dozvoljena za prijave."
 
-#: src/olympia/users/models.py:1364
+#: src/olympia/users/models.py:1344
 msgid "The software or device you are using is not allowed for submissions."
 msgstr "Program ili uređaj koji koristite nije dozvoljen za prijave."
 
-#: src/olympia/users/models.py:1509
+#: src/olympia/users/models.py:1489
 msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution "
 "Agreement as well as our Review Policies and Rules. The Firefox Add-on "
@@ -8882,7 +8882,7 @@ msgstr ""
 "ovih dodataka takođe sadrži vezu do našeg obaveštenja o privatnosti u kojem "
 "je objašnjeno kako obrađujemo vaše podatke."
 
-#: src/olympia/users/models.py:1523
+#: src/olympia/users/models.py:1503
 #, python-brace-format
 msgid ""
 "Please read and accept our Firefox Add-on Distribution Agreement as well as "
