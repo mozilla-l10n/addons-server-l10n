@@ -6165,12 +6165,14 @@ msgstr "Eliminá distracciones, cambiá opciones de visualización, alterá la v
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Funciona muy bien para video, audio y streaming de contenido en la mayoría de los sitios web."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1127
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Docenas de funciones para que YouTube trabaje para vos. Eliminá las promociones que distraen, cambiá el diseño visual de YouTube, el ajuste de la velocidad de reproducción, el aumento del volumen y "
+"más."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
@@ -7265,7 +7267,7 @@ msgstr "Notificaciones de usuario"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Verificá tu correo electrónico ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
