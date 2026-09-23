@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-21 15:00+0000\n"
+"POT-Creation-Date: 2026-09-23 15:25+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -268,11 +268,11 @@ msgstr "Images cannot be animated."
 msgid "Please use images smaller than {}MB."
 msgstr "Please use images smaller than {}MB."
 
-#: src/olympia/accounts/views.py:208
+#: src/olympia/accounts/views.py:211
 msgid "Need help?"
 msgstr "Need help?"
 
-#: src/olympia/accounts/views.py:783
+#: src/olympia/accounts/views.py:786
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "Notification [%s] does not exist"
