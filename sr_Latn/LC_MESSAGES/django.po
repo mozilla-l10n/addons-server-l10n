@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-23 15:25+0000\n"
+"POT-Creation-Date: 2026-09-25 08:32+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1091,7 +1091,7 @@ msgstr "Preliminarno odobreno"
 msgid "{addon} {version} rejected."
 msgstr "{addon} {version} je odbijeno."
 
-#: src/olympia/constants/activity.py:174 src/olympia/files/models.py:324
+#: src/olympia/constants/activity.py:174 src/olympia/files/models.py:325
 msgid "Rejected"
 msgstr "Odbijeno"
 
@@ -8023,11 +8023,11 @@ msgstr "Dodaci za igre i multimediju"
 msgid "See more staff picks"
 msgstr "Pogledajte još preporuka osoblja"
 
-#: src/olympia/files/models.py:326
+#: src/olympia/files/models.py:327
 msgid "Unreviewed"
 msgstr "Nepregledano"
 
-#: src/olympia/files/models.py:329
+#: src/olympia/files/models.py:330
 #, python-format
 msgid "[status:%s]"
 msgstr "[status:%s]"

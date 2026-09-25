@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-09-23 15:25+0000\n"
+"POT-Creation-Date: 2026-09-25 08:32+0000\n"
 "PO-Revision-Date: 2015-07-18 03:09+0000\n"
 "Last-Translator: ubuntuser13 <ubuntuser13@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -890,7 +890,7 @@ msgstr "ਸ਼ੁਰੂਆਤੀ ਤੌਰ ਤੇ ਸਵੀਕਾਰ ਹੋਇ�
 msgid "{addon} {version} rejected."
 msgstr "{addon} {version} ਠੁਕਰਾਇਆ।"
 
-#: src/olympia/constants/activity.py:174 src/olympia/files/models.py:324
+#: src/olympia/constants/activity.py:174 src/olympia/files/models.py:325
 msgid "Rejected"
 msgstr "ਠੁਕਰਾਇਆ"
 
@@ -6416,11 +6416,11 @@ msgstr ""
 msgid "See more staff picks"
 msgstr ""
 
-#: src/olympia/files/models.py:326
+#: src/olympia/files/models.py:327
 msgid "Unreviewed"
 msgstr ""
 
-#: src/olympia/files/models.py:329
+#: src/olympia/files/models.py:330
 #, fuzzy, python-format
 msgid "[status:%s]"
 msgstr "ਦਰਜਾ:"
