@@ -4757,7 +4757,7 @@ msgstr "Um bloqueador de anúncios leve e eficaz. O uBlock Origin aplica milhare
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:47
 msgid "Enjoy a suite of new features, like cinema mode, ad blocking, auto-play control & more."
-msgstr "Desfrute de um conjunto de novas funcionalidades, como modo cinema, bloqueio de anúncios, controlo de auto-reprodução & mais."
+msgstr "Desfrute de um conjunto de novas funcionalidades, como modo cinema, bloqueio de anúncios, controlo de auto-reprodução & muito mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:50
@@ -5799,7 +5799,7 @@ msgstr "Faça a gestão do seu Gmail (mesmo múltiplas contas) diretamente do bo
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:688
 msgid "Track the time you spend on the web, analyze your habits, block distracting sites & more."
-msgstr "Monitorize o tempo que gasta na internet, analise os seus hábitos, bloqueie sites que distraem & mais."
+msgstr "Monitorize o tempo que gasta na internet, analise os seus hábitos, bloqueie sites que distraem & muito mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:691
@@ -5834,7 +5834,7 @@ msgstr "Melhore a sua experiência Reddit com comentários codificados por cores
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:723
 msgid "Eliminate YouTube distractions like recommendations, end-screen suggestions, comments & more."
-msgstr "Elimine as distrações do YouTube tais como recomendações, sugestões no ecrã final, comentários & mais."
+msgstr "Elimine as distrações do YouTube tais como recomendações, sugestões no ecrã final, comentários & muito mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:726
@@ -5859,12 +5859,12 @@ msgstr "Guarde imagens com facilidade — basta capturá-las do seu separador at
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:782
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
-msgstr "Desfrute de um controlo absoluto dos separadores — feche separadores duplicados, agregue janelas, copie o título do separador & mais."
+msgstr "Desfrute de um controlo absoluto dos separadores — feche separadores duplicados, agregue janelas, copie o título do separador & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:800
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
-msgstr "Leia ficheiros ePub no Firefox — aumente o tamanho da letra, dimensões das páginas & mais."
+msgstr "Leia ficheiros ePub no Firefox — aumente o tamanho da letra, dimensões das páginas & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:821
@@ -5879,12 +5879,12 @@ msgstr "Remova distrações, mude a sua experiência de visualização, altere a
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:872
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
-msgstr "Personalize a aparência de qualquer site. Altere cores, fundos de página & mais."
+msgstr "Personalize a aparência de qualquer site. Altere cores, fundos de página & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:881
 msgid "Use mouse gestures to close tabs, navigate pages & more."
-msgstr "Use gestos do rato para fechar separadores, navegar nas páginas & mais."
+msgstr "Use gestos do rato para fechar separadores, navegar nas páginas & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:884
@@ -6119,7 +6119,7 @@ msgstr "Faça a gestão do seu Gmail (até mesmo contas múltiplas) diretamente 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1103
 msgid "De-clutter YouTube. Strip away unwanted elements like related videos, shorts & more."
-msgstr "Organize o YouTube. Remova elementos indesejados tais como vídeos relacionados, shorts & mais."
+msgstr "Organize o YouTube. Remova elementos indesejados tais como vídeos relacionados, shorts & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1106
@@ -6149,7 +6149,7 @@ msgstr "Disfarce o Firefox de navegador Chrome para enganar sites que tentam blo
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1121
 msgid "Remove distractions, change viewing options, alter playback speed & more."
-msgstr "Remova distrações, mude a sua experiência de visualização, altere a velocidade de reprodução & mais."
+msgstr "Remova distrações, mude a sua experiência de visualização, altere a velocidade de reprodução & muito mais."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1124
@@ -6161,7 +6161,7 @@ msgstr "Funciona muito bem para vídeo, áudio e streaming na maioria dos sites.
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
 "Dúzias de funcionalidades para fazer com que o YouTube trabalhe para si. Remova promoções que distraem, altere a disposição visual do YouTube, ajuste da velocidade de reprodução, aumento de volume &"
-" mais."
+" muito mais."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1130
