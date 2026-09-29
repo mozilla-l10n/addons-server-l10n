@@ -2517,8 +2517,8 @@ msgid ""
 "Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
 " refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
-"Use este formulário para obter suporte relacionado com a sua conta, questões de conformidade com as políticas e mais. Quanto mais detalhes nos fornecer, mais fácil será para nós ajudá-lo. Para "
-"questões relacionadas com revisões do(s) seu(s) complementos(s), consulte o histórico de versões do(s) mesmo(s). Entraremos em contacto consigo assim que possível."
+"Use este formulário para obter suporte relacionado com a sua conta, questões de conformidade com as políticas, e muito mais. Quanto mais detalhes nos fornecer, mais fácil será para nós ajudá-lo. "
+"Para questões relacionadas com revisões do(s) seu(s) complementos(s), consulte o histórico de versões do(s) mesmo(s). Entraremos em contacto consigo assim que possível."
 
 #: src/olympia/devhub/templates/devhub/support.html:17
 msgid "Send request"
@@ -4677,7 +4677,7 @@ msgstr "Bloqueie rastreadores invisíveis e publicidades que o espiam e o seguem
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:896
 msgid "Enjoy a beautiful new page with customizable backgrounds, local weather info, and more."
-msgstr "Desfrute de uma bonita nova página com fundos personalizáveis, informação meteorologia local, e mais."
+msgstr "Desfrute de uma bonita nova página com fundos personalizáveis, informação meteorologia local, e muito mais."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5520,7 +5520,7 @@ msgstr "Evite a confusão dos termos dos acordos típicos de licenciamento. Uma 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:491
 msgid "Get grammar help anywhere you write on the web — social media, email, docs, and more."
-msgstr "Obtenha ajuda gramatical em qualquer lugar onde escreva na web — redes sociais, email, documentação, e mais."
+msgstr "Obtenha ajuda gramatical em qualquer lugar onde escreva na web — redes sociais, email, documentação, e muito mais."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5824,7 +5824,7 @@ msgstr "Descubra e transfira versões de melhor qualidade das imagens e dos víd
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:703
 msgid "Save and organize anything you find on the web — articles, media, PDFs & more."
-msgstr "Guarde e organize tudo o que encontrar na Internet — artigos, conteúdos multimédia, PDFs & mais."
+msgstr "Guarde e organize tudo o que encontrar na Internet — artigos, conteúdos multimédia, PDFs & muito mais."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:706
