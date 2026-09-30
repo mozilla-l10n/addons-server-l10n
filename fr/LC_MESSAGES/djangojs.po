@@ -246,7 +246,7 @@ msgstr "Android"
 #: static/js/stats/csv_keys.js:24
 #, python-brace-format
 msgid "Downloads and Daily Users, last {0} days"
-msgstr "Téléchargements et utilisateurs quotidiens, derniers {0} jours"
+msgstr "Téléchargements et utilisateurs quotidiens, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:26
@@ -258,7 +258,7 @@ msgstr "Téléchargements et utilisateurs journaliers du {0} au {1}"
 #: static/js/stats/csv_keys.js:30
 #, python-brace-format
 msgid "Downloads, last {0} days"
-msgstr "Téléchargements, derniers {0} jours"
+msgstr "Téléchargements, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:32
@@ -270,7 +270,7 @@ msgstr "Téléchargements du {0} au {1}"
 #: static/js/stats/csv_keys.js:36
 #, python-brace-format
 msgid "Daily Users, last {0} days"
-msgstr "Utilisateurs quotidiens, derniers {0} jours"
+msgstr "Utilisateurs quotidiens, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:38
@@ -282,7 +282,7 @@ msgstr "Utilisateurs journaliers du {0} au {1}"
 #: static/js/stats/csv_keys.js:42
 #, python-brace-format
 msgid "Applications, last {0} days"
-msgstr "Applications, derniers {0} jours"
+msgstr "Applications, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:44
@@ -306,7 +306,7 @@ msgstr "Pays du {0} au {1}"
 #: static/js/stats/csv_keys.js:54
 #, python-brace-format
 msgid "Platforms, last {0} days"
-msgstr "Plateformes, derniers {0} jours"
+msgstr "Plateformes, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:56
@@ -354,7 +354,7 @@ msgstr "Sources de téléchargement du {0} au {1}"
 #: static/js/stats/csv_keys.js:78
 #, python-brace-format
 msgid "Download Mediums, last {0} days"
-msgstr "Supports de téléchargement, derniers {0} jours"
+msgstr "Supports de téléchargement, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:80
@@ -366,7 +366,7 @@ msgstr "Supports de téléchargement du {0} au {1}"
 #: static/js/stats/csv_keys.js:84
 #, python-brace-format
 msgid "Download Contents, last {0} days"
-msgstr "Contenus de téléchargement, derniers {0} jours"
+msgstr "Contenus de téléchargement, {0} derniers jours"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:86
@@ -402,7 +402,7 @@ msgstr "<b>{0}</b> du {1} au {2}"
 #: static/js/stats/csv_keys.js:104
 #, python-brace-format
 msgid "<b>{0}</b> average in last {1} days"
-msgstr "<b>{0}</b> en moyenne les derniers {1} jours"
+msgstr "<b>{0}</b> en moyenne les {1} derniers jours"
 
 #: static/js/stats/overview.js:18
 msgid "No data available."
