@@ -175,6 +175,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Merci d’avoir pris le temps de signaler le module complémentaire suivant sur Mozilla Add-ons : %(name)s.\n"
+"\n"
+"Après avoir examiné votre signalement et le contenu concerné, nous avons constaté que ce dernier ne respectait pas les politiques de Mozilla (%(policy_document_url)s). Nous l’avons donc supprimé. Merci de nous aider à préserver la sécurité de Mozilla Add-ons.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -184,6 +188,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Merci d’avoir pris le temps de signaler le module complémentaire suivant sur Mozilla Add-ons : %(name)s.\n"
+"\n"
+"Après avoir examiné votre signalement et le contenu concerné, nous avons constaté que ce dernier ne respectait pas les politiques de Mozilla (%(policy_document_url)s). Nous avons donc demandé à la personne qui développe ce contenu de le modifier. Si le contenu n’est pas mis à jour, nous le supprimerons. Merci de nous aider à préserver la sécurité de Mozilla Add-ons.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -3877,6 +3885,12 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"Votre adresse e-mail a bien été confirmée, tout est prêt. Merci de développer pour Firefox !\n"
+"\n"
+"\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-requested.ltxt:10
 #, python-format
@@ -3892,6 +3906,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"Merci de développer des modules complémentaires pour Firefox ! Vous recevez ce message parce que vous avez demandé la vérification de votre adresse e-mail. Pour finaliser cette vérification, cliquez simplement sur le lien ci-dessous :\n"
+"\n"
+"%(confirmation_link)s\n"
+"\n"
+"Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer cet e-mail.\n"
+"\n"
+"\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:6 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:4
 msgid "Invisible"
