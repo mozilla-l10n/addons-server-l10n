@@ -3975,6 +3975,8 @@ msgstr "Complétez votre module en ajoutant une version ou les métadonnées man
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
 msgstr ""
+"Vous recevrez un e-mail une fois la revue terminée. D’ici là, votre module complémentaire ne sera pas accessible au public. En tant qu’auteur·trice authentifié·e, vous pourrez consulter sa page de "
+"détails."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -4045,7 +4047,7 @@ msgstr "Signé pour l’entreprise."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:126
 msgid "This is the newest uploaded enterprise version"
-msgstr ""
+msgstr "Il s’agit de la version pour entreprises la plus récemment envoyée"
 
 #: src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:20
 msgid "Upload New Version"
@@ -7352,6 +7354,18 @@ msgid ""
 "We are glad to have you building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour %(author_name)s,\n"
+"\n"
+"Bonne nouvelle, vous avez été invité·e à rejoindre les auteurs de %(addon_name)s sur %(domain)s. En acceptant cette invitation, vous pourrez modifier le module complémentaire et votre nom pourra figurer dans la liste des auteurs sur le site web.\n"
+"\n"
+"Pour accepter l’invitation, cliquez simplement sur le lien ci-dessous :\n"
+"\n"
+"%(author_confirmation_link)s\n"
+"\n"
+"Si vous n’attendiez pas cette invitation, vous pouvez ignorer cet e-mail.\n"
+"\n"
+"Nous sommes ravis de vous compter parmi les personnes qui développent pour Firefox,\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/users/templates/users/emails/author_changed.ltxt:3
 #, python-format
@@ -7388,6 +7402,15 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"Nous vous informons que votre compte utilisateur %(name)s sur %(site_url)s a été supprimé. Si vous avez récemment supprimé votre compte Mozilla, cette suppression a peut-être été effectuée automatiquement dans le cadre de cette procédure.\n"
+"\n"
+"Merci d’avoir fait partie de la communauté des modules complémentaires de Firefox. Si vous pensez qu’il s’agit d’une erreur ou si vous avez des questions, veuillez nous contacter.\n"
+"\n"
+"Bien cordialement,\n"
+"\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/versions/models.py:1158
 #, python-format
