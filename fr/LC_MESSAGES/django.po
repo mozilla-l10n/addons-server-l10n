@@ -222,7 +222,7 @@ msgstr "Les images ne peuvent pas être animées."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Merci d’utiliser des images de taille inférieure à {} Mo."
 
 #: src/olympia/accounts/views.py:211
 msgid "Need help?"
