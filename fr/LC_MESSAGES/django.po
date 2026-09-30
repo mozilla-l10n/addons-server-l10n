@@ -114,7 +114,7 @@ msgstr ""
 "\n"
 "Merci pour votre signalement concernant %(name)s sur Mozilla Add-ons et merci d’avoir pris le temps de nous faire part de vos préoccupations.\n"
 "\n"
-"Après analyse de votre recours, nous avons estimé que la décision initiale — selon laquelle ce contenu respecte les politiques de Mozilla (%(policy_document_url)s) — était correcte. Pour cette raison, nous ne prendrons aucune mesure à l’encontre du compte ou du contenu en question.\n"
+"Après examen de votre recours, nous avons estimé que la décision initiale — à savoir que ce contenu respecte les politiques de Mozilla (%(policy_document_url)s) — était correcte. Pour cette raison, nous ne prendrons aucune mesure à l’encontre du compte ou du contenu en question.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Merci encore de nous aider à préserver la sécurité de Mozilla Add-ons.\n"
@@ -127,6 +127,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
+"\n"
+"Merci pour votre signalement concernant %(name)s sur Mozilla Add-ons et merci d’avoir pris le temps de nous faire part de vos préoccupations.\n"
+"\n"
+"Après examen de votre recours, nous avons estimé que la décision initiale, à savoir que ce contenu respecte les politiques de Mozilla (%(policy_document_url)s), était incorrecte. Nous avons donc supprimé ce contenu et informé l’utilisatrice ou l’utilisateur de notre action. Merci de nous avoir aidés à prendre la bonne décision.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -136,6 +140,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Merci pour votre signalement au sujet de %(name)s sur Mozilla Add-ons et pour avoir apporté davantage d’informations sur vos préoccupations.\n"
+"\n"
+"Après examen de votre recours, nous avons établi que la décision précédente, à savoir que ce contenu respecte les politiques de Mozilla (%(policy_document_url)s), était incorrecte. Nous avons donc demandé à la personne qui développe ce contenu de le modifier. Si le contenu n’est pas mis à jour, nous le supprimerons.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -145,6 +153,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Merci d’avoir pris le temps de signaler %(name)s, à l’adresse %(target_url)s.\n"
+"\n"
+"Après examen de votre signalement et du contenu en question, nous avons constaté qu’il respecte les politiques de Mozilla (%(policy_document_url)s). Il ne fera donc l’objet d’aucune mesure de modération. Nous vous remercions néanmoins de nous l’avoir signalé.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
@@ -152,6 +164,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"Si vous estimez que le contenu ne respecte pas les politiques de Mozilla, vous pouvez contester cette décision dans un délai de 6 mois à compter de la date de cet e-mail. Consultez %(appeal_url)s "
+"pour en savoir plus sur la procédure de recours et sur la manière de contester cette décision en particulier."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
