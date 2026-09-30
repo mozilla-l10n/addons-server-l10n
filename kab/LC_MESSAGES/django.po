@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-30 10:55+0000\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -104,7 +106,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -116,7 +119,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -125,7 +129,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -134,14 +139,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -150,7 +156,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -159,7 +166,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -1516,7 +1524,7 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr "Sader isiɣzaf Firefox yesnernayen aseqdec n tewlafin, aẓawan d tvidyutin. Isiɣzaf n taggayt-a sirigen abeddel  n yifuyla imeslawen akked tvidyutin, anadi n tewlafin yettin, d wayen-nniḍen."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1138
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1139
 msgid "Privacy & Security"
 msgstr "Tabaḍnit  & Taɣellist"
 
@@ -2451,8 +2459,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2714,8 +2722,8 @@ msgid ""
 "<p>Add-ons can have any number of authors with 2 possible roles:</p> <ul> <li><b>Owner:</b> Can manage all aspects of the add-on's listing, including adding and removing other authors</li> "
 "<li><b>Developer:</b> Can manage all aspects of the add-on's listing, except for adding and removing other authors</li> </ul>"
 msgstr ""
-"<p>Izegrar zemren ad sɛun ugar n yiwen n umeskar s snat n twuriwin:</p> <ul> <li><b>Bab-is :</b> yezmer ad isefrek meṛṛa anaḍen n uzegrir, am timerna neɣ tukksa n yimeskaren</li> "
-"<li><b>Aneflay :</b> yezmer ad isefrek meṛṛa anaḍen, ala timerna neɣ tukksa n yimeskaren akked usefrek n usellek</li> </ul>"
+"<p>Izegrar zemren ad sɛun ugar n yiwen n umeskar s snat n twuriwin:</p> <ul> <li><b>Bab-is :</b> yezmer ad isefrek meṛṛa anaḍen n uzegrir, am timerna neɣ tukksa n yimeskaren</li> <li><b>Aneflay :</"
+"b> yezmer ad isefrek meṛṛa anaḍen, ala timerna neɣ tukksa n yimeskaren akked usefrek n usellek</li> </ul>"
 
 #: src/olympia/devhub/templates/devhub/addons/listing/delete_form.html:34 src/olympia/devhub/templates/devhub/addons/owner.html:102
 msgid "Close"
@@ -2910,8 +2918,8 @@ msgstr "Imayl"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Ma tebɣiḍ ad teskneḍ tansa n yimayl i usuter n tallelt, sekcem-itt dagi. Ma ɣur-k tansiwin-nniḍen i yal tutlayt, tzemreḍ ad ternuḍ tisuqilin-nniḍen n wurti-agi. Urti-agi ilaq kan i yizegrar "
 "yettwabedren."
@@ -2972,8 +2980,8 @@ msgstr "Tafelwit tamellalt"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Tafelwit d amḍiq ara yeǧǧen ad d-nmudd talɣut icudden ar uzegrir-ik, akken yebɣu yella lqem, i yimceggiren. Aseqdec-is ad d-imudd tarrayin n usekyed n uzegrir, akked yal talɣut-nniḍen izemren ad "
 "tmudd afus. Tafelwit-a ad izmiren ad ttbeddlen imceggiren."
@@ -3664,8 +3672,8 @@ msgstr "Uɣal"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3746,10 +3754,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3923,8 +3933,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -4508,55 +4518,55 @@ msgstr[1] "{0} n yilɣa"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:803
+#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:804
 msgid "Block invisible trackers and spying ads that follow you around the web."
 msgstr "Sewḥel ineḍfaṛen ara k-iḍefṛen deg web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:896
+#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:897
 msgid "Enjoy a beautiful new page with customizable backgrounds, local weather info, and more."
 msgstr "Rnu asebter ijebbden s ugilal i tebɣiḍ, tagnawt tadigant, atg."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:806
+#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:807
 msgid "Highlight any text, right-click, and translate instantly."
 msgstr "Fre yal aḍris, sakin eg atekki s tqeffalt tayeffusr akken ad twaliḍ tasuqilt tawurmant."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:890
+#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:891
 msgid "Perform reverse image searches from an array of engines."
 msgstr "Eg inadiyen yettin n tugniwin seg tegrumma n yimseddayen n unadi."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:851
+#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:852
 msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr "Asewḥel n udellel akked ummesten n tudert tusligt. Tawila fessusen ad k-teǧǧ ad qarɛeḍ adellel i tettwaliḍ akked lǧeṛṛat i tettaǧǧaḍ deg Internet."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:854
+#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:855
 msgid "Do you have a ton of open tabs? Organize them in a tidy sidebar."
 msgstr "Tesɛiḍ ddeqs n yiccaren yeldin? Suddes-iten deg yiwen n ugalis adisan."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:839
+#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:840
 msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr "Seḥbes aḍfaṛ sɣur Facebook. Ɛzel timagit-ik Facebook deg “umagbar” iman-is akken ad tɛezleḍ Facebook ur k-yeṭṭafaṛ ara deg Web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:893
+#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:894
 msgid "Simplify search by highlighting text on any web page to search the phrase from an array of engines."
 msgstr "Sifses inadiyen-ik s ujerreḍ n uḍris deg usevter web, sakin nadi aḍri deg yimseddayen-nniḍen."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:830
+#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:831
 msgid "Instant weather updates from around the world."
 msgstr "Ileqman n tegnawt d iskudanen seg umaḍal meṛṛa."
 
@@ -4567,13 +4577,13 @@ msgstr "Fren asebter i tettwaliḍ yal tikkelt mi ara teldiḍ iccer amaynut."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:809
+#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:810
 msgid "See an interesting picture on the web and want to learn more about it? Try this image search tool."
 msgstr "Twalaḍ tugna igerrzen deg Web dɣa tmennaḍ-d ad tissineḍ ugar? Ԑreḍ afecku-ya n unadi n tugniwin."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:812
+#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:813
 msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, and hundreds of other video sites."
 msgstr "Sader tividyutin s tifses. Iteddu deg YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, d waṭas n yismal-nniḍen n uvidyu."
 
@@ -4589,7 +4599,7 @@ msgstr "Asefrek n wawalen uffiren fessus. Mtawi meṛṛa inekcam-ik ɣef yibenk
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:818
+#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:819
 msgid "Effective, lightweight ad blocker. uBlock Origin enforces thousands of content filters without chewing up a bunch of memory."
 msgstr "Amsewḥal n udellel d afessas, maca ixeddem ccɣel-is. uBlock Origin, isemras agimen n yimsizdigen n ugbur maca yettaṭṭaf drus n tkatut."
 
@@ -4635,13 +4645,13 @@ msgstr "Sewḥel yir ismal web seg useqdec n tezmert n uselkim-ik akken ad andin
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:752
+#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:753
 msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr "Faṛes tagnit seg tallelt n tjerrumt yal tikkelt ara taruḍ deg web: iẓeḍwa n tmetti, imaylen, isemliyen, atg."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:836
+#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:837
 msgid "Display current worldwide times in Firefox's status bar."
 msgstr "Sken akud n tmura i tebɣid deg ufeggag n waddad n Firefox."
 
@@ -4662,7 +4672,7 @@ msgstr "Mudd udem i uḥerrek n tɣerdayt. Wali tarrayt tamaynut n tunigin s wug
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:947
+#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:948
 msgid "Darken the page around video players for a focused viewing experience."
 msgstr "Akken ad tesnerniḍ tallelt tumant n tvidyutin-ik, senɣes tafat n uskan i d-yezzin i umeɣri-ik n tvidyutin."
 
@@ -4679,13 +4689,13 @@ msgstr "Asebter i tettnadiḍ ur lac-it? Sken-d lqem n teṛcivt neɣ n tkatut t
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:815
+#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:816
 msgid "Hover over an image to magnify it."
 msgstr "Srifeg tugna akken ad timɣur."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:887
+#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:888
 msgid "Automatically erase cookies after you close a tab."
 msgstr "Sfeḍ swudem awurman inagan n tuqqna ticki tmedleḍ iccer."
 
@@ -4696,25 +4706,25 @@ msgstr "Tifrat fessusen akken ad tṣeggmeḍ teɣzi n uḍris deg usebter —ne
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:848
+#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:849
 msgid "Stop trackers in their tracks and learn more about them."
 msgstr "Sewḥel ineḍfaṛen daɣen issin ugar fell-asen."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:908
+#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:909
 msgid "Leave a clean digital trail. Make Firefox forget website data like cookies and local storage, but only for domains you choose."
 msgstr "Ur ttaǧǧa ara lǧeṛṛa tumḍint. Suter i Firefox ad yettu isefka n yismal web am yinagan n tuqqna akked usekles adigan, maca ala i tɣula i tferneḍ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:878
+#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:879
 msgid "No need to write the same thing over and over. Save frequently-entered text to paste anytime."
 msgstr "Ur tesriḍ ara ad tettɛawaḍed tira n yiwet n tɣawsa aṭas n iberdan. Sekles iḍris id-yettuɣalen s waṭas akken ad t-tsenṭḍeḍ melmi tebɣiḍ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:845
+#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:846
 msgid "Get more screen space by removing ads from your web-based inbox."
 msgstr "Sali tallunt yellan deg ugdil-ik s tukksa n udellel i d-yettbanen s wudem awurman deg tebwadt n urmas web n yimaylen."
 
@@ -4725,25 +4735,25 @@ msgstr "Sefrek iccaren yeldin deg ufeggag adisan."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:950
+#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:951
 msgid "Avoid sneaky trackers and restrictions. Disguise your navigation by cloaking the identity of your browser and operating system."
 msgstr "Zgel ineḍfaṛen akked tmara. Sers-as iceṭṭiḍen i tunigin-is akken ad teffer timagit n yiminig-ik akked unagraw-ik n wammud."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:842
+#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:843
 msgid "Automatically reload tabs based on time intervals you set."
 msgstr "Ales asali awurman n yiccaren yeldin sya ɣer da."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1016
+#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1017
 msgid "Keep parts of your online life separated into color-coded and cookie separated tabs. Now integrated with Mozilla VPN for an extra layer of privacy."
 msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:827
+#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:828
 msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr "Faṛes tagnit s uswir-nniḍen n ummesten mgal aḍfaṛ ticki tettinigeḍ deg web."
 
@@ -4754,7 +4764,7 @@ msgstr "Ɣer ifuyla ePub srid deg Firefox — Semɣer teɣzi n tsefsit, teɣzi n
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:944
+#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:945
 msgid "Play YouTube videos by default in the highest quality, turn off annotations, and more."
 msgstr "Ɣer yal tikkelt tividyutin YouTube s tɣara yelhan: Taɣara meqqren ugar, iwenniten nsan, atg."
 
@@ -4775,7 +4785,7 @@ msgstr "Snerni tarmit-ik n uskan s uṣeggem n urured n tɣuri n tvidyutin akked
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:833
+#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:834
 msgid "Add encrypted security to any site that supports HTTPS. Browse securely."
 msgstr "Rnu aswir n tɣellist awgelhan i yismal i yessefraken aneggaf HTTPS. Inig s tɣellist."
 
@@ -4821,13 +4831,13 @@ msgstr "Mmel asebter agejdan i yiccaren imaynuten."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:875
+#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:876
 msgid "Convert all your open tabs into a list to easily manage them and speed up Firefox."
 msgstr "Aselket n yiccaren-ik meṛṛa yeldin ad ten-isefrek s tifses, s zreb deg Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:797
+#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:798
 msgid "Robust download management. Check the state of your downloads through a status bar, download history page, and more."
 msgstr "Asefrek n usader iǧehden. Sefrek asader-ik s useqdec n ufeggag n waddad, asebter n uzray, atg."
 
@@ -4858,7 +4868,7 @@ msgstr "Err web d afessas i wallen s usebrek n tafat-is."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:794
+#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:795
 msgid "Block all pop-ups by default, then decide which ones you'd like to open."
 msgstr "Sewḥel meṛṛa isfuyal udhimen s wudem amezwer, sakin fren tid i tebɣiḍ ad d-teldiḍ."
 
@@ -4889,7 +4899,7 @@ msgstr "Snerni tarmit-ik n tɣuri. Err aḍris i teqqareḍ ijebbed ugar ticki t
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:869
+#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:870
 msgid "Right-click and drag links you want open in new tabs."
 msgstr "Ldi iseɣwan deg yiccer amaynut s uzuɣer sakin s utekki ɣef tqeffalt tayeffus."
 
@@ -4930,7 +4940,7 @@ msgstr "Ḍfer ssumat, af-d ifarisen yemgaraden, wali tikta n yiseqdacen ɣef im
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:791
+#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:792
 msgid "Make it your YouTube. Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more."
 msgstr "Err-it d YouTube-ik. Sken-d tividyutin deg usfaylu udhim, err talast i udellel deg teẓririn i teṭṭafareḍ, ṭṭef agdil, d wayen-nniden."
 
@@ -5011,7 +5021,7 @@ msgstr "Sefqed isuddam-ik RSS inurifen deg yiwen n usebter."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:788
+#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:789
 msgid "Enable night mode for a better viewing experience."
 msgstr "Rmed askar n yiḍ i termit n usekkud iwulmen."
 
@@ -5067,13 +5077,13 @@ msgstr "Rnu tizmilin timatutin akked tizmilin yeɛnan kan kra nyismal web daɣeb
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:767
+#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:768
 msgid "Phone-like scrolling for your desktop. Features \"grab-n-drag\" style mouse movement."
 msgstr "Adrurem icuban ɣer win n tiliɣri i uselkim-ik n tnarit. Iḥerriken n tɣerdayt n wanaw \"zuɣer-u-sers\"."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:938
+#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:939
 msgid "Clear your browser cache with a click or keystroke."
 msgstr "Sfeḍ tuffirt n yiwen n utekki neɣ s unegzum n unasiw."
 
@@ -5084,13 +5094,13 @@ msgstr "Sebṛureq aḍris ɣef yisebtar web akken ad teskelseḍ daɣen ad tkec
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:764
+#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:765
 msgid "Enjoy music from 30,000+ radio stations from all over the globe."
 msgstr "Sɣed i wugar n 30,000 n ṛṛadyuwat deg umaḍal."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:935
+#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:936
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
 msgstr "Ḥrez azawag n usezger s uzuzer n yimeslawen n tuṭṭfiwin YouTube."
 
@@ -5101,13 +5111,13 @@ msgstr "Selket awalen uffiren neɣ tifyar s yizwal ijebbden neɣ aserkeb n uḍr
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:785
+#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:786
 msgid "Automatically navigate to the secure version of a website if it's available."
 msgstr "Seqdec s wudem awurman ɣer lqem aɣelsan n usmel web ma yella."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:866
+#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:867
 msgid "Delete your navigation history. Specify a custom number of days to retain browser history before it's automatically cleared."
 msgstr "Kkes azray-ik n tunigin. Mudd amḍan n wussan ara tḥerzeḍ azray n yiminig uqbel ad yettwasfeḍ swudem awurman."
 
@@ -5133,7 +5143,7 @@ msgstr "Nadi s wudem abaḍni s yiwen n utekki."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:899
+#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:900
 msgid "Put an end to tab hijacking. Don't let clicked links take control of your current tab and load content you didn't ask for."
 msgstr "Seḥes takerḍa n yiccaren. Ur ttsennid ara ɣef yiseɣwan ara yeṭṭfen ɣur-s iccer amaynut daɣen ad d-yessali igburen ur tsutreḍ ara."
 
@@ -5245,13 +5255,13 @@ msgstr ""
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:902
+#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:903
 msgid "Only allow web content to run from sites you trust. Surf securely."
 msgstr "Sireg kan igburen web i d-kkan-d seg yismal i tettamneḍ. Inig s tɣellist."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:773
+#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:774
 msgid "Take full control of the cookies you've accumulated while browsing."
 msgstr "Senqed s telqey inagan n tuqqna ara d-tgemmreḍ mi ara tettiniged."
 
@@ -5262,7 +5272,7 @@ msgstr "Kkes s wudem awurman azray n yiminig i yismal web ara tferrneḍ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:863
+#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:864
 msgid "Password-protect your personal bookmarks."
 msgstr "Ḥrez ticraḍ n yisebtar-inek tudmawanin s wawal uffir."
 
@@ -5288,7 +5298,7 @@ msgstr "Sader tividyutin akked/neɣ imeslawen s talɣiwin yemgaraden."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:758
+#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:759
 msgid "Learn where any website's server is geographically located. Be an informed web traveler."
 msgstr "Issin anida yella yal aqeddac n usmel web. Qqim deg yisallen ɣef web."
 
@@ -5309,13 +5319,13 @@ msgstr "Ḍfeṛ azray n ssuma deg Amazon. Gzem-itt di ṛṛay ɣef tiɣin tu�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:929
+#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:930
 msgid "Adjust browser audio settings with extreme clarity."
 msgstr "Ṣeggem iɣewwaṛen n umeslaw n yiminig s tseddi meqqren."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:755
+#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:756
 msgid "Defend yourself against the sneakiest trackers."
 msgstr "Seḥbiber mgal ineḍfaṛen qessiḥen."
 
@@ -5341,7 +5351,7 @@ msgstr "S yiwen kan n utekki ɣef tɣerdayt, tzemreḍ ad twaliḍ tividyutin de
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:905
+#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:906
 msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr "Seḥbes aḍeggeṛ n tkatut s yiccaren ur nenfiɛ ara."
 
@@ -5362,19 +5372,19 @@ msgstr "Faṛes tagnit seg tallelt n tjerrumt yal tikkelt ara taruḍ deg web �
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:749
+#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:750
 msgid "Read with more clarity and ease. Remove the clutter around text on web pages."
 msgstr "Ɣer s wugar n usegzi akked tefses. Kkes ayen ur nemwin seg uḍris deg yisebtar web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:746
+#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:747
 msgid "Block ads and get enhanced protection against malware and ad tracking."
 msgstr "Sewḥel adellel daɣen awi ugar n ummesten yennernan mgal yir iseɣzanen akked uḍfaṛ n udellel."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:926
+#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:927
 msgid "Enjoy multi-threading download support. Automatically detect different types of media available for download."
 msgstr "Faṛes tagnit seg usefrek n usader n tnelli n usqerdec. Af-d s wudem awurman anawen yemgaraden n yimidyaten yellan i usader."
 
@@ -5395,19 +5405,19 @@ msgstr "Faṛes ibaɣuren n usefrek iǧehden n wawalen uffiren."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:776
+#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:777
 msgid "Customize shades of light and dark to make web pages more visually pleasing."
 msgstr "Mud tafat neɣ tebrek i yisebtar web ara yuɣalen cebḥit i tmuɣli."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:923
+#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:924
 msgid "Block distracting websites. Simply list the sites you want the extension to block. Instant discipline!"
 msgstr "Sewḥel ismal web yesṛuḥuyen akud. Bder-d kan ismal web i tebɣiḍ ad isewḥel usiɣzef. Ttṛebga taskudant!"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:770
+#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:771
 msgid "Change your browser's appearance. Easily design your own visual themes to make Firefox look as you please."
 msgstr "Beddel udem n yiminig-ik. Feṣṣel s tifses isental-ik n ucebbeḥ akken ad terreḍ Firefox yettban-d akken tebɣid."
 
@@ -5428,13 +5438,13 @@ msgstr "Ḍfeṛ ifarisen daɣen rmes alɣu ticki ssuma tenɣes deg yiferdisen i
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:743
+#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:744
 msgid "Turn the web dark or select a custom color scheme to visually tailor the internet to your own taste."
 msgstr "Sens web neɣ fren tagrumma n yiniten tusligt i wakken ad tsedduḍ Internet akken tebɣiḍ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:962
+#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:963
 msgid "Get a more advanced search page on Firefox for Android."
 msgstr "Af-d asebter n unadi lqayen aṭas ɣef Firefox i Android."
 
@@ -5460,7 +5470,7 @@ msgstr "Less inagan n tuqqna, amazray n tunigin, d yifulya yettwaffren s yiwen k
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:857
+#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:858
 msgid "Remove tracking elements from web links."
 msgstr "Kkes iferdisen iṭafaṛen seg iseɣwan web."
 
@@ -5471,13 +5481,13 @@ msgstr "Awi-d ikaramen n tecraḍ n yisebtar s yisuddam-inek RSS, ččuren s wue
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:920
+#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:921
 msgid "Easily organize tons of open tabs."
 msgstr "Suddes s tefses iṭunen n yiccaren yeldin."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:860
+#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:861
 msgid "Create and customize tab groups."
 msgstr "Rnu tsagneḍ igrawen n yiccaren."
 
@@ -5493,13 +5503,13 @@ msgstr "Sewḥel akk adellel—tividyutin, isfuyla udhimen, iɣarracen & wayen-n
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:914
+#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:915
 msgid "Watch streaming media with friends and family anywhere."
 msgstr "Wali amidya yettwazuzren akked yimmeddukal d twacult anida ibɣu tiliḍ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:956
+#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:957
 msgid "Skip over sponsored portions of YouTube videos."
 msgstr "Zgel iḥricen yettwarefden seg tvidyutin n YouTube."
 
@@ -5510,31 +5520,31 @@ msgstr "Err isebtar n web ad ak-d-ɣren s yimesli εlayen. Ugar n 40 tutlayin i 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:953
+#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:954
 msgid "Double-click any word to instantly see its definition."
 msgstr "Sit snat n tikkal ɣef wawal tebɣiḍ din din ad teẓreḍ tabadut-is."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:995
+#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:996
 msgid "Save batches of tabs as convenient bookmarks."
 msgstr "Sekles tigrummiwin n yiccaren s yisem n ticraḍ n yisebtar yelhan i usemres."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:998
+#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:999
 msgid "Tabs and bookmarks neatly organized in a Firefox side view."
 msgstr "Accaren d tecraḍ n yisebtar ddsen akken iwata deg yiwet n teskant tagalist n Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:977
+#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:978
 msgid "Thousands of GIFs at your fingertips."
 msgstr "D igimen n tugniwin GIF ɣef afus."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:983
+#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:984
 msgid "The easiest way to manage YouTube subscriptions."
 msgstr "Abrid afessas n usefrek n yijerriden-ik ɣer Youtube."
 
@@ -5545,7 +5555,7 @@ msgstr "Afeggag n udrurem i tbeqquḍ yal tikkelt — fren tuzert-is akked yini 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:992
+#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:993
 msgid "Save and restore tabs. Includes auto-save and cloud sync features."
 msgstr "Sekles, daɣen err-d accaren. Llan twuriwin n usekles awurman akked umtawa ɣer usigna."
 
@@ -5680,580 +5690,580 @@ msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new fe
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:740
+#: src/olympia/discovery/strings.jinja2:741
 msgid "Some websites have difficulty playing videos on Android. Here's a fix."
 msgstr "Kra n yismal ur ssawaḍen ara ad d-ɣren tividyutin deg Android. Dagi i tella tifrat."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:761
+#: src/olympia/discovery/strings.jinja2:762
 msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:779
+#: src/olympia/discovery/strings.jinja2:780
 msgid "Save images easily — just grab them from your current tab."
 msgstr "Sekles tugniwin s wudem fessusen — awi-d kan tugniwin ɣer yiccer-ik amiran."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:782
+#: src/olympia/discovery/strings.jinja2:783
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr "Faṛes tagnit seg tuṭṭfa n yicarren-ik gar ifassen-ik — mdel iccaren usligen, sdukel isfuyla, nɣel azwel n yiccer, d wayen niḍen."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:800
+#: src/olympia/discovery/strings.jinja2:801
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr "Ɣeṛ ifuyla ePub srid deg Firefox — Semɣer teɣzi n tsefsit, tisektiwin n usebter, d wayen-nniḍen."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:821
+#: src/olympia/discovery/strings.jinja2:822
 msgid "Customize mouse gestures. Discover new ways to navigate with 50+ configurations."
 msgstr "Mudd udem i uḥerrek n tɣerdayt. Snirem tarrayin timaynutin n tunigin s wugar n 50 twila."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:824
+#: src/olympia/discovery/strings.jinja2:825
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:872
+#: src/olympia/discovery/strings.jinja2:873
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
 msgstr "Mudd udem n yal asmel web. Beddel initen, agilal n yisebtar, & wugar n wayen niḍen."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:881
+#: src/olympia/discovery/strings.jinja2:882
 msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr "Seqdec ambiwel n tɣerdayt i umdal n waccaren, isebter n tunigin d wugar n wayen-nniḍen."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:884
+#: src/olympia/discovery/strings.jinja2:885
 msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr "Tifrat fessusen akken ad tṣeggmeḍ teɣzi n uḍris deg usebter — neɣ daɣen akken ad tesmeɣreḍ asebter meṛṛa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:911
+#: src/olympia/discovery/strings.jinja2:912
 msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr "Cudd tignitin n yismal web ɣer yigmaḍ-ik n unadi."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:917
+#: src/olympia/discovery/strings.jinja2:918
 msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr "Sekles asebtar web i meṛṛa — ula d tugniwin akked ufeṣṣel — deg yiwen ufaylu HTML."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:932
+#: src/olympia/discovery/strings.jinja2:933
 msgid "Edit a web page before printing. Remove ads or any unwanted content."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:941
+#: src/olympia/discovery/strings.jinja2:942
 msgid "Advanced reader for aggregating all of your RSS/Atom/RDF sources."
 msgstr "Imeɣri leqqayen i usdukel n meṛṛa tiɣbula-ik RSS/Atom/RDF."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:959
+#: src/olympia/discovery/strings.jinja2:960
 msgid "Web pages read aloud. 40+ languages supported."
 msgstr "Taɣuri n yisebtar web s taɣect εlayen. Ugar n 40 tutlayin i yettusefraken."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:965
+#: src/olympia/discovery/strings.jinja2:966
 msgid "Removes those long tracking parameters from Google search result URL's."
 msgstr "Ittekkes iɣewwaren-ni ɣezzifen n uḍfar ɣezzifen n URL n yigmaḍ n unadi deg Google."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:968
+#: src/olympia/discovery/strings.jinja2:969
 msgid "Get weather updates directly from Firefox."
 msgstr "Awi-d ileqman n tegnawt srid seg Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:971
+#: src/olympia/discovery/strings.jinja2:972
 msgid "Manage your time better with a browser clock that charts work intervals."
 msgstr "Sefrek akud-ik ugar s temrint n yiminig ara d-isseknen amahil s yidlifen"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:974
+#: src/olympia/discovery/strings.jinja2:975
 msgid "Tired of that \"Video paused. Continue watching?\" message? Listen to your favorite music uninterrupted on YouTube."
 msgstr "Teɛyiḍ seg \"Seḥbes tavidyut-a. Kemmel awali?\" izen? Sell i uẓawan i tḥemmleḍ s war aneḥbus deg Youtube."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:980
+#: src/olympia/discovery/strings.jinja2:981
 msgid "Begone, annoying cookie warnings!"
 msgstr "Kkes ilɣa-a n yinagan n uqqna i issennuɣnuyen!"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:986
+#: src/olympia/discovery/strings.jinja2:987
 msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr "Uɣal ɣer tallit tafessast — makken igmaḍ ufrinen n unadi ttbanen-d nnig n yiberriḥen (imṣada d yimseddayen n unadi Google akked Bing)."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:989
+#: src/olympia/discovery/strings.jinja2:990
 msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr "Afeggag n udrurem i tbeqquḍ yal tikkelt — fren tuzert-is akked yini i tebɣiḍ."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1001
+#: src/olympia/discovery/strings.jinja2:1002
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1004
+#: src/olympia/discovery/strings.jinja2:1005
 msgid "Instantly translate any selected text on web pages."
 msgstr "Suqqel din din yal aḍris ara tferneḍ ɣef yisebtar web."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1007
+#: src/olympia/discovery/strings.jinja2:1008
 msgid "Make Firefox change colors based on time of day."
 msgstr "Err Firefox ad yettbeddil initen almend n wakud n wass."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1010
+#: src/olympia/discovery/strings.jinja2:1011
 msgid "Eliminate YouTube distractions. Remove related and recommended video suggestions, comments & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1013
+#: src/olympia/discovery/strings.jinja2:1014
 msgid "Take emojis with you everywhere on the web."
 msgstr "Awi yid-k•m imijitin anda ma teddiḍ ɣef web."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1019
+#: src/olympia/discovery/strings.jinja2:1020
 msgid "Put restrictions on distracting, time-wasting websites."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1022
+#: src/olympia/discovery/strings.jinja2:1023
 msgid "Remove clutter from your Twitter."
 msgstr "Kkes ayen ur tesriḍ ara seg Twitter inek·inem."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1025
+#: src/olympia/discovery/strings.jinja2:1026
 msgid "Customize YouTube to taste."
 msgstr "Sagen YouTube akken tebɣiḍ."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1028
+#: src/olympia/discovery/strings.jinja2:1029
 msgid "Delete browsing data directly from the browser toolbar."
 msgstr "Kkes isefka n tunigin srid seg ufeggag n yifecka n yiminig."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1031
+#: src/olympia/discovery/strings.jinja2:1032
 msgid "Get RSS feed auto-updates direct to your bookmark folders."
 msgstr "Awi ileqman iwurmanen n usuddem RSS srid ɣer yikaramen-ik•im n tecraḍ n yisebtar."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1034
+#: src/olympia/discovery/strings.jinja2:1035
 msgid "Effective blocker against all types of ads."
 msgstr "Amsewḥal iǧehden mgal yal adellel."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1037
+#: src/olympia/discovery/strings.jinja2:1038
 msgid "Mass download manager makes extreme downloading extremely easy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1040
+#: src/olympia/discovery/strings.jinja2:1041
 msgid "Remove ads & receive better protection against malware."
 msgstr "Kkes adellel, tremseḍ ammesten igerrzen mgal yir aseɣẓan."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1043
+#: src/olympia/discovery/strings.jinja2:1044
 msgid "Remove formatting from copied Clipboard text."
 msgstr "Kkes amsal seg uḍris yettwaneɣlen ɣer tecfawt."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1046
+#: src/olympia/discovery/strings.jinja2:1047
 msgid "Fingerprinting privacy protection."
 msgstr "Ammesten n tudert tabaḍnit s udsil umḍin."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1049
+#: src/olympia/discovery/strings.jinja2:1050
 msgid "Enhance your gaming experience on Steam."
 msgstr "Semɣer tirmit-ik•im n wurar deg usuddem."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1052
+#: src/olympia/discovery/strings.jinja2:1053
 msgid "Thumbs-up to bringing back thumbs-down."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1055
+#: src/olympia/discovery/strings.jinja2:1056
 msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr "Suqel ismal web deg firefox — s wudem uslig — war aseqdec n usigna."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1058
+#: src/olympia/discovery/strings.jinja2:1059
 msgid "Block time-wasting websites. Block them completely or just during time frames of your choosing."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1061
+#: src/olympia/discovery/strings.jinja2:1062
 msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1064
+#: src/olympia/discovery/strings.jinja2:1065
 msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1067
+#: src/olympia/discovery/strings.jinja2:1068
 msgid "Automatically handle GDPR consent forms."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1070
+#: src/olympia/discovery/strings.jinja2:1071
 msgid "Block malicious websites from port scanning."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1073
+#: src/olympia/discovery/strings.jinja2:1074
 msgid "Enhance your Twitch experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1076
+#: src/olympia/discovery/strings.jinja2:1077
 msgid "Re-take control of Twitter/X and customize your experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1079
+#: src/olympia/discovery/strings.jinja2:1080
 msgid "Translate text without leaving the page you're on (PDF compatible)."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1082
+#: src/olympia/discovery/strings.jinja2:1083
 msgid "Change the color of Firefox to match every website you visit."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1085
+#: src/olympia/discovery/strings.jinja2:1086
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1088
+#: src/olympia/discovery/strings.jinja2:1089
 msgid "Pack a powerful thesaurus right inside Firefox."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1091
+#: src/olympia/discovery/strings.jinja2:1092
 msgid "Hover over web images to enlarge their appearance."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1094
+#: src/olympia/discovery/strings.jinja2:1095
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1097
+#: src/olympia/discovery/strings.jinja2:1098
 msgid "Track the time you spend on every website you visit."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1100
+#: src/olympia/discovery/strings.jinja2:1101
 msgid "Manage your Gmail (even multiple accounts) right from a handy pop-up accessible from the Firefox toolbar."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1103
+#: src/olympia/discovery/strings.jinja2:1104
 msgid "De-clutter YouTube. Strip away unwanted elements like related videos, shorts & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1106
+#: src/olympia/discovery/strings.jinja2:1107
 msgid "Leave yourself little notes on any web page."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1109
+#: src/olympia/discovery/strings.jinja2:1110
 msgid "Serenity for your Reddit experience."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1112
+#: src/olympia/discovery/strings.jinja2:1113
 msgid "Save and organize anything you find on the web."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1115
+#: src/olympia/discovery/strings.jinja2:1116
 msgid "WebM video controls at your fingertips."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1118
+#: src/olympia/discovery/strings.jinja2:1119
 msgid "Disguise Firefox as the Chrome browser to spoof websites that try to block Firefox."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1121
+#: src/olympia/discovery/strings.jinja2:1122
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1124
+#: src/olympia/discovery/strings.jinja2:1125
 msgid "Works great for video, audio, and streaming content across most websites."
 msgstr ""
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1127
+#: src/olympia/discovery/strings.jinja2:1128
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1130
+#: src/olympia/discovery/strings.jinja2:1131
 msgid "Extensions are like apps for Firefox."
 msgstr "Isiɣzaf am yisnasen i Firefox."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/discovery/strings.jinja2:1133
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr "Rennun timahilin i Firefox i wakken ad tili tunigin tserreḥ, d taɣelsant, neɣ ad d-nini kan d tazehwanit."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1134
+#: src/olympia/discovery/strings.jinja2:1135
 msgid "See all extensions"
 msgstr "Wali meṛṛa isiɣzaf"
 
 #. editorial content for the secondary hero shelves.
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1204
+#: src/olympia/discovery/strings.jinja2:1137 src/olympia/discovery/strings.jinja2:1205
 msgid "YouTube customization"
 msgstr "Asagen n YouTube"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1141
 msgid "Reddit extensions"
 msgstr ""
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
+#: src/olympia/discovery/strings.jinja2:1143 src/olympia/discovery/strings.jinja2:1145 src/olympia/discovery/strings.jinja2:1147
 msgid "See staff picks"
 msgstr "Wali tafrant n terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1149
+#: src/olympia/discovery/strings.jinja2:1150
 msgid "Recommended extensions"
 msgstr "Isiɣzaf yettuwellhen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1151
+#: src/olympia/discovery/strings.jinja2:1152
 msgid "See more recommended extensions"
 msgstr "Wali ugar n yisiɣzaf yelhan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1154
+#: src/olympia/discovery/strings.jinja2:1155
 msgid "Popular themes"
 msgstr "Isental iɣerfanen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1156
+#: src/olympia/discovery/strings.jinja2:1157
 msgid "See more popular themes"
 msgstr "Wali isental yettwasnen aṭas"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1159
+#: src/olympia/discovery/strings.jinja2:1160
 msgid "Privacy & security"
 msgstr "Tabaḍnit & tɣellist"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1161
+#: src/olympia/discovery/strings.jinja2:1162
 msgid "See more privacy staff picks"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1164
+#: src/olympia/discovery/strings.jinja2:1165
 msgid "Popular extensions"
 msgstr "Snirem isiɣzafIsiɣzaf yettwassnen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1166
+#: src/olympia/discovery/strings.jinja2:1167
 msgid "See more popular extensions"
 msgstr "Wali ugar n yisiɣzaf yettwasnen aṭas"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1169
+#: src/olympia/discovery/strings.jinja2:1170
 msgid "Recommended themes"
 msgstr "Isental yelhan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1171
+#: src/olympia/discovery/strings.jinja2:1172
 msgid "See more recommended themes"
 msgstr "Wali ugar n yisental yelhan"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1174
+#: src/olympia/discovery/strings.jinja2:1175
 msgid "Strong password managers"
 msgstr "Imsefraken n wawalen uffiren iǧehden"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1176
+#: src/olympia/discovery/strings.jinja2:1177
 msgid "See more password manager staff picks"
 msgstr "Wali ugar n yisiɣzaf i usefrek n wawalen uffiren sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1179
+#: src/olympia/discovery/strings.jinja2:1180
 msgid "Translation tools"
 msgstr "Ifecka n usuqel"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1181
+#: src/olympia/discovery/strings.jinja2:1182
 msgid "See more translation tool staff picks"
 msgstr "Wali ugar n yifecka n usuqel yettwafernen sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1184
+#: src/olympia/discovery/strings.jinja2:1185
 msgid "Social streaming"
 msgstr "Asuddem n tmetti"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1186
+#: src/olympia/discovery/strings.jinja2:1187
 msgid "See more social streaming staff picks"
 msgstr "Wali ugar n yisiɣzaf n usuddem anmetti"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1189
+#: src/olympia/discovery/strings.jinja2:1190
 msgid "Tab managers"
 msgstr "Imsefraken n waccaren"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1191
+#: src/olympia/discovery/strings.jinja2:1192
 msgid "See more tab management staff picks"
 msgstr "Wali ugar n yisiɣzaf i usefrek n waccaren yettwafernen sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1194
+#: src/olympia/discovery/strings.jinja2:1195
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr "Isiɣzaf yettwacerḍen s “{tag}”"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1196
+#: src/olympia/discovery/strings.jinja2:1197
 #, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "Wali ugar n yisiɣzaf d-yettwabedren \"{tag}\""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1199
+#: src/olympia/discovery/strings.jinja2:1200
 msgid "Elite ad blockers"
 msgstr "Ẓreg amsewḥel n yizegrar"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1201
+#: src/olympia/discovery/strings.jinja2:1202
 msgid "See more ad blocker staff picks"
 msgstr "Wali ugar n yisiɣzaf i usewḥel n udellel yettwafernen sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1206
+#: src/olympia/discovery/strings.jinja2:1207
 msgid "See more YouTube extension staff picks"
 msgstr "Wali ugar n yisiɣzaf i YouTube n usuqel yettwafernen sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1209
+#: src/olympia/discovery/strings.jinja2:1210
 msgid "Trending themes"
 msgstr "Isental yettwassnen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1211
+#: src/olympia/discovery/strings.jinja2:1212
 msgid "See more trending themes"
 msgstr "Wali ugar n yisental yettwassnen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1214 src/olympia/discovery/strings.jinja2:1259
+#: src/olympia/discovery/strings.jinja2:1215 src/olympia/discovery/strings.jinja2:1260
 msgid "Top rated themes"
 msgstr "Isental yettwaszemlen aṭas"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1216 src/olympia/discovery/strings.jinja2:1261
+#: src/olympia/discovery/strings.jinja2:1217 src/olympia/discovery/strings.jinja2:1262
 msgid "See more top rated themes"
 msgstr "Ugar n yisental yettwaszemlen aṭas"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1219
+#: src/olympia/discovery/strings.jinja2:1220
 msgid "Trending extensions"
 msgstr "Isiɣzaf yettwassnen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1221
+#: src/olympia/discovery/strings.jinja2:1222
 msgid "See more trending extensions"
 msgstr "Ugar n yisiɣzaf yettwassnen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1224
+#: src/olympia/discovery/strings.jinja2:1225
 msgid "Steam enhancers"
 msgstr "Isnerniyen n Steam"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1226
+#: src/olympia/discovery/strings.jinja2:1227
 msgid "See more Steam staff picks"
 msgstr "Wali ugar n tefranin n terbaεt Steam"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1229
+#: src/olympia/discovery/strings.jinja2:1230
 msgid "Creativity extensions"
 msgstr "Isiɣzaf n usnulfu"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1231
+#: src/olympia/discovery/strings.jinja2:1232
 msgid "See more creativity staff picks"
 msgstr "Wali ugar n usumer n terbaεt n usnulfu"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1234
+#: src/olympia/discovery/strings.jinja2:1235
 msgid "Social media extensions"
 msgstr "Isiɣzaf n yizeḍwa inmettiyen"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1236
+#: src/olympia/discovery/strings.jinja2:1237
 msgid "See more social media staff picks"
 msgstr "Wali ugar n yisiɣzaf n yizeḍwa inmettiyen i d-tefren tarbaɛt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1239
+#: src/olympia/discovery/strings.jinja2:1240
 msgid "Top download managers"
 msgstr "Imsefraken n usadar afellay"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1241
+#: src/olympia/discovery/strings.jinja2:1242
 msgid "See more download manager staff picks"
 msgstr "Wali ugar n yisiɣzaf i usefrek n yisadaren sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1244
+#: src/olympia/discovery/strings.jinja2:1245
 msgid "Accessibility extensions"
 msgstr "Isiɣzaf n tuffart"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1246
+#: src/olympia/discovery/strings.jinja2:1247
 msgid "See more accessibility staff picks"
 msgstr "Wali ugar n yisiɣzaf i d-tefren terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1249
+#: src/olympia/discovery/strings.jinja2:1250
 msgid "Extension starter pack"
 msgstr "Isiɣzaf n usenker"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1251
+#: src/olympia/discovery/strings.jinja2:1252
 msgid "See more starter extension staff picks"
 msgstr "Wali ugar n yisiɣzaf i usker n usuqel yettwafernen sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1254
+#: src/olympia/discovery/strings.jinja2:1255
 msgid "Twitch extensions"
 msgstr "Isiɣzaf Twitch"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1256
+#: src/olympia/discovery/strings.jinja2:1257
 msgid "See more Twitch extension staff picks"
 msgstr "Wali ugar n yisiɣzaf i Twitch n usuqel yettwafernen sɣur terbaεt"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1264
+#: src/olympia/discovery/strings.jinja2:1265
 msgid "Gaming & media extensions"
 msgstr ""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1266
+#: src/olympia/discovery/strings.jinja2:1267
 msgid "See more staff picks"
 msgstr "Wali ugar n yisiɣzaf i yettwafernen sɣur tarbaɛt"
 
@@ -6955,8 +6965,8 @@ msgid ""
 "Except where otherwise <a href=\"https://www.mozilla.org/about/legal/\">noted</a>, content on this site is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> or any later version."
 msgstr ""
-"Arama kan ur yeddi ara akked <a href=\"https://www.mozilla.org/about/legal/\">tizmilin tusdifin</a>, agbur n usmel-agi yella ddaw n turagt <a href=\"https://creativecommons.org/licenses/by-"
-"sa/3.0/\">Creative Commons Attribution Share-Alike v3.0</a> neɣ ileqman imaynuten."
+"Arama kan ur yeddi ara akked <a href=\"https://www.mozilla.org/about/legal/\">tizmilin tusdifin</a>, agbur n usmel-agi yella ddaw n turagt <a href=\"https://creativecommons.org/licenses/by-sa/3.0/"
+"\">Creative Commons Attribution Share-Alike v3.0</a> neɣ ileqman imaynuten."
 
 #: src/olympia/templates/user_login.html:24
 #, python-format
@@ -7041,8 +7051,8 @@ msgstr ""
 
 #: src/olympia/users/models.py:1489
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Send ad tebduḍ, ɣer syen qbel ma ulac aɣilif amtawa n uzuzer n yizegrar n Firefox akked tsertit tabaḍnit d yilugan n ucegger. Amtawa n uzuzer i yizegrar Firefox yegber aseɣwen ar tsertit-nneɣ "
 "tabaḍnit i d-yessegzayen amek i nessefrak talɣut i ak-yeɛnan."
@@ -7164,7 +7174,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
