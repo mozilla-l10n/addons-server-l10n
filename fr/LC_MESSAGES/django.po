@@ -4065,7 +4065,7 @@ msgstr "Page des révisions non listées"
 
 #: src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:46
 msgid "Enterprise Review Page"
-msgstr ""
+msgstr "Page des révisions pour entreprises"
 
 #: src/olympia/devhub/templates/devhub/includes/addons_edit_nav.html:51
 msgid "Admin Manage"
@@ -6684,7 +6684,7 @@ msgstr "Vous ne pouvez pas laisser plus d’une critique de la même version d�
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Drapeau invalide [{flag}] – il doit faire partie de [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6726,7 +6726,7 @@ msgstr "Enregistrer"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Combinaison des paramètres « {param1} » et « {param2} » invalide."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -6768,7 +6768,7 @@ msgstr "Identifiant de module invalide dans l’URL ou le paquet"
 
 #: src/olympia/signing/views.py:208
 msgid "Only API v5+ supports enterprise channels."
-msgstr ""
+msgstr "Seules l’API v5 et les versions ultérieures prennent en charge les canaux d’entreprise."
 
 #: src/olympia/signing/views.py:221
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
