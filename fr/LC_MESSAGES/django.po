@@ -111,6 +111,13 @@ msgid ""
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Merci pour votre signalement concernant %(name)s sur Mozilla Add-ons et merci d’avoir pris le temps de nous faire part de vos préoccupations.\n"
+"\n"
+"Après analyse de votre recours, nous avons estimé que la décision initiale — selon laquelle ce contenu respecte les politiques de Mozilla (%(policy_document_url)s) — était correcte. Pour cette raison, nous ne prendrons aucune mesure à l’encontre du compte ou du contenu en question.\n"
+"%(manual_reasoning_text)s.\n"
+"\n"
+"Merci encore de nous aider à préserver la sécurité de Mozilla Add-ons.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
@@ -330,7 +337,7 @@ msgstr "Les images doivent être inférieures à %d Mo"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Paramètre « {} » invalide."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -1301,11 +1308,11 @@ msgstr "Vérification de la page demandée"
 #: src/olympia/constants/activity.py:1334
 #, python-brace-format
 msgid "Decision on {addon} made with no new action taken."
-msgstr ""
+msgstr "Décision concernant {addon} rendue sans qu’aucune nouvelle mesure ne soit prise."
 
 #: src/olympia/constants/activity.py:1335
 msgid "Decision made"
-msgstr ""
+msgstr "Décision rendue"
 
 #: src/olympia/constants/applications.py:24 src/olympia/constants/categories.py:241
 msgid "Firefox"
@@ -6144,7 +6151,7 @@ msgstr "Personnalisation YouTube"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1141
 msgid "Reddit extensions"
-msgstr ""
+msgstr "Extensions Reddit"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1143 src/olympia/discovery/strings.jinja2:1145 src/olympia/discovery/strings.jinja2:1147
@@ -7213,7 +7220,7 @@ msgstr "Notifications de l’utilisateur"
 #: src/olympia/users/tasks.py:223
 #, python-brace-format
 msgid "Verify your email ({})"
-msgstr ""
+msgstr "Confirmez votre adresse e-mail ({})"
 
 #: src/olympia/users/utils.py:92
 msgid "An author has been added to your add-on"
