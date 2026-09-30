@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-09-30 10:55+0000\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -114,7 +117,8 @@ msgstr ""
 "\n"
 "Cảm ơn bạn đã báo cáo về %(name)s trên Tiện ích Mozilla và đã dành thời gian chia sẻ thêm về những lo ngại của bạn.\n"
 "\n"
-"Sau khi xem xét kỹ lưỡng đơn kháng cáo của bạn, chúng tôi nhận thấy quyết định trước đó — rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s) — là chính xác. Vì lý do đó, chúng tôi sẽ không thực hiện bất kỳ hành động nào đối với tài khoản hoặc nội dung này.\n"
+"Sau khi xem xét kỹ lưỡng đơn kháng cáo của bạn, chúng tôi nhận thấy quyết định trước đó — rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s) — là chính xác. Vì lý do "
+"đó, chúng tôi sẽ không thực hiện bất kỳ hành động nào đối với tài khoản hoặc nội dung này.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Cảm ơn bạn một lần nữa vì đã giúp chúng tôi bảo vệ các tiện ích mở rộng Mozilla.\n"
@@ -125,12 +129,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã báo cáo về %(name)s trên Tiện ích Mozilla và đã dành thời gian chia sẻ thêm về những lo ngại của bạn.\n"
 "\n"
-"Sau khi xem xét khiếu nại của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. Chúng tôi đã gỡ bỏ nội dung và thông báo cho người dùng. Cảm ơn bạn đã giúp chúng tôi khắc phục vấn đề này.\n"
+"Sau khi xem xét khiếu nại của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. Chúng "
+"tôi đã gỡ bỏ nội dung và thông báo cho người dùng. Cảm ơn bạn đã giúp chúng tôi khắc phục vấn đề này.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -138,12 +144,14 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã báo cáo về %(name)s trên Tiện ích Mozilla và đã cung cấp thêm thông tin về những lo ngại của bạn.\n"
 "\n"
-"Sau khi xem xét đơn kháng nghị của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. Chúng tôi đã yêu cầu nhà phát triển thực hiện các thay đổi, và nếu họ không cập nhật nội dung, chúng tôi sẽ xóa nó.\n"
+"Sau khi xem xét đơn kháng nghị của bạn, chúng tôi nhận thấy quyết định trước đó của chúng tôi, rằng nội dung này tuân thủ các chính sách của Mozilla (%(policy_document_url)s), là không chính xác. "
+"Chúng tôi đã yêu cầu nhà phát triển thực hiện các thay đổi, và nếu họ không cập nhật nội dung, chúng tôi sẽ xóa nó.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -151,21 +159,23 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã dành thời gian báo cáo %(name)s, tại %(target_url)s.\n"
 "\n"
-"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó tuân thủ các chính sách của Mozilla (%(policy_document_url)s), vì vậy nó sẽ không phải chịu bất kỳ hành động kiểm duyệt nào. Tuy nhiên, chúng tôi đánh giá cao việc bạn đã báo cáo cho chúng tôi.\n"
+"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó tuân thủ các chính sách của Mozilla (%(policy_document_url)s), vì vậy nó sẽ không phải chịu bất kỳ hành động kiểm "
+"duyệt nào. Tuy nhiên, chúng tôi đánh giá cao việc bạn đã báo cáo cho chúng tôi.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
-"Nếu bạn cho rằng nội dung này không tuân thủ các chính sách của Mozilla, bạn có quyền kháng cáo quyết định này trong vòng 6 tháng kể từ ngày gửi email này. Xem %(appeal_url)s để biết chi tiết về quy"
-" trình kháng cáo, bao gồm cả cách nộp đơn kháng cáo đối với quyết định cụ thể này."
+"Nếu bạn cho rằng nội dung này không tuân thủ các chính sách của Mozilla, bạn có quyền kháng cáo quyết định này trong vòng 6 tháng kể từ ngày gửi email này. Xem %(appeal_url)s để biết chi tiết về "
+"quy trình kháng cáo, bao gồm cả cách nộp đơn kháng cáo đối với quyết định cụ thể này."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -173,12 +183,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã dành thời gian báo cáo tiện ích mở rộng sau trên Mozilla Add-ons: %(name)s.\n"
 "\n"
-"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Do đó, chúng tôi đã xóa nội dung đó. Chúng tôi đánh giá cao sự giúp đỡ của bạn trong việc giữ an toàn cho tiện ích mở rộng Mozilla.\n"
+"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Do đó, chúng tôi đã xóa nội dung đó. Chúng tôi "
+"đánh giá cao sự giúp đỡ của bạn trong việc giữ an toàn cho tiện ích mở rộng Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -186,12 +198,14 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 "\n"
 "Cảm ơn bạn đã dành thời gian báo cáo tiện ích mở rộng sau trên Tiện ích Mozilla: %(name)s.\n"
 "\n"
-"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Chúng tôi đã yêu cầu nhà phát triển thực hiện các thay đổi, và nếu họ không giải quyết được vấn đề, chúng tôi sẽ xóa nội dung đó. Cảm ơn bạn đã giúp giữ an toàn cho tiện ích mở rộng Mozilla.\n"
+"Chúng tôi đã xem xét báo cáo của bạn và nội dung được đề cập và nhận thấy rằng nó không tuân thủ các chính sách của Mozilla (%(policy_document_url)s). Chúng tôi đã yêu cầu nhà phát triển thực hiện "
+"các thay đổi, và nếu họ không giải quyết được vấn đề, chúng tôi sẽ xóa nội dung đó. Cảm ơn bạn đã giúp giữ an toàn cho tiện ích mở rộng Mozilla.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -639,8 +653,8 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>Chúng tôi xin lỗi, nhưng chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm.</h1> <p> Trang hoặc tập tin bạn yêu cầu không được tìm thấy trên trang web của chúng tôi. Có thể bạn đã nhấp vào"
-" một liên kết đã lỗi thời hoặc nhập sai địa chỉ. </p> <ul> <li>Nếu bạn gõ địa chỉ, vui lòng kiểm tra lại chính tả.</li> <li> Nếu bạn đã theo một liên kết từ một nơi nào đó, xin vui lòng "
+"<h1>Chúng tôi xin lỗi, nhưng chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm.</h1> <p> Trang hoặc tập tin bạn yêu cầu không được tìm thấy trên trang web của chúng tôi. Có thể bạn đã nhấp "
+"vào một liên kết đã lỗi thời hoặc nhập sai địa chỉ. </p> <ul> <li>Nếu bạn gõ địa chỉ, vui lòng kiểm tra lại chính tả.</li> <li> Nếu bạn đã theo một liên kết từ một nơi nào đó, xin vui lòng "
 "%(open_bug_link)sgửi một vấn đề%(close_bug_link)s. Hãy cho chúng tôi biết bạn đến từ đâu và những gì bạn đang tìm kiếm, và chúng tôi sẽ cố gắng hết sức để khắc phục nó. </li> </ul> <p>Hoặc bạn chỉ "
 "có thể chuyển qua một số trang phổ biến trên trang web của chúng tôi.</p> <ul> <li>Bạn có quan tâm đến <a href=\"%(rec)s\">danh sách các tiện ích nổi bật</a> không?</li> <li> Bạn có muốn <a "
 "href=\"%(search)s\">tìm kiếm tiện ích</a> không? Bạn có thể truy cập <a href=\"%(search)s\">trang tìm kiếm</a> hoặc chỉ sử dụng trường tìm kiếm ở trên. </li> <li> Nếu bạn muốn bắt đầu lại, chỉ cần "
@@ -953,8 +967,8 @@ msgstr "Đã yêu cầu thêm thông tin"
 #: src/olympia/constants/activity.py:238
 msgid "The add-on has been flagged for Admin Review. It's still in our review queue, but it will need to be checked by one of our admin reviewers. The review might take longer than usual."
 msgstr ""
-"Tiện ích đã được gắn cờ để quản trị viên xem xét. Nó vẫn nằm trong hàng đợi xem xét, nhưng sẽ cần được kiểm tra bởi một trong các quản trị viên của chúng tôi. Quá trình xem xét có thể mất nhiều thời"
-" gian hơn bình thường."
+"Tiện ích đã được gắn cờ để quản trị viên xem xét. Nó vẫn nằm trong hàng đợi xem xét, nhưng sẽ cần được kiểm tra bởi một trong các quản trị viên của chúng tôi. Quá trình xem xét có thể mất nhiều "
+"thời gian hơn bình thường."
 
 #: src/olympia/constants/activity.py:260
 #, python-brace-format
@@ -1562,7 +1576,7 @@ msgid "Download Firefox extensions that enhance photo, music and video experienc
 msgstr "Tải xuống các tiện ích mở rộng Firefox giúp nâng cao trải nghiệm ảnh, nhạc và video. Các tiện ích mở rộng trong danh mục này sửa đổi âm thanh và video, tìm kiếm hình ảnh ngược và hơn thế nữa."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1138
+#: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1139
 msgid "Privacy & Security"
 msgstr "Riêng tư & Bảo mật"
 
@@ -2501,8 +2515,8 @@ msgstr "Nhận hỗ trợ cho tiện ích mở rộng và chủ đề"
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 "Hãy sử dụng biểu mẫu này để được hỗ trợ liên quan đến tài khoản của bạn, các vấn đề tuân thủ chính sách và nhiều hơn nữa. Càng cung cấp nhiều thông tin chi tiết, chúng tôi càng dễ dàng hỗ trợ bạn. "
 "Đối với các câu hỏi về đánh giá tiện ích mở rộng của bạn, vui lòng tham khảo lịch sử phiên bản tiện ích mở rộng. Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất."
@@ -2834,8 +2848,8 @@ msgid ""
 "If your add-on has another homepage, enter its address here. If your website is localized into other languages multiple translations of this field can be added. It is only relevant for listed add-"
 "ons."
 msgstr ""
-"Nếu tiện ích của bạn có trang chủ khác, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được thêm vào. Nó chỉ phù"
-" hợp với các tiện ích được liệt kê."
+"Nếu tiện ích của bạn có trang chủ khác, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được thêm vào. Nó chỉ "
+"phù hợp với các tiện ích được liệt kê."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:96 src/olympia/devhub/templates/devhub/addons/edit/describe.html:272
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:84 src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:174
@@ -2872,8 +2886,8 @@ msgid ""
 "The summary should explain what your add-on does, clearly and concisely. Both the name and summary will appear on your product page and search results. They have a combined maximum length of 70 "
 "characters and a minimum length of 2 characters for each."
 msgstr ""
-"Bản tóm tắt phải giải thích những gì tiện ích của bạn làm, rõ ràng và ngắn gọn. Cả tên và phần tóm tắt sẽ xuất hiện trên trang sản phẩm và kết quả tìm kiếm của bạn. Chúng có độ dài tối đa kết hợp là"
-" 70 ký tự và độ dài tối thiểu là 2 ký tự cho mỗi trường."
+"Bản tóm tắt phải giải thích những gì tiện ích của bạn làm, rõ ràng và ngắn gọn. Cả tên và phần tóm tắt sẽ xuất hiện trên trang sản phẩm và kết quả tìm kiếm của bạn. Chúng có độ dài tối đa kết hợp "
+"là 70 ký tự và độ dài tối thiểu là 2 ký tự cho mỗi trường."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:43 src/olympia/devhub/templates/devhub/addons/edit/describe.html:105 src/olympia/devhub/templates/devhub/addons/submit/describe.html:30
 msgid "Summary"
@@ -2967,8 +2981,8 @@ msgstr "Email"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Nếu bạn muốn hiển thị địa chỉ e-mail cho các yêu cầu hỗ trợ, hãy nhập địa chỉ đó vào đây. Nếu bạn có các địa chỉ khác nhau cho mỗi ngôn ngữ, nhiều bản dịch của trường này có thể được thêm vào. Nó "
 "chỉ phù hợp với các tiện ích được liệt kê."
@@ -2982,8 +2996,8 @@ msgid ""
 "If your add-on has a support website or forum, enter its address here. If your website is localized into other languages, multiple translations of this field can be added. It is only relevant for "
 "listed add-ons."
 msgstr ""
-"Nếu tiện ích của bạn có trang web hoặc diễn đàn hỗ trợ, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được thêm"
-" vào. Nó chỉ phù hợp với các tiện ích được liệt kê."
+"Nếu tiện ích của bạn có trang web hoặc diễn đàn hỗ trợ, hãy nhập địa chỉ của nó vào đây. Nếu trang web của bạn được bản địa hóa sang các ngôn ngữ khác, nhiều bản dịch của trường này có thể được "
+"thêm vào. Nó chỉ phù hợp với các tiện ích được liệt kê."
 
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:3
 msgid "Images"
@@ -3029,8 +3043,8 @@ msgstr "Bảng trắng"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 "Bảng trắng là nơi cung cấp thông tin liên quan đến tiện ích bổ sung của bạn, cho dù là phiên bản nào, cho người đánh giá. Sử dụng nó để cung cấp các cách kiểm tra tiện ích bổ sung và bất kỳ thông "
 "tin bổ sung nào có thể hữu ích. Người đánh giá cũng có thể chỉnh sửa bảng trắng này."
@@ -3424,8 +3438,8 @@ msgid ""
 "Read our %(policy_requirements_open)spolicy requirements%(policy_requirements_close)s regarding build processes and source code submission. If your submission requires source code, you must provide "
 "step-by-step build instructions, either inside the source code package or here, that will create an exact copy of the code."
 msgstr ""
-"Đọc %(policy_requirements_open)syêu cầu chính sách%(policy_requirements_close)s của chúng tôi về quy trình xây dựng và gửi mã nguồn. Nếu bản gửi của bạn yêu cầu mã nguồn, bạn phải cung cấp hướng dẫn"
-" biên dịch từng bước, có thể nằm trong gói mã nguồn hoặc tại đây, để tạo ra một bản sao chính xác của mã."
+"Đọc %(policy_requirements_open)syêu cầu chính sách%(policy_requirements_close)s của chúng tôi về quy trình xây dựng và gửi mã nguồn. Nếu bản gửi của bạn yêu cầu mã nguồn, bạn phải cung cấp hướng "
+"dẫn biên dịch từng bước, có thể nằm trong gói mã nguồn hoặc tại đây, để tạo ra một bản sao chính xác của mã."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/describe.html:224 src/olympia/devhub/templates/devhub/addons/submit/describe_minimal.html:37
 msgid "These notes will only be visible to you and our reviewers."
@@ -3723,11 +3737,11 @@ msgstr "Quay lại"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>Authorization</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>Authorization</code> header for every request."
 msgstr ""
-"Để thực hiện các lệnh gọi xác thực đến <a %(a_attrs)s href=\"%(docs_url)s\">API</a> với tư cách là bên tiêu thụ ngoài, bạn cần đính kèm một <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token "
-"(JWT)</a> trong tiêu đề <code>Authorization</code> cho mỗi yêu cầu."
+"Để thực hiện các lệnh gọi xác thực đến <a %(a_attrs)s href=\"%(docs_url)s\">API</a> với tư cách là bên tiêu thụ ngoài, bạn cần đính kèm một <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</"
+"a> trong tiêu đề <code>Authorization</code> cho mỗi yêu cầu."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -3765,7 +3779,8 @@ msgid ""
 msgstr ""
 "Xin chào,\n"
 "\n"
-"Cảm ơn bạn đã phát triển và xây dựng cùng Firefox! Bạn nhận được thông báo này vì bạn đã yêu cầu khóa API mới dành cho nhà phát triển cho %(domain)s. Để hoàn tất thiết lập, chỉ cần nhấp vào liên kết bên dưới:\n"
+"Cảm ơn bạn đã phát triển và xây dựng cùng Firefox! Bạn nhận được thông báo này vì bạn đã yêu cầu khóa API mới dành cho nhà phát triển cho %(domain)s. Để hoàn tất thiết lập, chỉ cần nhấp vào liên "
+"kết bên dưới:\n"
 "\n"
 "%(api_key_confirmation_link)s\n"
 "\n"
@@ -3845,20 +3860,25 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
 "Kính gửi nhà phát triển tiện ích mở rộng,\n"
 "\n"
-"Chúng tôi muốn thông báo ngay cho bạn: chúng tôi nhận thấy thông tin đăng nhập API AMO bí mật của bạn đã được đưa vào một tiện ích mở rộng được gửi lên addons.mozilla.org. Để bảo vệ tài khoản và (các) tiện ích mở rộng của bạn, chúng tôi đã tiến hành thu hồi thông tin đăng nhập bị ảnh hưởng. Không có lỗi gì ở phía bạn cả — điều này đôi khi vẫn xảy ra, và chúng tôi luôn sẵn sàng hỗ trợ bạn khắc phục sự cố.\n"
+"Chúng tôi muốn thông báo ngay cho bạn: chúng tôi nhận thấy thông tin đăng nhập API AMO bí mật của bạn đã được đưa vào một tiện ích mở rộng được gửi lên addons.mozilla.org. Để bảo vệ tài khoản và "
+"(các) tiện ích mở rộng của bạn, chúng tôi đã tiến hành thu hồi thông tin đăng nhập bị ảnh hưởng. Không có lỗi gì ở phía bạn cả — điều này đôi khi vẫn xảy ra, và chúng tôi luôn sẵn sàng hỗ trợ bạn "
+"khắc phục sự cố.\n"
 "Bạn có thể tạo thông tin xác thực API mới bất cứ lúc nào tại %(api_keys_url)s\n"
 "\n"
-"Để giúp bảo mật thông tin đăng nhập của bạn trong tương lai, tốt nhất là nên giữ chúng riêng tư và tránh đưa chúng vào bất kỳ repository, tiện ích mở rộng hoặc nơi công khai nào khác. Bất cứ khi nào có thời gian, bạn nên xem lại các repository và tiện ích mở rộng của mình để xóa bất kỳ biến hoặc tham chiếu nào đến thông tin đăng nhập AMO của bạn.\n"
+"Để giúp bảo mật thông tin đăng nhập của bạn trong tương lai, tốt nhất là nên giữ chúng riêng tư và tránh đưa chúng vào bất kỳ repository, tiện ích mở rộng hoặc nơi công khai nào khác. Bất cứ khi "
+"nào có thời gian, bạn nên xem lại các repository và tiện ích mở rộng của mình để xóa bất kỳ biến hoặc tham chiếu nào đến thông tin đăng nhập AMO của bạn.\n"
 "\n"
 "Cảm ơn bạn,\n"
 "Nhóm Tiện ích mở rộng của Mozilla"
@@ -4052,12 +4072,11 @@ msgstr "Khả năng tương thích của Firefox dành cho Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
-"Bạn đã kiểm tra tiện ích mở rộng của mình để đảm bảo nó hoạt động như mong đợi trên Firefox dành cho Android? Nếu chưa, hãy xem <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">phát triển tiện ích mở rộng cho Firefox Android</a> để được hướng dẫn kiểm tra trước khi "
-"gửi."
+"Bạn đã kiểm tra tiện ích mở rộng của mình để đảm bảo nó hoạt động như mong đợi trên Firefox dành cho Android? Nếu chưa, hãy xem <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://"
+"extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">phát triển tiện ích mở rộng cho Firefox Android</a> để được hướng dẫn kiểm tra trước khi gửi."
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
 msgid "Yes, I’ve tested my extension with Firefox for Android"
@@ -4102,7 +4121,8 @@ msgstr "Phiên bản chữ ký đang chờ xử lý"
 #: src/olympia/devhub/templates/devhub/includes/done_unlisted.html:3
 msgid "You’re done! ✨ You will be notified by email when the signed file is ready to be downloaded from the Developer Hub. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Bạn đã hoàn tất! ✨ Bạn sẽ được thông báo qua email khi tập tin đã ký sẵn sàng được tải xuống từ trung tâm nhà phát triển. Nếu bạn không thấy email sau 24 giờ, vui lòng kiểm tra thư mục spam của bạn."
+"Bạn đã hoàn tất! ✨ Bạn sẽ được thông báo qua email khi tập tin đã ký sẵn sàng được tải xuống từ trung tâm nhà phát triển. Nếu bạn không thấy email sau 24 giờ, vui lòng kiểm tra thư mục spam của "
+"bạn."
 
 #: src/olympia/devhub/templates/devhub/includes/license_form.html:5 src/olympia/devhub/templates/devhub/versions/edit.html:83
 msgid "License"
@@ -4574,8 +4594,8 @@ msgstr "Xóa phiên bản {version}"
 msgid ""
 "You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on."
 msgstr ""
-"Bạn sắp xóa phiên bản hiện tại của tiện ích mở rộng. Điều này có thể khiến trạng thái tiện ích của bạn thay đổi hoặc danh sách của bạn mất khả năng hiển thị công khai, nếu đây là phiên bản công khai"
-" duy nhất của tiện ích."
+"Bạn sắp xóa phiên bản hiện tại của tiện ích mở rộng. Điều này có thể khiến trạng thái tiện ích của bạn thay đổi hoặc danh sách của bạn mất khả năng hiển thị công khai, nếu đây là phiên bản công "
+"khai duy nhất của tiện ích."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:275
 msgid "Deleting this version will permanently delete:"
@@ -4646,55 +4666,55 @@ msgstr[0] "{0} cảnh báo"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:803
+#: src/olympia/discovery/strings.jinja2:2 src/olympia/discovery/strings.jinja2:804
 msgid "Block invisible trackers and spying ads that follow you around the web."
 msgstr "Chặn các trình theo dõi vô hình và các quảng cáo gián điệp theo dõi bạn trên khắp web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:896
+#: src/olympia/discovery/strings.jinja2:5 src/olympia/discovery/strings.jinja2:897
 msgid "Enjoy a beautiful new page with customizable backgrounds, local weather info, and more."
 msgstr "Thưởng thức một trang mới tuyệt đẹp với hình nền tùy chỉnh, thông tin thời tiết địa phương, và hơn thế nữa."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:806
+#: src/olympia/discovery/strings.jinja2:8 src/olympia/discovery/strings.jinja2:807
 msgid "Highlight any text, right-click, and translate instantly."
 msgstr "Đánh dấu bất kỳ văn bản nào, nhấp chuột phải và dịch ngay lập tức."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:890
+#: src/olympia/discovery/strings.jinja2:11 src/olympia/discovery/strings.jinja2:891
 msgid "Perform reverse image searches from an array of engines."
 msgstr "Thực hiện tìm kiếm hình ảnh ngược từ một loạt các công cụ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:851
+#: src/olympia/discovery/strings.jinja2:14 src/olympia/discovery/strings.jinja2:852
 msgid "Ad blocking and privacy protection. A simple set-up lets you take control of the ads you see and how you’re tracked on the internet."
 msgstr "Chặn quảng cáo và bảo vệ quyền riêng tư. Một thiết lập đơn giản cho phép bạn kiểm soát các quảng cáo bạn thấy và cách bạn được theo dõi trên internet."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:854
+#: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:855
 msgid "Do you have a ton of open tabs? Organize them in a tidy sidebar."
 msgstr "Bạn có rất nhiều thẻ đang mở? Sắp xếp chúng trong một thanh lề ngăn nắp."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:839
+#: src/olympia/discovery/strings.jinja2:20 src/olympia/discovery/strings.jinja2:840
 msgid "Stop Facebook tracking. Isolate your Facebook identity into a separate “container” to prevent Facebook from tracking you around the web."
 msgstr "Đừng để Facebook theo dõi. Cô lập danh tính Facebook của bạn thành một “vùng chứa” riêng biệt để ngăn Facebook theo dõi bạn trên web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:893
+#: src/olympia/discovery/strings.jinja2:23 src/olympia/discovery/strings.jinja2:894
 msgid "Simplify search by highlighting text on any web page to search the phrase from an array of engines."
 msgstr "Đơn giản hóa việc tìm kiếm bằng cách đánh dấu văn bản trên bất kỳ trang web nào để tìm kiếm cụm từ từ một loạt các công cụ."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:830
+#: src/olympia/discovery/strings.jinja2:26 src/olympia/discovery/strings.jinja2:831
 msgid "Instant weather updates from around the world."
 msgstr "Cập nhật thời tiết tức thì từ khắp nơi trên thế giới."
 
@@ -4705,13 +4725,13 @@ msgstr "Chọn trang bạn nhìn thấy mỗi khi bạn mở một thẻ mới."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:809
+#: src/olympia/discovery/strings.jinja2:32 src/olympia/discovery/strings.jinja2:810
 msgid "See an interesting picture on the web and want to learn more about it? Try this image search tool."
 msgstr "Nhìn thấy một bức tranh thú vị trên web và muốn tìm hiểu thêm về nó? Hãy thử công cụ tìm kiếm hình ảnh này."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:812
+#: src/olympia/discovery/strings.jinja2:35 src/olympia/discovery/strings.jinja2:813
 msgid "Download videos with ease. Works with YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope, and hundreds of other video sites."
 msgstr "Tải xuống video một cách dễ dàng. Hoạt động với YouTube, Facebook, Vimeo, Twitch, Dailymotion, Periscope và hàng trăm trang web video khác."
 
@@ -4727,7 +4747,7 @@ msgstr "Quản lý mật khẩu được đơn giản hóa. Đồng bộ hóa t�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:818
+#: src/olympia/discovery/strings.jinja2:44 src/olympia/discovery/strings.jinja2:819
 msgid "Effective, lightweight ad blocker. uBlock Origin enforces thousands of content filters without chewing up a bunch of memory."
 msgstr "Trình chặn quảng cáo hiệu quả, nhẹ. uBlock Origin thực thi hàng nghìn bộ lọc nội dung mà không tốn nhiều bộ nhớ."
 
@@ -4773,13 +4793,13 @@ msgstr "Ngăn chặn các trang web độc hại sử dụng sức mạnh máy t
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:752
+#: src/olympia/discovery/strings.jinja2:71 src/olympia/discovery/strings.jinja2:753
 msgid "Get grammar help anywhere you write on the web—social media, email, docs, and more."
 msgstr "Nhận trợ giúp về ngữ pháp bất cứ nơi nào bạn viết trên web—Truyền thông xã hội, email, tài liệu, v.v."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:836
+#: src/olympia/discovery/strings.jinja2:74 src/olympia/discovery/strings.jinja2:837
 msgid "Display current worldwide times in Firefox's status bar."
 msgstr "Hiển thị thời gian trên toàn thế giới hiện tại trên thanh trạng thái của Firefox."
 
@@ -4800,7 +4820,7 @@ msgstr "Tùy chỉnh cử chỉ chuột. Khám phá những cách mới để đ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:947
+#: src/olympia/discovery/strings.jinja2:86 src/olympia/discovery/strings.jinja2:948
 msgid "Darken the page around video players for a focused viewing experience."
 msgstr "Làm tối trang xung quanh trình phát video để có trải nghiệm xem tập trung."
 
@@ -4817,13 +4837,13 @@ msgstr "Trang bạn đang tìm kiếm không có sẵn? Tìm kiếm một phiên
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:815
+#: src/olympia/discovery/strings.jinja2:98 src/olympia/discovery/strings.jinja2:816
 msgid "Hover over an image to magnify it."
 msgstr "Di chuột qua một hình ảnh để phóng đại nó."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:887
+#: src/olympia/discovery/strings.jinja2:101 src/olympia/discovery/strings.jinja2:888
 msgid "Automatically erase cookies after you close a tab."
 msgstr "Tự động xóa cookie sau khi bạn đóng thẻ."
 
@@ -4834,25 +4854,25 @@ msgstr "Một cách đơn giản để điều chỉnh kích thước của bấ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:848
+#: src/olympia/discovery/strings.jinja2:107 src/olympia/discovery/strings.jinja2:849
 msgid "Stop trackers in their tracks and learn more about them."
 msgstr "Dừng trình theo dõi của họ theo bạn và tìm hiểu thêm về chúng."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:908
+#: src/olympia/discovery/strings.jinja2:110 src/olympia/discovery/strings.jinja2:909
 msgid "Leave a clean digital trail. Make Firefox forget website data like cookies and local storage, but only for domains you choose."
 msgstr "Để lại một dấu vết kỹ thuật số sạch sẽ. Làm cho Firefox quên dữ liệu trang web như cookie và bộ nhớ cục bộ, nhưng chỉ dành cho các miền bạn chọn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:878
+#: src/olympia/discovery/strings.jinja2:113 src/olympia/discovery/strings.jinja2:879
 msgid "No need to write the same thing over and over. Save frequently-entered text to paste anytime."
 msgstr "Không cần phải viết đi viết lại cùng một thứ. Lưu văn bản được nhập thường xuyên để dán bất cứ lúc nào."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:845
+#: src/olympia/discovery/strings.jinja2:116 src/olympia/discovery/strings.jinja2:846
 msgid "Get more screen space by removing ads from your web-based inbox."
 msgstr "Nhận thêm không gian màn hình bằng cách xóa quảng cáo khỏi hộp thư đến dựa trên web của bạn."
 
@@ -4863,25 +4883,25 @@ msgstr "Quản lý các thẻ đang mở của bạn trong một thanh lề gọ
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:950
+#: src/olympia/discovery/strings.jinja2:122 src/olympia/discovery/strings.jinja2:951
 msgid "Avoid sneaky trackers and restrictions. Disguise your navigation by cloaking the identity of your browser and operating system."
 msgstr "Tránh các trình theo dõi và hạn chế lén lút. Ngụy trang điều hướng của bạn bằng cách che giấu danh tính của trình duyệt và hệ điều hành của bạn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:842
+#: src/olympia/discovery/strings.jinja2:125 src/olympia/discovery/strings.jinja2:843
 msgid "Automatically reload tabs based on time intervals you set."
 msgstr "Tự động tải lại các thẻ dựa trên khoảng thời gian bạn đã đặt."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1016
+#: src/olympia/discovery/strings.jinja2:128 src/olympia/discovery/strings.jinja2:1017
 msgid "Keep parts of your online life separated into color-coded and cookie separated tabs. Now integrated with Mozilla VPN for an extra layer of privacy."
 msgstr "Giữ các phần của cuộc sống trực tuyến của bạn được tách biệt thành các thẻ được mã hóa bằng màu và được phân tách bằng cookie. Hiện được tích hợp với Mozilla VPN để có thêm một lớp bảo mật."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:827
+#: src/olympia/discovery/strings.jinja2:131 src/olympia/discovery/strings.jinja2:828
 msgid "Gain an additional layer of tracking protection as you browse the web."
 msgstr "Có được một lớp trình chống theo dõi bổ sung khi bạn duyệt web."
 
@@ -4892,7 +4912,7 @@ msgstr "Đọc tập tin ePUB ngay trong Firefox—tăng kích thước phông c
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:944
+#: src/olympia/discovery/strings.jinja2:137 src/olympia/discovery/strings.jinja2:945
 msgid "Play YouTube videos by default in the highest quality, turn off annotations, and more."
 msgstr "Phát video YouTube theo mặc định ở chất lượng cao nhất, tắt chú thích và hơn thế nữa."
 
@@ -4913,7 +4933,7 @@ msgstr "Nâng cao trải nghiệm xem của bạn bằng cách điều chỉnh t
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:833
+#: src/olympia/discovery/strings.jinja2:149 src/olympia/discovery/strings.jinja2:834
 msgid "Add encrypted security to any site that supports HTTPS. Browse securely."
 msgstr "Thêm bảo mật được mã hóa vào bất kỳ trang web nào hỗ trợ HTTPS. Duyệt một cách an toàn."
 
@@ -4959,13 +4979,13 @@ msgstr "Chỉ định một trang chủ tùy chỉnh cho các thẻ mới của 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:875
+#: src/olympia/discovery/strings.jinja2:176 src/olympia/discovery/strings.jinja2:876
 msgid "Convert all your open tabs into a list to easily manage them and speed up Firefox."
 msgstr "Chuyển tất cả các thẻ đang mở của bạn thành một danh sách để dễ dàng quản lý chúng và tăng tốc Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:797
+#: src/olympia/discovery/strings.jinja2:179 src/olympia/discovery/strings.jinja2:798
 msgid "Robust download management. Check the state of your downloads through a status bar, download history page, and more."
 msgstr "Quản lý tải xuống mạnh mẽ. Kiểm tra trạng thái tải xuống của bạn thông qua thanh trạng thái, lịch sử tải xuống và hơn thế nữa."
 
@@ -4996,7 +5016,7 @@ msgstr "Làm cho trang web dễ nhìn hơn bằng cách làm tối màn hình c�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:794
+#: src/olympia/discovery/strings.jinja2:197 src/olympia/discovery/strings.jinja2:795
 msgid "Block all pop-ups by default, then decide which ones you'd like to open."
 msgstr "Chặn tất cả các cửa sổ bật lên theo mặc định, sau đó đợi bạn quyết định muốn mở cái nào."
 
@@ -5027,7 +5047,7 @@ msgstr "Nâng cao trải nghiệm đọc của bạn. Làm cho văn bản bạn 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:869
+#: src/olympia/discovery/strings.jinja2:215 src/olympia/discovery/strings.jinja2:870
 msgid "Right-click and drag links you want open in new tabs."
 msgstr "Nhấp chuột phải và kéo các liên kết bạn muốn mở trong các thẻ mới."
 
@@ -5068,7 +5088,7 @@ msgstr "Theo dõi giá lịch sử, tìm sản phẩm cạnh tranh, biết xếp
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:791
+#: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:792
 msgid "Make it your YouTube. Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more."
 msgstr "Biến nó thành YouTube của bạn. Phát video trên hình trong hình, chỉ xem quảng cáo trong các kênh đã đăng ký, chụp ảnh màn hình video và hơn thế nữa."
 
@@ -5149,7 +5169,7 @@ msgstr "Kiểm tra tất cả các nguồn cấp RSS yêu thích của bạn tro
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:788
+#: src/olympia/discovery/strings.jinja2:287 src/olympia/discovery/strings.jinja2:789
 msgid "Enable night mode for a better viewing experience."
 msgstr "Bật chế độ ban đêm để có trải nghiệm xem tốt hơn."
 
@@ -5205,13 +5225,13 @@ msgstr "Tạo ghi chú chung và dành riêng cho trang web để xem lại sau.
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:767
+#: src/olympia/discovery/strings.jinja2:320 src/olympia/discovery/strings.jinja2:768
 msgid "Phone-like scrolling for your desktop. Features \"grab-n-drag\" style mouse movement."
 msgstr "Di chuyển giống như điện thoại cho màn hình của bạn. Tính năng di chuyển chuột theo phong cách \"kéo-và-thả\"."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:938
+#: src/olympia/discovery/strings.jinja2:323 src/olympia/discovery/strings.jinja2:939
 msgid "Clear your browser cache with a click or keystroke."
 msgstr "Xóa bộ nhớ đệm của trình duyệt bằng một cú nhấp chuột hoặc tổ hợp phím."
 
@@ -5222,13 +5242,13 @@ msgstr "Đánh dấu văn bản trên các trang web để lưu và truy cập s
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:764
+#: src/olympia/discovery/strings.jinja2:329 src/olympia/discovery/strings.jinja2:765
 msgid "Enjoy music from 30,000+ radio stations from all over the globe."
 msgstr "Thưởng thức âm nhạc từ hơn 30.000 đài phát thanh từ khắp nơi trên thế giới."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:935
+#: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:936
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
 msgstr "Tiết kiệm băng thông bằng cách chỉ phát trực tuyến âm thanh từ các clip YouTube."
 
@@ -5239,13 +5259,13 @@ msgstr "Biến các từ thành dòng tiêu đề đẹp và văn bản lớp ph
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:785
+#: src/olympia/discovery/strings.jinja2:338 src/olympia/discovery/strings.jinja2:786
 msgid "Automatically navigate to the secure version of a website if it's available."
 msgstr "Tự động điều hướng đến phiên bản an toàn của trang web nếu nó có sẵn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:866
+#: src/olympia/discovery/strings.jinja2:341 src/olympia/discovery/strings.jinja2:867
 msgid "Delete your navigation history. Specify a custom number of days to retain browser history before it's automatically cleared."
 msgstr "Xóa lịch sử điều hướng của bạn. Chỉ định số ngày tùy chỉnh để lưu lại lịch sử trình duyệt trước khi lịch sử đó tự động bị xóa."
 
@@ -5271,7 +5291,7 @@ msgstr "Tìm kiếm riêng tư chỉ với một cú nhấp chuột."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:899
+#: src/olympia/discovery/strings.jinja2:359 src/olympia/discovery/strings.jinja2:900
 msgid "Put an end to tab hijacking. Don't let clicked links take control of your current tab and load content you didn't ask for."
 msgstr "Chấm dứt chiếm đoạt thẻ. Đừng để các liên kết được nhấp kiểm soát thẻ hiện tại của bạn và tải nội dung bạn không yêu cầu."
 
@@ -5382,13 +5402,13 @@ msgstr "Lưu nội dung yêu thích của bạn trên web. Ghi lại nội dung 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:902
+#: src/olympia/discovery/strings.jinja2:425 src/olympia/discovery/strings.jinja2:903
 msgid "Only allow web content to run from sites you trust. Surf securely."
 msgstr "Chỉ cho phép nội dung web chạy từ các trang web mà bạn tin tưởng. Lướt web an toàn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:773
+#: src/olympia/discovery/strings.jinja2:428 src/olympia/discovery/strings.jinja2:774
 msgid "Take full control of the cookies you've accumulated while browsing."
 msgstr "Kiểm soát hoàn toàn các cookie bạn đã tích lũy trong khi duyệt."
 
@@ -5399,7 +5419,7 @@ msgstr "Tự động xóa lịch sử trình duyệt cho các trang web bạn ch
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:863
+#: src/olympia/discovery/strings.jinja2:434 src/olympia/discovery/strings.jinja2:864
 msgid "Password-protect your personal bookmarks."
 msgstr "Bảo vệ dấu trang cá nhân của bạn bằng mật khẩu."
 
@@ -5425,7 +5445,7 @@ msgstr "Khai thác khả năng tải xuống video và/hoặc âm thanh ở nhi�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:758
+#: src/olympia/discovery/strings.jinja2:449 src/olympia/discovery/strings.jinja2:759
 msgid "Learn where any website's server is geographically located. Be an informed web traveler."
 msgstr "Tìm hiểu vị trí địa lý của máy chủ của bất kỳ trang web nào. Hãy là một khách du lịch web thông tin."
 
@@ -5446,13 +5466,13 @@ msgstr "Theo dõi lịch sử định giá của Amazon. Đưa ra quyết địn
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:929
+#: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:930
 msgid "Adjust browser audio settings with extreme clarity."
 msgstr "Điều chỉnh cài đặt âm thanh của trình duyệt cực kỳ rõ ràng."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:755
+#: src/olympia/discovery/strings.jinja2:464 src/olympia/discovery/strings.jinja2:756
 msgid "Defend yourself against the sneakiest trackers."
 msgstr "Bảo vệ bản thân trước những kẻ theo dõi lén lút nhất."
 
@@ -5478,7 +5498,7 @@ msgstr "Với một cú nhấp chuột đơn giản, bạn có thể xem video �
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:905
+#: src/olympia/discovery/strings.jinja2:482 src/olympia/discovery/strings.jinja2:906
 msgid "Stop wasting valuable memory space with inactive tabs."
 msgstr "Dừng lãng phí không gian bộ nhớ có giá trị với các thẻ không hoạt động."
 
@@ -5499,19 +5519,19 @@ msgstr "Nhận trợ giúp về ngữ pháp bất cứ nơi nào bạn viết tr
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:749
+#: src/olympia/discovery/strings.jinja2:494 src/olympia/discovery/strings.jinja2:750
 msgid "Read with more clarity and ease. Remove the clutter around text on web pages."
 msgstr "Đọc rõ ràng và dễ dàng hơn. Loại bỏ sự lộn xộn xung quanh văn bản trên các trang web."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:746
+#: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:747
 msgid "Block ads and get enhanced protection against malware and ad tracking."
 msgstr "Chặn quảng cáo và được bảo vệ nâng cao chống lại phần mềm độc hại và theo dõi quảng cáo."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:926
+#: src/olympia/discovery/strings.jinja2:500 src/olympia/discovery/strings.jinja2:927
 msgid "Enjoy multi-threading download support. Automatically detect different types of media available for download."
 msgstr "Tận hưởng hỗ trợ tải xuống đa luồng. Tự động phát hiện các loại phương tiện khác nhau có sẵn để tải xuống."
 
@@ -5532,19 +5552,19 @@ msgstr "Tận hưởng những lợi ích của việc quản lý mật khẩu m
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:776
+#: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:777
 msgid "Customize shades of light and dark to make web pages more visually pleasing."
 msgstr "Tùy chỉnh các sắc độ đậm nhạt để làm cho các trang web trực quan hơn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:923
+#: src/olympia/discovery/strings.jinja2:515 src/olympia/discovery/strings.jinja2:924
 msgid "Block distracting websites. Simply list the sites you want the extension to block. Instant discipline!"
 msgstr "Chặn các trang web gây mất tập trung. Chỉ cần liệt kê các trang web bạn muốn tiện ích mở rộng chặn. Kỷ luật tức thì!"
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:770
+#: src/olympia/discovery/strings.jinja2:518 src/olympia/discovery/strings.jinja2:771
 msgid "Change your browser's appearance. Easily design your own visual themes to make Firefox look as you please."
 msgstr "Thay đổi giao diện trình duyệt của bạn. Dễ dàng thiết kế các chủ đề trực quan của riêng bạn để làm cho Firefox trông theo ý bạn."
 
@@ -5565,13 +5585,13 @@ msgstr "Theo dõi sản phẩm và nhận thông báo khi giá giảm trên các
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:743
+#: src/olympia/discovery/strings.jinja2:530 src/olympia/discovery/strings.jinja2:744
 msgid "Turn the web dark or select a custom color scheme to visually tailor the internet to your own taste."
 msgstr "Chỉnh trang web tối hoặc chọn một bảng màu tùy chỉnh để điều chỉnh Internet một cách trực quan theo sở thích của riêng bạn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:962
+#: src/olympia/discovery/strings.jinja2:533 src/olympia/discovery/strings.jinja2:963
 msgid "Get a more advanced search page on Firefox for Android."
 msgstr "Nhận trang tìm kiếm nâng cao hơn trên Firefox dành cho Android."
 
@@ -5597,7 +5617,7 @@ msgstr "Xóa cookie, lịch sử duyệt web và các tập tin đã lưu trong 
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:857
+#: src/olympia/discovery/strings.jinja2:549 src/olympia/discovery/strings.jinja2:858
 msgid "Remove tracking elements from web links."
 msgstr "Loại bỏ các yếu tố theo dõi khỏi các liên kết web."
 
@@ -5608,13 +5628,13 @@ msgstr "Nhận các thư mục đánh dấu nguồn cấp dữ liệu RSS đư�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:920
+#: src/olympia/discovery/strings.jinja2:555 src/olympia/discovery/strings.jinja2:921
 msgid "Easily organize tons of open tabs."
 msgstr "Dễ dàng tổ chức hàng tấn thẻ đang mở."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:860
+#: src/olympia/discovery/strings.jinja2:558 src/olympia/discovery/strings.jinja2:861
 msgid "Create and customize tab groups."
 msgstr "Tạo và tùy chỉnh các nhóm thẻ."
 
@@ -5630,13 +5650,13 @@ msgstr "Chặn tất cả quảng cáo—video, cửa sổ bật lên, biểu ng
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:914
+#: src/olympia/discovery/strings.jinja2:569 src/olympia/discovery/strings.jinja2:915
 msgid "Watch streaming media with friends and family anywhere."
 msgstr "Xem phương tiện truyền trực tuyến với bạn bè và gia đình ở bất cứ đâu."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:956
+#: src/olympia/discovery/strings.jinja2:572 src/olympia/discovery/strings.jinja2:957
 msgid "Skip over sponsored portions of YouTube videos."
 msgstr "Bỏ qua các phần được tài trợ của video YouTube."
 
@@ -5647,31 +5667,31 @@ msgstr "Yêu cầu đọc to các trang web cho bạn. Hơn 40 ngôn ngữ đư�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:953
+#: src/olympia/discovery/strings.jinja2:578 src/olympia/discovery/strings.jinja2:954
 msgid "Double-click any word to instantly see its definition."
 msgstr "Bấm đúp vào bất kỳ từ nào để xem ngay định nghĩa của từ đó."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:995
+#: src/olympia/discovery/strings.jinja2:583 src/olympia/discovery/strings.jinja2:996
 msgid "Save batches of tabs as convenient bookmarks."
 msgstr "Lưu hàng loạt thẻ dưới dạng dấu trang tiện lợi."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:998
+#: src/olympia/discovery/strings.jinja2:586 src/olympia/discovery/strings.jinja2:999
 msgid "Tabs and bookmarks neatly organized in a Firefox side view."
 msgstr "Các thẻ và dấu trang được sắp xếp gọn gàng trong thanh lề của Firefox."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:977
+#: src/olympia/discovery/strings.jinja2:589 src/olympia/discovery/strings.jinja2:978
 msgid "Thousands of GIFs at your fingertips."
 msgstr "Hàng nghìn GIF trong tầm tay bạn."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:983
+#: src/olympia/discovery/strings.jinja2:592 src/olympia/discovery/strings.jinja2:984
 msgid "The easiest way to manage YouTube subscriptions."
 msgstr "Cách dễ nhất để quản lý đăng ký YouTube."
 
@@ -5682,7 +5702,7 @@ msgstr "Nhận thanh cuộn chuột mà bạn luôn muốn—chỉ định chi�
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:992
+#: src/olympia/discovery/strings.jinja2:598 src/olympia/discovery/strings.jinja2:993
 msgid "Save and restore tabs. Includes auto-save and cloud sync features."
 msgstr "Lưu và khôi phục các thẻ. Bao gồm các tính năng tự động lưu và đồng bộ hóa đám mây."
 
@@ -5817,580 +5837,580 @@ msgid "\"Better Twitch TV\" — enhance Twitch and YouTube with a slew of new fe
 msgstr "\"Twitch TV tốt hơn\" — nâng cấp Twitch và YouTube với hàng loạt tính năng mới."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:740
+#: src/olympia/discovery/strings.jinja2:741
 msgid "Some websites have difficulty playing videos on Android. Here's a fix."
 msgstr "Một số trang web gặp khó khăn khi phát video trên Android. Đây là một cách sửa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:761
+#: src/olympia/discovery/strings.jinja2:762
 msgid "Find an interesting pic on the web? Use TinEye to discover its origins."
 msgstr "Tìm một bức ảnh thú vị trên web? Sử dụng TinEye để khám phá nguồn gốc của nó."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:779
+#: src/olympia/discovery/strings.jinja2:780
 msgid "Save images easily — just grab them from your current tab."
 msgstr "Lưu hình ảnh dễ dàng — chỉ cần lấy chúng từ thẻ hiện tại của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:782
+#: src/olympia/discovery/strings.jinja2:783
 msgid "Enjoy ultimate tab control — close duplicate tabs, merge windows, copy the tab title & more."
 msgstr "Tận hưởng khả năng kiểm soát thẻ tối ưu — đóng thẻ trùng lặp, hợp nhất cửa sổ, sao chép tiêu đề thẻ và nhiều chức năng khác."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:800
+#: src/olympia/discovery/strings.jinja2:801
 msgid "Read ePUB files right in Firefox—increase font size, page dimensions & more."
 msgstr "Đọc tập tin ePUB ngay trong Firefox—tăng kích thước phông chữ, kích thước trang và hơn thế nữa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:821
+#: src/olympia/discovery/strings.jinja2:822
 msgid "Customize mouse gestures. Discover new ways to navigate with 50+ configurations."
 msgstr "Tùy chỉnh cử chỉ chuột. Khám phá những cách mới để điều hướng với hơn 50 tùy chỉnh."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:824
+#: src/olympia/discovery/strings.jinja2:825
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
 msgstr "Loại bỏ những yếu tố gây xao nhãng, thay đổi trải nghiệm xem, điều chỉnh tốc độ phát lại và nhiều hơn nữa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:872
+#: src/olympia/discovery/strings.jinja2:873
 msgid "Customize the look of any website. Shift colors, page backgrounds & more."
 msgstr "Tùy chỉnh giao diện của bất kỳ trang web nào. Thay đổi màu sắc, nền trang và hơn thế nữa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:881
+#: src/olympia/discovery/strings.jinja2:882
 msgid "Use mouse gestures to close tabs, navigate pages & more."
 msgstr "Sử dụng cử chỉ chuột để đóng thẻ, điều hướng trang và hơn thế nữa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:884
+#: src/olympia/discovery/strings.jinja2:885
 msgid "A simple way to adjust the size of any page's text — or even enlarge the page itself."
 msgstr "Một cách đơn giản để điều chỉnh kích thước của bất kỳ văn bản nào của trang — hoặc thậm chí phóng to trang đó."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:911
+#: src/olympia/discovery/strings.jinja2:912
 msgid "Enjoy thumbnail images of websites alongside your search returns."
 msgstr "Thưởng thức hình ảnh của bạn phù hợp với giao diện của kết quả tìm kiếm của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:917
+#: src/olympia/discovery/strings.jinja2:918
 msgid "Save an entire web page — including images and styling — as a single HTML file."
 msgstr "Lưu các trang hoàn chỉnh — hoặc chỉ một phần — vào tập tin HTML."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:932
+#: src/olympia/discovery/strings.jinja2:933
 msgid "Edit a web page before printing. Remove ads or any unwanted content."
 msgstr "Chỉnh sửa trang web trước khi in. Xóa quảng cáo hoặc bất kỳ nội dung không mong muốn nào."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:941
+#: src/olympia/discovery/strings.jinja2:942
 msgid "Advanced reader for aggregating all of your RSS/Atom/RDF sources."
 msgstr "Trình đọc nâng cao để tổng hợp tất cả nguồn RSS/Atom/RDF của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:959
+#: src/olympia/discovery/strings.jinja2:960
 msgid "Web pages read aloud. 40+ languages supported."
 msgstr "Các trang web được đọc to. Hơn 40 ngôn ngữ được hỗ trợ."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:965
+#: src/olympia/discovery/strings.jinja2:966
 msgid "Removes those long tracking parameters from Google search result URL's."
 msgstr "Xóa các thông số theo dõi dài đó khỏi URL kết quả tìm kiếm của Google."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:968
+#: src/olympia/discovery/strings.jinja2:969
 msgid "Get weather updates directly from Firefox."
 msgstr "Nhận cập nhật thời tiết trực tiếp từ Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:971
+#: src/olympia/discovery/strings.jinja2:972
 msgid "Manage your time better with a browser clock that charts work intervals."
 msgstr "Quản lý thời gian của bạn tốt hơn với đồng hồ trình duyệt với biểu đồ các khoảng thời gian làm việc."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:974
+#: src/olympia/discovery/strings.jinja2:975
 msgid "Tired of that \"Video paused. Continue watching?\" message? Listen to your favorite music uninterrupted on YouTube."
 msgstr "Mệt mỏi vì \"Video bị tạm dừng. Tiếp tục xem?\"? Nghe nhạc yêu thích của bạn không bị gián đoạn trên YouTube."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:980
+#: src/olympia/discovery/strings.jinja2:981
 msgid "Begone, annoying cookie warnings!"
 msgstr "Hãy bỏ qua các cảnh báo cookie khó chịu!"
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:986
+#: src/olympia/discovery/strings.jinja2:987
 msgid "Return to a simpler time — when your top search results stood above the ads (Google and Bing search engine compatible)."
 msgstr "Quay trở lại thời điểm đơn giản hơn — khi kết quả tìm kiếm hàng đầu của bạn đứng trên quảng cáo (tương thích với công cụ tìm kiếm của Google và Bing)."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:989
+#: src/olympia/discovery/strings.jinja2:990
 msgid "Get the mouse scrollbar you've always wanted — specify width and color."
 msgstr "Nhận thanh cuộn chuột mà bạn luôn muốn — chỉ định chiều rộng và màu sắc."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1001
+#: src/olympia/discovery/strings.jinja2:1002
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
 msgstr "Che giấu email của bạn để bảo vệ danh tính của bạn và ngăn chặn thư rác. Các bản cập nhật mới giúp Firefox Relay dễ sử dụng hơn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1004
+#: src/olympia/discovery/strings.jinja2:1005
 msgid "Instantly translate any selected text on web pages."
 msgstr "Dịch ngay lập tức bất kỳ văn bản đã chọn nào trên các trang web."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1007
+#: src/olympia/discovery/strings.jinja2:1008
 msgid "Make Firefox change colors based on time of day."
 msgstr "Làm cho Firefox thay đổi màu sắc dựa trên thời gian trong ngày."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1010
+#: src/olympia/discovery/strings.jinja2:1011
 msgid "Eliminate YouTube distractions. Remove related and recommended video suggestions, comments & more."
 msgstr "Loại bỏ các yếu tố gây xao nhãng trên YouTube. Xóa các đề xuất, nhận xét về video có liên quan và được đề xuất, và nhiều hơn nữa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1013
+#: src/olympia/discovery/strings.jinja2:1014
 msgid "Take emojis with you everywhere on the web."
 msgstr "Mang biểu tượng cảm xúc theo bạn ở khắp mọi nơi trên web."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1019
+#: src/olympia/discovery/strings.jinja2:1020
 msgid "Put restrictions on distracting, time-wasting websites."
 msgstr "Đặt các hạn chế trên các trang web gây mất tập trung, lãng phí thời gian."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1022
+#: src/olympia/discovery/strings.jinja2:1023
 msgid "Remove clutter from your Twitter."
 msgstr "Loại bỏ sự lộn xộn khỏi Twitter của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1025
+#: src/olympia/discovery/strings.jinja2:1026
 msgid "Customize YouTube to taste."
 msgstr "Tùy chỉnh YouTube theo sở thích."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1028
+#: src/olympia/discovery/strings.jinja2:1029
 msgid "Delete browsing data directly from the browser toolbar."
 msgstr "Xóa dữ liệu duyệt trực tiếp từ thanh công cụ của trình duyệt."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1031
+#: src/olympia/discovery/strings.jinja2:1032
 msgid "Get RSS feed auto-updates direct to your bookmark folders."
 msgstr "Nhận tự động cập nhật nguồn cấp dữ liệu RSS trực tiếp đến các thư mục dấu trang của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1034
+#: src/olympia/discovery/strings.jinja2:1035
 msgid "Effective blocker against all types of ads."
 msgstr "Trình chặn hiệu quả chống lại tất cả các loại quảng cáo."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1037
+#: src/olympia/discovery/strings.jinja2:1038
 msgid "Mass download manager makes extreme downloading extremely easy."
 msgstr "Trình quản lý tải xuống hàng loạt giúp việc tải xuống cực kỳ dễ dàng."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1040
+#: src/olympia/discovery/strings.jinja2:1041
 msgid "Remove ads & receive better protection against malware."
 msgstr "Xóa quảng cáo và nhận được sự bảo vệ tốt hơn trước phần mềm độc hại."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1043
+#: src/olympia/discovery/strings.jinja2:1044
 msgid "Remove formatting from copied Clipboard text."
 msgstr "Xóa định dạng khỏi văn bản đã sao chép của khay nhớ tạm."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1046
+#: src/olympia/discovery/strings.jinja2:1047
 msgid "Fingerprinting privacy protection."
 msgstr "Bảo vệ quyền riêng tư của dấu vết."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1049
+#: src/olympia/discovery/strings.jinja2:1050
 msgid "Enhance your gaming experience on Steam."
 msgstr "Nâng cao trải nghiệm chơi trò chơi của bạn trên Steam."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1052
+#: src/olympia/discovery/strings.jinja2:1053
 msgid "Thumbs-up to bringing back thumbs-down."
 msgstr "Nhấn nút thích để mang lại số lượt không thích."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1055
+#: src/olympia/discovery/strings.jinja2:1056
 msgid "Translate websites in Firefox — privately — without using the cloud."
 msgstr "Dịch các trang web trong Firefox — một cách riêng tư — mà không cần sử dụng đám mây."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1058
+#: src/olympia/discovery/strings.jinja2:1059
 msgid "Block time-wasting websites. Block them completely or just during time frames of your choosing."
 msgstr "Chặn các trang web lãng phí thời gian. Chặn chúng hoàn toàn hoặc chỉ trong khung thời gian bạn chọn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1061
+#: src/olympia/discovery/strings.jinja2:1062
 msgid "Easily summarize emails, docs, articles, and video transcripts in English across the web — without sacrificing your privacy."
 msgstr "Tóm tắt thư từ, tài liệu, bài báo và bản phiên âm video bằng tiếng Anh trên các trang web thật dễ dàng - mà không ảnh hưởng đến quyền riêng tư của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1064
+#: src/olympia/discovery/strings.jinja2:1065
 msgid "You’re in control. Turn off VPN when a website won’t work and set different locations for different websites. Windows only."
 msgstr "Bạn đang được kiểm soát. Tắt VPN khi trang web không hoạt động và đặt các địa điểm khác nhau cho các trang web khác nhau. Chỉ dành cho Windows."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1067
+#: src/olympia/discovery/strings.jinja2:1068
 msgid "Automatically handle GDPR consent forms."
 msgstr "Tự động xử lý biểu mẫu đồng ý GDPR."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1070
+#: src/olympia/discovery/strings.jinja2:1071
 msgid "Block malicious websites from port scanning."
 msgstr "Chặn các trang web độc hại khỏi chức năng quét cổng."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1073
+#: src/olympia/discovery/strings.jinja2:1074
 msgid "Enhance your Twitch experience."
 msgstr "Nâng cao trải nghiệm Twitch của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1076
+#: src/olympia/discovery/strings.jinja2:1077
 msgid "Re-take control of Twitter/X and customize your experience."
 msgstr "Kiểm soát lại Twitter/X và tùy chỉnh trải nghiệm của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1079
+#: src/olympia/discovery/strings.jinja2:1080
 msgid "Translate text without leaving the page you're on (PDF compatible)."
 msgstr "Dịch văn bản mà không cần rời khỏi trang bạn đang xem (tương thích với PDF)."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1082
+#: src/olympia/discovery/strings.jinja2:1083
 msgid "Change the color of Firefox to match every website you visit."
 msgstr "Thay đổi màu của Firefox để phù hợp với mọi trang web bạn truy cập."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1085
+#: src/olympia/discovery/strings.jinja2:1086
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
 msgstr "Bạn đang học một ngôn ngữ mới? Yomitan chính là người bạn đồng hành lý tưởng trong từ điển."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1088
+#: src/olympia/discovery/strings.jinja2:1089
 msgid "Pack a powerful thesaurus right inside Firefox."
 msgstr "Tích hợp từ điển đồng nghĩa mạnh mẽ ngay trong Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1091
+#: src/olympia/discovery/strings.jinja2:1092
 msgid "Hover over web images to enlarge their appearance."
 msgstr "Di chuột qua hình ảnh trên web để phóng to hình ảnh."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1094
+#: src/olympia/discovery/strings.jinja2:1095
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
 msgstr "Công cụ dịch thuật nhiều tính năng. Hoạt động trên web, sách điện tử, PDF, thậm chí cả phụ đề video."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1097
+#: src/olympia/discovery/strings.jinja2:1098
 msgid "Track the time you spend on every website you visit."
 msgstr "Theo dõi thời gian bạn dành cho mỗi trang web bạn truy cập."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1100
+#: src/olympia/discovery/strings.jinja2:1101
 msgid "Manage your Gmail (even multiple accounts) right from a handy pop-up accessible from the Firefox toolbar."
 msgstr "Quản lý Gmail của bạn (thậm chí nhiều tài khoản) ngay từ cửa sổ bật lên tiện dụng có thể truy cập từ thanh công cụ Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1103
+#: src/olympia/discovery/strings.jinja2:1104
 msgid "De-clutter YouTube. Strip away unwanted elements like related videos, shorts & more."
 msgstr "Dọn dẹp YouTube. Loại bỏ các thành phần không mong muốn như video liên quan, video ngắn, v.v."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1106
+#: src/olympia/discovery/strings.jinja2:1107
 msgid "Leave yourself little notes on any web page."
 msgstr "Ghi lại những ghi chú nhỏ trên bất kỳ trang web nào."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1109
+#: src/olympia/discovery/strings.jinja2:1110
 msgid "Serenity for your Reddit experience."
 msgstr "Nâng cao trải nghiệm Reddit của bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1112
+#: src/olympia/discovery/strings.jinja2:1113
 msgid "Save and organize anything you find on the web."
 msgstr "Lưu và sắp xếp mọi thứ bạn tìm thấy trên web."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1115
+#: src/olympia/discovery/strings.jinja2:1116
 msgid "WebM video controls at your fingertips."
 msgstr "Điều khiển video WebM ngay trong tầm tay bạn."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1118
+#: src/olympia/discovery/strings.jinja2:1119
 msgid "Disguise Firefox as the Chrome browser to spoof websites that try to block Firefox."
 msgstr "Ngụy trang Firefox thành trình duyệt Chrome để đánh lừa các trang web cố gắng chặn Firefox."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1121
+#: src/olympia/discovery/strings.jinja2:1122
 msgid "Remove distractions, change viewing options, alter playback speed & more."
 msgstr "Loại bỏ các yếu tố gây xao nhãng, thay đổi tùy chọn hiển thị, điều chỉnh tốc độ phát lại và nhiều hơn nữa."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1124
+#: src/olympia/discovery/strings.jinja2:1125
 msgid "Works great for video, audio, and streaming content across most websites."
 msgstr "Hoạt động rất tốt với video, âm thanh và nội dung phát trực tuyến trên hầu hết các trang web."
 
 #. editorial content for the primary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1127
+#: src/olympia/discovery/strings.jinja2:1128
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr "Hàng tá tính năng giúp bạn sử dụng YouTube hiệu quả hơn. Loại bỏ quảng cáo gây xao nhãng, thay đổi bố cục hình ảnh của YouTube, điều chỉnh tốc độ phát lại, tăng âm lượng và nhiều hơn nữa."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1130
+#: src/olympia/discovery/strings.jinja2:1131
 msgid "Extensions are like apps for Firefox."
 msgstr "Các tiện ích mở rộng giống như các ứng dụng dành cho Firefox."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1132
+#: src/olympia/discovery/strings.jinja2:1133
 msgid "They add features to Firefox to make browsing faster, safer, or just plain fun."
 msgstr "Chúng thêm các tính năng vào Firefox để giúp duyệt web nhanh hơn, an toàn hơn hoặc chỉ đơn giản là thú vị."
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1134
+#: src/olympia/discovery/strings.jinja2:1135
 msgid "See all extensions"
 msgstr "Xem tất cả các tiện ích mở rộng"
 
 #. editorial content for the secondary hero shelves.
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1136 src/olympia/discovery/strings.jinja2:1204
+#: src/olympia/discovery/strings.jinja2:1137 src/olympia/discovery/strings.jinja2:1205
 msgid "YouTube customization"
 msgstr "Tùy chỉnh YouTube"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1140
+#: src/olympia/discovery/strings.jinja2:1141
 msgid "Reddit extensions"
 msgstr "Tiện ích mở rộng Reddit"
 
 #. editorial content for the secondary hero shelves.
-#: src/olympia/discovery/strings.jinja2:1142 src/olympia/discovery/strings.jinja2:1144 src/olympia/discovery/strings.jinja2:1146
+#: src/olympia/discovery/strings.jinja2:1143 src/olympia/discovery/strings.jinja2:1145 src/olympia/discovery/strings.jinja2:1147
 msgid "See staff picks"
 msgstr "Xem lựa chọn của nhân viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1149
+#: src/olympia/discovery/strings.jinja2:1150
 msgid "Recommended extensions"
 msgstr "Tiện ích mở rộng được đề xuất"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1151
+#: src/olympia/discovery/strings.jinja2:1152
 msgid "See more recommended extensions"
 msgstr "Xem thêm các tiện ích mở rộng được đề xuất"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1154
+#: src/olympia/discovery/strings.jinja2:1155
 msgid "Popular themes"
 msgstr "Chủ đề phổ biến"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1156
+#: src/olympia/discovery/strings.jinja2:1157
 msgid "See more popular themes"
 msgstr "Xem các chủ đề phổ biến"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1159
+#: src/olympia/discovery/strings.jinja2:1160
 msgid "Privacy & security"
 msgstr "Riêng tư & bảo mật"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1161
+#: src/olympia/discovery/strings.jinja2:1162
 msgid "See more privacy staff picks"
 msgstr "Xem thêm các tiện ích riêng tư được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1164
+#: src/olympia/discovery/strings.jinja2:1165
 msgid "Popular extensions"
 msgstr "Các tiện ích mở rộng phổ biến"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1166
+#: src/olympia/discovery/strings.jinja2:1167
 msgid "See more popular extensions"
 msgstr "Xem thêm các tiện ích phổ biến"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1169
+#: src/olympia/discovery/strings.jinja2:1170
 msgid "Recommended themes"
 msgstr "Chủ đề được đề xuất"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1171
+#: src/olympia/discovery/strings.jinja2:1172
 msgid "See more recommended themes"
 msgstr "Xem thêm các chủ đề được đề xuất"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1174
+#: src/olympia/discovery/strings.jinja2:1175
 msgid "Strong password managers"
 msgstr "Trình quản lý mật khẩu mạnh"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1176
+#: src/olympia/discovery/strings.jinja2:1177
 msgid "See more password manager staff picks"
 msgstr "Xem thêm trình quản lý mật khẩu được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1179
+#: src/olympia/discovery/strings.jinja2:1180
 msgid "Translation tools"
 msgstr "Công cụ dịch thuật"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1181
+#: src/olympia/discovery/strings.jinja2:1182
 msgid "See more translation tool staff picks"
 msgstr "Xem thêm các công cụ dịch thuật được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1184
+#: src/olympia/discovery/strings.jinja2:1185
 msgid "Social streaming"
 msgstr "Phát trực tuyến xã hội"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1186
+#: src/olympia/discovery/strings.jinja2:1187
 msgid "See more social streaming staff picks"
 msgstr "Xem thêm phát trực tuyến và xã hội được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1189
+#: src/olympia/discovery/strings.jinja2:1190
 msgid "Tab managers"
 msgstr "Quản lý thẻ"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1191
+#: src/olympia/discovery/strings.jinja2:1192
 msgid "See more tab management staff picks"
 msgstr "Xem thêm các trình quản lý thẻ được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1194
+#: src/olympia/discovery/strings.jinja2:1195
 #, python-brace-format
 msgid "“{tag}” tagged extensions"
 msgstr "Tiện ích mở rộng được gắn thẻ “{tag}”"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1196
+#: src/olympia/discovery/strings.jinja2:1197
 #, python-brace-format
 msgid "See more extensions tagged \"{tag}\""
 msgstr "Xem các tiện ích mở rộng khác được gắn thẻ \"{tag}\""
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1199
+#: src/olympia/discovery/strings.jinja2:1200
 msgid "Elite ad blockers"
 msgstr "Trình chặn quảng cáo ưu tú"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1201
+#: src/olympia/discovery/strings.jinja2:1202
 msgid "See more ad blocker staff picks"
 msgstr "Xem thêm các trình chặn quảng cáo được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1206
+#: src/olympia/discovery/strings.jinja2:1207
 msgid "See more YouTube extension staff picks"
 msgstr "Xem thêm các tiện ích YouTube được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1209
+#: src/olympia/discovery/strings.jinja2:1210
 msgid "Trending themes"
 msgstr "Chủ đề thịnh hành"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1211
+#: src/olympia/discovery/strings.jinja2:1212
 msgid "See more trending themes"
 msgstr "Xem các chủ đề thịnh hành khác"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1214 src/olympia/discovery/strings.jinja2:1259
+#: src/olympia/discovery/strings.jinja2:1215 src/olympia/discovery/strings.jinja2:1260
 msgid "Top rated themes"
 msgstr "Chủ đề thịnh hành"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1216 src/olympia/discovery/strings.jinja2:1261
+#: src/olympia/discovery/strings.jinja2:1217 src/olympia/discovery/strings.jinja2:1262
 msgid "See more top rated themes"
 msgstr "Xem các chủ đề thịnh hành khác"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1219
+#: src/olympia/discovery/strings.jinja2:1220
 msgid "Trending extensions"
 msgstr "Chủ đề thịnh hành"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1221
+#: src/olympia/discovery/strings.jinja2:1222
 msgid "See more trending extensions"
 msgstr "Xem thêm các xu hướng cho tiện ích mở rộng"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1224
+#: src/olympia/discovery/strings.jinja2:1225
 msgid "Steam enhancers"
 msgstr "Tăng cường cho Steam"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1226
+#: src/olympia/discovery/strings.jinja2:1227
 msgid "See more Steam staff picks"
 msgstr "Xem thêm Steam được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1229
+#: src/olympia/discovery/strings.jinja2:1230
 msgid "Creativity extensions"
 msgstr "Chủ đề thịnh hành"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1231
+#: src/olympia/discovery/strings.jinja2:1232
 msgid "See more creativity staff picks"
 msgstr "Xem thêm các tiện ích sáng tạo được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1234
+#: src/olympia/discovery/strings.jinja2:1235
 msgid "Social media extensions"
 msgstr "Tiện ích mở rộng xã hội"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1236
+#: src/olympia/discovery/strings.jinja2:1237
 msgid "See more social media staff picks"
 msgstr "Xem thêm tiện ích xã hội được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1239
+#: src/olympia/discovery/strings.jinja2:1240
 msgid "Top download managers"
 msgstr "Trình quản lý tải xuống hàng đầu"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1241
+#: src/olympia/discovery/strings.jinja2:1242
 msgid "See more download manager staff picks"
 msgstr "Xem thêm trình quản lý tải xuống do biên tập viên chọn"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1244
+#: src/olympia/discovery/strings.jinja2:1245
 msgid "Accessibility extensions"
 msgstr "Tiện ích hỗ trợ tiếp cận"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1246
+#: src/olympia/discovery/strings.jinja2:1247
 msgid "See more accessibility staff picks"
 msgstr "Xem thêm các tiện ích hỗ trợ tiếp cận được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1249
+#: src/olympia/discovery/strings.jinja2:1250
 msgid "Extension starter pack"
 msgstr "Gói khởi đầu tiện ích mở rộng"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1251
+#: src/olympia/discovery/strings.jinja2:1252
 msgid "See more starter extension staff picks"
 msgstr "Xem thêm các tiện ích cho người mới bắt đầu được chúng tôi lựa chọn"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1254
+#: src/olympia/discovery/strings.jinja2:1255
 msgid "Twitch extensions"
 msgstr "Tiện ích mở rộng Twitch"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1256
+#: src/olympia/discovery/strings.jinja2:1257
 msgid "See more Twitch extension staff picks"
 msgstr "Xem thêm các tiện ích Twitch được lựa chọn bởi biên tập viên"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1264
+#: src/olympia/discovery/strings.jinja2:1265
 msgid "Gaming & media extensions"
 msgstr "Tiện ích mở rộng trò chơi & đa phương tiện"
 
 #. editorial content for the homepage shelves.
-#: src/olympia/discovery/strings.jinja2:1266
+#: src/olympia/discovery/strings.jinja2:1267
 msgid "See more staff picks"
 msgstr "Xem thêm lựa chọn của biên tập viên"
 
@@ -7180,8 +7200,8 @@ msgstr "Phần mềm hoặc thiết bị bạn đang sử dụng không được
 
 #: src/olympia/users/models.py:1489
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Trước khi bắt đầu, vui lòng đọc và chấp nhận Thỏa thuận phân phối tiện ích Firefox cũng như Chính sách và quy tắc đánh giá của chúng tôi. Thỏa thuận phân phối tiện ích Firefox cũng liên kết đến "
 "thông báo về Quyền riêng tư của chúng tôi, trong đó giải thích cách chúng tôi xử lý thông tin của bạn."
@@ -7287,7 +7307,8 @@ msgid ""
 msgstr ""
 "Xin chào %(author_name)s,\n"
 "\n"
-"Tin vui, bạn đã được mời trở thành tác giả của %(addon_name)s trên %(domain)s. Chấp nhận lời mời sẽ cho phép bạn chỉnh sửa tiện ích mở rộng, và tên của bạn có thể xuất hiện trong danh sách tác giả trên trang web.\n"
+"Tin vui, bạn đã được mời trở thành tác giả của %(addon_name)s trên %(domain)s. Chấp nhận lời mời sẽ cho phép bạn chỉnh sửa tiện ích mở rộng, và tên của bạn có thể xuất hiện trong danh sách tác giả "
+"trên trang web.\n"
 "\n"
 "Nếu bạn muốn chấp nhận lời mời, chỉ cần nhấp vào liên kết bên dưới:\n"
 "\n"
@@ -7325,7 +7346,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"
@@ -7335,7 +7357,8 @@ msgid ""
 msgstr ""
 "Xin chào,\n"
 "\n"
-"Bạn nhận được thông báo này để thông báo rằng tài khoản người dùng %(name)s trên %(site_url)s đã bị xóa. Nếu bạn vừa xóa tài khoản Mozilla của mình, việc này có thể đã diễn ra tự động như một phần của quá trình đó.\n"
+"Bạn nhận được thông báo này để thông báo rằng tài khoản người dùng %(name)s trên %(site_url)s đã bị xóa. Nếu bạn vừa xóa tài khoản Mozilla của mình, việc này có thể đã diễn ra tự động như một phần "
+"của quá trình đó.\n"
 "\n"
 "Cảm ơn bạn vì đã là một phần của cộng đồng tiện ích mở rộng Firefox. Nếu bạn cho rằng đây là sai sót hoặc có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi.\n"
 "\n"
