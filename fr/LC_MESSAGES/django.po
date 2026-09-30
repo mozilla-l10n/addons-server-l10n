@@ -3823,6 +3823,16 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"Merci de développer pour Firefox ! Vous recevez ce message, car vous avez demandé de nouvelles clés d’API de développement pour %(domain)s. Pour finaliser leur configuration, cliquez simplement sur le lien ci-dessous :\n"
+"\n"
+"%(api_key_confirmation_link)s\n"
+"\n"
+"Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer cet e-mail : aucune clé ne sera créée.\n"
+"\n"
+"\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/new-key-email.ltxt:14
 #, python-format
@@ -3842,6 +3852,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"Une nouvelle clé API vient d’être ajoutée à votre compte :\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Si vous êtes à l’origine de cet ajout, aucune action supplémentaire n’est requise.\n"
+"Si vous pensez que cette clé a été créée par erreur, vous pouvez la supprimer et désactiver l’accès ici :\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Merci de développer pour Firefox,\n"
+"\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/revoked-key-email.ltxt:14
 #, python-format
@@ -3861,6 +3885,20 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"La clé API suivante a été révoquée sur votre compte et ne peut désormais plus être utilisée :\n"
+"\n"
+"%(key)s\n"
+"\n"
+"Si cette révocation était prévue, vous n’avez rien à faire. \n"
+"Si vous pensez qu’elle résulte d’une erreur, vous pouvez créer une nouvelle clé ici :\n"
+"\n"
+"%(url)s\n"
+"\n"
+"Nous restons à votre disposition en cas de problème,\n"
+"\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/submission_api_key_revocation.txt:9
 #, python-format
@@ -3875,6 +3913,15 @@ msgid ""
 "Thank you,\n"
 "The Mozilla Add-ons team"
 msgstr ""
+"Bonjour,\n"
+"\n"
+"Nous souhaitions vous en informer sans attendre : nous avons constaté que vos identifiants secrets pour l’API AMO figuraient dans un module complémentaire envoyé sur addons.mozilla.org. Afin de protéger votre compte et vos modules complémentaires, nous avons révoqué les identifiants concernés. Vous n’avez rien fait de mal : cela peut arriver, et nous sommes là pour vous aider à rétablir la situation.\n"
+"Vous pouvez générer de nouveaux identifiants d’API à tout moment sur %(api_keys_url)s\n"
+"\n"
+"Pour mieux protéger vos identifiants à l’avenir, veillez à les garder confidentiels et à ne les inclure dans aucun dépôt public, module complémentaire ou autre espace accessible au public. Lorsque vous en aurez l’occasion, nous vous recommandons de vérifier vos dépôts de code et vos extensions afin d’y supprimer toute référence à vos identifiants AMO.\n"
+"\n"
+"Merci,\n"
+"L’équipe des modules complémentaires de Mozilla"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-completed.ltxt:6
 msgid ""
@@ -5878,7 +5925,7 @@ msgstr "Personnalisez les gestes de la souris. Découvrez de nouvelles façons d
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:825
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
-msgstr ""
+msgstr "Éliminez les distractions, personnalisez votre expérience de visionnage, ajustez la vitesse de lecture et bien plus encore."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:873
@@ -6158,12 +6205,14 @@ msgstr "Éliminez les distractions, ajustez les options d’affichage, modifiez 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1125
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Idéal pour profiter des vidéos, de l’audio et des contenus en streaming sur la plupart des sites web."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1128
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
 msgstr ""
+"Des dizaines de fonctionnalités pour adapter YouTube à vos besoins. Masquez les promotions gênantes, personnalisez l’apparence de YouTube, réglez la vitesse de lecture, augmentez le volume et bien "
+"plus encore."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
