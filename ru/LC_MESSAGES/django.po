@@ -6254,7 +6254,7 @@ msgstr "Надёжные менеджеры паролей"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1177
 msgid "See more password manager staff picks"
-msgstr "Больше менеджеров паролей отобранных нашими сотрудниками"
+msgstr "Больше менеджеров паролей, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1180
@@ -6264,7 +6264,7 @@ msgstr "Инструменты перевода"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1182
 msgid "See more translation tool staff picks"
-msgstr "Больше инструментов перевода отобранных нашими сотрудниками"
+msgstr "Больше инструментов перевода, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1185
@@ -6274,7 +6274,7 @@ msgstr "Вещание в социальных сетях"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1187
 msgid "See more social streaming staff picks"
-msgstr "Больше средств вещания в социальных сетях отобранных нашими сотрудниками"
+msgstr "Больше средств вещания в социальных сетях, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1190
@@ -6284,7 +6284,7 @@ msgstr "Менеджеры вкладок"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1192
 msgid "See more tab management staff picks"
-msgstr "Больше расширений для управления вкладками отобранных нашими сотрудниками"
+msgstr "Больше расширений для управления вкладками, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1195
@@ -6306,12 +6306,12 @@ msgstr "Элитные блокировщики рекламы"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1202
 msgid "See more ad blocker staff picks"
-msgstr "Больше средств блокировки рекламы отобранных нашими сотрудниками"
+msgstr "Больше средств блокировки рекламы, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1207
 msgid "See more YouTube extension staff picks"
-msgstr "Больше расширений для YouTube отобранных нашими сотрудниками"
+msgstr "Больше расширений для YouTube, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1210
@@ -6361,7 +6361,7 @@ msgstr "Расширения для творчества"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1232
 msgid "See more creativity staff picks"
-msgstr "Больше креативных инструментов отобранных нашими сотрудниками"
+msgstr "Больше креативных инструментов, отобранных нашими сотрудниками"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1235
