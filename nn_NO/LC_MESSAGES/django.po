@@ -229,7 +229,7 @@ msgstr "Bilde kan ikkje vere animerte."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Bruk bilde som er mindre enn {} MB."
 
 #: src/olympia/accounts/views.py:211
 msgid "Need help?"
@@ -337,7 +337,7 @@ msgstr "Bilde må vere mindre enn %d MB"
 #: src/olympia/search/filters.py:209 src/olympia/search/filters.py:358 src/olympia/search/filters.py:464
 #, python-brace-format
 msgid "Invalid \"{}\" parameter."
-msgstr ""
+msgstr "Ugyldig parameter «{}»."
 
 #: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2435 src/olympia/constants/base.py:72
 msgid "Listed"
@@ -6525,7 +6525,7 @@ msgstr "Du kan ikkje legge igjen meir enn éin omtale for den same versjonen av 
 #: src/olympia/ratings/serializers.py:316
 #, python-brace-format
 msgid "Invalid flag [{flag}] - must be one of [{flags}]"
-msgstr ""
+msgstr "Ugyldig flagg [{flag}] – må vere eitt av [{flags}]"
 
 #: src/olympia/ratings/serializers.py:327
 msgid "This rating can't be flagged because it has no review text."
@@ -6567,7 +6567,7 @@ msgstr "Lagre"
 #: src/olympia/search/filters.py:214 src/olympia/search/filters.py:336
 #, python-brace-format
 msgid "Invalid combination of \"{param1}\" and \"{param2}\" parameters."
-msgstr ""
+msgstr "Ugyldig kombinasjon av parametrane «{param1}» og «{param2}»."
 
 #: src/olympia/search/filters.py:278
 msgid "Return To AMO is currently disabled"
@@ -6609,7 +6609,7 @@ msgstr "Ugyldig tillegs-ID i URL eller pakke"
 
 #: src/olympia/signing/views.py:208
 msgid "Only API v5+ supports enterprise channels."
-msgstr ""
+msgstr "Berre API v5+ støttar bedriftskanalar."
 
 #: src/olympia/signing/views.py:221
 msgid "You cannot add listed versions to an add-on set to \"Invisible\" state."
