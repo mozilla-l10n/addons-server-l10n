@@ -151,8 +151,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
-"Se você acredita que o conteúdo não adere às políticas da Mozilla, você tem o direito de recorrer da decisão dentro de 6 meses a partir da data deste e-mail. Consulte %(appeal_url)s para detalhes "
-"sobre o processo de recurso, incluindo como apresentar um recurso para esta decisão específica."
+"Se você acredita que o conteúdo não está em conformidade com as diretrizes da Mozilla, tem o direito de recorrer desta decisão no prazo de 6 meses a partir da data deste email. Consulte "
+"%(appeal_url)s para saber detalhes sobre o processo, inclusive como recorrer desta decisão específica."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -2018,8 +2018,8 @@ msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
-"Um complemento empresarial. <span class=\"helptext\">Após seu envio ser assinado pela Mozilla, você pode baixar o arquivo .xpi a partir do Developer Hub e distribuir ao seu público através de uma "
-"política do Firefox para Empresas.</span>"
+"Uma extensão para o Enterprise. <span class=\"helptext\">Após seu envio ser assinado pela Mozilla, você pode baixar o arquivo .xpi a partir do Developer Hub e distribuir ao seu público através de "
+"uma diretiva do Firefox Enterprise.</span>"
 
 #: src/olympia/devhub/forms.py:1476 src/olympia/devhub/templates/devhub/includes/agreement.html:17
 msgid "Display Name"
