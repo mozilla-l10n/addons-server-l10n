@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-06 09:37+0000\n"
+"POT-Creation-Date: 2026-10-06 14:50+0000\n"
 "PO-Revision-Date: 2024-01-15 13:27+0000\n"
 "Last-Translator: Bund10z <abu.avila@gmail.com>\n"
 "Language-Team: Español (España) <nave@elistas.net>\n"
@@ -225,11 +225,11 @@ msgstr "Las imágenes no pueden ser animadas."
 msgid "Please use images smaller than {}MB."
 msgstr ""
 
-#: src/olympia/accounts/views.py:211
+#: src/olympia/accounts/views.py:216
 msgid "Need help?"
 msgstr "¿Necesitas ayuda?"
 
-#: src/olympia/accounts/views.py:786
+#: src/olympia/accounts/views.py:791
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "La notificación [%s] no existe"
@@ -543,7 +543,7 @@ msgstr "Introduce una red IP4 o IP6 válida."
 msgid "CIDR"
 msgstr "CIDR"
 
-#: src/olympia/amo/middleware.py:257 src/olympia/devhub/templates/devhub/index.html:56 src/olympia/templates/base.html:64
+#: src/olympia/amo/middleware.py:260 src/olympia/devhub/templates/devhub/index.html:56 src/olympia/templates/base.html:64
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Algunas características están temporalmente deshabilitadas mientras realizamos tareas de mantenimiento en la web. Volveremos a tener plena capacidad muy pronto."
 

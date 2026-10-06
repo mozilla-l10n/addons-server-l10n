@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-06 09:37+0000\n"
+"POT-Creation-Date: 2026-10-06 14:50+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -268,11 +268,11 @@ msgstr "Images cannot be animated."
 msgid "Please use images smaller than {}MB."
 msgstr "Please use images smaller than {}MB."
 
-#: src/olympia/accounts/views.py:211
+#: src/olympia/accounts/views.py:216
 msgid "Need help?"
 msgstr "Need help?"
 
-#: src/olympia/accounts/views.py:786
+#: src/olympia/accounts/views.py:791
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr "Notification [%s] does not exist"
@@ -590,7 +590,7 @@ msgstr "Enter a valid IP4 or IP6 network."
 msgid "CIDR"
 msgstr "CIDR"
 
-#: src/olympia/amo/middleware.py:257 src/olympia/devhub/templates/devhub/index.html:56 src/olympia/templates/base.html:64
+#: src/olympia/amo/middleware.py:260 src/olympia/devhub/templates/devhub/index.html:56 src/olympia/templates/base.html:64
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 
