@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-06 09:37+0000\n"
+"POT-Creation-Date: 2026-10-06 14:50+0000\n"
 "PO-Revision-Date: 2015-10-15 01:01+0000\n"
 "Last-Translator: Cláudio <cesperanc@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,11 +215,11 @@ msgstr "As imagens não podem ser animadas."
 msgid "Please use images smaller than {}MB."
 msgstr ""
 
-#: src/olympia/accounts/views.py:211
+#: src/olympia/accounts/views.py:216
 msgid "Need help?"
 msgstr ""
 
-#: src/olympia/accounts/views.py:786
+#: src/olympia/accounts/views.py:791
 #, python-format
 msgid "Notification [%s] does not exist"
 msgstr ""
@@ -536,7 +536,7 @@ msgstr ""
 msgid "CIDR"
 msgstr ""
 
-#: src/olympia/amo/middleware.py:257 src/olympia/devhub/templates/devhub/index.html:56 src/olympia/templates/base.html:64
+#: src/olympia/amo/middleware.py:260 src/olympia/devhub/templates/devhub/index.html:56 src/olympia/templates/base.html:64
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Algumas funcionalidades estão temporariamente desativadas enquanto efetuamos uma manutenção ao sítio web. Voltamos em breve com todas as funcionalidades."
 
