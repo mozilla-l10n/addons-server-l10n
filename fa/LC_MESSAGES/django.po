@@ -2459,7 +2459,7 @@ msgstr "افزونه‌های در حال توسعه"
 
 #: src/olympia/devhub/templates/devhub/nav.html:58
 msgid "Community & Support"
-msgstr "جامعه و پشتیبانی"
+msgstr "اجتماع و پشتیبانی"
 
 #: src/olympia/devhub/templates/devhub/nav.html:61
 msgid "Add-ons Blog"
@@ -4217,7 +4217,7 @@ msgstr "ماتریکس"
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/connect.html:10
 msgid "Community forum"
-msgstr "تالار گفت‌وگوی جامعه"
+msgstr "انجمن اجتماع"
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/connect.html:14
 msgid "Extensions Developers Newsletter"
@@ -4310,7 +4310,7 @@ msgstr "با هزاران توسعه‌دهنده ارتباط برقرار کن
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/get_involved.html:16
 msgid "Learn more about the developer community"
-msgstr "اطلاعات بیشتر درباره جامعه توسعه‌دهندگان"
+msgstr "اطلاعات بیشتر درباره اجتماع توسعه‌دهندگان"
 
 #: src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:47 src/olympia/devhub/templates/devhub/versions/list.html:24
 msgid "Listed on this site after passing code review. Automatic updates are handled by this site."
@@ -6961,7 +6961,7 @@ msgstr "وبلاگ افزونه‌های فایرفاکس"
 
 #: src/olympia/templates/photon-footer.html:16
 msgid "Community Blog"
-msgstr "وبلاگ جامعه"
+msgstr "وبلاگ اجتماع"
 
 #: src/olympia/templates/photon-footer.html:17
 msgid "Forum"
@@ -7025,7 +7025,7 @@ msgstr "فایرفاکس برای کسب‌وکارها"
 
 #: src/olympia/templates/photon-footer.html:56
 msgid "Community"
-msgstr "جامعه کاربری"
+msgstr "اجتماع کاربری"
 
 #: src/olympia/templates/photon-footer.html:59
 msgid "Connect"
@@ -7313,13 +7313,13 @@ msgid ""
 msgstr ""
 "سلام،\n"
 "\n"
-"این پیام برای اطلاع شما از این است که حساب کاربری‌تان با نام %(name)s در %(site_url)s حذف شده است. اگر اخیراً حساب موزیلای خود را حذف کرده‌اید، ممکن است این مورد به‌صورت خودکار به‌عنوان بخشی از آن فرآیند رخ داده باشد.\n"
+"این پیام برای اطلاع شما از این است که حساب کاربری‌تان با نام %(name)s در %(site_url)s حذف شده است. اگر اخیراً حساب Mozilla خود را حذف کرده‌اید، ممکن است این مورد به‌صورت خودکار به‌عنوان بخشی از آن فرآیند رخ داده باشد.\n"
 "\n"
-"از اینکه بخشی از جامعه کاربری افزونه‌های فایرفاکس بوده‌اید سپاسگزاریم. چنانچه معتقدید اشتباهی رخ داده یا سؤالی دارید، لطفاً با ما تماس بگیرید.\n"
+"از اینکه بخشی از اجتماع کاربری برافزاهای Firefox بوده‌اید سپاسگزاریم. چنانچه معتقدید اشتباهی رخ داده یا سؤالی دارید، لطفاً با ما تماس بگیرید.\n"
 "\n"
 "با احترام،\n"
 "\n"
-"تیم افزونه‌های موزیلا"
+"تیم برافزا Mozilla"
 
 #: src/olympia/versions/models.py:1158
 #, python-format
