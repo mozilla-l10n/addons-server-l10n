@@ -219,7 +219,7 @@ msgstr "Firefox"
 
 #: static/js/stats/csv_keys.js:14
 msgid "Mozilla"
-msgstr "موزیلا"
+msgstr "Mozilla"
 
 #: static/js/stats/csv_keys.js:15
 msgid "Thunderbird"

@@ -16,7 +16,7 @@ msgstr ""
 #: src/olympia/abuse/actions.py:275
 #, python-brace-format
 msgid "Mozilla Add-ons: {} [{}]"
-msgstr "افزونه‌های موزیلا: {} [{}]"
+msgstr "برافزاهای Mozilla: {} [{}]"
 
 #: src/olympia/abuse/forms.py:30
 msgid "Email address"
@@ -96,7 +96,7 @@ msgstr "سلام،"
 
 #: src/olympia/abuse/templates/abuse/emails/base_reporter.txt:7
 msgid "Mozilla Add-ons Team"
-msgstr "تیم افزونه‌های موزیلا"
+msgstr "تیم برافزاهای Mozilla"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_approve.txt:8
 #, python-format
@@ -7061,7 +7061,7 @@ msgstr "حریم خصوصی"
 
 #: src/olympia/templates/photon-footer.html:79
 msgid "Cookies"
-msgstr "کوکی‌ها"
+msgstr "کلوچک‌ها"
 
 #: src/olympia/templates/photon-footer.html:80
 msgid "Legal"
