@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-01 17:30+0000\n"
+"POT-Creation-Date: 2026-10-06 09:37+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -255,11 +255,11 @@ msgstr "No links are allowed."
 msgid "This display name cannot be used."
 msgstr "This display name cannot be used."
 
-#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1019
+#: src/olympia/accounts/serializers.py:182 src/olympia/addons/fields.py:366 src/olympia/devhub/views.py:1015
 msgid "Images must be either PNG or JPG."
 msgstr "Images must be either PNG or JPG."
 
-#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1025
+#: src/olympia/accounts/serializers.py:186 src/olympia/addons/fields.py:371 src/olympia/devhub/views.py:1021
 msgid "Images cannot be animated."
 msgstr "Images cannot be animated."
 
@@ -557,7 +557,7 @@ msgstr "Submit a New Theme"
 msgid "Developer Hub"
 msgstr "Developer Hub"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2145
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2141
 msgid "Manage API Keys"
 msgstr "Manage API Keys"
 
@@ -594,11 +594,11 @@ msgstr "CIDR"
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 
-#: src/olympia/amo/utils.py:1193 src/olympia/bandwagon/serializers.py:97
+#: src/olympia/amo/utils.py:1203 src/olympia/bandwagon/serializers.py:97
 msgid "This name cannot be used."
 msgstr "This name cannot be used."
 
-#: src/olympia/amo/utils.py:1223
+#: src/olympia/amo/utils.py:1233
 msgid "URLs are not allowed."
 msgstr "URLs are not allowed."
 
@@ -2283,7 +2283,7 @@ msgstr "Invitation declined."
 msgid "A confirmation email has been sent to {email}"
 msgstr "A confirmation email has been sent to {email}"
 
-#: src/olympia/devhub/views.py:546 src/olympia/devhub/views.py:1162
+#: src/olympia/devhub/views.py:546 src/olympia/devhub/views.py:1158
 msgid "Changes successfully saved."
 msgstr "Changes successfully saved."
 
@@ -2296,187 +2296,187 @@ msgstr "Validate Add-on"
 msgid "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 msgstr "<a href=\"{link}\">Please add two-factor authentication to your account to submit extensions.</a>"
 
-#: src/olympia/devhub/views.py:1017
+#: src/olympia/devhub/views.py:1013
 msgid "Icons must be either PNG or JPG."
 msgstr "Icons must be either PNG or JPG."
 
-#: src/olympia/devhub/views.py:1023
+#: src/olympia/devhub/views.py:1019
 msgid "Icons cannot be animated."
 msgstr "Icons cannot be animated."
 
-#: src/olympia/devhub/views.py:1034
+#: src/olympia/devhub/views.py:1030
 #, python-format
 msgid "Please use images smaller than %dMB."
 msgstr "Please use images smaller than %dMB."
 
-#: src/olympia/devhub/views.py:1049
+#: src/olympia/devhub/views.py:1045
 #, fuzzy, python-brace-format
 msgid "Image must be at least {0} pixels wide and {1} pixels tall."
 msgstr "Image must be exactly {0} pixels wide and {1} pixels tall."
 
-#: src/olympia/devhub/views.py:1053
+#: src/olympia/devhub/views.py:1049
 #, fuzzy
 msgid "Image dimensions must be in the ratio 4:3."
 msgstr "Images must be either PNG or JPG."
 
-#: src/olympia/devhub/views.py:1061
+#: src/olympia/devhub/views.py:1057
 #, fuzzy, python-brace-format
 msgid "Icon must be at least {0} pixels wide and tall."
 msgstr "Image must be exactly {0} pixels wide and {1} pixels tall."
 
-#: src/olympia/devhub/views.py:1066
+#: src/olympia/devhub/views.py:1062
 msgid "Icon must be square (same width and height)."
 msgstr "Icon must be square (same width and height)."
 
-#: src/olympia/devhub/views.py:1072
+#: src/olympia/devhub/views.py:1068
 msgid "There was an error uploading your preview."
 msgstr "There was an error uploading your preview."
 
-#: src/olympia/devhub/views.py:1218
+#: src/olympia/devhub/views.py:1214
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr ""
 "The latest approved version of this %s add-on cannot be deleted or disabled because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 
-#: src/olympia/devhub/views.py:1225
+#: src/olympia/devhub/views.py:1221
 #, python-format
 msgid "Version %s disabled."
 msgstr "Version %s disabled."
 
-#: src/olympia/devhub/views.py:1229
+#: src/olympia/devhub/views.py:1225
 #, python-format
 msgid "Version %s deleted."
 msgstr "Version %s deleted."
 
-#: src/olympia/devhub/views.py:1240
+#: src/olympia/devhub/views.py:1236
 #, python-format
 msgid "Version %s re-enabled."
 msgstr "Version %s re-enabled."
 
-#: src/olympia/devhub/views.py:1256
+#: src/olympia/devhub/views.py:1252
 msgid "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 msgstr "This upload has failed validation, and may lack complete validation results. Please take due care when reviewing it."
 
-#: src/olympia/devhub/views.py:1315
+#: src/olympia/devhub/views.py:1311
 msgid "Rollback submitted. You'll be notified when it's approved"
 msgstr "Rollback submitted. You'll be notified when it's approved"
 
-#: src/olympia/devhub/views.py:1461
+#: src/olympia/devhub/views.py:1457
 #, fuzzy
 msgid "Header area background"
 msgstr "Header area background (accentcolor)"
 
-#: src/olympia/devhub/views.py:1463
+#: src/olympia/devhub/views.py:1459
 #, fuzzy
 msgid "The color of the header area background, displayed in the part of the header not covered or visible through the header image. Manifest field:  frame."
 msgstr "The color of the header area background, displayed in the part of the header not covered or visible through the header image."
 
-#: src/olympia/devhub/views.py:1471
+#: src/olympia/devhub/views.py:1467
 #, fuzzy
 msgid "Header area text and icons"
 msgstr "Header area text (textcolor)"
 
-#: src/olympia/devhub/views.py:1473
+#: src/olympia/devhub/views.py:1469
 #, fuzzy
 msgid "The color of the text and icons in the header area, except the active tab. Manifest field:  tab_background_text."
 msgstr "The color of the text displayed in the header area."
 
-#: src/olympia/devhub/views.py:1480
+#: src/olympia/devhub/views.py:1476
 #, fuzzy
 msgid "Toolbar area background"
 msgstr "Toolbar area background (toolbar)."
 
-#: src/olympia/devhub/views.py:1482
+#: src/olympia/devhub/views.py:1478
 #, fuzzy
 msgid "The background color for the navigation bar, the bookmarks bar, and the active tab.  Manifest field:  toolbar."
 msgstr "The background color for the navigation bar, the bookmarks bar, and the selected tab."
 
-#: src/olympia/devhub/views.py:1489
+#: src/olympia/devhub/views.py:1485
 #, fuzzy
 msgid "Toolbar area text and icons"
 msgstr "Toolbar area text (toolbar_text)."
 
-#: src/olympia/devhub/views.py:1491
+#: src/olympia/devhub/views.py:1487
 #, fuzzy
 msgid "The color of the text and icons in the toolbar and the active tab. Manifest field:  bookmark_text."
 msgstr "The color of text in fields in the toolbar, such as the URL bar"
 
-#: src/olympia/devhub/views.py:1498
+#: src/olympia/devhub/views.py:1494
 #, fuzzy
 msgid "Toolbar field area background"
 msgstr "Toolbar field area background (toolbar_field)."
 
-#: src/olympia/devhub/views.py:1500
+#: src/olympia/devhub/views.py:1496
 #, fuzzy
 msgid "The background color for fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field."
 msgstr "The background color for fields in the toolbar, such as the URL bar."
 
-#: src/olympia/devhub/views.py:1507
+#: src/olympia/devhub/views.py:1503
 #, fuzzy
 msgid "Toolbar field area text"
 msgstr "Toolbar field area text (toolbar_field_text)."
 
-#: src/olympia/devhub/views.py:1509
+#: src/olympia/devhub/views.py:1505
 #, fuzzy
 msgid "The color of text in fields in the toolbar, such as the URL bar. Manifest field:  toolbar_field_text."
 msgstr "The color of text in fields in the toolbar, such as the URL bar"
 
-#: src/olympia/devhub/views.py:1517
+#: src/olympia/devhub/views.py:1513
 msgid "Tab highlight"
 msgstr "Tab highlight"
 
-#: src/olympia/devhub/views.py:1519
+#: src/olympia/devhub/views.py:1515
 msgid "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 msgstr "The highlight color of the active tab. Implemented as a border around the tab on Firefox 89+ and a line above the tab on older Firefoxes. Manifest field:  tab_line."
 
-#: src/olympia/devhub/views.py:1622
+#: src/olympia/devhub/views.py:1618
 msgid "Add-on uploads are temporarily unavailable"
 msgstr "Add-on uploads are temporarily unavailable"
 
-#: src/olympia/devhub/views.py:1994
+#: src/olympia/devhub/views.py:1990
 #, fuzzy
 msgid "Review requested."
 msgstr "Review requested"
 
-#: src/olympia/devhub/views.py:1996
+#: src/olympia/devhub/views.py:1992
 #, fuzzy
 msgid "You must provide further details to proceed."
 msgstr "Review requested.  You must provide further details to proceed."
 
-#: src/olympia/devhub/views.py:2103
+#: src/olympia/devhub/views.py:2099
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "A confirmation link will be sent to your email address shortly."
 
-#: src/olympia/devhub/views.py:2118
+#: src/olympia/devhub/views.py:2114
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Your old credentials were revoked and are no longer valid."
 
-#: src/olympia/devhub/views.py:2129
+#: src/olympia/devhub/views.py:2125
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 
-#: src/olympia/devhub/views.py:2157
+#: src/olympia/devhub/views.py:2153
 msgid "New API key created"
 msgstr "New API key created"
 
-#: src/olympia/devhub/views.py:2168
+#: src/olympia/devhub/views.py:2164
 msgid "API key revoked"
 msgstr "API key revoked"
 
-#: src/olympia/devhub/views.py:2228
+#: src/olympia/devhub/views.py:2224
 msgid "Verify email"
 msgstr "Verify email"
 
-#: src/olympia/devhub/views.py:2230
+#: src/olympia/devhub/views.py:2226
 msgid "Send another email"
 msgstr "Send another email"
 
-#: src/olympia/devhub/views.py:2263
+#: src/olympia/devhub/views.py:2259
 msgid "Your email has been verified"
 msgstr "Your email has been verified"
 
-#: src/olympia/devhub/views.py:2329
+#: src/olympia/devhub/views.py:2325
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Your support request has been submitted. We will be in touch soon."
 
@@ -7723,17 +7723,17 @@ msgstr "{app} {min} and later"
 msgid "The install origin {origin} is not permitted."
 msgstr "The install origin {origin} is not permitted."
 
-#: src/olympia/versions/utils.py:198
+#: src/olympia/versions/utils.py:200
 #, python-brace-format
 msgid "Version {version_string} was uploaded before and deleted."
 msgstr "Version {version_string} was uploaded before and deleted."
 
-#: src/olympia/versions/utils.py:200
+#: src/olympia/versions/utils.py:202
 #, python-brace-format
 msgid "Version {version_string} already exists."
 msgstr "Version {version_string} already exists."
 
-#: src/olympia/versions/utils.py:220
+#: src/olympia/versions/utils.py:222
 #, python-brace-format
 msgid "Version {version_string} must be greater than the previous approved version {previous_version_string}."
 msgstr "Version {version_string} must be greater than the previous approved version {previous_version_string}."
