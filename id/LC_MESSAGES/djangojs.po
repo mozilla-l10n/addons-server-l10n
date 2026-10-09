@@ -412,7 +412,7 @@ msgstr "Lainnya"
 
 #: static/js/zamboni/devhub.js:196
 msgid "Copied"
-msgstr ""
+msgstr "Disalin"
 
 #: static/js/zamboni/devhub.js:328
 msgid "Changes Saved"
