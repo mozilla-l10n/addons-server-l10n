@@ -1291,7 +1291,7 @@ msgstr "Listeleme incelemesi talep edildi"
 #: src/olympia/constants/activity.py:1334
 #, python-brace-format
 msgid "Decision on {addon} made with no new action taken."
-msgstr ""
+msgstr "{addon} hakkında karar verildi ancak yeni bir işlem yapılmadı."
 
 #: src/olympia/constants/activity.py:1335
 msgid "Decision made"
@@ -3829,7 +3829,7 @@ msgstr "Lütfen bir sürüm bilgisi veya eksik üst veriyi ekleyerek eklentinizi
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "İnceleme tamamlandığında size bir e-posta gönderilecek. Bu süre boyunca eklentiniz herkese açık olmayacak. Yetkilendirilmiş yazar olarak eklentinizin ayrıntılar sayfasına erişebilirsiniz."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -6040,12 +6040,12 @@ msgstr "Dikkat dağıtıcı unsurları kaldırın, görüntüleme seçeneklerini
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1125
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Çoğu web sitesinde video, ses ve canlı yayın içerikleriyle mükemmel çalışır."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1128
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "YouTube'u ihtiyaçlarınıza göre özelleştiren onlarca özellik. Dikkat dağıtan tanıtımları kaldırın, görsel düzeni değiştirin, oynatma hızını ayarlayın, sesi yükseltin ve daha fazlasını yapın."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
