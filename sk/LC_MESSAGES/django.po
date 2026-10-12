@@ -3731,6 +3731,8 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
+"Ak chcete ako externý používateľ uskutočňovať overené volania rozhrania <a %(a_attrs)s href=\"%(docs_url)s\">API</a>, musíte v hlavičke <code>%(auth_header_name)s</code> každej požiadavky uviesť <a "
+"%(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a>."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
