@@ -3745,6 +3745,8 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
+"Para efetuar chamadas autenticadas à <a %(a_attrs)s href=\"%(docs_url)s\">API</a> na qualidade de consumidor externo, é necessário incluir um <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token "
+"(JWT)</a> no cabeçalho <code>%(auth_header_name)s</code> em cada pedido."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
