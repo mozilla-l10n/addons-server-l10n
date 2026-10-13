@@ -6144,7 +6144,7 @@ msgstr "Desiatky funkcií, s ktorými si YouTube prispôsobíte podľa seba. Ods
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Získajte lepšiu ochranu pred sledovacími prvkami, phishingovými podvodmi a ďalším škodlivým obsahom."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
