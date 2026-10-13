@@ -6209,7 +6209,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Λάβετε επιπλέον προστασία από ιχνηλάτες, απάτες ηλεκτρονικού «ψαρέματος» και άλλο κακόβουλο περιεχόμενο."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
