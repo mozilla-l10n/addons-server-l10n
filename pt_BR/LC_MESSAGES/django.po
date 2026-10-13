@@ -6083,7 +6083,7 @@ msgstr "Dezenas de recursos para fazer o YouTube trabalhar para você. Remova pr
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Tenha proteção extra contra rastreadores, golpes de phishing e mais conteúdo malicioso."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134

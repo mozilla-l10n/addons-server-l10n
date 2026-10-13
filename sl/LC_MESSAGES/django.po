@@ -6086,7 +6086,7 @@ msgstr "Ducati funkcij, s katerimi lahko YouTube dela za vas. Odstranite moteče
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Pridobite dodatno zaščito pred sledilci, prevarantskimi in še drugimi zlonamernimi vsebinami."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134

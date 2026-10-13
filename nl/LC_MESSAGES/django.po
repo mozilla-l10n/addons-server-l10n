@@ -6140,7 +6140,7 @@ msgstr "Tientallen functies om YouTube voor u te laten werken. Afleidende reclam
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Ontvang extra bescherming tegen trackers, phishingscams en meer kwaadwillende inhoud."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
