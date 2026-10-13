@@ -3737,6 +3737,8 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
+"Pro exequer appellos authenticate contra le <a %(a_attrs)s href=\"%(docs_url)s\">API</a>como usator externe, tu debe includer un <a %(a_attrs)s href=\"%(jwt_url)s\">Token Web JSON (JWT)</a> in le "
+"<code>%(auth_header_name)s</code> titulo pro cata requesta."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -6155,7 +6157,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Obtene protection ulterior contra traciatores, attaccos fraudulente & altere contento maligne."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
