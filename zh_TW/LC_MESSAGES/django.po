@@ -6054,7 +6054,7 @@ msgstr "數十種讓 YouTube 更符合您使用需求的功能。移除惱人的
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "加強防護，抵擋追蹤器、釣魚詐騙及其他惡意內容。"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
