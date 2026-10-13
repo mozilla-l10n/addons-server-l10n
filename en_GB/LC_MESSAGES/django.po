@@ -6148,7 +6148,7 @@ msgstr "Dozens of features for making YouTube work for you. Remove distracting p
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1131
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Get extra protection against trackers, phishing scams & more malicious content."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1134
