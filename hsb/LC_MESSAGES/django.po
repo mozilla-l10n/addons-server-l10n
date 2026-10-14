@@ -5477,7 +5477,7 @@ msgstr "Slědujće płaćiznowej historiji Amazon. Dóstańće zdźělenki wo zm
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:461 src/olympia/discovery/strings.jinja2:945
 msgid "Adjust browser audio settings with extreme clarity."
-msgstr "Přiměrće awdionastajenja wobhladowaka za nimoměry jasny zynk."
+msgstr "Přiměrće awdijonastajenja wobhladowaka za nimoměry jasny zynk."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
