@@ -5734,22 +5734,22 @@ msgstr "「更好的 Twitch TV」— 透過一系列新功能來加強 Twitch �
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "強化搜尋、略過廣告，還有豐富的 YouTube 自訂功能。"
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "封鎖追蹤器、釣魚與惡意內容。"
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "儲存大多數網站上的影音與串流內容。"
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "自行設定影音內容的預設播放速度。"
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6094,12 +6094,12 @@ msgstr "瀏覽所有擴充套件"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "擴充套件新手包"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "生產力擴充套件"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6341,7 +6341,7 @@ msgstr "看更多員工精選"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "精選擴充套件"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
