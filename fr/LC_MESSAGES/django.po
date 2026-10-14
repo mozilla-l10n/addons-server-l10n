@@ -5897,22 +5897,22 @@ msgstr "« Better Twitch TV » — apporte à Twitch et YouTube une foule de n
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Recherche optimisée, publicités ignorées et une foule d’autres options de personnalisation pour YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Bloquez les traqueurs, les tentatives d’hameçonnage et les contenus malveillants."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Téléchargez des vidéos, des fichiers audio et des contenus en streaming depuis la plupart des sites web."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Choisissez votre vitesse de lecture par défaut pour les vidéos et les contenus audio."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6259,12 +6259,12 @@ msgstr "Voir toutes les extensions"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Extensions pour démarrer"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Extensions pour la productivité"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6506,7 +6506,7 @@ msgstr "Voir plus d’extensions choisies par l’équipe"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Extensions indispensables"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"

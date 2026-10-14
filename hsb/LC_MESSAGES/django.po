@@ -5848,7 +5848,7 @@ msgstr "„Lěpši Twitch TV“ – polěpšće Twitch a Youtube z hromadu nowyc
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Polěpšene pytanje, přeskakowanje wabjenja a hromada druhich přiměrjenjow YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
