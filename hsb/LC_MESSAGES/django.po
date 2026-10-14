@@ -5853,12 +5853,12 @@ msgstr ""
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Přesćěhowaki, phishing a škódny wobsah blokować."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Widejo, awdijo a wobsah streaming z najwjace websydłow składować."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
@@ -6209,12 +6209,12 @@ msgstr "Wšě rozšěrjenja pokazać"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Startowy paket rozšěrjenjow"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Rozšěrjenja za produktiwitu"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6456,7 +6456,7 @@ msgstr "Dalše wot sobudźěłaćerjow wubrane rozšěrjenja wobhladać"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Wažne rozšěrjenja"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"

@@ -5766,22 +5766,22 @@ msgstr "\"Better Twitch TV\" — izboljšajte Twitch in YouTube s kopico novih f
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Izboljšano iskanje, preskoki oglasov in kopica drugih prilagoditev YouTuba."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Zavračajte sledilce, lažno predstavljanje in zlonamerno vsebino."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Shranite video, zvočno in pretočno vsebino z večine spletnih strani."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Nastavite svojo privzeto hitrost za video in zvok."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6126,12 +6126,12 @@ msgstr "Prikaži vse razširitve"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Paket razširitev za začetek"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Razširitve za produktivnost"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6373,7 +6373,7 @@ msgstr "Več izborov osebja"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Nepogrešljive razširitve"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"

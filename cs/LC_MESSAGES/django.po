@@ -5809,22 +5809,22 @@ msgstr "\"Better Twitch TV\" — vylepšete Twitch a YouTube o spoustu nových f
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Vylepšené vyhledávání, přeskakování reklam & plno dalšího přizpůsobení YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Blokuje sledovací prvky, phishing a škodlivý obsah."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Uložte si video, audio a streamovaný obsah z většiny webových stránek."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Nastavte si vlastní výchozí rychlost pro video a zvuk."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6169,12 +6169,12 @@ msgstr "Zobrazit všechna rozšíření"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Startovací balíček rozšíření"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Rozšíření pro produktivitu"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6416,7 +6416,7 @@ msgstr "Zobrazit další výběr od zaměstnanců"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Důležitá rozšíření"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
