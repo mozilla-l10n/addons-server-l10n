@@ -1559,7 +1559,7 @@ msgstr "Fota, hudźba a wideja"
 
 #: src/olympia/constants/categories.py:132
 msgid "Download Firefox extensions that enhance photo, music and video experiences. Extensions in this category modify audio and video, reverse image search, and more."
-msgstr "Sćehńće rozšěrjenja Firefox, kotrež fotowe, hudźbne a widejowe dožiwjenja polěpšeja. Rozšěrjenja w tutej kategoriji awdio a widejo, nawopačne wobrazowe pytanje a wjace změnja."
+msgstr "Sćehńće rozšěrjenja Firefox, kotrež fotowe, hudźbne a widejowe dožiwjenja polěpšeja. Rozšěrjenja w tutej kategoriji awdijo a widejo, nawopačne wobrazowe pytanje a wjace změnja."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/constants/categories.py:139 src/olympia/discovery/strings.jinja2:1157
@@ -5217,7 +5217,7 @@ msgstr "Zadźěwajće, zo pytawy zhonja, na kotre pytanske wuslědki kliknjeće.
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:311
 msgid "Download YouTube videos and/or audio."
-msgstr "Sćehńće wideja a/abo awdio YouTube."
+msgstr "Sćehńće wideja a/abo awdijo YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:314
@@ -5256,7 +5256,7 @@ msgstr "Słuchajće na hudźbu z 30.000+ radijowych stacijow z cyłeho swěta."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:951
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
-msgstr "Přenošujće jenož awdiowobsah widejow Youtube, zo byšće šěrokosć pasma zalutował."
+msgstr "Přenošujće jenož awdijowobsah widejow Youtube, zo byšće šěrokosć pasma zalutował."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:335
@@ -5450,7 +5450,7 @@ msgstr "Chceće zajimawy wobraz w interneće namakać? Chceće wjace wo tym zhon
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:446
 msgid "Harness the ability to download video and/or audio in multiple formats."
-msgstr "Wužiwajće móžnosć, widejo a/abo awdio we wjacorych formatach sćahnyć."
+msgstr "Wužiwajće móžnosć, widejo a/abo awdijo we wjacorych formatach sćahnyć."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5863,7 +5863,7 @@ msgstr "Widejo, awdijo a wobsah streaming z najwjace websydłow składować."
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Nastajće swoju standardnu spěšnosć za widejo a awdijo."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
