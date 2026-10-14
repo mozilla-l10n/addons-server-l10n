@@ -5820,7 +5820,7 @@ msgstr "‘Betere Twitch TV’ – verbeter Twitch en YouTube met een hele reeks
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr "Verbeterd zoeken, advertenties overslaan en delen van andere YouTube-aanpassingen."
+msgstr "Beter zoeken, advertenties overslaan en talloze andere YouTube-aanpassingen."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
