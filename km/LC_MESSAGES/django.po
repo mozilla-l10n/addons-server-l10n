@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-14 17:53+0000\n"
+"POT-Creation-Date: 2026-10-15 09:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -649,13 +649,13 @@ msgstr ""
 msgid "Add-on uploads have been temporarily disabled. Please check back later."
 msgstr ""
 
-#: src/olympia/amo/templatetags/jinja_helpers.py:144
+#: src/olympia/amo/templatetags/jinja_helpers.py:152
 #, python-brace-format
 msgid "Add-ons for {0}"
 msgstr ""
 
 #. L10n: relative time in the past, like '4 days ago'
-#: src/olympia/amo/templatetags/jinja_helpers.py:177
+#: src/olympia/amo/templatetags/jinja_helpers.py:185
 #, python-brace-format
 msgid "{0} ago"
 msgstr ""
@@ -4189,31 +4189,31 @@ msgstr ""
 msgid "Add-on Developer Hub"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:27
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:32
 msgid "Support"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:30
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:35
 msgid "Blog"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:39
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:45
 msgid "Sign Out"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:41
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:47
 msgid "No Photo"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:41
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:47
 msgid "User Photo"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:42
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:48
 msgid "Profile"
 msgstr ""
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:46
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:52
 msgid "Submit or Manage Extensions"
 msgstr ""
 
