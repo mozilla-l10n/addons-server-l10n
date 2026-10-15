@@ -6249,12 +6249,12 @@ msgstr "Προβολή όλων των επεκτάσεων"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Βασικό πακέτο επεκτάσεων"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Επεκτάσεις παραγωγικότητας"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6496,7 +6496,7 @@ msgstr "Περισσότερες επιλογές συντακτών"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Απαραίτητες επεκτάσεις"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
