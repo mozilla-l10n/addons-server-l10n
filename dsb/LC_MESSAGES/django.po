@@ -5848,22 +5848,22 @@ msgstr "„Lěpšy Twitch TV“ – pólěpšćo Twitch a Youtube z kopicu nowyc
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Pólěpšone pytanje, pśeskokowanje wabjenja a kopica drugich pśiměrjenjow YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Pśeslědowaki, phishing a škódne wopśimjeśe blokěrowaś."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Wideo, awdio a wopśimjeśe streaming z nejwěcej websedłow składowaś."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Nastajśo swóju standardnu malsnosć za wideo a awdio."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
