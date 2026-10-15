@@ -6189,7 +6189,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Dostańśo pśidatny šćit pśeśiwo pśeslědowakam, wobšuźe pśez phishing a dalšnemu škódnemu wopśimjeśeju."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6209,12 +6209,12 @@ msgstr "Wšykne rozšyrjenja pokazaś"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Startowy paket rozšyrjenjow"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Rozšyrjenja produktiwity"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6456,7 +6456,7 @@ msgstr "Dalšne wót sobuźěłaśerjow wubrane rozšyrjenja se woglědaś"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Wažne rozšyrjenja"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
