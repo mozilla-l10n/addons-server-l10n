@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-14 17:53+0000\n"
+"POT-Creation-Date: 2026-10-15 09:44+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -850,13 +850,13 @@ msgid "Add-on uploads have been temporarily disabled. Please check back later."
 msgstr ""
 "Otpremanja dodataka su privremeno onemogućena. Proverite ponovo kasnije."
 
-#: src/olympia/amo/templatetags/jinja_helpers.py:144
+#: src/olympia/amo/templatetags/jinja_helpers.py:152
 #, python-brace-format
 msgid "Add-ons for {0}"
 msgstr "Dodaci za {0}"
 
 #. L10n: relative time in the past, like '4 days ago'
-#: src/olympia/amo/templatetags/jinja_helpers.py:177
+#: src/olympia/amo/templatetags/jinja_helpers.py:185
 #, python-brace-format
 msgid "{0} ago"
 msgstr "pre {0}"
@@ -5295,31 +5295,31 @@ msgstr "Pošaljite vašu prvu temu"
 msgid "Add-on Developer Hub"
 msgstr "Centar za programere dodataka"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:27
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:32
 msgid "Support"
 msgstr "Podrška"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:30
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:35
 msgid "Blog"
 msgstr "Blog"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:39
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:45
 msgid "Sign Out"
 msgstr "Odjavi se"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:41
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:47
 msgid "No Photo"
 msgstr "Nema fotografije"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:41
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:47
 msgid "User Photo"
 msgstr "Korisnička fotografija"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:42
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:48
 msgid "Profile"
 msgstr "Profil"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:46
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:52
 msgid "Submit or Manage Extensions"
 msgstr "Pošaljite ili upravljajte dodacima"
 

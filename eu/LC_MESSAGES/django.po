@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  messages.pootle\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-14 17:53+0000\n"
+"POT-Creation-Date: 2026-10-15 09:44+0000\n"
 "PO-Revision-Date: 2013-11-07 07:24+0000\n"
 "Last-Translator: Julen <julenx@gmail.com>\n"
 "Language-Team: librezale@librezale.org\n"
@@ -661,13 +661,13 @@ msgstr ""
 
 # {0} is the application the user is browsing.  Examples:  Thunderbird, Firefox,
 # Sunbird
-#: src/olympia/amo/templatetags/jinja_helpers.py:144
+#: src/olympia/amo/templatetags/jinja_helpers.py:152
 #, python-brace-format
 msgid "Add-ons for {0}"
 msgstr "{0}(e)rako gehigarriak"
 
 #. L10n: relative time in the past, like '4 days ago'
-#: src/olympia/amo/templatetags/jinja_helpers.py:177
+#: src/olympia/amo/templatetags/jinja_helpers.py:185
 #, python-brace-format
 msgid "{0} ago"
 msgstr "duela {0}"
@@ -4313,35 +4313,35 @@ msgstr ""
 msgid "Add-on Developer Hub"
 msgstr "Gehigarrien garatzailea"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:27
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:32
 msgid "Support"
 msgstr "Laguntza"
 
 # Link text to the AMO blog.
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:30
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:35
 msgid "Blog"
 msgstr "Bloga"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:39
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:45
 #, fuzzy
 msgid "Sign Out"
 msgstr "Bidali gehigarria"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:41
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:47
 msgid "No Photo"
 msgstr "Argazkirik ez"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:41
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:47
 #, fuzzy
 msgid "User Photo"
 msgstr "Ezabatu erabiltzaile-argazkia"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:42
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:48
 #, fuzzy
 msgid "Profile"
 msgstr "Nire profila"
 
-#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:46
+#: src/olympia/devhub/templates/devhub/new-landing/components/navigation.html:52
 #, fuzzy
 msgid "Submit or Manage Extensions"
 msgstr "Bidali gehigarri berria"
