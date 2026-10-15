@@ -15,11 +15,11 @@ msgstr ""
 
 #: static/js/common/upload-addon.js:54 static/js/common/upload-image.js:136
 msgid "There was a problem contacting the server."
-msgstr "সার্ভারের সঙ্গে যোগাযোগ করতে সমস্যা হচ্ছে।"
+msgstr "সার্ভারের সাথে যোগাযোগ করতে সমস্যা হয়েছে ৷"
 
 #: static/js/common/upload-addon.js:78
 msgid "Select a file..."
-msgstr "ফাইল নির্বাচন করুন..."
+msgstr "একটি ফাইল নির্বাচন করুন..."
 
 #: static/js/common/upload-addon.js:82
 msgid "Your add-on should end with .zip, .xpi or .crx"
