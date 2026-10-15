@@ -3726,6 +3726,8 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
+"Để thực hiện các lệnh gọi xác thực đến <a %(a_attrs)s href=\"%(docs_url)s\">API</a> với tư cách là external customer, bạn cần đính kèm một <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token "
+"(JWT)</a> trong header <code>%(auth_header_name)s</code> cho mỗi yêu cầu."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -5817,22 +5819,22 @@ msgstr "\"Twitch TV tốt hơn\" — nâng cấp Twitch và YouTube với hàng 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Cải thiện chức năng tìm kiếm, bỏ qua quảng cáo và vô số tùy chỉnh khác cho YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Chặn các trình theo dõi, lừa đảo và nội dung độc hại."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Lưu video, âm thanh và nội dung phát trực tuyến từ hầu hết các trang web."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Bạn có thể tự thiết lập tốc độ mặc định cho video và âm thanh."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6157,7 +6159,7 @@ msgstr "Hàng tá tính năng giúp bạn sử dụng YouTube hiệu quả hơn.
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Tăng cường khả năng bảo vệ chống lại các trình theo dõi, các chiêu trò lừa đảo giả mạo danh tính và nhiều nội dung độc hại khác."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6177,12 +6179,12 @@ msgstr "Xem tất cả các tiện ích mở rộng"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Gói tiện ích mở rộng khởi đầu"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Tiện ích mở rộng năng suất"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6424,7 +6426,7 @@ msgstr "Xem thêm lựa chọn của biên tập viên"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Tiện ích mở rộng thiết yếu"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
