@@ -1091,7 +1091,7 @@ msgstr ""
 #: src/olympia/constants/activity.py:746
 #, python-brace-format
 msgid "{addon} was migrated from a lightweight theme."
-msgstr ""
+msgstr "{addon} টিকে একটি লাইটওয়েট থিম থেকে স্থানান্তর করা হয়েছে।"
 
 #: src/olympia/constants/activity.py:822
 #, fuzzy, python-brace-format
