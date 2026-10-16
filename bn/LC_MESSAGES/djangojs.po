@@ -447,8 +447,8 @@ msgstr "ছবির পরিবর্তন প্রক্রিয়াধী�
 #, python-brace-format
 msgid "<b>{0}</b> character"
 msgid_plural "<b>{0}</b> characters"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<b>{0}</b>টি অক্ষর"
+msgstr[1] "<b>{0}</b>টি অক্ষর"
 
 #: static/js/zamboni/global.js:472
 #, python-brace-format
