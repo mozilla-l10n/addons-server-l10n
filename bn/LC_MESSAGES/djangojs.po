@@ -400,7 +400,7 @@ msgstr "<b>{0}</b> হতে {1} থেকে {2}"
 #: static/js/stats/csv_keys.js:104
 #, python-brace-format
 msgid "<b>{0}</b> average in last {1} days"
-msgstr ""
+msgstr "<b>{0}</b> গত {1} দিনে গড়ে"
 
 #: static/js/stats/overview.js:18
 msgid "No data available."
@@ -416,7 +416,7 @@ msgstr "অন্যান্য"
 
 #: static/js/zamboni/devhub.js:196
 msgid "Copied"
-msgstr ""
+msgstr "অনুলিপি হয়েছে"
 
 #: static/js/zamboni/devhub.js:328
 msgid "Changes Saved"
