@@ -5730,22 +5730,22 @@ msgstr "\"Better Twitch TV\": Birçok yeni özellikle Twitch ve YouTube deneyimi
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Gelişmiş arama, reklamları atlama ve daha pek çok YouTube özelleştirmesi."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Takip kodlarını, kimlik avı girişimlerini ve kötü amaçlı içerikleri engelleyin."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Çoğu web sitesindeki video, ses ve canlı yayın içeriklerini kaydedin."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Video ve seslerin varsayılan oynatma hızını kendiniz belirleyin."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6070,7 +6070,7 @@ msgstr "YouTube'u ihtiyaçlarınıza göre özelleştiren onlarca özellik. Dikk
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Takip kodlarına, kimlik avı dolandırıcılıklarına ve diğer kötü amaçlı içeriklere karşı ek koruma sağlayın."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6090,12 +6090,12 @@ msgstr "Tüm uzantılara bak"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Uzantı Başlangıç Paketi"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Verimlilik uzantıları"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6337,7 +6337,7 @@ msgstr "Editörün seçtiği diğer uzantılara bakın"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Olmazsa olmaz uzantılar"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
@@ -7201,6 +7201,16 @@ msgid ""
 "Thanks for building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Merhaba,\n"
+"\n"
+"%(addon_name)s ( %(addon_url)s ) eklentinize yeni bir yazar eklendi:\n"
+"\n"
+"%(author_name)s ( %(author_url)s ): %(author_role)s\n"
+"\n"
+"Bu değişikliği beklemiyorsanız lütfen yukarıdaki sayfadan eklentinizin yazar ayarlarını gözden geçirin.\n"
+"\n"
+"Firefox için geliştirme yaptığınızdan dolayı teşekkür ederiz.\n"
+"Mozilla Eklentileri Ekibi"
 
 #: src/olympia/users/templates/users/emails/author_added_confirmation.ltxt:12
 #, python-format
