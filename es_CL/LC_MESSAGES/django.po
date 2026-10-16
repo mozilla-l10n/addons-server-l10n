@@ -5867,7 +5867,7 @@ msgstr "\"Better Twitch TV\" — mejora Twitch y YouTube con una gran cantidad d
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Búsqueda mejorada, omisión de anuncios y un montón de otras opciones de personalización de YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
