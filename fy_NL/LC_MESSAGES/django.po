@@ -5823,22 +5823,22 @@ msgstr "‘Bettere Twitch TV’ – ferbetterje Twitch en YouTube mei in hiele r
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Better sykjen, advertinsjes oerslaan en in protte oare YouTube-oanpassingen."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Trackers, phishing en kwea-aardige ynhâld blokkearje."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Bewarje fideo-, audio- en streamingynhâld fan de measte websites."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Stel jo eigen standertsnelheid yn foar fideo en audio."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6163,7 +6163,7 @@ msgstr "Tsientallen funksjes om YouTube foar jo te wurkje te litten. Ferwiderje 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Untfang ekstra beskerming tsjin trackers, phishingoplichting en mear kwea-aardige ynhâld."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6183,12 +6183,12 @@ msgstr "Alle útwreidingen besjen"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Utwreiding-startpakket"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Produktiviteitsútwreidingen"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6430,7 +6430,7 @@ msgstr "Mear stêfkarren besjen"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Essinsjele útwreidingen"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
