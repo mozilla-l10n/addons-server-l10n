@@ -246,13 +246,13 @@ msgstr "Android"
 #: static/js/stats/csv_keys.js:24
 #, python-brace-format
 msgid "Downloads and Daily Users, last {0} days"
-msgstr ""
+msgstr "গত {0} দিনের ডাউনলোড এবং দৈনিক ব্যবহারকারী সংখ্যা"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:26
 #, python-brace-format
 msgid "Downloads and Daily Users from {0} to {1}"
-msgstr ""
+msgstr "ডাউনলোড এবং প্রতিদিনের ব্যবহারকারী সংখ্যা {0} থেকে {1}"
 
 #. L10n: {0} is an integer.
 #: static/js/stats/csv_keys.js:30
@@ -382,9 +382,9 @@ msgstr "ডাউনলোডসমূহ, গত {0} দিন"
 
 #. L10n: both {0} and {1} are dates in YYYY-MM-DD format.
 #: static/js/stats/csv_keys.js:92
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Download Campaigns from {0} to {1}"
-msgstr "ডাউনলোডসমূহ {0} থেকে {1}"
+msgstr "{0} থেকে {1} পর্যন্ত ক্যাম্পেইন ডাউনলোড করুন"
 
 #. L10n: {0} and {1} are integers.
 #: static/js/stats/csv_keys.js:98
