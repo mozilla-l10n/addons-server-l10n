@@ -149,6 +149,8 @@ msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
+"মিনিফাই করা, সংযুক্ত বা অন্য কোনোভাবে মেশিন দিয়ে তৈরি স্ক্রিপ্টের (পরিচিত লাইব্রেরি বাদে) সোর্স কোড পর্যালোচনার জন্য আলাদাভাবে জমা দিতে হবে। আপনার জমা যাতে বাতিল না হয়, সেজন্য সোর্স কোড আপলোড করার"
+" ক্ষেত্রটি ব্যবহার করা নিশ্চিত করুন।"
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
@@ -470,7 +472,7 @@ msgstr "{name} আগে এই পাতাটি দেখছিলেন।"
 
 #: static/js/zamboni/reviewers.js:336
 msgid "Review page polling failed."
-msgstr ""
+msgstr "পর্যালোচনা পৃষ্ঠার পোলিং ব্যর্থ হয়েছে।"
 
 #: static/js/zamboni/reviewers.js:670
 #, python-brace-format
@@ -504,7 +506,7 @@ msgstr "ফাইলটি খুঁজে পাওয়া যায়নি"
 #: static/js/zamboni/static_theme.js:217
 #, python-brace-format
 msgid "Maximum upload size is {0} - choose a smaller background image."
-msgstr ""
+msgstr "সর্বোচ্চ আপলোড সাইজ {0} - এর থেকে ছোট একটি ব্যাকগ্রাউন্ড ছবি নির্বাচন করুন।"
 
 #: static/js/zamboni/themes_review.js:199
 msgid "Requested Info"
