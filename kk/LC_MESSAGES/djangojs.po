@@ -43,16 +43,16 @@ msgstr "Бас тарту"
 #: static/js/common/upload-addon.js:189
 #, python-brace-format
 msgid "Uploading {0}"
-msgstr ""
+msgstr "{0} жүктеп салынуда"
 
 #: static/js/common/upload-addon.js:229
 #, python-brace-format
 msgid "Error with {0}"
-msgstr ""
+msgstr "{0} қатесі"
 
 #: static/js/common/upload-addon.js:237
 msgid "Please make sure to report any linting related issues on GitHub"
-msgstr ""
+msgstr "GitHub торабында линтингке байланысты кез келген мәселелерді хабарлауыңызды сұраймыз"
 
 #: static/js/common/upload-addon.js:248
 #, python-brace-format
@@ -184,7 +184,7 @@ msgstr[0] ""
 #, python-brace-format
 msgid "{0} user"
 msgid_plural "{0} users"
-msgstr[0] ""
+msgstr[0] "{0} пайдаланушы"
 
 #: static/js/stats/chart.js:362 static/js/stats/csv_keys.js:3 static/js/stats/csv_keys.js:9
 msgid "Downloads"
