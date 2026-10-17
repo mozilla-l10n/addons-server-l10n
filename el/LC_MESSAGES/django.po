@@ -5887,22 +5887,22 @@ msgstr "«Better Twitch TV»: βελτίωση των Twitch και YouTube με
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Βελτιωμένη αναζήτηση, παράλειψη διαφημίσεων και πλήθος άλλων προσαρμογών στο YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Φραγή ιχνηλατών, ηλεκτρονικού «ψαρέματος» και κακόβουλου περιεχομένου."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Αποθηκεύστε περιεχόμενο βίντεο, ήχου και ζωντανής μετάδοσης από τους περισσότερους ιστοτόπους."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Ορίστε τη δική σας προεπιλεγμένη ταχύτητα για βίντεο και ήχο."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
