@@ -28,7 +28,7 @@ msgstr "Geçersiz e-posta adresi girildi."
 
 #: src/olympia/abuse/forms.py:61
 msgid "Reason for appeal"
-msgstr "İtiraz nedeni"
+msgstr "İtiraz gerekçesi"
 
 #: src/olympia/abuse/forms.py:63
 msgid "Please explain why you believe that this decision was made in error, and/or does not align with the applicable policy or law."
@@ -46,7 +46,7 @@ msgstr "\"{}\" için {}"
 #: src/olympia/abuse/serializers.py:32
 #, python-brace-format
 msgid "Please ensure this field has no more than {max_length} characters."
-msgstr "Bu alan {max_length} karakterden daha uzun olamaz."
+msgstr "Bu alan en fazla {max_length} karakter olmalıdır."
 
 #: src/olympia/abuse/serializers.py:241 src/olympia/abuse/serializers.py:257 src/olympia/addons/fields.py:51 src/olympia/addons/fields.py:257
 msgid "Invalid value"
