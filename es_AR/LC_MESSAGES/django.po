@@ -1242,7 +1242,7 @@ msgstr "{addon} {version} rechazada automáticamente una vez transcurrido el pla
 
 #: src/olympia/constants/activity.py:1056
 msgid "Rejected automatically after delay expired"
-msgstr ""
+msgstr "Se rechazó automáticamente tras vencerse el plazo"
 
 #: src/olympia/constants/activity.py:1067
 #, python-brace-format
@@ -4008,7 +4008,7 @@ msgstr "Esta es la última versión disponible no listada"
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:118 src/olympia/devhub/templates/devhub/new-landing/components/my-addons.html:82
 #: src/olympia/devhub/templates/devhub/versions/list.html:32
 msgid "Signed for enterprise."
-msgstr ""
+msgstr "Firmado para empresa."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:126
 msgid "This is the newest uploaded enterprise version"
@@ -5861,7 +5861,7 @@ msgstr ""
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Bloqueo de rastreadores, phishing y contenido malicioso."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
