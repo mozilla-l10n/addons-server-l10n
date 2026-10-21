@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-19 09:15+0000\n"
+"POT-Creation-Date: 2026-10-21 13:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -387,16 +387,16 @@ msgstr ""
 msgid "This slug cannot be used. Please choose another."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1902
+#: src/olympia/addons/serializers.py:1909
 msgid "There is no rollback available in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1912
+#: src/olympia/addons/serializers.py:1919
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1921
+#: src/olympia/addons/serializers.py:1928
 msgid "Only approved versions can be rolled back, except the most recent version."
 msgstr ""
 
