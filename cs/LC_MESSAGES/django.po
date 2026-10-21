@@ -5809,22 +5809,22 @@ msgstr "\"Better Twitch TV\" — vylepšete Twitch a YouTube o spoustu nových f
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr "Vylepšené vyhledávání, přeskakování reklam & plno dalšího přizpůsobení YouTube."
+msgstr "Lepší vyhledávání, přeskakování reklam a spousta dalších možností přizpůsobení YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr "Blokuje sledovací prvky, phishing a škodlivý obsah."
+msgstr "Blokujte sledovací prvky, phishing a škodlivý obsah."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr "Uložte si video, audio a streamovaný obsah z většiny webových stránek."
+msgstr "Stahujte videa, zvuk i streamovaný obsah z většiny webových stránek."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr "Nastavte si vlastní výchozí rychlost pro video a zvuk."
+msgstr "Zvolte si vlastní výchozí rychlost přehrávání videa a zvuku."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6149,7 +6149,7 @@ msgstr "Desítky funkcí pro přizpůsobení si YouTube. Odstraňte rušivé pro
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr "Získejte dodatečnou ochranu proti sledovacím prvkům, phishingovým podvodům a dalšímu škodlivému obsahu."
+msgstr "Získejte lepší ochranu před sledovacími prvky, phishingovými podvody a dalším škodlivým obsahem."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6169,12 +6169,12 @@ msgstr "Zobrazit všechna rozšíření"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr "Startovací balíček rozšíření"
+msgstr "Základní sada rozšíření"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr "Rozšíření pro produktivitu"
+msgstr "Rozšíření pro vyšší produktivitu"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6416,7 +6416,7 @@ msgstr "Zobrazit další výběr od zaměstnanců"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr "Důležitá rozšíření"
+msgstr "Nezbytná rozšíření"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
