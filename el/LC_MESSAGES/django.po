@@ -3517,7 +3517,7 @@ msgstr "Αυτές οι σημειώσεις θα εμφανίζονται στ�
 
 #: src/olympia/devhub/templates/devhub/addons/submit/distribute.html:3 src/olympia/devhub/templates/devhub/addons/submit/distribute.html:9
 msgid "How to Distribute this Version"
-msgstr "Τρόπος διανομής έκδοσης"
+msgstr "Οδηγίες διανομής έκδοσης"
 
 #: src/olympia/devhub/templates/devhub/addons/submit/distribute.html:10
 msgid "To get started, select how you would like to distribute this version."
