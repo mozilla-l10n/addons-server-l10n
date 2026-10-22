@@ -761,8 +761,8 @@ msgstr "Požadavek byl omezen."
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] "Předpokládaná dostupnost za {wait} sekundy."
-msgstr[1] "Předpokládaná dostupnost za {wait} sekund."
+msgstr[0] "Předpokládaná dostupnost za {wait} sekundu."
+msgstr[1] "Předpokládaná dostupnost za {wait} sekundy."
 msgstr[2] "Předpokládaná dostupnost za {wait} sekund."
 
 #: src/olympia/api/fields.py:91
