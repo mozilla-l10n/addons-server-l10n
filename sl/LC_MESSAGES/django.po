@@ -754,16 +754,16 @@ msgstr "Ni na voljo iz pravnih razlogov."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "Zahteva je bila upočasnjena."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Pričakovano na voljo čez {wait} sekund."
+msgstr[1] "Pričakovano na voljo čez {wait} sekund."
+msgstr[2] "Pričakovano na voljo čez {wait} sekund."
+msgstr[3] "Pričakovano na voljo čez {wait} sekund."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
