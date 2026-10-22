@@ -774,7 +774,7 @@ msgstr "Njejo k dispoziciji z pšawniskich pśicynow."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "Napšašowanje jo se zdroslowało."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format

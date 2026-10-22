@@ -771,16 +771,16 @@ msgstr "Z prawniskich přičinow k dispoziciji njeje."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "Naprašowanje je so dajiło."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Najskerje za {wait} sekundu k dispoziciji."
+msgstr[1] "Najskerje za {wait} sekundźe k dispoziciji."
+msgstr[2] "Najskerje za {wait} sekundy k dispoziciji."
+msgstr[3] "Najskerje za {wait} sekundow k dispoziciji."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
