@@ -757,13 +757,13 @@ msgstr "由於法律因素無法使用。"
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "請求受到流量限制。"
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
+msgstr[0] "預計於 {wait} 秒後開放使用。"
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
