@@ -780,10 +780,10 @@ msgstr "Napšašowanje jo se zdroslowało."
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Nejskerjej za {wait} sekundu k dispoziciji."
+msgstr[1] "Nejskerjej za {wait} sekunźe k dispoziciji."
+msgstr[2] "Nejskerjej za {wait} sekundy k dispoziciji."
+msgstr[3] "Nejskerjej za {wait} sekundow k dispoziciji."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
