@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  messages.pootle\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-21 13:35+0000\n"
+"POT-Creation-Date: 2026-10-22 11:52+0000\n"
 "PO-Revision-Date: 2013-11-07 07:24+0000\n"
 "Last-Translator: Julen <julenx@gmail.com>\n"
 "Language-Team: librezale@librezale.org\n"
@@ -730,9 +730,20 @@ msgstr "Artxibo baliogabea."
 msgid "Email address not found."
 msgstr "Helbide elektronikoa"
 
-#: src/olympia/api/exceptions.py:16
+#: src/olympia/api/exceptions.py:17
 msgid "Unavailable for legal reasons."
 msgstr ""
+
+#: src/olympia/api/exceptions.py:42
+msgid "Request was throttled."
+msgstr ""
+
+#: src/olympia/api/exceptions.py:49
+#, python-brace-format
+msgid "Expected available in {wait} second."
+msgid_plural "Expected available in {wait} seconds."
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format

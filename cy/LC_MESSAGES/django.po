@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-21 13:35+0000\n"
+"POT-Creation-Date: 2026-10-22 11:52+0000\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -723,9 +723,24 @@ msgstr ""
 msgid "Email address not found."
 msgstr ""
 
-#: src/olympia/api/exceptions.py:16
+#: src/olympia/api/exceptions.py:17
 msgid "Unavailable for legal reasons."
 msgstr ""
+
+#: src/olympia/api/exceptions.py:42
+msgid "Request was throttled."
+msgstr ""
+
+#: src/olympia/api/exceptions.py:49
+#, python-brace-format
+msgid "Expected available in {wait} second."
+msgid_plural "Expected available in {wait} seconds."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format

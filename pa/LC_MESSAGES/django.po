@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-21 13:35+0000\n"
+"POT-Creation-Date: 2026-10-22 11:52+0000\n"
 "PO-Revision-Date: 2015-07-18 03:09+0000\n"
 "Last-Translator: ubuntuser13 <ubuntuser13@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -731,9 +731,20 @@ msgstr "ਗਲਤ ਅਕਾਈਵ।"
 msgid "Email address not found."
 msgstr "ਈਮੇਲ ਪਤਾ"
 
-#: src/olympia/api/exceptions.py:16
+#: src/olympia/api/exceptions.py:17
 msgid "Unavailable for legal reasons."
 msgstr ""
+
+#: src/olympia/api/exceptions.py:42
+msgid "Request was throttled."
+msgstr ""
+
+#: src/olympia/api/exceptions.py:49
+#, python-brace-format
+msgid "Expected available in {wait} second."
+msgid_plural "Expected available in {wait} seconds."
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format

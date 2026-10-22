@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-10-22 11:52+0000\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "আপনার অ্যাড অন .zip, .xpi, .crx, অথবা .x
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0} % সম্পূর্ণ"
 
@@ -133,8 +135,7 @@ msgstr "ভার্সন নোটটির বিস্তারিত অন
 #: static/js/common/upload-addon.js:654
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr ""
-"আপনার অ্যাড-অনটি পরিপূর্ণভাবে পরীক্ষা করার জন্য যদি কোনো ওয়েবসাইটে অ্যাকাউন্টের প্রয়োজন হয়, তবে নোট টু রিভিউয়ার-এ একটি পরীক্ষামূলক ব্যবহারকারীর নাম এবং পাসওয়ার্ড অন্তর্ভুক্ত করুন (এটি পরবর্তী "
-"পদক্ষেপে করা যেতে পারে)।"
+"আপনার অ্যাড-অনটি পরিপূর্ণভাবে পরীক্ষা করার জন্য যদি কোনো ওয়েবসাইটে অ্যাকাউন্টের প্রয়োজন হয়, তবে নোট টু রিভিউয়ার-এ একটি পরীক্ষামূলক ব্যবহারকারীর নাম এবং পাসওয়ার্ড অন্তর্ভুক্ত করুন (এটি পরবর্তী পদক্ষেপে করা যেতে পারে)।"
 
 #: static/js/common/upload-addon.js:660
 msgid "Add-on submission checklist"
@@ -149,8 +150,8 @@ msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"মিনিফাই করা, সংযুক্ত বা অন্য কোনোভাবে মেশিন দিয়ে তৈরি স্ক্রিপ্টের (পরিচিত লাইব্রেরি বাদে) সোর্স কোড পর্যালোচনার জন্য আলাদাভাবে জমা দিতে হবে। আপনার জমা যাতে বাতিল না হয়, সেজন্য সোর্স কোড আপলোড করার"
-" ক্ষেত্রটি ব্যবহার করা নিশ্চিত করুন।"
+"মিনিফাই করা, সংযুক্ত বা অন্য কোনোভাবে মেশিন দিয়ে তৈরি স্ক্রিপ্টের (পরিচিত লাইব্রেরি বাদে) সোর্স কোড পর্যালোচনার জন্য আলাদাভাবে জমা দিতে হবে। আপনার জমা যাতে বাতিল না হয়, সেজন্য সোর্স কোড আপলোড করার ক্ষেত্রটি "
+"ব্যবহার করা নিশ্চিত করুন।"
 
 #: static/js/common/upload-addon.js:684
 msgid "The validation process found these issues that can lead to rejections:"
