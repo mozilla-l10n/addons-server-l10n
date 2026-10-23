@@ -5843,7 +5843,7 @@ msgstr "Αφαιρέστε τα ανεπιθύμητα και ενοχλητικ
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:679
 msgid "Makes Firefox appear as Chrome to websites trying to block Firefox."
-msgstr "Κάνει το Firefox να εμφανίζεται ως Chrome σε ιστοσελίδες που προσπαθούν να αποκλείσουν το Firefox."
+msgstr "Κάνει το Firefox να εμφανίζεται ως Chrome σε ιστοτόπους που προσπαθούν να αποκλείσουν το Firefox."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:685
@@ -5868,7 +5868,7 @@ msgstr "Λειτουργίες λεπτομερούς μετάφρασης γι�
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:697
 msgid "Leave yourself little notes on any website."
-msgstr "Αφήστε στον εαυτό σας μικρές σημειώσεις, σε οποιαδήποτε ιστοσελίδα."
+msgstr "Αφήστε στον εαυτό σας μικρές σημειώσεις, σε οποιονδήποτε ιστότοπο."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:700
