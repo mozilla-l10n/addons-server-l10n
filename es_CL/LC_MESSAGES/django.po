@@ -775,14 +775,14 @@ msgstr "No disponible por razones legales."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "La solicitud fue restringida."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Disponible en {wait} segundo."
+msgstr[1] "Disponible en {wait} segundos."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
