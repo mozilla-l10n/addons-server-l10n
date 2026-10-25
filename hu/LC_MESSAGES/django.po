@@ -768,7 +768,7 @@ msgstr "Jogi okokból nem érhető el."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "A kérés korlátozva lett."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
@@ -6196,7 +6196,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Fokozott védelem a nyomkövetők, adathalász csalások és további rosszindulatú tartalmak ellen."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6216,12 +6216,12 @@ msgstr "Összes kiegészítő megtekintése"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Kiegészítő-kezdőcsomag"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Hatékonyságnövelő kiegészítők"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6463,7 +6463,7 @@ msgstr "További, stáb által javasolt kiegészítők megtekintése"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Nélkülözhetetlen kiegészítők"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
