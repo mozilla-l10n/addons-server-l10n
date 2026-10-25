@@ -774,8 +774,8 @@ msgstr ""
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Várhatóan {wait} másodperc múlva érhető el."
+msgstr[1] "Várhatóan {wait} másodperc múlva érhető el."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -5854,22 +5854,22 @@ msgstr "„Jobb Twitch TV” – fejlessze a Twitchet és a YouTube-ot egy csom�
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Továbbfejlesztett keresés, reklámok kihagyása és egyéb YouTube testreszabások."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Nyomkövetők, adathalász és rosszindulatú tartalmak blokkolása."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Videó, hang és közvetített tartalom mentése a legtöbb webhelyről."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Videók és hanganyagok alapértelmezett lejátszási sebességének beállítása."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
