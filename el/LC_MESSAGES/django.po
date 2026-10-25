@@ -783,8 +783,8 @@ msgstr ""
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Αναμένεται να είναι διαθέσιμο σε {wait} δευτερόλεπτο."
+msgstr[1] "Αναμένεται να είναι διαθέσιμο σε {wait} δευτερόλεπτα."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
