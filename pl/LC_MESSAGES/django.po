@@ -137,6 +137,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Dziękujemy za poświęcenie czasu na zgłoszenie o %(name)s pod adresem %(target_url)s.\n"
+"\n"
+"Po przeanalizowaniu zgłoszenia i wskazanej treści stwierdziliśmy, że jest ona zgodna z zasadami Mozilli (%(policy_document_url)s), dlatego nie podejmiemy wobec niej żadnych działań moderacyjnych. Dziękujemy jednak za zwrócenie nam na nią uwagi.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
@@ -155,6 +159,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Dziękujemy za poświęcenie czasu na zgłoszenie dodatku %(name)s w serwisie Mozilla Add-ons.\n"
+"\n"
+"Po przeanalizowaniu zgłoszenia i wskazanej treści stwierdziliśmy, że narusza ona zasady Mozilli (%(policy_document_url)s). W związku z tym została usunięta. Dziękujemy za pomoc w zapewnianiu bezpieczeństwa serwisu Mozilla Add-ons.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -223,7 +231,7 @@ msgstr "Nie można używać animowanych obrazów."
 #: src/olympia/accounts/serializers.py:190
 #, python-brace-format
 msgid "Please use images smaller than {}MB."
-msgstr ""
+msgstr "Proszę użyć obrazów mniejszych niż {} MB."
 
 #: src/olympia/accounts/views.py:216
 msgid "Need help?"
