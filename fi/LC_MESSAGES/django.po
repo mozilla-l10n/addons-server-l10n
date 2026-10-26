@@ -6046,7 +6046,7 @@ msgstr ""
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Tuottavuuslaajennukset"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
