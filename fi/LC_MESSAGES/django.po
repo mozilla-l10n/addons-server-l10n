@@ -2064,7 +2064,7 @@ msgstr ""
 
 #: src/olympia/devhub/forms.py:1801
 msgid "Describe the issue"
-msgstr ""
+msgstr "Kuvaile ongelma"
 
 #: src/olympia/devhub/serializers.py:12
 msgid "Technical support for making your add-on compliant"
@@ -2072,7 +2072,7 @@ msgstr ""
 
 #: src/olympia/devhub/serializers.py:13
 msgid "Issue with addons.mozilla.org"
-msgstr ""
+msgstr "Ongelma addons.mozilla.org-sivustossa"
 
 #: src/olympia/devhub/tasks.py:175
 msgid "Invalid or corrupt add-on file."
