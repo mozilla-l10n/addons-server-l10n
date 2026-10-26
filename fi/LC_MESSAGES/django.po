@@ -5396,7 +5396,7 @@ msgstr "Nauti vahvan salasanahallinnan eduista."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:512 src/olympia/discovery/strings.jinja2:792
 msgid "Customize shades of light and dark to make web pages more visually pleasing."
-msgstr ""
+msgstr "Mukauta vaaleiden ja tummien sävyjen asetuksia tehdäksesi verkkosivuista visuaalisesti miellyttävämpiä."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5466,7 +5466,7 @@ msgstr "Poista seurantaelementit linkeistä."
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:552
 msgid "Get auto-populated RSS feed bookmark folders."
-msgstr ""
+msgstr "Hanki automaattisesti muodostut RSS-syötteiden kirjanmerkkikansiot."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5631,7 +5631,7 @@ msgstr "Saa Firefoxin näyttäytymään Chromena verkkosivustoille, jotka yritt�
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:685
 msgid "Manage your Gmail (even multiple accounts) right from Firefox's toolbar button."
-msgstr ""
+msgstr "Hallitse Gmail-tiliäsi (myös useita tilejä) suoraan Firefoxin työkalupalkin painikkeesta."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:688
@@ -5671,7 +5671,7 @@ msgstr ""
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:723
 msgid "Eliminate YouTube distractions like recommendations, end-screen suggestions, comments & more."
-msgstr ""
+msgstr "Poista YouTuben häiriötekijät, kuten suositukset, lopetusruutuehdotukset, kommentit ja paljon muuta."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:726
@@ -5811,7 +5811,7 @@ msgstr "Hanki unelmiesi hiiren vierityspalkki – määritä leveys ja väri."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1017
 msgid "Mask your email to protect your identity & prevent junk mail. New updates make Firefox Relay even easier to use."
-msgstr ""
+msgstr "Peitä sähköpostisi suojataksesi identiteettiäsi ja estääksesi roskapostin. Uudet päivitykset tekevät Firefox Relayn käytöstä entistä helpompaa."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1020
@@ -6006,7 +6006,7 @@ msgstr "Naamioi Firefox Chrome-selaimeksi verkkosivustoille, jotka yrittävät e
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1137
 msgid "Remove distractions, change viewing options, alter playback speed & more."
-msgstr ""
+msgstr "Poista häiriötekijät, muuta katseluasetuksia, muuta toistonopeutta ja paljon muuta."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
@@ -6041,7 +6041,7 @@ msgstr "Selaa kaikkia laajennuksia"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Laajennusten aloituspaketti"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
@@ -6288,7 +6288,7 @@ msgstr "Katso lisää henkilöstön valintoja"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Oleellisimmat laajennukset"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
