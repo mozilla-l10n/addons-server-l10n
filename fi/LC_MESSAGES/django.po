@@ -3685,7 +3685,7 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:48
 msgid "Haven't received the email yet?"
-msgstr ""
+msgstr "Etkö ole vielä saanut sähköpostia?"
 
 #: src/olympia/devhub/templates/devhub/emails/api_key_confirmation.ltxt:10
 #, python-format
@@ -4580,7 +4580,7 @@ msgstr "Lataa videoita vaivatta. Toimii YouTuben, Facebookin, Vimeon, Twitchin, 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:38
 msgid "Up your emoji game. Dozens of amazing emojis for every occasion—always just a click away."
-msgstr ""
+msgstr "Vie emojien käyttö uudelle tasolle. Kymmeniä upeita emojeja joka tilanteeseen — vain napsautuksen päässä."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:41
@@ -5043,7 +5043,7 @@ msgstr "Näytä kaikki verkkosivun linkit välittömästi uusissa välilehdissä
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:305
 msgid "Strip away redirect pages and URL tracking parameters from web links. Works automatically."
-msgstr ""
+msgstr "Poista uudelleenohjaussivut ja URL-seurantaparametrit verkkolinkeistä. Toimii automaattisesti."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:308
@@ -5369,7 +5369,7 @@ msgstr "Lue selkeämmin ja helpommin. Poista verkkosivujen tekstin ympärillä o
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:497 src/olympia/discovery/strings.jinja2:762
 msgid "Block ads and get enhanced protection against malware and ad tracking."
-msgstr ""
+msgstr "Estä mainokset ja saa parannettu suoja haittaohjelmia ja mainosten seurantaa vastaan."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
@@ -5626,7 +5626,7 @@ msgstr ""
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:679
 msgid "Makes Firefox appear as Chrome to websites trying to block Firefox."
-msgstr ""
+msgstr "Saa Firefoxin näyttäytymään Chromena verkkosivustoille, jotka yrittävät estää Firefoxin käytön."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:685
@@ -5686,17 +5686,17 @@ msgstr ""
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Estä seuraimet, tietojenkalastelu ja haitallinen sisältö."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Tallenna video-, ääni- ja suoratoistosisältöä useimmilta verkkosivustoilta."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Määritä videoille ja äänelle haluamasi oletusnopeus."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -5731,7 +5731,7 @@ msgstr "Mukauta hiirieleitä. Löydä uusi tapa liikkua yli 50 eri määrityksen
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:840
 msgid "Remove distractions, change your viewing experience, alter playback speed & so much."
-msgstr ""
+msgstr "Poista häiriötekijät, muuta katselukokemustasi, muuta toistonopeutta ja paljon muuta."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:888
@@ -5946,7 +5946,7 @@ msgstr "Vaihda Firefoxin väri vastaamaan jokaista vierailemaasi verkkosivustoa.
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1101
 msgid "Learning a new language? Yomitan is the ideal dictionary companion."
-msgstr ""
+msgstr "Opiskeletko uutta kieltä? Yomitan on ihanteellinen sanakirjakumppani."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1104
@@ -5956,17 +5956,17 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1107
 msgid "Hover over web images to enlarge their appearance."
-msgstr ""
+msgstr "Suurenna verkkosivujen kuvia viemällä hiiren osoitin niiden päälle."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1110
 msgid "Feature rich translation tool. Works across the web, eBooks, PDFs, even video subtitles."
-msgstr ""
+msgstr "Monipuolinen käännöstyökalu. Toimii verkossa, e-kirjoissa, PDF-tiedostoissa ja jopa videoiden tekstityksissä."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1113
 msgid "Track the time you spend on every website you visit."
-msgstr ""
+msgstr "Seuraa jokaisella vierailemallasi verkkosivustolla viettämääsi aikaa."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1116
