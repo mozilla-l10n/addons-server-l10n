@@ -7259,7 +7259,7 @@ msgstr "Software abo rěd, kótarejž wužywaśo, njejstej dowólonej za zapóda
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Sćo tuchylu zapódał pśewjele wopśimjeśa."
 
 #: src/olympia/users/models.py:1566
 msgid ""
