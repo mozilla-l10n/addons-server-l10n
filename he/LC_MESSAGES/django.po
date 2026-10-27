@@ -7070,7 +7070,7 @@ msgstr ""
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "הגשת יותר מדי תוכן לאחרונה."
 
 #: src/olympia/users/models.py:1566
 msgid ""

@@ -7216,7 +7216,7 @@ msgstr "Software či zařízení, které používáte, nemá povoleno přidává
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr "V poslední době jste odeslali příliš mnoho obsahu."
+msgstr "V poslední době jste přidali příliš mnoho obsahu."
 
 #: src/olympia/users/models.py:1566
 msgid ""
