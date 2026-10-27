@@ -7176,7 +7176,7 @@ msgstr "Iz programske opreme ali naprave, ki jo uporabljate, pošiljanje ni dovo
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "V zadnjem času ste oddali preveč vsebine."
 
 #: src/olympia/users/models.py:1566
 msgid ""

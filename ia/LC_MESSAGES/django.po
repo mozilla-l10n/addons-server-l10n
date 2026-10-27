@@ -7241,7 +7241,7 @@ msgstr "Le software o apparato que tu usa non ha permisso pro invios."
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Tu ha inviate tro de contento recentlemente."
 
 #: src/olympia/users/models.py:1566
 msgid ""
