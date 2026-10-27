@@ -7255,7 +7255,7 @@ msgstr "Программное обеспечение или устройств�
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "В последнее время вы представили слишком много контента."
 
 #: src/olympia/users/models.py:1566
 msgid ""
