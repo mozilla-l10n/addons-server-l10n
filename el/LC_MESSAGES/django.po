@@ -777,7 +777,7 @@ msgstr "Μη διαθέσιμο για νομικούς λόγους."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "Το αίτημα περιορίστηκε."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
