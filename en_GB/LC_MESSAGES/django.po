@@ -7232,7 +7232,7 @@ msgstr "The software or device you are using is not allowed for submissions."
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "You have submitted too much content recently."
 
 #: src/olympia/users/models.py:1566
 msgid ""
