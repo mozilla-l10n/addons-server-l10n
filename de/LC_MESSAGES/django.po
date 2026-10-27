@@ -7263,7 +7263,7 @@ msgstr "Die von Ihnen verwendete Software oder das Gerät ist für Einreichungen
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Sie haben in letzter Zeit zu viele Inhalte eingereicht."
 
 #: src/olympia/users/models.py:1566
 msgid ""
