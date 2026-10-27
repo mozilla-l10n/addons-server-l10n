@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-22 11:52+0000\n"
+"POT-Creation-Date: 2026-10-27 16:47+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8914,7 +8914,11 @@ msgstr "E-pošta koja se koristi za vaš nalog nije dozvoljena za prijave."
 msgid "The software or device you are using is not allowed for submissions."
 msgstr "Program ili uređaj koji koristite nije dozvoljen za prijave."
 
-#: src/olympia/users/models.py:1497
+#: src/olympia/users/models.py:1415
+msgid "You have submitted too much content recently."
+msgstr ""
+
+#: src/olympia/users/models.py:1566
 msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution "
 "Agreement as well as our Review Policies and Rules. The Firefox Add-on "
@@ -8926,7 +8930,7 @@ msgstr ""
 "ovih dodataka takođe sadrži vezu do našeg obaveštenja o privatnosti u kojem "
 "je objašnjeno kako obrađujemo vaše podatke."
 
-#: src/olympia/users/models.py:1511
+#: src/olympia/users/models.py:1580
 #, python-brace-format
 msgid ""
 "Please read and accept our Firefox Add-on Distribution Agreement as well as "
