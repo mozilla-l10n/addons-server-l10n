@@ -773,7 +773,7 @@ msgstr "No disponible por razones legales."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "El pedido fue limitado."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
