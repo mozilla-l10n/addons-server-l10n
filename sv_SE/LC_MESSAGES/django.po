@@ -7242,7 +7242,7 @@ msgstr "Programvaran eller enheten du använder är inte tillåten för bidrag."
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Du har skickat in för mycket innehåll nyligen."
 
 #: src/olympia/users/models.py:1566
 msgid ""
