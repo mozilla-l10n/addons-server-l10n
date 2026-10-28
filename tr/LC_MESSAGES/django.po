@@ -143,6 +143,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"İçeriğin Mozilla politikalarına uymadığını düşünüyorsanız bu e-postayı aldığınız tarihten itibaren 6 ay içinde bu karara itiraz edebilirsiniz. İtiraz süreciyle ilgili ayrıntıları ve bu karara nasıl "
+"itiraz edebileceğinizi öğrenmek için %(appeal_url)s adresine bakabilirsiniz."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -741,14 +743,14 @@ msgstr "Hukuki nedenlerden dolayı kullanılamıyor."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "İstek sınırlandırıldı."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{wait} saniye sonra kullanıma sunulması bekleniyor."
+msgstr[1] "{wait} saniye sonra kullanıma sunulması bekleniyor."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -3711,6 +3713,8 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
+"Dış kullanıcı olarak <a %(a_attrs)s href=\"%(docs_url)s\">API</a> üzerinde yetkilendirilmiş çağrıları çalıştırmak için her istekte <code>%(auth_header_name)s</code> üst bilgisine bir <a %(a_attrs)s "
+"href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> eklemeniz gerekir."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."
@@ -7134,7 +7138,7 @@ msgstr "Kullandığınız yazılım veya cihazın gönderim yapmasına izin veri
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Kısa süre içinde çok fazla içerik gönderdiniz."
 
 #: src/olympia/users/models.py:1566
 msgid ""
