@@ -7249,7 +7249,7 @@ msgstr "A használt szoftvere vagy eszköze nem engedélyezett a beküldésekhez
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Túl sok tartalmat küldött be a közelmúltban."
 
 #: src/olympia/users/models.py:1566
 msgid ""
