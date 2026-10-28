@@ -7133,7 +7133,7 @@ msgstr "您使用的軟體或裝置未被允許送交套件審核。"
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "您最近送出的內容過多。"
 
 #: src/olympia/users/models.py:1566
 msgid ""
