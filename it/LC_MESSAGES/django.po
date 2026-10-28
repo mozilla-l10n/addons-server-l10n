@@ -7303,7 +7303,7 @@ msgstr "Non è consentito effettuare il caricamento dal software o dal dispositi
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Di recente hai inviato troppi contenuti."
 
 #: src/olympia/users/models.py:1566
 msgid ""
