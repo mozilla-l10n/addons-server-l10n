@@ -7227,7 +7227,7 @@ msgstr "De software of it apparaat dat jo brûke is net tastien foar ynstjoering
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Jo hawwe koartlyn tefolle ynhâld yntsjinne."
 
 #: src/olympia/users/models.py:1566
 msgid ""
