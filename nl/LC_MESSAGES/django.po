@@ -7224,7 +7224,7 @@ msgstr "De software of het apparaat dat u gebruikt is niet toegestaan voor inzen
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr "U hebt onlangs te veel inhoud ingediend."
+msgstr "U hebt de laatste tijd te veel inhoud ingediend."
 
 #: src/olympia/users/models.py:1566
 msgid ""
