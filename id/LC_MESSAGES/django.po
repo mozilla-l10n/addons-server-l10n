@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-10-30 16:17+0000\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -106,7 +108,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be taking action against the account or the content.\n"
+"After carefully reviewing your appeal, we found that the earlier decision — that this content adheres to Mozilla's policies (%(policy_document_url)s) — was correct. For that reason we will not be "
+"taking action against the account or the content.\n"
 "%(manual_reasoning_text)s.\n"
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
@@ -118,7 +121,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for taking the time to share more about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and "
+"notified the user. Thank you for helping us get this right.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
@@ -127,7 +131,8 @@ msgid ""
 "\n"
 "Thank you for your report about %(name)s on Mozilla Add-ons, and for providing more information about your concerns.\n"
 "\n"
-"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
+"After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make "
+"changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
@@ -136,14 +141,15 @@ msgid ""
 "\n"
 "Thank you for taking the time to report %(name)s, at %(target_url)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
+"We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we "
+"appreciate you flagging it for us.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
 msgid ""
-"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
-" process, including how to file an appeal for this specific decision."
+"If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the "
+"appeal process, including how to file an appeal for this specific decision."
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
@@ -152,7 +158,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you "
+"helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
@@ -161,7 +168,8 @@ msgid ""
 "\n"
 "Thank you for taking the time to report the following add-on on Mozilla Add-ons: %(name)s.\n"
 "\n"
-"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
+"We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if "
+"they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
@@ -260,7 +268,7 @@ msgstr "Angka maksimum untuk kategori per aplikasi ({MAX_CATEGORIES}) terlampaui
 msgid "The \"other\" category cannot be combined with another category"
 msgstr "Kategori \"lainnya\" tidak bisa digabung dengan kategori lain"
 
-#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1301
+#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1308
 msgid "Invalid category name."
 msgstr "Nama kategori tidak sah."
 
@@ -303,7 +311,7 @@ msgstr "Versi aplikasi maksimum yang tidak diketahui telah ditentukan"
 msgid "Unknown min app version specified"
 msgstr "Versi aplikasi minimum yang tidak diketahui telah ditentukan"
 
-#: src/olympia/addons/fields.py:307 src/olympia/addons/fields.py:325 src/olympia/addons/serializers.py:662
+#: src/olympia/addons/fields.py:307 src/olympia/addons/fields.py:325 src/olympia/addons/serializers.py:664
 #, python-format
 msgid "Can not override compatibility information set in the manifest for this application (%s)"
 msgstr "Tidak bisa menimpa informasi kompatibilitas yang diatur dalam manifes untuk aplikasi ini (%s)"
@@ -323,76 +331,76 @@ msgstr ""
 msgid "Listed"
 msgstr "Terdaftar"
 
-#: src/olympia/addons/serializers.py:347
+#: src/olympia/addons/serializers.py:348
 msgid "Built in licenses can not be updated."
 msgstr "Lisensi bawaan tidak dapat diperbarui."
 
-#: src/olympia/addons/serializers.py:542
+#: src/olympia/addons/serializers.py:544
 msgid "Upload is not valid."
 msgstr "Unggahan tidak valid."
 
-#: src/olympia/addons/serializers.py:558
+#: src/olympia/addons/serializers.py:560
 msgid "File is already disabled."
 msgstr "Berkas telah dinonaktifkan."
 
-#: src/olympia/addons/serializers.py:562 src/olympia/addons/views.py:814
+#: src/olympia/addons/serializers.py:564 src/olympia/addons/views.py:813
 #, python-format
 msgid "The latest approved version of this %s add-on cannot be deleted because the previous version was not approved for %s promotion. Please contact AMO Admins if you need help with this."
 msgstr "Versi terbaru dari pengaya %s ini tidak dapat dihapus karena versi sebelumnya tidak disetujui untuk promosi %s. Silakan hubungi Admin AMO jika Anda memerlukan bantuan terkait hal ini."
 
-#: src/olympia/addons/serializers.py:589
+#: src/olympia/addons/serializers.py:591
 msgid "Listed versions cannot be submitted while add-on is disabled."
 msgstr "Versi yang terdaftar tidak dapat dikirim saat pengaya dinonaktifkan."
 
-#: src/olympia/addons/serializers.py:596 src/olympia/signing/views.py:227
+#: src/olympia/addons/serializers.py:598 src/olympia/signing/views.py:227
 msgid "Listed versions cannot be submitted while add-on listing is rejected."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:637
+#: src/olympia/addons/serializers.py:639
 #, python-format
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(addon_type_plural)s tidak didukung oleh %(app_name)s"
 
-#: src/olympia/addons/serializers.py:676 src/olympia/devhub/forms.py:963
+#: src/olympia/addons/serializers.py:678 src/olympia/devhub/forms.py:963
 #, python-format
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
 "Rentang versi tidak valid. Untuk Firefox untuk Android, Anda hanya dapat memilih rentang yang dimulai dengan versi %(max)s atau lebih tinggi, atau diakhiri dengan lebih rendah dari versi %(min)s."
 
-#: src/olympia/addons/serializers.py:925
+#: src/olympia/addons/serializers.py:932
 msgid "Add-ons need at least one owner."
 msgstr "Pengaya membutuhkan sekurangnya satu pemilik."
 
-#: src/olympia/addons/serializers.py:940
+#: src/olympia/addons/serializers.py:947
 msgid "Add-ons need at least one listed author."
 msgstr "Pengaya membutuhkan setidaknya satu kreator terdaftar."
 
-#: src/olympia/addons/serializers.py:972
+#: src/olympia/addons/serializers.py:979
 msgid "Account not found."
 msgstr "Akun tidak ditemukan."
 
-#: src/olympia/addons/serializers.py:985 src/olympia/devhub/forms.py:463 src/olympia/devhub/forms.py:533
+#: src/olympia/addons/serializers.py:992 src/olympia/devhub/forms.py:463 src/olympia/devhub/forms.py:533
 msgid "An author can only be present once."
 msgstr "Penulis hanya akan terdaftar sekali."
 
-#: src/olympia/addons/serializers.py:996 src/olympia/devhub/forms.py:475
+#: src/olympia/addons/serializers.py:1003 src/olympia/devhub/forms.py:475
 msgid "The account needs a display name before it can be added as an author."
 msgstr "Akun ini membutuhkan nama sebelum dapat ditambahkan sebagai penulis."
 
-#: src/olympia/addons/serializers.py:1281
+#: src/olympia/addons/serializers.py:1288
 msgid "This slug cannot be used. Please choose another."
 msgstr "Slug ini tidak dapat digunakan. Silakan pilih yang lain."
 
-#: src/olympia/addons/serializers.py:1909
+#: src/olympia/addons/serializers.py:1918
 msgid "There is no rollback available in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1919
+#: src/olympia/addons/serializers.py:1928
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1928
+#: src/olympia/addons/serializers.py:1937
 msgid "Only approved versions can be rolled back, except the most recent version."
 msgstr ""
 
@@ -600,12 +608,12 @@ msgid ""
 "website.</p> <ul> <li>Are you interested in a <a href=\"%(rec)s\">list of featured add-ons</a>?</li> <li> Do you want to <a href=\"%(search)s\">search for add-ons</a>? You may go to the <a "
 "href=\"%(search)s\">search page</a> or just use the search field above. </li> <li> If you prefer to start over, just go to the <a href=\"%(home)s\">add-ons front page</a>. </li> </ul>"
 msgstr ""
-"<h1>Mohon maaf, tapi kami tidak dapat menemukan yang Anda cari.</h1> <p> Laman atau berjas yang Anda minta tidak ditemukan di situs kami. Barangkali Anda mengeklik tautan yang sudah usang atau salah"
-" mengetikkan alamatnya. </p> <ul> <li>Jika Anda mengetikkan alamatnya, periksa lagi ejaannya.</li> <li> Jika Anda menelusuri tautan dari tempat lain, silakan %(open_bug_link)sdaftarkan "
+"<h1>Mohon maaf, tapi kami tidak dapat menemukan yang Anda cari.</h1> <p> Laman atau berjas yang Anda minta tidak ditemukan di situs kami. Barangkali Anda mengeklik tautan yang sudah usang atau "
+"salah mengetikkan alamatnya. </p> <ul> <li>Jika Anda mengetikkan alamatnya, periksa lagi ejaannya.</li> <li> Jika Anda menelusuri tautan dari tempat lain, silakan %(open_bug_link)sdaftarkan "
 "masalah%(close_bug_link)s. Harap beri tahu kami dari mana Anda datang dan apa yang Anda cari, dan kami akan berusaha sebaik mungkin memperbaikinya. </li> </ul> <p>Atau Anda dapat langsung menuju "
 "laman populer di situs kami.</p> <ul> <li>Apakah Anda tertarik melihat <a href=\"%(rec)s\">daftar pengaya unggulan</a>?</li> <li> Apakah Anda ingin <a href=\"%(search)s\">mencari pengaya</a>? Anda "
-"dapat menuju <a href=\"%(search)s\">laman pencarian</a> atau menggunakan bidang pencarian di atas. </li> <li> Jika Anda ingin memulai dari awal, silakan menuju <a href=\"%(home)s\">beranda "
-"pengaya</a>. </li> </ul>"
+"dapat menuju <a href=\"%(search)s\">laman pencarian</a> atau menggunakan bidang pencarian di atas. </li> <li> Jika Anda ingin memulai dari awal, silakan menuju <a href=\"%(home)s\">beranda pengaya</"
+"a>. </li> </ul>"
 
 #: src/olympia/amo/templates/amo/500.html:3
 msgid "Oops"
@@ -759,7 +767,7 @@ msgstr "Nilai dalam pelokalan baku \"{lang_code}\" diperlukan."
 msgid "A value in the default locale of \"{lang_code}\" is required if other translations are set."
 msgstr "Nilai dalam pelokalan baku \"{lang_code}\" diperlukan jika terjemahan lain telah ditetapkan."
 
-#: src/olympia/api/fields.py:386
+#: src/olympia/api/fields.py:428
 #, python-format
 msgid "Invalid pk or slug \"%s\" - object does not exist."
 msgstr "Pk atau slug tidak valid \"%s\" - objek tidak ada."
@@ -2468,8 +2476,8 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:11
 msgid ""
-"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, please"
-" refer to your add-on(s) version history. We'll get back to you as soon as possible."
+"Use this form for support related to your account, policy compliance issues, and more. The more details you share, the easier it is for us to help. For questions about your add-on(s) reviews, "
+"please refer to your add-on(s) version history. We'll get back to you as soon as possible."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/support.html:17
@@ -2929,8 +2937,8 @@ msgstr "Surel"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/describe.html:225
 msgid ""
-"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only relevant"
-" for listed add-ons."
+"If you wish to display an e-mail address for support inquiries, enter it here. If you have different addresses for each language multiple translations of this field can be added. It is only "
+"relevant for listed add-ons."
 msgstr ""
 "Jika anda ingin menampilkan alamat surel untuk mendukung \n"
 "                          permintaan, masukkan di sini. Jika anda memiliki alamat\n"
@@ -2999,8 +3007,8 @@ msgstr "Papan tulis"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/technical.html:63
 msgid ""
-"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that may"
-" help. This whiteboard is also editable by reviewers."
+"The whiteboard is the place to provide information relevant to your add-on, whatever the version, to the reviewers. Use it to provide ways to test the add-on, and any additional information that "
+"may help. This whiteboard is also editable by reviewers."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/addons/forms_shared/media.html:10
@@ -3469,8 +3477,8 @@ msgid ""
 "You’re done! ✨ You will receive a confirmation email when this version is published on %(site_domain)s. Note that it may take up to 24 hours before publication occurs, or longer if your add-on is "
 "selected for manual review. If you do not see an email after 24 hours, please check your spam folder."
 msgstr ""
-"Selesai! Anda akan menerima surel konfirmasi saat versi ini dipublikasikan di %(site_domain)s. Perhatikan bahwa mungkin diperlukan waktu hingga 24 jam sebelum publikasi terjadi, atau lebih lama jika"
-" pengaya Anda dipilih untuk tinjauan manual. Jika Anda tidak melihat surel setelah 24 jam, silakan periksa folder spam Anda."
+"Selesai! Anda akan menerima surel konfirmasi saat versi ini dipublikasikan di %(site_domain)s. Perhatikan bahwa mungkin diperlukan waktu hingga 24 jam sebelum publikasi terjadi, atau lebih lama "
+"jika pengaya Anda dipilih untuk tinjauan manual. Jika Anda tidak melihat surel setelah 24 jam, silakan periksa folder spam Anda."
 
 #: src/olympia/devhub/templates/devhub/addons/submit/done.html:31
 msgid "Your listing will be more successful by adding a detailed description. Get your listing ready for publication:"
@@ -3704,8 +3712,8 @@ msgstr "Kembali"
 #: src/olympia/devhub/templates/devhub/api/key.html:19
 #, python-format
 msgid ""
-"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
-" the <code>%(auth_header_name)s</code> header for every request."
+"To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> "
+"in the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
@@ -3786,10 +3794,12 @@ msgstr ""
 msgid ""
 "Dear add-on developer,\n"
 "\n"
-"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
+"We wanted to let you know right away: we noticed that your secret AMO API credentials were included in an add-on submitted to addons.mozilla.org. To keep your account and your add-on(s) safe, we "
+"have gone ahead and revoked the affected credentials. There is nothing wrong on your end — this just happens sometimes, and we are here to help you get back on track.\n"
 "You can generate fresh API credentials any time at %(api_keys_url)s\n"
 "\n"
-"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
+"To help keep your credentials secure moving forward, it is best to keep them private and avoid including them in any public repository, add-on, or other public place. Whenever you have a moment, it "
+"is worth reviewing your code repositories and extensions to remove any references to your AMO credentials.\n"
 "\n"
 "Thank you,\n"
 "The Mozilla Add-ons team"
@@ -3965,8 +3975,8 @@ msgstr "Kompatibilitas Firefox untuk Android"
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:4
 msgid ""
-"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" "
-"href=\"https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
+"Did you test your extension to ensure it works as expected on Firefox for Android? If not, please see <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://extensionworkshop.com/"
+"documentation/develop/developing-extensions-for-firefox-for-android/\">Developing extensions for Firefox Android</a> for test guidance before submitting."
 msgstr ""
 
 #: src/olympia/devhub/templates/devhub/includes/android_compatibility_modal.html:6
@@ -4495,8 +4505,8 @@ msgstr "Hapus Versi {version}"
 msgid ""
 "You are about to delete the current version of your add-on. This may cause your add-on status to change, or your listing to lose public visibility, if this is the only public version of your add-on."
 msgstr ""
-"Anda akan menghapus versi pengaya anda saat ini. Hal ini bisa menyebabkan status pengaya anda berubah, atau daftar anda kehilangan pandangan publik, jika ini adalah satu-satunya versi publik pengaya"
-" anda."
+"Anda akan menghapus versi pengaya anda saat ini. Hal ini bisa menyebabkan status pengaya anda berubah, atau daftar anda kehilangan pandangan publik, jika ini adalah satu-satunya versi publik "
+"pengaya anda."
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:275
 msgid "Deleting this version will permanently delete:"
@@ -7180,8 +7190,8 @@ msgstr ""
 
 #: src/olympia/users/models.py:1566
 msgid ""
-"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy Notice"
-" which explains how we handle your information."
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
 msgstr ""
 "Sebelum memulai, baca dan terima Perjanjian Distribusi Pengaya Firefox serta Kebijakan dan juga Aturan Peninjauan kami. Perjanjian Distribusi Pengaya Firefox juga terhubung ke Pemberitahuan Privasi "
 "kami yang menjelaskan bagaimana kami menangani informasi Anda."
@@ -7299,7 +7309,8 @@ msgstr ""
 msgid ""
 "Hello,\n"
 "\n"
-"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically as part of that process.\n"
+"You are receiving this message to let you know that your user account %(name)s on %(site_url)s has been deleted. If you recently deleted your Mozilla account, this may have happened automatically "
+"as part of that process.\n"
 "\n"
 "Thank you for having been part of the Firefox add-ons community. If you believe this was a mistake or have any questions, please get in touch with us.\n"
 "\n"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-28 16:02+0000\n"
+"POT-Creation-Date: 2026-10-30 16:17+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -343,7 +343,7 @@ msgstr "Prekoračen je najveći broj kategorija po programu ({MAX_CATEGORIES})"
 msgid "The \"other\" category cannot be combined with another category"
 msgstr "Kategorija „drugo” ne može biti kombinovana sa drugom kategorijom"
 
-#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1301
+#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1308
 msgid "Invalid category name."
 msgstr "Neispravan naziv kategorije."
 
@@ -388,7 +388,7 @@ msgid "Unknown min app version specified"
 msgstr "Navedeno najniže izdanje programa je nepoznato."
 
 #: src/olympia/addons/fields.py:307 src/olympia/addons/fields.py:325
-#: src/olympia/addons/serializers.py:662
+#: src/olympia/addons/serializers.py:664
 #, python-format
 msgid ""
 "Can not override compatibility information set in the manifest for this "
@@ -415,19 +415,19 @@ msgstr ""
 msgid "Listed"
 msgstr "U listi"
 
-#: src/olympia/addons/serializers.py:347
+#: src/olympia/addons/serializers.py:348
 msgid "Built in licenses can not be updated."
 msgstr "Ugrađene dozvole ne mogu biti ažurirane."
 
-#: src/olympia/addons/serializers.py:542
+#: src/olympia/addons/serializers.py:544
 msgid "Upload is not valid."
 msgstr "Otpremanje nije ispravno."
 
-#: src/olympia/addons/serializers.py:558
+#: src/olympia/addons/serializers.py:560
 msgid "File is already disabled."
 msgstr "Datoteka je već onemogućena."
 
-#: src/olympia/addons/serializers.py:562 src/olympia/addons/views.py:814
+#: src/olympia/addons/serializers.py:564 src/olympia/addons/views.py:813
 #, python-format
 msgid ""
 "The latest approved version of this %s add-on cannot be deleted because the "
@@ -438,20 +438,20 @@ msgstr ""
 "prethodno izdanje nije odobreno za %s promociju. Kontaktirajte AMO "
 "administratore ako vam je potrebna pomoć oko ovoga."
 
-#: src/olympia/addons/serializers.py:589
+#: src/olympia/addons/serializers.py:591
 msgid "Listed versions cannot be submitted while add-on is disabled."
 msgstr "Navedena izdanja ne mogu biti podneta dok je dodatak onemogućen."
 
-#: src/olympia/addons/serializers.py:596 src/olympia/signing/views.py:227
+#: src/olympia/addons/serializers.py:598 src/olympia/signing/views.py:227
 msgid "Listed versions cannot be submitted while add-on listing is rejected."
 msgstr "Navedena izdanja ne mogu biti podneta dok je upis dodatka odbijen."
 
-#: src/olympia/addons/serializers.py:637
+#: src/olympia/addons/serializers.py:639
 #, python-format
 msgid "%(addon_type_plural)s are not supported by %(app_name)s"
 msgstr "%(app_name)s ne podržava %(addon_type_plural)s"
 
-#: src/olympia/addons/serializers.py:676 src/olympia/devhub/forms.py:963
+#: src/olympia/addons/serializers.py:678 src/olympia/devhub/forms.py:963
 #, python-format
 msgid ""
 "Invalid version range. For Firefox for Android, you may only pick a range "
@@ -462,42 +462,42 @@ msgstr ""
 "koji počinje izdanjem %(max)s ili višim, ili se završava izdanjem nižim od "
 "%(min)s."
 
-#: src/olympia/addons/serializers.py:925
+#: src/olympia/addons/serializers.py:932
 msgid "Add-ons need at least one owner."
 msgstr "Dodacima je potreban najmanje jedan vlasnik."
 
-#: src/olympia/addons/serializers.py:940
+#: src/olympia/addons/serializers.py:947
 msgid "Add-ons need at least one listed author."
 msgstr "Dodacima je potreban najmanje jedan navedeni autor."
 
-#: src/olympia/addons/serializers.py:972
+#: src/olympia/addons/serializers.py:979
 msgid "Account not found."
 msgstr "Nalog nije pronađen."
 
-#: src/olympia/addons/serializers.py:985 src/olympia/devhub/forms.py:463
+#: src/olympia/addons/serializers.py:992 src/olympia/devhub/forms.py:463
 #: src/olympia/devhub/forms.py:533
 msgid "An author can only be present once."
 msgstr "Ključ se može koristiti samo jednom."
 
-#: src/olympia/addons/serializers.py:996 src/olympia/devhub/forms.py:475
+#: src/olympia/addons/serializers.py:1003 src/olympia/devhub/forms.py:475
 msgid "The account needs a display name before it can be added as an author."
 msgstr ""
 "Nalogu je potrebno ime za prikaz pre nego što može biti dodat kao autor."
 
-#: src/olympia/addons/serializers.py:1281
+#: src/olympia/addons/serializers.py:1288
 msgid "This slug cannot be used. Please choose another."
 msgstr "Ovaj slag ne može da se koristi. Izaberite drugi."
 
-#: src/olympia/addons/serializers.py:1909
+#: src/olympia/addons/serializers.py:1918
 msgid "There is no rollback available in this channel."
 msgstr "U ovom kanalu nije dostupno vraćanje."
 
-#: src/olympia/addons/serializers.py:1919
+#: src/olympia/addons/serializers.py:1928
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr "Vraćanje je u ovom kanalu dostupno samo za izdanje %s."
 
-#: src/olympia/addons/serializers.py:1928
+#: src/olympia/addons/serializers.py:1937
 msgid ""
 "Only approved versions can be rolled back, except the most recent version."
 msgstr "Samo odobrena izdanja mogu biti vraćena, izuzev najnovijeg izdanja."
@@ -965,7 +965,7 @@ msgstr ""
 "Potrebna je vrednost u podrazumevanom lokalitetu \"{lang_code}\" ako su "
 "postavljeni drugi prevodi."
 
-#: src/olympia/api/fields.py:386
+#: src/olympia/api/fields.py:428
 #, python-format
 msgid "Invalid pk or slug \"%s\" - object does not exist."
 msgstr "Neispravan pk ili slug \"%s\" - objekat ne postoji."
