@@ -5753,17 +5753,17 @@ msgstr "Forbedret søk, muligheten til å hoppe over annonser og massevis av and
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Blokker sporere, nettfisking og skadelig innhold."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "Lagre video-, lyd- og strømmingsinnhold fra de fleste nettsteder."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "Angi din egen standardhastighet for video og lyd."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6078,7 +6078,7 @@ msgstr "Fjern distraksjoner, endre visningsalternativer, juster avspillingshasti
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Fungerer utmerket for video, lyd og strømming av innhold på tvers av de fleste nettsteder."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1143
@@ -6108,7 +6108,7 @@ msgstr "Se alle utvidelser"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "Startpakke for utvidelser"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
@@ -7141,7 +7141,7 @@ msgstr "Programvaren eller enheten du bruker er ikke tillatt for innsendinger."
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "Du har sendt inn for mye innhold i det siste."
 
 #: src/olympia/users/models.py:1566
 msgid ""
