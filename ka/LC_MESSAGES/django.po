@@ -768,14 +768,14 @@ msgstr "მიუწვდომელია სამართლებრი�
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "მოთხოვნა შეზღუდულია."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ხელმისაწვდომი გახდება {wait} წამში."
+msgstr[1] "ხელმისაწვდომი გახდება {wait} წამში."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -5844,22 +5844,22 @@ msgstr "„Better Twitch TV“ – შეავსეთ Twitch და YouTube �
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "გააუმჯობესეთ საძიებო, აირიდეთ რეკლამები და მეტად მოირგეთ YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "შეზღუდეთ მეთვალყურეები, თაღლითური და მავნე მასალები."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "შეინახეთ ვიდეო, ხმოვანი თუ ეთერით გადაცემული მასალები საიტების უმეტესობიდან."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "მიუთითეთ ნაგულისხმევი სიჩქარე ვიდეოსა და ხმოვანი მასალისთვის."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6184,7 +6184,7 @@ msgstr "ათობით შესაძლებლობა, რომ მ�
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "უკეთ დაიცავით თავი მეთვალყურეობისგან, თაღლითობისა თუ სხვა მავნე მასალებისგან."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6204,12 +6204,12 @@ msgstr "ყველა გაფართოების ნახვა"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "გაფართოებების საწყისი ნაკრები"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "სასარგებლო გაფართოებები"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6451,7 +6451,7 @@ msgstr "ვრცლად თანამშრომლების შერ�
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "მნიშვნელოვანი გაფართოებები"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
@@ -7237,7 +7237,7 @@ msgstr "პროგრამა ან მოწყობილობა, რ�
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "ზედმეტად ბევრი მასალა წარადგინეთ ახლახან."
 
 #: src/olympia/users/models.py:1566
 msgid ""
