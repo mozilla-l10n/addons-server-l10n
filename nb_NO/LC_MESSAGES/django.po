@@ -753,14 +753,14 @@ msgstr "Ikke tilgjengelig på grunn av juridiske årsaker."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "Forespørselen ble begrenset."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Forventet tilgjengelig om {wait} sekund."
+msgstr[1] "Forventet tilgjengelig om {wait} sekunder."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -5748,7 +5748,7 @@ msgstr "«Bedre Twitch TV» — forbedre Twitch og YouTube med en rekke nye funk
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Forbedret søk, muligheten til å hoppe over annonser og massevis av andre YouTube-tilpasninger."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
@@ -6113,7 +6113,7 @@ msgstr ""
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "Produktivitetsutvidelser"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6355,7 +6355,7 @@ msgstr "Se flere ansattes valg"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Viktige utvidelser"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
