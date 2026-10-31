@@ -127,6 +127,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
+"\n"
+"Takk for at du rapporterte %(name)s på Mozilla Add-ons, og for at du tok deg tid til å fortelle mer om bekymringene dine.\n"
+"\n"
+"Etter å ha vurdert klagen din har vi kommet frem til at vår tidligere avgjørelse om at dette innholdet var i samsvar med Mozillas retningslinjer (%(policy_document_url)s), var feil. Vi har nå fjernet innholdet og varslet brukeren. Takk for at du hjalp oss med å rette opp dette.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
@@ -136,6 +140,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Takk for at du rapporterte %(name)s på Mozilla Add-ons, og for at du ga oss mer informasjon om bekymringene dine.\n"
+"\n"
+"Etter å ha vurdert klagen din har vi kommet frem til at vår tidligere avgjørelse om at dette innholdet var i samsvar med Mozillas retningslinjer (%(policy_document_url)s), var feil. Vi har bedt utvikleren om å gjøre endringer, og hvis innholdet ikke blir oppdatert, vil vi fjerne det.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -145,6 +153,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"Takk for at du tok deg tid til å rapportere %(name)s på %(target_url)s.\n"
+"\n"
+"Vi har gjennomgått rapporten din og det aktuelle innholdet og kommet frem til at det er i samsvar med Mozillas retningslinjer (%(policy_document_url)s). Derfor vil vi ikke iverksette noen modereringstiltak. Vi setter likevel pris på at du gjorde oss oppmerksomme på det.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
@@ -152,6 +164,8 @@ msgid ""
 "If you believe the content does not adhere to Mozilla's policies, you have the right to appeal this decision within 6 months from the date of this email. See %(appeal_url)s for details on the appeal"
 " process, including how to file an appeal for this specific decision."
 msgstr ""
+"Hvis du mener at innholdet ikke er i samsvar med Mozillas retningslinjer, har du rett til å klage på denne avgjørelsen innen 6 måneder fra datoen for denne e-posten. Se %(appeal_url)s for mer "
+"informasjon om klageprosessen, inkludert hvordan du klager på denne bestemte avgjørelsen."
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon.txt:5
 #, python-format
@@ -161,6 +175,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Takk for at du tok deg tid til å rapportere følgende utvidelse på Mozilla Add-ons: %(name)s.\n"
+"\n"
+"Vi har gjennomgått rapporten din og det aktuelle innholdet og kommet frem til at det ikke er i samsvar med Mozillas retningslinjer (%(policy_document_url)s). Derfor har vi fjernet innholdet. Vi setter pris på at du bidrar til å holde Mozilla Add-ons trygt.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
@@ -170,6 +188,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Takk for at du tok deg tid til å rapportere følgende utvidelse på Mozilla Add-ons: %(name)s.\n"
+"\n"
+"Vi har gjennomgått rapporten din og det aktuelle innholdet og kommet frem til at det ikke er i samsvar med Mozillas retningslinjer (%(policy_document_url)s). Vi har bedt utvikleren om å gjøre endringer, og hvis utvikleren ikke løser problemet, vil vi fjerne innholdet. Takk for at du bidrar til å holde Mozilla Add-ons trygt.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -3720,6 +3742,8 @@ msgid ""
 "To execute authenticated calls against the <a %(a_attrs)s href=\"%(docs_url)s\">API</a> as an external consumer, you need to include a <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> in"
 " the <code>%(auth_header_name)s</code> header for every request."
 msgstr ""
+"For å utføre autentiserte kall mot <a %(a_attrs)s href=\"%(docs_url)s\">API-et</a> som en ekstern klient, må du inkludere et <a %(a_attrs)s href=\"%(jwt_url)s\">JSON Web Token (JWT)</a> i "
+"<code>%(auth_header_name)s</code>-headeren for hver forespørsel."
 
 #: src/olympia/devhub/templates/devhub/api/key.html:23
 msgid "Keep your API keys secret and never share them with anyone, including Mozilla staff or contributors."

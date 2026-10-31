@@ -2821,7 +2821,7 @@ msgstr "Jeśli chcesz prosić użytkowników o wpłatę pieniędzy, ustaw tu str
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:45
 #, python-format
 msgid "Supported domains: %(supported_domains)s"
-msgstr ""
+msgstr "Obsługiwane domeny: %(supported_domains)s"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:55 src/olympia/translations/templates/translations/trans-menu.html:13
 msgid "Default Locale"
@@ -5012,7 +5012,7 @@ msgstr "Śledź historyczne ceny, znajduj konkurencyjne produkty, sprawdzaj ocen
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:239 src/olympia/discovery/strings.jinja2:807
 msgid "Make it your YouTube. Play videos in a pop-out window, only see ads within subscribed channels, take video screenshots, and so much more."
-msgstr ""
+msgstr "Stwórz własny YouTube. Odtwarzaj filmy w wyskakującym okienku, wyświetlaj reklamy tylko na subskrybowanych kanałach, wykonuj zrzuty ekranu z filmów i znacznie więcej."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:242
