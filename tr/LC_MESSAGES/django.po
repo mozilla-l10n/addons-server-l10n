@@ -84,7 +84,7 @@ msgstr "İtiraz ettiğiniz karar zaten bozulmuş olduğu için itirazınız işl
 
 #: src/olympia/abuse/templates/abuse/appeal.html:42
 msgid "The decision you are appealing has already been overridden by a new decision, so this decision can't be appealed."
-msgstr "İtiraz ettiğiniz karar yeni bir kararla geçersiz kılındığı için bu karara itiraz edilemez."
+msgstr "İtirazda bulunduğunuz karar yeni bir kararla hükümsüz kılındığı için bu karara itiraz edilemez."
 
 #: src/olympia/abuse/templates/abuse/appeal.html:46
 msgid "This decision can't be appealed."
@@ -109,6 +109,13 @@ msgid ""
 "\n"
 "Thank you again for helping us keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Mozilla Add-ons’taki %(name)s hakkında rapor göndererek endişelerinizi bizimle paylaştığınız için teşekkür ederiz.\n"
+"\n"
+"İtirazınızı dikkatle değerlendirdikten sonra bu içeriğin Mozilla politikalarına (%(policy_document_url)s) uygun olduğuna ilişkin önceki kararın doğru olduğu sonucuna vardık. Bu nedenle hesap veya içerik hakkında herhangi bir işlem yapmayacağız.\n"
+"%(manual_reasoning_text)s.\n"
+"\n"
+"Mozilla Add-ons’u güvenli tutmamıza yardımcı olduğunuz için tekrar teşekkür ederiz.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown.txt:5
 #, python-format
