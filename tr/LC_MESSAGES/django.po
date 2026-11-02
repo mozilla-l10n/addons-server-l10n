@@ -125,6 +125,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have now removed the content and notified the user. Thank you for helping us get this right.\n"
 msgstr ""
+"\n"
+"Mozilla Add-ons’taki %(name)s hakkında rapor göndererek endişelerinizi bizimle paylaştığınız için teşekkür ederiz.\n"
+"\n"
+"İtirazınızı inceledikten sonra bu içeriğin Mozilla politikalarına (%(policy_document_url)s) uygun olduğuna ilişkin önceki kararımızın hatalı olduğunu belirledik. İçeriği kaldırdık ve kullanıcıyı bilgilendirdik. Doğru karara ulaşmamıza yardımcı olduğunuz için teşekkür ederiz.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_appeal_takedown_delayed.txt:5
 #, python-format
