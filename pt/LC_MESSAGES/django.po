@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-30 16:17+0000\n"
+"POT-Creation-Date: 2026-11-03 17:59+0000\n"
 "PO-Revision-Date: 2015-10-15 01:01+0000\n"
 "Last-Translator: Cláudio <cesperanc@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -540,11 +540,11 @@ msgstr ""
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Algumas funcionalidades estão temporariamente desativadas enquanto efetuamos uma manutenção ao sítio web. Voltamos em breve com todas as funcionalidades."
 
-#: src/olympia/amo/utils.py:1203 src/olympia/bandwagon/serializers.py:97
+#: src/olympia/amo/utils.py:1205 src/olympia/bandwagon/serializers.py:97
 msgid "This name cannot be used."
 msgstr "Este nome não pode ser utilizado."
 
-#: src/olympia/amo/utils.py:1233
+#: src/olympia/amo/utils.py:1235
 msgid "URLs are not allowed."
 msgstr ""
 
