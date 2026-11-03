@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-10-30 16:17+0000\n"
+"POT-Creation-Date: 2026-11-03 17:59+0000\n"
 "PO-Revision-Date: 2024-01-15 13:27+0000\n"
 "Last-Translator: Bund10z <abu.avila@gmail.com>\n"
 "Language-Team: Español (España) <nave@elistas.net>\n"
@@ -547,11 +547,11 @@ msgstr "CIDR"
 msgid "Some features are temporarily disabled while we perform website maintenance. We'll be back to full capacity shortly."
 msgstr "Algunas características están temporalmente deshabilitadas mientras realizamos tareas de mantenimiento en la web. Volveremos a tener plena capacidad muy pronto."
 
-#: src/olympia/amo/utils.py:1203 src/olympia/bandwagon/serializers.py:97
+#: src/olympia/amo/utils.py:1205 src/olympia/bandwagon/serializers.py:97
 msgid "This name cannot be used."
 msgstr "No se puede utilizar este nombre."
 
-#: src/olympia/amo/utils.py:1233
+#: src/olympia/amo/utils.py:1235
 msgid "URLs are not allowed."
 msgstr ""
 
