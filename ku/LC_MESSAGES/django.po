@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-03 17:59+0000\n"
+"POT-Creation-Date: 2026-11-04 13:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,11 +33,11 @@ msgstr ""
 msgid "Please explain why you believe that this decision was made in error, and/or does not align with the applicable policy or law."
 msgstr ""
 
-#: src/olympia/abuse/models.py:1132
+#: src/olympia/abuse/models.py:1133
 msgid "User profile"
 msgstr ""
 
-#: src/olympia/abuse/models.py:1589
+#: src/olympia/abuse/models.py:1590
 #, python-brace-format
 msgid "\"{}\" for {}"
 msgstr ""
