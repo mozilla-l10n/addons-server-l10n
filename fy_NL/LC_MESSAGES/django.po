@@ -4691,7 +4691,7 @@ msgstr "Advertinskeblokkearring en privacybeskerming. Mei inkelde ienfâldige yn
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:17 src/olympia/discovery/strings.jinja2:870
 msgid "Do you have a ton of open tabs? Organize them in a tidy sidebar."
-msgstr "Hawwe jo in enoarm oantal iepensteande ljepblêden? Organisearje se yn in lytse sidebalke."
+msgstr "Hawwe jo in enoarm oantal iepensteande ljepblêden? Organisearje se yn in lytse sydbalke."
 
 #. editorial content for the discovery pane.
 #. editorial content for the primary hero shelves.
