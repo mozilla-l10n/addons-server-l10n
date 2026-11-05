@@ -766,14 +766,14 @@ msgstr "به دلایل قانونی در دسترس نیست."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "درخواست به دلیل محدودیت نرخ متوقف شد."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "انتظار می‌رود ظرف {wait} ثانیه در دسترس قرار گیرد."
+msgstr[1] "انتظار می‌رود ظرف {wait} ثانیه در دسترس قرار گیرند."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -5810,22 +5810,22 @@ msgstr "«Better Twitch TV» — توییچ و یوتیوب را با تعداد
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "جست‌وجوی بهتر، رد کردن تبلیغات و کلی سفارشی‌سازی دیگر برای YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "مسدود کردن ردیاب‌ها، فیشینگ و محتوای مخرب."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
 msgid "Save video, audio & streaming content from most websites."
-msgstr ""
+msgstr "ذخیرهٔ ویدیو، صدا و محتوای جریانی از بیشتر وبگاه‌ها."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:753
 msgid "Set your own default speed for video and audio."
-msgstr ""
+msgstr "سرعت پیش‌گزیده دلخواهتان را برای ویدیو و صدا تنظیم کنید."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:756
@@ -6150,7 +6150,7 @@ msgstr "ده‌ها قابلیت برای شخصی‌سازی یوتیوب مط�
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "در برابر ردیاب‌ها، کلاهبرداری‌های فیشینگ و دیگر محتوای مخرب محافظت بیشتری داشته باشید."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -6170,12 +6170,12 @@ msgstr "مشاهده همه افزونه‌ها"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1155
 msgid "Extension Starter Pack"
-msgstr ""
+msgstr "بستهٔ آغازین افزونه‌ها"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1159
 msgid "Productivity extensions"
-msgstr ""
+msgstr "افزونه‌های بهره‌وری"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1161 src/olympia/discovery/strings.jinja2:1163 src/olympia/discovery/strings.jinja2:1165
@@ -6417,7 +6417,7 @@ msgstr "مشاهده برگزیده‌های بیشتر کارشناسان"
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "افزونه‌های ضروری"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
@@ -7203,7 +7203,7 @@ msgstr "نرم‌افزار یا دستگاهی که استفاده می‌کن�
 
 #: src/olympia/users/models.py:1415
 msgid "You have submitted too much content recently."
-msgstr ""
+msgstr "اخیراً محتوای زیادی ارسال کرده‌اید."
 
 #: src/olympia/users/models.py:1566
 msgid ""
