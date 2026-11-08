@@ -6093,7 +6093,7 @@ msgstr "Usuń elementy rozpraszające uwagę, zmień opcje oglądania i prędko�
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Sprawdza się znakomicie w przypadku treści wideo, audio i strumieniowych w większości witryn."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1143
@@ -6370,7 +6370,7 @@ msgstr ""
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1288
 msgid "Essential extensions"
-msgstr ""
+msgstr "Niezbędne rozszerzenia"
 
 #: src/olympia/files/models.py:327
 msgid "Unreviewed"
