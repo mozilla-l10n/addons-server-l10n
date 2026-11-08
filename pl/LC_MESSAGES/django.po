@@ -5380,9 +5380,8 @@ msgstr "Napraw irytujące audio. Czy poziom głośności w witrynie jest zbyt ni
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:455
-#, fuzzy
 msgid "Edit a web page before printing. Make sweeping visual changes—remove ads or unsavory content—to any web page you want to print."
-msgstr "Wprowadzaj dowolne zmiany wizualne — usuwaj reklamy lub niesmaczną zawartość — na dowolnej stronie internetowej, którą chcesz wydrukować."
+msgstr "Edytuj stronę internetową przed wydrukowaniem. Wprowadzaj dowolne zmiany wizualne — usuwaj reklamy lub niesmaczną zawartość — na dowolnej stronie internetowej, którą chcesz wydrukować."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:458
