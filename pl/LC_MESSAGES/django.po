@@ -5071,9 +5071,8 @@ msgstr "Przechodź bezpośrednio do żądanej witryny bez żadnych przekierowań
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:275
-#, fuzzy
 msgid "WhatsApp on the web. Access WhatsApp from within Firefox's toolbar panel to get badge notification of unread threads."
-msgstr "Uzyskaj dostęp do usługi WhatsApp poprzez panel paska narzędzi Firefoksa, aby otrzymywać plakietki z powiadomieniami o nieprzeczytanych wątkach."
+msgstr "WhatsApp w przeglądarce. Korzystaj z serwisu WhatsApp poprzez panel paska narzędzi Firefoksa i otrzymuj powiadomienia o nieprzeczytanych wątkach."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:278
