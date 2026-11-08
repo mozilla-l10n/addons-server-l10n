@@ -84,7 +84,7 @@ msgstr "ვინაიდან თქვენ მიერ გასაჩი
 
 #: src/olympia/abuse/templates/abuse/appeal.html:42
 msgid "The decision you are appealing has already been overridden by a new decision, so this decision can't be appealed."
-msgstr "გადაწყვეტილება, რომლის გასაჩივრებაც გსურთ, უკვე გაუქმებულია ახალი გადაწყვეტილებით, ასე რომ ეს გადაწყვეტილება არ გასაჩივრდება."
+msgstr "გადაწყვეტილება, რომლის გასაჩივრებაც გსურთ, უკვე გაუქმებულია ახალი გადაწყვეტილებით, ასე რომ, ეს გადაწყვეტილება არ გასაჩივრდება."
 
 #: src/olympia/abuse/templates/abuse/appeal.html:46
 msgid "This decision can't be appealed."
