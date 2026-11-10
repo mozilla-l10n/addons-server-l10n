@@ -382,7 +382,7 @@ msgstr "جدیدترین نسخه تأییدشده این افزونه %s را �
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "لطفاً برای ارسال افزونه‌ها، احراز هویت دومرحله‌ای را به حساب خود اضافه کنید."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
