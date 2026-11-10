@@ -385,7 +385,7 @@ msgstr "Den senaste godkända versionen av detta %s-tillägg kan inte raderas ef
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Aktivera tvåfaktorsautentisering för ditt konto för att kunna skicka in tillägg."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
