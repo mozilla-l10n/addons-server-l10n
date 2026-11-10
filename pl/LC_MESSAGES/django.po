@@ -7162,7 +7162,7 @@ msgstr ""
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Limit przesyłania treści tego typu został osiągnięty, spróbuj ponownie później."
 
 #: src/olympia/users/models.py:1569
 msgid ""
