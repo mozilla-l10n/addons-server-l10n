@@ -387,7 +387,7 @@ msgstr ""
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Pšosym pśidajśo swójomu kontoju dwójofaktorowu awtentifikaciju, aby rozšyrjenja zapódał."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
