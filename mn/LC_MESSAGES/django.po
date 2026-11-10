@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-10 09:52+0000\n"
+"POT-Creation-Date: 2026-11-10 16:24+0000\n"
 "Language: mn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -7158,17 +7158,17 @@ msgstr ""
 msgid "The software or device you are using is not allowed for submissions."
 msgstr ""
 
-#: src/olympia/users/models.py:1415
-msgid "You have submitted too much content recently."
+#: src/olympia/users/models.py:1416
+msgid "You have reached the submission limit for this type of content, please try again later."
 msgstr ""
 
-#: src/olympia/users/models.py:1566
+#: src/olympia/users/models.py:1569
 msgid ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
 "Notice which explains how we handle your information."
 msgstr ""
 
-#: src/olympia/users/models.py:1580
+#: src/olympia/users/models.py:1583
 #, python-brace-format
 msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
