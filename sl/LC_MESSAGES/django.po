@@ -369,7 +369,7 @@ msgstr "Zadnje odobrene različice tega dodatka %s ni mogoče izbrisati, ker pre
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Za pošiljanje razširitev v svoj račun dodajte overjanje v dveh korakih."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
