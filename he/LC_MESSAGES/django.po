@@ -353,7 +353,7 @@ msgstr "לא ניתן למחוק את הגרסה המאושרת האחרונה �
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "נא להוסיף אימות דו־שלבי לחשבון שלך כדי להגיש הרחבות."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
