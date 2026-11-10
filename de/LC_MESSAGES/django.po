@@ -7267,7 +7267,7 @@ msgstr "Die von Ihnen verwendete Software oder das Gerät ist für Einreichungen
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Sie haben das Einreichungslimit für diese Art von Inhalt erreicht. Bitte versuchen Sie es später erneut."
 
 #: src/olympia/users/models.py:1569
 msgid ""

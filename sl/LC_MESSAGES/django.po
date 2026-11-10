@@ -7180,7 +7180,7 @@ msgstr "Iz programske opreme ali naprave, ki jo uporabljate, pošiljanje ni dovo
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Dosegli ste omejitev prispevkov za to vrsto vsebine, poskusite znova pozneje."
 
 #: src/olympia/users/models.py:1569
 msgid ""
