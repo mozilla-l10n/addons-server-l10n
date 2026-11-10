@@ -7263,7 +7263,7 @@ msgstr "Software abo rěd, kótarejž wužywaśo, njejstej dowólonej za zapóda
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Sćo zapódawański limit za toś ten wopśimjeśowy typ dojśpił, wopytajśo pšosym pózdźej hyšći raz."
 
 #: src/olympia/users/models.py:1569
 msgid ""
