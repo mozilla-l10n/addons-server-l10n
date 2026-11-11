@@ -3883,6 +3883,12 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hei,\n"
+"\n"
+"E-postadressen din er bekreftet, og alt er klart. Takk for at du utvikler tillegg for Firefox!\n"
+"\n"
+"\n"
+"Mozillas tilleggsteam"
 
 #: src/olympia/devhub/templates/devhub/emails/verify-email-requested.ltxt:10
 #, python-format
