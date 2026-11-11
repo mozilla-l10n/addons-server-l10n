@@ -7137,7 +7137,7 @@ msgstr "您使用的軟體或裝置未被允許送交套件審核。"
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "您對此類內容送審的數量已達上限，請稍後再試。"
 
 #: src/olympia/users/models.py:1569
 msgid ""
