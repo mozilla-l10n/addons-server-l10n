@@ -7307,7 +7307,7 @@ msgstr "Le logiciel ou l’appareil que vous utilisez n’est pas autorisé pour
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Vous avez atteint le nombre maximal d’envois pour ce type de contenu. Veuillez réessayer ultérieurement."
 
 #: src/olympia/users/models.py:1569
 msgid ""
