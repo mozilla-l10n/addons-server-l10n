@@ -386,7 +386,7 @@ msgstr ""
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Agregá autenticación de dos factores a tu cuenta para enviar extensiones."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
@@ -783,8 +783,8 @@ msgstr "El pedido fue limitado."
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Se espera que esté disponible en {wait} segundo."
+msgstr[1] "Se espera que esté disponible en {wait} segundos."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -5871,7 +5871,7 @@ msgstr "\"Better Twitch TV\" — mejorá Twitch y YouTube con una gran cantidad 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:744
 msgid "Improved search, skip ads & gobs of other YouTube customizations."
-msgstr ""
+msgstr "Búsqueda mejorada, omitir publicidades y muchas otras personalizaciones de YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
@@ -7267,7 +7267,7 @@ msgstr "El software o dispositivo que estás usando no está permitido para env�
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Alcanzaste el límite de envíos para este tipo de contenido, volvé a intentarlo más tarde."
 
 #: src/olympia/users/models.py:1569
 msgid ""
