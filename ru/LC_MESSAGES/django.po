@@ -385,7 +385,7 @@ msgstr ""
 
 #: src/olympia/addons/serializers.py:588
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Чтобы отправлять расширения, пожалуйста, добавьте в свой аккаунт двухфакторную аутентификацию."
 
 #: src/olympia/addons/serializers.py:623
 msgid "Listed versions cannot be submitted while add-on is disabled."
@@ -7259,7 +7259,7 @@ msgstr "Программное обеспечение или устройств�
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Вы достигли лимита представления для данного типа содержимого, пожалуйста, повторите попытку позже."
 
 #: src/olympia/users/models.py:1569
 msgid ""
