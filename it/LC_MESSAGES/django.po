@@ -7307,7 +7307,7 @@ msgstr "Non è consentito effettuare il caricamento dal software o dal dispositi
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Hai raggiunto il numero massimo di invii per questo tipo di contenuto, riprova più tardi."
 
 #: src/olympia/users/models.py:1569
 msgid ""
