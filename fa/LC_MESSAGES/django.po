@@ -7207,7 +7207,7 @@ msgstr "نرم‌افزار یا دستگاهی که استفاده می‌کن�
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "به سقف ارسال برای این نوع محتوا رسیده‌اید؛ لطفاً بعداً دوباره تلاش کنید."
 
 #: src/olympia/users/models.py:1569
 msgid ""
