@@ -138,6 +138,10 @@ msgid ""
 "\n"
 "After reviewing your appeal, we found that our earlier decision, that this content adhered to Mozilla's policies (%(policy_document_url)s), was incorrect. We have asked the developer to make changes, and if they do not update their content, we will remove it.\n"
 msgstr ""
+"\n"
+"Mozilla Eklentileri'ndeki %(name)s hakkında rapor göndererek endişelerinizi bizimle paylaştığınız için teşekkür ederiz.\n"
+"\n"
+"İtirazınızı inceledikten sonra bu içeriğin Mozilla politikalarına (%(policy_document_url)s) uygun olduğuna dair önceki kararımızın hatalı olduğunu belirledik. Geliştiriciden gerekli değişiklikleri yapmasını istedik. İçeriği güncellememesi halinde içeriği kaldıracağız.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:5
 #, python-format
@@ -147,6 +151,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it adheres to Mozilla's policies (%(policy_document_url)s), so it will not be subject to any moderation action. However, we appreciate you flagging it for us.\n"
 msgstr ""
+"\n"
+"%(target_url)s adresindeki %(name)s içeriğini rapor etmek üzere zamanınızı ayırdığınız için teşekkür ederiz.\n"
+"\n"
+"Raporunuzu ve söz konusu içeriği inceledik. İçeriğin Mozilla politikalarına (%(policy_document_url)s) uygun olduğunu belirlediğimizden herhangi bir işlem yapılmayacaktır. Yine de bu içeriği bize bildirdiğiniz için teşekkür ederiz.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_content_approve.txt:7
 #, python-format
