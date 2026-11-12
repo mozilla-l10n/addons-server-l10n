@@ -3925,7 +3925,7 @@ msgstr "Fullfør tillegget ditt ved å legge til en versjon eller manglende meta
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:25
 msgid "You will receive an email when the review is complete. Until then, your add-on is not publicly available. You, the authenticated author, can access its details page."
-msgstr ""
+msgstr "Du vil motta en e-post når gjennomgangen er fullført. Inntil da er tillegget ditt ikke offentlig tilgjengelig. Du kan som innlogget utvikler få tilgang til detaljsiden for tillegget."
 
 #: src/olympia/devhub/templates/devhub/includes/addon_details.html:28
 msgid "Your add-on is displayed in our gallery and users are receiving automatic updates."
@@ -6165,12 +6165,12 @@ msgstr "Fungerer utmerket for video, lyd og strømming av innhold på tvers av d
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1143
 msgid "Dozens of features for making YouTube work for you. Remove distracting promotions, change YouTube's visual layout, playback speed adjustment, volume boost & more."
-msgstr ""
+msgstr "Dusinvis av funksjoner som lar deg tilpasse YouTube etter dine behov. Fjern forstyrrende reklame, endre utseendet på YouTube, juster avspillingshastigheten, øk volumet og mye mer."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Få ekstra beskyttelse mot sporere, nettfisking og annet skadelig innhold."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -7223,7 +7223,7 @@ msgstr "Programvaren eller enheten du bruker er ikke tillatt for innsendinger."
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Du har nådd grensen for innsending av denne typen innhold, prøv igjen senere."
 
 #: src/olympia/users/models.py:1569
 msgid ""
@@ -7332,6 +7332,18 @@ msgid ""
 "We are glad to have you building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hei %(author_name)s,\n"
+"\n"
+"Gode nyheter, du har blitt invitert til å bli utvikler av %(addon_name)s på %(domain)s. Hvis du godtar invitasjonen, kan du redigere tillegget, og navnet ditt kan bli vist i listen over utviklere på nettstedet.\n"
+"\n"
+"Hvis du vil godta invitasjonen, trenger du bare å klikke på lenken nedenfor:\n"
+"\n"
+"%(author_confirmation_link)s\n"
+"\n"
+"Hvis du ikke forventet denne invitasjonen, kan du trygt ignorere denne e-posten.\n"
+"\n"
+"Vi er glade for at du utvikler for Firefox,\n"
+"Mozillas tilleggsteam"
 
 #: src/olympia/users/templates/users/emails/author_changed.ltxt:3
 #, python-format
@@ -7368,6 +7380,15 @@ msgid ""
 "\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Hei,\n"
+"\n"
+"Du mottar denne meldingen for å informere deg om at brukerkontoen din %(name)s på %(site_url)s er slettet. Hvis du nylig har slettet Mozilla-kontoen din, kan dette ha skjedd automatisk som en del av prosessen.\n"
+"\n"
+"Takk for at du har vært en del av fellesskapet for Firefox-tillegg. Hvis du mener at dette er en feil, eller hvis du har spørsmål, er du velkommen til å kontakte oss.\n"
+"\n"
+"Med vennlig hilsen,\n"
+"\n"
+"Mozillas tilleggsteam"
 
 #: src/olympia/versions/models.py:1163
 #, python-format
