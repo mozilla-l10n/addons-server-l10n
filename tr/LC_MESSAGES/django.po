@@ -173,6 +173,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). As a result we have removed the content. We appreciate you helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Mozilla Eklentileri’ndeki şu eklentiyi rapor etmek üzere zaman ayırdığınız için teşekkür ederiz: %(name)s.\n"
+"\n"
+"Raporunuzu ve ilgili içeriği inceledikten sonra içeriğin Mozilla politikalarına (%(policy_document_url)s) uymadığını belirledik. Bu nedenle içeriği kaldırdık. Mozilla Eklentileri’nin güvenli kalmasına katkıda bulunduğunuz için teşekkür ederiz.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_addon_delayed.txt:5
 #, python-format
