@@ -4076,7 +4076,7 @@ msgstr "Richtlinien und Regeln zur Überprüfung"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Nachtrag zu Add-ons für Unternehmen)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
