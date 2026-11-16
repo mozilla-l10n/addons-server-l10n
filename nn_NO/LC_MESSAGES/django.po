@@ -755,14 +755,14 @@ msgstr "Ikkje tilgjengeleg på grunn av juridiske årsaker."
 
 #: src/olympia/api/exceptions.py:42
 msgid "Request was throttled."
-msgstr ""
+msgstr "Førespurnaden vart avgrensa."
 
 #: src/olympia/api/exceptions.py:49
 #, python-brace-format
 msgid "Expected available in {wait} second."
 msgid_plural "Expected available in {wait} seconds."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Forventa tilgjengeleg om {wait} sekund."
+msgstr[1] "Forventa tilgjengeleg om {wait} sekund."
 
 #: src/olympia/api/fields.py:91
 #, python-brace-format
@@ -6081,7 +6081,7 @@ msgstr "Fjern distraksjonar, endre visningsalternativ, juster avspelingsfart, og
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1140
 msgid "Works great for video, audio, and streaming content across most websites."
-msgstr ""
+msgstr "Fungerer framifrå for video, lyd og strøyming av innhald på tvers av dei fleste nettstadar."
 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1143
@@ -6091,7 +6091,7 @@ msgstr ""
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1146
 msgid "Get extra protection against trackers, phishing scams & more malicious content."
-msgstr ""
+msgstr "Få ekstra vern mot sporarar, nettfisking og anna skadeleg innhald."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
@@ -7144,7 +7144,7 @@ msgstr "Programvara eller eininga du brukar er ikkje tillaten for innsendingar."
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Du har nådd grensa for innsending av denne typen innhald, prøv igjen seinare."
 
 #: src/olympia/users/models.py:1569
 msgid ""
