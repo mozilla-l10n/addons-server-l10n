@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-12 15:45+0000\n"
+"POT-Creation-Date: 2026-11-16 19:19+0000\n"
 "PO-Revision-Date: 2009-02-26 15:08-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -561,7 +561,7 @@ msgstr "Submit a New Theme"
 msgid "Developer Hub"
 msgstr "Developer Hub"
 
-#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2142
+#: src/olympia/amo/context_processors.py:79 src/olympia/devhub/templates/devhub/new-landing/components/dev_footer.html:20 src/olympia/devhub/views.py:2145
 msgid "Manage API Keys"
 msgstr "Manage API Keys"
 
@@ -2106,7 +2106,7 @@ msgstr ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 
-#: src/olympia/devhub/forms.py:1481 src/olympia/devhub/templates/devhub/includes/agreement.html:17
+#: src/olympia/devhub/forms.py:1481 src/olympia/devhub/templates/devhub/includes/agreement.html:22
 msgid "Display Name"
 msgstr "Display Name"
 
@@ -2459,39 +2459,39 @@ msgstr "Review requested"
 msgid "You must provide further details to proceed."
 msgstr "Review requested.  You must provide further details to proceed."
 
-#: src/olympia/devhub/views.py:2100
+#: src/olympia/devhub/views.py:2103
 msgid "A confirmation link will be sent to your email address shortly."
 msgstr "A confirmation link will be sent to your email address shortly."
 
-#: src/olympia/devhub/views.py:2115
+#: src/olympia/devhub/views.py:2118
 msgid "Your old credentials were revoked and are no longer valid."
 msgstr "Your old credentials were revoked and are no longer valid."
 
-#: src/olympia/devhub/views.py:2126
+#: src/olympia/devhub/views.py:2129
 msgid "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 msgstr "New API credentials have been generated and are displayed below. Make sure to copy the JWT secret, it will never be displayed again."
 
-#: src/olympia/devhub/views.py:2154
+#: src/olympia/devhub/views.py:2157
 msgid "New API key created"
 msgstr "New API key created"
 
-#: src/olympia/devhub/views.py:2165
+#: src/olympia/devhub/views.py:2168
 msgid "API key revoked"
 msgstr "API key revoked"
 
-#: src/olympia/devhub/views.py:2225
+#: src/olympia/devhub/views.py:2228
 msgid "Verify email"
 msgstr "Verify email"
 
-#: src/olympia/devhub/views.py:2227
+#: src/olympia/devhub/views.py:2230
 msgid "Send another email"
 msgstr "Send another email"
 
-#: src/olympia/devhub/views.py:2260
+#: src/olympia/devhub/views.py:2263
 msgid "Your email has been verified"
 msgstr "Your email has been verified"
 
-#: src/olympia/devhub/views.py:2326
+#: src/olympia/devhub/views.py:2329
 msgid "Your support request has been submitted. We will be in touch soon."
 msgstr "Your support request has been submitted. We will be in touch soon."
 
@@ -2823,7 +2823,7 @@ msgstr "Accepting the invitation will give you access to edit the add-on, and ma
 msgid "Click on the Accept button below to confirm you want to be added as an author for {addon_name}."
 msgstr "Click on the Accept button below to confirm you want to be added as an author for {addon_name}."
 
-#: src/olympia/devhub/templates/devhub/addons/invitation.html:24 src/olympia/devhub/templates/devhub/includes/agreement.html:36
+#: src/olympia/devhub/templates/devhub/addons/invitation.html:24 src/olympia/devhub/templates/devhub/includes/agreement.html:41
 msgid "Accept"
 msgstr "Accept"
 
@@ -4214,25 +4214,29 @@ msgstr ""
 "Before starting, please read and accept our Firefox Add-on Distribution Agreement, Review Policies and Rules and our <a %(a_attrs)s href=\"%(faq_url)s\">Frequently Asked Questions</a>. The Firefox "
 "Add-on Distribution Agreement also links to our Privacy Notice which explains how we handle your information."
 
-#: src/olympia/devhub/templates/devhub/includes/agreement.html:10
+#: src/olympia/devhub/templates/devhub/includes/agreement.html:12
 #, fuzzy
 msgid "Review Policies and Rules"
 msgstr "Review Date"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
+msgid "(Addendum for Enterprise Add-ons)"
+msgstr "(Addendum for Enterprise Add-ons)"
+
+#: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr "I have read and accept this Agreement and the Rules and Policies"
 
-#: src/olympia/devhub/templates/devhub/includes/agreement.html:18
+#: src/olympia/devhub/templates/devhub/includes/agreement.html:23
 msgid "Your account needs a display name set so users know who your add-on is coming from. Please enter one below."
 msgstr "Your account needs a display name set so users know who your add-on is coming from. Please enter one below."
 
-#: src/olympia/devhub/templates/devhub/includes/agreement.html:38
+#: src/olympia/devhub/templates/devhub/includes/agreement.html:43
 #, python-brace-format
 msgid "or <a href=\"{0}\">Cancel</a>"
 msgstr "or <a href=\"{0}\">Cancel</a>"
 
-#: src/olympia/devhub/templates/devhub/includes/agreement.html:44
+#: src/olympia/devhub/templates/devhub/includes/agreement.html:49
 #, fuzzy
 msgid "More information on Developer Accounts"
 msgstr "More information requested"
