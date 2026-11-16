@@ -5756,7 +5756,7 @@ msgstr "Forbetra søk, hopp over annonsar og massevis av andre YouTube-tilpassin
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:747
 msgid "Block trackers, phishing & malicious content."
-msgstr ""
+msgstr "Blokker sporarar, nettfisking og skadeleg innhald."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:750
