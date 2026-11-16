@@ -186,6 +186,10 @@ msgid ""
 "\n"
 "We reviewed your report and the content in question and found that it does not adhere to Mozilla's policies (%(policy_document_url)s). We have requested from the developer to make changes, and if they do not resolve the issue, we will remove the content. Thank you for helping keep Mozilla Add-ons safe.\n"
 msgstr ""
+"\n"
+"Mozilla Eklentileri’ndeki şu eklentiyi rapor etmek üzere zaman ayırdığınız için teşekkür ederiz: %(name)s.\n"
+"\n"
+"Raporunuzu ve ilgili içeriği inceledikten sonra içeriğin Mozilla politikalarına (%(policy_document_url)s) uymadığını belirledik. Geliştiriciden gerekli değişiklikleri yapmasını istedik. Sorun giderilmezse içeriği kaldıracağız. Mozilla Eklentileri’nin güvenli kalmasına katkıda bulunduğunuz için teşekkür ederiz.\n"
 
 #: src/olympia/abuse/templates/abuse/emails/reporter_takedown_collection.txt:5
 #, python-format
@@ -378,7 +382,7 @@ msgstr "Bu %s eklentisinin en son onaylanmış sürümü silinemez çünkü önc
 
 #: src/olympia/addons/serializers.py:589
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Uzantı gönderebilmek için lütfen hesabınızda iki aşamalı kimlik doğrulamayı etkinleştirin."
 
 #: src/olympia/addons/serializers.py:624
 msgid "Listed versions cannot be submitted while add-on is disabled."
@@ -3985,7 +3989,7 @@ msgstr "İnceleme Politikaları ve Kuralları"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Kurumsal Eklentiler için Ek)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
@@ -7169,7 +7173,7 @@ msgstr "Kullandığınız yazılım veya cihazın gönderim yapmasına izin veri
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Bu içerik türü için gönderim sınırına ulaştınız. Lütfen daha sonra yeniden deneyin."
 
 #: src/olympia/users/models.py:1569
 msgid ""
@@ -7278,6 +7282,18 @@ msgid ""
 "We are glad to have you building for Firefox,\n"
 "The Mozilla Add-ons Team"
 msgstr ""
+"Merhaba %(author_name)s,\n"
+"\n"
+"Size güzel bir haberimiz var: %(domain)s üzerindeki %(addon_name)s eklentisinin geliştiricilerinden biri olmaya davet edildiniz. Daveti kabul ettiğinizde eklentiyi düzenleyebilirsiniz ve adınız web sitesindeki geliştirici listesinde yer alabilir.\n"
+"\n"
+"Daveti kabul etmek için aşağıdaki bağlantıya tıklamanız yeterlidir:\n"
+"\n"
+"%(author_confirmation_link)s\n"
+"\n"
+"Bu daveti beklemiyorsanız bu e-postayı rahatlıkla görmezden gelebilirsiniz.\n"
+"\n"
+"Firefox için geliştirme yapmanızdan mutluluk duyuyoruz.\n"
+"Mozilla Eklentileri Ekibi"
 
 #: src/olympia/users/templates/users/emails/author_changed.ltxt:3
 #, python-format
