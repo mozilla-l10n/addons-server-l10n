@@ -82,11 +82,11 @@ msgstr ""
 
 #: src/olympia/abuse/templates/abuse/appeal.html:38
 msgid "Because the decision you are appealing has already been overturned, your appeal will not be processed."
-msgstr "Decizia pe care o contestați a fost deja anulată. Contestația nu va fi procesată."
+msgstr "Decizia pe care o contești a fost deja anulată. Contestația nu va fi procesată."
 
 #: src/olympia/abuse/templates/abuse/appeal.html:42
 msgid "The decision you are appealing has already been overridden by a new decision, so this decision can't be appealed."
-msgstr "Decizia pe care o contestați a fost deja anulată de o nouă decizie, prin urmare, această decizie nu poate fi contestată."
+msgstr "Decizia pe care o contești a fost deja anulată de o nouă decizie, prin urmare, această decizie nu poate fi contestată."
 
 #: src/olympia/abuse/templates/abuse/appeal.html:46
 msgid "This decision can't be appealed."

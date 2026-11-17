@@ -4067,7 +4067,7 @@ msgstr "Pśeglědowańske zasady a pšawidła"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Dodank za pśidanki za pśedewześa)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
@@ -6215,7 +6215,7 @@ msgstr "Dostańśo pśidatny šćit pśeśiwo pśeslědowakam, wobšuźe pśez p
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Slědujśo casoju, kótaryž na wěstych websedłach a pśi wěstych słužbach pśebywaśo."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
