@@ -4102,7 +4102,7 @@ msgstr "Πολιτικές και κανόνες αξιολόγησης"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Συμπληρωματικοί όροι για εταιρικά πρόσθετα)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
