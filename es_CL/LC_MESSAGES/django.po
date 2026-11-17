@@ -386,7 +386,7 @@ msgstr ""
 
 #: src/olympia/addons/serializers.py:589
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "Por favor, añade autenticación de dos factores a tu cuenta para enviar extensiones."
 
 #: src/olympia/addons/serializers.py:624
 msgid "Listed versions cannot be submitted while add-on is disabled."
@@ -4079,7 +4079,7 @@ msgstr "Normas y políticas de revisión"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Anexo para complementos empresariales)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
@@ -6233,7 +6233,7 @@ msgstr "Obtén protección adicional contra rastreadores, estafas de phishing y 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Registra el tiempo que pasas en sitios web y servicios específicos."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
@@ -7286,7 +7286,7 @@ msgstr "El software o dispositivo que estás utilizando no está permitido para 
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "Has alcanzado el límite de envíos para este tipo de contenido, por favor vuelve a intentarlo más tarde."
 
 #: src/olympia/users/models.py:1569
 msgid ""
