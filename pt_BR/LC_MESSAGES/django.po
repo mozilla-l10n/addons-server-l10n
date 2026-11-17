@@ -6127,7 +6127,7 @@ msgstr "Tenha proteção extra contra rastreadores, golpes de phishing e mais co
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Acompanhe o tempo que você gasta em sites e serviços específicos."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152

@@ -6132,7 +6132,7 @@ msgstr "Pridobite dodatno zaščito pred sledilci, prevarantskimi in še drugimi
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Sledite času, ki ga preživite na določenih spletnih mestih in storitvah."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
