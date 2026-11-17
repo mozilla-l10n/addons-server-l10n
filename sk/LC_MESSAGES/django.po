@@ -4049,7 +4049,7 @@ msgstr "Zásady a pravidlá kontroly doplnkov"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Dodatok k podnikovým doplnkom)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
@@ -6189,7 +6189,7 @@ msgstr "Získajte lepšiu ochranu pred sledovacími prvkami, phishingovými podv
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Majte prehľad o čase strávenom na konkrétnych webových stránkach a službách."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
