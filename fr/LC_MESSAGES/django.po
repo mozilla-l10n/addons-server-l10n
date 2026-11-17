@@ -4108,7 +4108,7 @@ msgstr "Règles et principes de révision"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Addendum relatif aux modules complémentaires d’entreprise)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
@@ -6263,7 +6263,7 @@ msgstr "Renforcez votre protection contre les traqueurs, les tentatives d’hame
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Surveillez le temps que vous consacrez à certains sites web et services."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
