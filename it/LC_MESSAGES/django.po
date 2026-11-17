@@ -4110,7 +4110,7 @@ msgstr "Norme per le revisioni"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(Addendum relativo ai componenti aggiuntivi per aziende)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
