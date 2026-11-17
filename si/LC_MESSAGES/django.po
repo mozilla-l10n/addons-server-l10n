@@ -41,7 +41,7 @@ msgstr ""
 #: src/olympia/abuse/models.py:1590
 #, python-brace-format
 msgid "\"{}\" for {}"
-msgstr ""
+msgstr "{} සඳහා \"{}\""
 
 #: src/olympia/abuse/serializers.py:32
 #, python-brace-format
@@ -59,7 +59,7 @@ msgstr ""
 #: src/olympia/abuse/templates/abuse/appeal.html:16
 #, python-brace-format
 msgid "Decision {0}"
-msgstr ""
+msgstr "තීරණය {0}"
 
 #: src/olympia/abuse/templates/abuse/appeal.html:20
 msgid "Thank you. Your appeal has been recorded."
@@ -92,7 +92,7 @@ msgstr ""
 
 #: src/olympia/abuse/templates/abuse/emails/base_reporter.txt:1
 msgid "Hello,"
-msgstr ""
+msgstr "ආයුබෝවන්,"
 
 #: src/olympia/abuse/templates/abuse/emails/base_reporter.txt:7
 msgid "Mozilla Add-ons Team"
@@ -1082,7 +1082,7 @@ msgstr ""
 #: src/olympia/constants/activity.py:670
 #, python-brace-format
 msgid "{addon} {version} disabled."
-msgstr ""
+msgstr "{addon} {version} අබලයි."
 
 #: src/olympia/constants/activity.py:678
 #, python-brace-format
