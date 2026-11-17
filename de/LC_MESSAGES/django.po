@@ -6223,7 +6223,7 @@ msgstr "Schützen Sie sich noch besser vor Elementen zur Aktivitätenverfolgung,
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Behalten Sie im Blick, wie viel Zeit Sie auf bestimmten Websites und bei bestimmten Diensten verbringen."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152

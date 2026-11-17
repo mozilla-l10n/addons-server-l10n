@@ -6187,7 +6187,7 @@ msgstr "Untfang ekstra beskerming tsjin trackers, phishingoplichting en mear kwe
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Folgje de tiid dy’t jo besteegje oan spesifike websites en tsjinsten."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
