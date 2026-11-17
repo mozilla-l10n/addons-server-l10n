@@ -6192,7 +6192,7 @@ msgstr "Get extra protection against trackers, phishing scams & more malicious c
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Track the time you spend on specific web sites and services."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
