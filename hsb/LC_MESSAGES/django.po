@@ -6215,7 +6215,7 @@ msgstr "Dóstańće přidatny škit přećiwo přesćěhowakam, wobšudźe přez
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Slědujće časej, kotryž na wěstych websydłach a při wěstych słužbach přebywaće."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152

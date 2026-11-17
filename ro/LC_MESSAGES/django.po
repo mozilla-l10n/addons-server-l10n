@@ -6222,7 +6222,7 @@ msgstr "Obține protecție suplimentară împotriva elementelor de urmărire, a 
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Urmărește timpul petrecut pe anumite site-uri și cu anumite servicii."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
