@@ -6100,7 +6100,7 @@ msgstr "Få ekstra vern mot sporarar, nettfisking og anna skadeleg innhald."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Spor tida du brukar på visse nettstadar og tenester."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
