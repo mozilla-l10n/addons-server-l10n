@@ -6201,7 +6201,7 @@ msgstr "Obtene protection ulterior contra traciatores, attaccos fraudulente & al
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Tracia le tempore que tu passa sur sitos web e servicios specific."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
