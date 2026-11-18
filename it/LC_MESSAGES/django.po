@@ -6263,7 +6263,7 @@ msgstr "Ottieni una protezione aggiuntiva contro elementi traccianti, phishing e
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Tieni traccia del tempo che trascorri su determinati siti web e servizi."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
