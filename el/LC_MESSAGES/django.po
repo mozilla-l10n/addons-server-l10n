@@ -6253,7 +6253,7 @@ msgstr "Λάβετε επιπλέον προστασία από ιχνηλάτε
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1149
 msgid "Track the time you spend on specific websites and services."
-msgstr ""
+msgstr "Παρακολουθήστε τον χρόνο που αφιερώνετε σε συγκεκριμένους ιστοτόπους και υπηρεσίες."
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1152
