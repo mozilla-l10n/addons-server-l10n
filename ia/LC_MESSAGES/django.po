@@ -5263,7 +5263,7 @@ msgstr "Gaude te le musica ab plus de 30.000 stationes radio de tote le globo."
 #. editorial content for the primary hero shelves.
 #: src/olympia/discovery/strings.jinja2:332 src/olympia/discovery/strings.jinja2:951
 msgid "Save bandwidth by just streaming the audio from YouTube clips."
-msgstr "Economisa largor de banda transmittente solo le audio de videos YouTube."
+msgstr "Economisa banda passante transmittente solo le audio de videos YouTube."
 
 #. editorial content for the discovery pane.
 #: src/olympia/discovery/strings.jinja2:335
