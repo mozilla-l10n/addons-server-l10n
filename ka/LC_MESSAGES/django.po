@@ -382,7 +382,7 @@ msgstr "უახლესი დამოწმებული ვერსი�
 
 #: src/olympia/addons/serializers.py:589
 msgid "Please add two-factor authentication to your account to submit extensions."
-msgstr ""
+msgstr "გთხოვთ დაამატოთ თქვენს ანგარიშს ორბიჯიანი დამოწმება გაფართოებების წარსადგენად."
 
 #: src/olympia/addons/serializers.py:624
 msgid "Listed versions cannot be submitted while add-on is disabled."
@@ -4057,7 +4057,7 @@ msgstr "მიმოხილვის დებულება და წეს
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:13
 msgid "(Addendum for Enterprise Add-ons)"
-msgstr ""
+msgstr "(დანართი დაწესებულებების დამატებებისთვის)"
 
 #: src/olympia/devhub/templates/devhub/includes/agreement.html:18
 msgid "I have read and accept this Agreement and the Rules and Policies"
@@ -7250,7 +7250,7 @@ msgstr "პროგრამა ან მოწყობილობა, რ�
 
 #: src/olympia/users/models.py:1416
 msgid "You have reached the submission limit for this type of content, please try again later."
-msgstr ""
+msgstr "მიღწეულია წარდგენების ზღვარი ამ სახის მასალისთვის, გთხოვთ სცადოთ მოგვიანებით."
 
 #: src/olympia/users/models.py:1569
 msgid ""
