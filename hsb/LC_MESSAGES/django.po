@@ -6250,7 +6250,7 @@ msgstr "Wot sobudźěłaćerjow wubrane rozšěrjenja wobhladać"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
 msgid "Read more"
-msgstr "Čitajće wjace"
+msgstr "Wjace čitać"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
