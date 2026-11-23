@@ -6199,7 +6199,7 @@ msgstr "Základní sada rozšíření"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr ""
+msgstr "Vývojář Spotlight: Profile Manager Pro"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
@@ -6208,9 +6208,8 @@ msgstr "Zobrazit výběr od zaměstnanců"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
-#, fuzzy
 msgid "Read more"
-msgstr "Uložit a přidat další"
+msgstr "Přečtěte si více"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
