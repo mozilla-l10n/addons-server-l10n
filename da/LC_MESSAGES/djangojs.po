@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "Din tilføjelse skal ende på .zip, .xpi, eller .crx"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% fuldført"
 
@@ -68,7 +70,7 @@ msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip; og {0} mere"
 msgstr[1] "&hellip; og {0} mere"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "Se den fulde valideringsrapport"
 
@@ -91,58 +93,58 @@ msgstr "Modtog et tomt svar fra serveren, status: {0}"
 msgid "Your extension has to be compatible with at least one application."
 msgstr "Din udvidelse skal være kompatibel med mindst én applikation."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "Uventet serverfejl under valideringen."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "Eksplicit markeret som kompatibel med Firefox til Android i manifestet"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "Færdiggjort validering af {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "Valideringen af din tilføjelse udløb, den vil blive manuelt bedømt."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "Din tilføjelse blev valideret som fejlfri og med {0} advarsel."
 msgstr[1] "Din tilføjelse blev valideret som fejlfri og med {0} advarsler."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "Din tilføjelse blev valideret som fejlfri og med {0} meddelelse."
 msgstr[1] "Din tilføjelse blev valideret som fejlfri og med {0} meddelelser."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "Din tilføjelse er valideret uden fejl eller advarsler."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "Inkluder detaljerede versionsnoter (dette kan gøres i næste trin)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "Hvis din tilføjelse kræver en konto til en hjemmeside for at blive fuldt testet, skal du inkludere et testbrugernavn og -adgangskode under noter til anmelderen (dette kan gøres i næste trin)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "Tjekliste til indsendelse af tilføjelser"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "Bekræft venligst følgende punkter, inden du afslutter din indsendelse. Dette minimerer forsinkelser og misforståelser under vurderingsprocessen:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
@@ -150,7 +152,7 @@ msgstr ""
 "Minificeret, konkateneret eller på andre måder maskin-genererede scripts (med undtagelse af kendte biblioteker) skal have deres kilder indsendt separat til vurdering. Sørg for, at du bruger feltet "
 "til at uploade kildekode for at undgå, at din indsendelse bliver afvist."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "Valideringsprocessen fandt disse problemer, der kan føre til afvisning:"
 

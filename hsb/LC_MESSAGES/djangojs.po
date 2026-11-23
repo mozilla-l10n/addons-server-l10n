@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "Waš přidatk dyrbjał datajowu kóncowku .zip, .xpi abo .crx měć"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% dokónčene"
 
@@ -72,7 +74,7 @@ msgstr[1] "&hellip;a {0} dalšej"
 msgstr[2] "&hellip;a {0} dalše"
 msgstr[3] "&hellip;a {0} dalšich"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "Dospołnu přepruwowansku rozprawu čitać"
 
@@ -95,24 +97,24 @@ msgstr "Prózdna wotmołwa je so wot serwera dóstała; status: {0}"
 msgid "Your extension has to be compatible with at least one application."
 msgstr "Waše rozšěrjenje dyrbi ze znajmjeńša jednym nałoženjom kompatibelne być."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "Njewočakowany serwerowy zmylk při přepruwowanju."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "W manifesće eksplicitnje jako kompatibelny z Firefox za Android markěrowany"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "Přepruwowanje {0} dokónčene"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "Waše přepruwowanje přidatka je čas překročiło, budźe so tohodla manuelnje přewjesć."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
@@ -121,7 +123,7 @@ msgstr[1] "Waš přidatk je přepruwowanje bjeze zmylkow a z {0} warnowanjomaj w
 msgstr[2] "Waš přidatk je přepruwowanje bjeze zmylkow a z {0} warnowanjemi wobstał."
 msgstr[3] "Waš přidatk je přepruwowanje bjeze zmylkow a z {0} warnowanjemi wobstał."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
@@ -130,35 +132,35 @@ msgstr[1] "Waš přidatk je přepruwowanje bjeze zmylkow a z {0} zdźělenkomaj 
 msgstr[2] "Waš přidatk je přepruwowanje bjeze zmylkow a z {0} zdźělenkami wobstał."
 msgstr[3] "Waš přidatk je přepruwowanje bjeze zmylkow a z {0} zdźělenkami wobstał."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "Waš přidatk je přepruwowanje bjeze zmylkow a bjez warnowanjow wobstał."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "Nadrobne wersijowe informacije zapřijeć (to hodźi so w přichodnym kroku činić)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "Jeli sej waš přidatk konto z websydłom wužaduje, zo by so dospołnje testował, podajće w zdźělenjach na přepruwowarja testowe wužiwarske mjeno a hesło (to hodźi so w přichodnym kroku činić)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "Kontrolna lisćina za zapodaća přidatkow"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "Prošu wobkrućće slědowace dypki, prjedy hač swoje zapodaće dokónčiće. To komdźenja abo njedorozumjenja za přepruwowanski proces pomjeńši:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"Minifikowane, zwjazane abo hinak přez mašiny wutworjene skripty (nimo znatych bibliotekow) dyrbja so separatnje za přepruwowanje zapodać. Wužiwajće na kóždy pad polo za nahrawanje žórłoweho koda, zo"
-" njeby so waše zapodaće wotpokazało."
+"Minifikowane, zwjazane abo hinak přez mašiny wutworjene skripty (nimo znatych bibliotekow) dyrbja so separatnje za přepruwowanje zapodać. Wužiwajće na kóždy pad polo za nahrawanje žórłoweho koda, "
+"zo njeby so waše zapodaće wotpokazało."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "Přepruwowanski proces je slědowace problemy namakał, kotrež móhli k wotpokazanjam wjesć:"
 

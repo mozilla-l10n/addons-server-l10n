@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -28,7 +30,7 @@ msgstr "आपके ऐड-ऑन के आखिर में .zip, .xpi, .cr
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% पूर्ण"
 
@@ -69,7 +71,7 @@ msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip;और {0} अधिक"
 msgstr[1] "&hellip;और {0} अधिक"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "पूर्ण मान्यकरण रिपोर्ट देये"
 
@@ -92,69 +94,67 @@ msgstr "सर्वर से एक खाली प्रतिक्रि�
 msgid "Your extension has to be compatible with at least one application."
 msgstr ""
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "सत्यापन करते समय अप्रत्याशित सर्वर त्रुटि."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr ""
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "मान्य क्रिया समाप्त {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "आपका ऐड-ऑन सत्यापन समाप्त हो गया है, इसकी मैन्युअल रूप से समीक्षा की जाएगी."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "आपके ऐड-ऑन को बिना किसी त्रुटी तथा {0} चेतावनी के साथ मान्य कर दिया गया."
 msgstr[1] "आपके ऐड-ऑन को बिना किसी त्रुटी तथा {0} चेतावनीयों के साथ मान्य कर दिया गया."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "आपके ऐड-ऑन को बिना किसी त्रुटी तथा {0} संदेश के साथ मान्य कर दिया गया."
 msgstr[1] "आपके ऐड-ऑन को बिना किसी त्रुटी तथा {0} संदेशों के साथ मान्य कर दिया गया."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "आपके ऐड-ऑन को बिना किसी त्रुटी या चेतावनी के मान्य कर दिया गया."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "विस्तृत संस्करण नोट्स शामिल करें (यह अगले चरण में किया जा सकता है)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
-msgstr ""
-"यदि आपके ऐड-ऑन को पूरी तरह से परीक्षण करने के लिए किसी वेबसाइट पर एक खाता की आवश्यकता होती है, तो रिव्यूर हेतु नोट्स में एक टेस्ट उपयोगकर्ता नाम और पासवर्ड शामिल करें (यह अगले चरण में किया जा सकता "
-"है)."
+msgstr "यदि आपके ऐड-ऑन को पूरी तरह से परीक्षण करने के लिए किसी वेबसाइट पर एक खाता की आवश्यकता होती है, तो रिव्यूर हेतु नोट्स में एक टेस्ट उपयोगकर्ता नाम और पासवर्ड शामिल करें (यह अगले चरण में किया जा सकता है)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "ऐड-ऑन सबमिशन चेकलिस्ट"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "कृपया अपने सबमिशन को अंतिम रूप देने से पहले निम्न बिंदुओं को सत्यापित करें. समीक्षा प्रक्रिया के दौरान यह विलंब या गलतफहमी को कम कर देगा:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 #, fuzzy
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"संकलित बाइनरी, साथ ही minified या obfuscated स्क्रिप्ट (ज्ञात पुस्तकालयों को छोड़कर) को अपने स्रोतों को समीक्षा के लिए अलग से सबमिट करने की आवश्यकता है. सुनिश्चित करें कि आप अपना सबमिशन अस्वीकार "
-"होने से बचने के लिए सोर्स कोड अपलोड फ़ील्ड का उपयोग करते हैं."
+"संकलित बाइनरी, साथ ही minified या obfuscated स्क्रिप्ट (ज्ञात पुस्तकालयों को छोड़कर) को अपने स्रोतों को समीक्षा के लिए अलग से सबमिट करने की आवश्यकता है. सुनिश्चित करें कि आप अपना सबमिशन अस्वीकार होने से बचने के लिए सोर्स कोड "
+"अपलोड फ़ील्ड का उपयोग करते हैं."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "सत्यापन प्रक्रिया को ये मुद्दे मिले जो अस्वीकृति का कारण बन सकते हैं:"
 

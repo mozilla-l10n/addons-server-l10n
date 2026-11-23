@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "Расширение файла выбранного дополнени�
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% выполнено"
 
@@ -70,7 +72,7 @@ msgstr[0] "&hellip;и ещё {0}"
 msgstr[1] "&hellip;и ещё {0}"
 msgstr[2] "&hellip;и ещё {0}"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "Прочесть весь отчёт о проверке"
 
@@ -93,24 +95,24 @@ msgstr "Получен пустой ответ от сервера; статус
 msgid "Your extension has to be compatible with at least one application."
 msgstr "Ваше расширение должно быть совместимо хотя бы с одним приложением."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "При проверке произошла неожиданная ошибка сервера."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "Явно отмечено как совместимое с Firefox для Android в манифесте"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "Закончена проверка {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "Время ожидания проверки вашего дополнения истекло, оно будет проверено вручную."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
@@ -118,7 +120,7 @@ msgstr[0] "Ваше дополнение прошло проверку без о
 msgstr[1] "Ваше дополнение прошло проверку без ошибок и с {0} предупреждениями."
 msgstr[2] "Ваше дополнение прошло проверку без ошибок и с {0} предупреждениями."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
@@ -126,27 +128,27 @@ msgstr[0] "Ваше дополнение прошло проверку без о
 msgstr[1] "Ваше дополнение прошло проверку без ошибок и c {0} сообщениями."
 msgstr[2] "Ваше дополнение прошло проверку без ошибок и c {0} сообщениями."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "Ваше дополнение прошло проверку без ошибок или предупреждений."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "Включить подробные примечания к версии (можно сделать на следующем шаге)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "Если для полного тестирования дополнения необходима учётная запись на веб-сайте, укажите тестовый логин и пароль в примечаниях для проверяющего (можно сделать на следующем шаге)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "Контрольный перечень при представлении дополнения"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "Пожалуйста, проверьте выполнение следующих пунктов перед завершением вашего представления. Это позволит свести к минимуму задержки или недоразумения в процессе его проверки:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
@@ -154,7 +156,7 @@ msgstr ""
 "Исходные коды минифицированных, объединённых или иным образом сгенерированных машиной скриптов (за исключением известных библиотек) необходимо представлять для проверки отдельно. Убедитесь, что вы "
 "используете поле загрузки исходного кода, чтобы избежать отклонения вашей заявки."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "Процесс валидации нашёл следующие проблемы, которые могут привести к отклонению:"
 

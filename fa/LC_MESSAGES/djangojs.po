@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "افزونه شما باید به zip.، xpi. یا crx. ختم شود"
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "‏{0}٪ تکمیل شده است"
 
@@ -68,7 +70,7 @@ msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip; و {0} مورد دیگر"
 msgstr[1] "&hellip; و {0} مورد دیگر"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "مشاهده گزارش کامل اعتبارسنجی"
 
@@ -91,67 +93,66 @@ msgstr "یک پاسخ خالی از سرور دریافت شد، وضعیت: {0}
 msgid "Your extension has to be compatible with at least one application."
 msgstr "افزونهٔ شما باید دست‌کم با یک برنامه سازگار باشد."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "خطای غیرمنتظره در هنگام اعتبارسنجی."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "در فایل مانیفست صراحتاً سازگار با فایرفاکس برای اندروید علامت‌گذاری شده است"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "اعتبار سنجی {0} پایان یافت"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "زمان اعتبارسنجی افزونه شما به پایان رسیده است و به‌صورت دستی بررسی می‌شود."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "افزونه شما بدون خطا و با {0} اخطار، اعتبار سنجی شد."
 msgstr[1] "افزونه شما بدون خطا و با {0} اخطار، اعتبار سنجی شد."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "افزونه شما بدون خطا و با {0} پیام، اعتبارسنجی شد."
 msgstr[1] "افزونه شما بدون خطا و با {0} پیام، اعتبارسنجی شد."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "افزونه شما بدون خطا یا اخطار، اعتبار سنجی شد."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "یادداشت‌های مربوط به نسخه را باجزئیات بیفزایید (این می‌تواند در مرحله بعدی انجام شود)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
-msgstr ""
-"اگر افزودنی شما برای آزمایش کامل به یک حساب کاربریِ یک وبگاه احتیاج دارد، در یادداشت‌هایی که برای بازبینان می‌نویسید، یک نام کاربری و گذرواژه نیز درج کنید (این کار در مرحله بعدی قابل انجام است)."
+msgstr "اگر افزودنی شما برای آزمایش کامل به یک حساب کاربریِ یک وبگاه احتیاج دارد، در یادداشت‌هایی که برای بازبینان می‌نویسید، یک نام کاربری و گذرواژه نیز درج کنید (این کار در مرحله بعدی قابل انجام است)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "چک‌لیست ارسال افزونه"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "لطفا نکته‌های زیر را قبل از نهایی کردن ارسال خود تایید کنید. این کار تاخیر یا سوتفاهم در طول فرایند بررسی را به حداقل می‌رساند:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
-"اسکریپت‌های کوچک‌شده، متصل‌شده یا در غیر این صورت تولید‌شده توسط ماشین (به‌استثنای کتابخانه‌های شناخته‌شده) باید کد منبع خود را به‌طور جداگانه برای بررسی ارسال کنند. برای پرهیز از رد شدن، اطمینان "
-"حاصل کنید که از قسمت بارگذاری کد منبع استفاده می‌کنید."
+"اسکریپت‌های کوچک‌شده، متصل‌شده یا در غیر این صورت تولید‌شده توسط ماشین (به‌استثنای کتابخانه‌های شناخته‌شده) باید کد منبع خود را به‌طور جداگانه برای بررسی ارسال کنند. برای پرهیز از رد شدن، اطمینان حاصل کنید "
+"که از قسمت بارگذاری کد منبع استفاده می‌کنید."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "فرایند اعتبارسنجی این مشکلات را پیدا کرد که می‌توانند باعث رد شدن بشوند:"
 

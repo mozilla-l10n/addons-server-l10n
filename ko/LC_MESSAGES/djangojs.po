@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "부가 기능의 확장자는 .zip, .xpi 또는 .crx를 사용해야 합
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% 완료됨"
 
@@ -66,7 +68,7 @@ msgid "&hellip;and {0} more"
 msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip;{0}개 더"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "전체 검사 보고서 보기"
 
@@ -89,62 +91,62 @@ msgstr "서버로부터 빈 응답을 받았습니다; 상태: {0}"
 msgid "Your extension has to be compatible with at least one application."
 msgstr "확장 기능은 최소한 하나의 애플리케이션과 호환되어야 합니다."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "유효성 검사 도중 예상치 못한 오류가 발생했습니다."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "매니페스트에 Android용 Firefox와 호환되는 것으로 명시적으로 표시됨"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "{0} 검사 완료"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "부가 기능의 유효성 검사가 시간 초과되어서 수동으로 재검토될 것입니다."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "부가 기능이 오류 없이 {0}개의 경고로 검증되었습니다."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "부가 기능이 오류 없이 {0}개의 메시지로 검증되었습니다."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "부가 기능이 오류와 경고 없이 검증되었습니다."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "자세한 버전 정보를 포함합니다(다음 단계에서 할 수 있습니다)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "만약 부가 기능의 테스트를 위해 웹사이트 계정이 필요하다면 테스트 계정과 비밀번호를 노트에 남겨 리뷰어에게 전달해 주세요(다음 단계에서 할 수 있음)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "부가기능 제출 체크리스트"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "제출을 마무리 하기 전에 다음 사항을 확인 하십시오. 이 사항들은 지연이나 검토 과정에서의 오해를 최소화할 것입니다:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr "컴파일된 바이너리파일, 압축되거나 난독화된 스크립트(알려진 라이브러리 제외)는 리뷰를 위해 별도로 제출되어야 합니다. 제출이 거부되지 않도록 하려면 소스 코드 업로드 필드를 사용해야 합니다."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "유효성 검사 과정에서 거부 원인이 될 수 있는 문제들 발견:"
 
