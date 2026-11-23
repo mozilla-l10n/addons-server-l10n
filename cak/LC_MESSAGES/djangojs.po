@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: cak\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr " Ri atz'aqat k'o ta chi nik'is rik'in .zip, .xpi, o .crx."
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% tz'aqät"
 
@@ -68,7 +70,7 @@ msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip;chuqa'{0} ch'aqa' chik"
 msgstr[1] "&hellip;chuqa' {0} ch'aqa' chik"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "Titz'et ri tz'aqät rutzijol jikib'anem"
 
@@ -91,60 +93,60 @@ msgstr "Xk'ulutäj jun kowöl tzolin rutzij k'uxasamaj; rub'anikil: {0}"
 msgid "Your extension has to be compatible with at least one application."
 msgstr ""
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "Man oyob'en ta ri sachoj toq nijikib'äx."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr ""
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "Xk'is richin nijikib'äx {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "Xk'is ruq'ijul rujikib'axik atz'aqat, chi q'ab'aj xtinik'öx."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "Ri atz'aqat xjikib'äx rik'in majun sachoj chuqa' {0} rutzijol k'ayewal."
 msgstr[1] "Ri atz'aqat xjikib'äx rik'in majun taq sachoj chuqa' {0} kitzijol k'ayewal."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "Ri atz'aqat xjikib'äx rik'in majun taq sachoj chuqa' {0} rutzijol."
 msgstr[1] "Ri atz'aqat xjikib'äx rik'in majun taq sachoj chuqa' {0} kitzijol."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "Ri atz'aqat xjikib'äx rik'in majun taq sachoj o kitzijol k'ayewal."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "Ruk'wan ruch'utitzijol ruwäch (re re' tikirel nib'an pa ri jun chik xak)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr ""
-"We ri atz'aqat nrajo' jun rub'i' taqoya'l pa jun ruxaq k'amaya'l richin nitojtob'ëx ütz, tatz'aqatisaj jun tojtob'enel okisaxel chuqa' ewan tzij pa ri Ch'utitzijol richin ri Nik'onel (re re' tikirel"
-" nib'an pa ri jun chik xak)."
+"We ri atz'aqat nrajo' jun rub'i' taqoya'l pa jun ruxaq k'amaya'l richin nitojtob'ëx ütz, tatz'aqatisaj jun tojtob'enel okisaxel chuqa' ewan tzij pa ri Ch'utitzijol richin ri Nik'onel (re re' "
+"tikirel nib'an pa ri jun chik xak)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "Rucholb'al kijikib'anem kitaqik taq tz'aqat"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "Tanik'oj re taq rupam re' chuwäch nak'isib'ej ri ataqoj. Re re' xtuch'utinisaj yokenïk o itzel taq na'oj toq ninik'öx:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 #, fuzzy
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
@@ -153,7 +155,7 @@ msgstr ""
 "Ri molon taq kach'akul, achi'el chuqa' ri taq skrip ech'utinisan o yesachon (man ye'ok ta ri taq wujb'äl etaman kiwäch) k'o chi yetaq chi kijujunal richin yenik'öx. Tajikib'a' chi nawokisaj ri "
 "k'ojlib'äl richin nijotob'äx ruxe'el b'itz'ib' richin chi man tixutüx pe ri ataqoj."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "Ri rusamajixik jikib'anem xrïl re taq k'ayewal re' ri yetikïr nikib'än chi xtixutüx pe:"
 

@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "يجب أن ينتهي اسم الإضافة بأحد الآتي: ‎.zi
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "اكتمل بنسبة {0}%"
 
@@ -76,7 +78,7 @@ msgstr[3] "&hellip;و {0} أخرى"
 msgstr[4] "&hellip;و {0} أخرى"
 msgstr[5] "&hellip;و {0} أخرى"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "طالع تقرير التثبّت كاملًا"
 
@@ -99,24 +101,24 @@ msgstr "استقبلتُ استجابة فارغة من الخادوم، الح�
 msgid "Your extension has to be compatible with at least one application."
 msgstr "يجب أن يكون امتدادك متوافقًا مع تطبيق واحد على الأقل."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "خطأ في الخادوم غير متوقّع أثناء التثبّت."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "مُحددة صراحةً على أنها متوافقة مع Firefox لنظام أندرويد في ملف الـ manifest"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "انتهى التثبّت من {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "انتهت مهلة التثبّت من إضافتك، سيكون التحقق منها يدوي."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
@@ -127,7 +129,7 @@ msgstr[3] "اكتمل التثبّت من إضافتك بدون أي أخطاء�
 msgstr[4] "اكتمل التثبّت من إضافتك بدون أي أخطاء، ومع {0} تحذيرًا."
 msgstr[5] "اكتمل التثبّت من إضافتك بدون أي أخطاء، ومع {0} تحذير."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
@@ -138,33 +140,33 @@ msgstr[3] "اكتمل التثبّت من إضافتك بدون أي أخطاء�
 msgstr[4] "اكتمل التثبّت من إضافتك بدون أي أخطاء، ومع {0} رسالةً."
 msgstr[5] "اكتمل التثبّت من إضافتك بدون أي أخطاء، ومع {0} رسالة."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "اكتمل التثبّت من إضافتك بدون أي أخطاء أو رسائل."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "فيه ملاحظات الإصدارة المفصّلة (يمكنك تأجيل هذا للخطوة القادمة)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "إن كانت إضافتك تحتاج حسابًا في موقع معين لتُختبر كما ينبغي، فضمّن اسم مستخدم وكلمة سر اختباريّين في قسم الملاحظات للمراجعين (يمكن إجراء هذا في الخطوة التالية)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "لائحة بشروط إرسال الإضافات"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "رجاءً تحقّق من النقاط الآتية قبل إنهاء الطلب. سيقلّل هذا احتمالية التأخير أو سوء الفهم أثناء عملية المراجعة:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr "عليك إرسال المصدر البرمجي منفصلًا لكلّ من: السكربتات المقلّصة/minified أو السكربتات المولّدة بالآلة (عدا المكتبات المعروفة). لا تنسَ أن تستعمل حقل رفع الكود البرمجي لألّا تتفاجأ برفض الإضافة."
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "وجدت عملية التثبّت المشكلات الآتية والتي قد تؤدّي بالرفض:"
 

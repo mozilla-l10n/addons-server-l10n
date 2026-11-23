@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "ส่วนเสริมของคุณควรลงท้าย
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "เสร็จสมบูรณ์ {0}%"
 
@@ -66,7 +68,7 @@ msgid "&hellip;and {0} more"
 msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip;และเพิ่มเติมอีก {0}"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "ดูรายงานการตรวจสอบฉบับเต็ม"
 
@@ -89,64 +91,62 @@ msgstr "ได้รับการตอบสนองที่ว่างเ
 msgid "Your extension has to be compatible with at least one application."
 msgstr "ส่วนขยายของคุณต้องเข้ากันได้กับอย่างน้อยหนึ่งแอปพลิเคชัน"
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิดกับเซิร์ฟเวอร์ขณะตรวจสอบ"
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "ระบุอย่างชัดเจนใน Manifest ว่าเข้ากันได้กับ Firefox สำหรับ Android"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "เสร็จสิ้นการตรวจสอบ {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "หยุดพักการตรวจสอบส่วนเสริมของคุณชั่วคราว ส่วนเสริมของคุณจะถูกตรวจสอบโดยมนุษย์"
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "ส่วนเสริมของคุณผ่านการตรวจสอบโดยไม่มีข้อผิดพลาดและ {0} คำเตือน"
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "ส่วนเสริมของคุณผ่านการตรวจสอบโดยไม่มีข้อผิดพลาดและ {0} ข้อความ"
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "ส่วนเสริมของคุณผ่านการตรวจสอบโดยไม่มีข้อผิดพลาดหรือคำเตือนใด"
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "รวมหมายเหตุรายละเอียดรุ่น (สามารถยกไปทำในขั้นตอนถัดไปได้)"
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "หากส่วนเสริมของคุณจำเป็นต้องใช้บัญชีผู้ใช้ในเว็บไซต์เพื่อทดสอบแบบสมบูรณ์ โปรดระบุชื่อผู้ใช้และรหัสผ่านไว้ในหมายเหตุให้แก่ผู้ตรวจทานด้วย (สามารถยกไปทำในขั้นตอนถัดไปได้)"
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "รายการตรวจสอบการส่งส่วนเสริม"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "โปรดตรวจสอบหัวข้อต่าง ๆ ก่อนส่งข้อมูลในขั้นสุดท้าย จะช่วยลดความล่าช้าหรือความเข้าใจผิดที่อาจเกิดขึ้นระหว่างทำการตรวจสอบ:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
-msgstr ""
-"สคริปต์ที่มีการย่อ เชื่อมโยงกัน หรือสร้างขึ้นด้วยเครื่อง (ยกเว้นไลบรารีที่รู้จัก) ต้องส่งซอร์สแยกต่างหากเพื่อใช้สำหรับตรวจทาน ตรวจสอบให้แน่ใจว่า "
-"คุณใช้ช่องอัปโหลดซอร์สโค้ดเพื่อหลีกเลี่ยงไม่ให้ข้อมูลที่คุณส่งถูกปฏิเสธ"
+msgstr "สคริปต์ที่มีการย่อ เชื่อมโยงกัน หรือสร้างขึ้นด้วยเครื่อง (ยกเว้นไลบรารีที่รู้จัก) ต้องส่งซอร์สแยกต่างหากเพื่อใช้สำหรับตรวจทาน ตรวจสอบให้แน่ใจว่า คุณใช้ช่องอัปโหลดซอร์สโค้ดเพื่อหลีกเลี่ยงไม่ให้ข้อมูลที่คุณส่งถูกปฏิเสธ"
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "กระบวนการการตรวจสอบความถูกต้องพบปัญหาที่อาจก่อให้เกิดการปฏิเสธ:"
 

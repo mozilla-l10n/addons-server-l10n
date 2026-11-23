@@ -6,9 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-11-23 16:35+0000\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
@@ -27,7 +29,7 @@ msgstr "మీ పొడగింతను .zip, .xpi లేదా .crxతో �
 
 #. L10n: {0} is the percent of the file that has been uploaded.
 #: static/js/common/upload-addon.js:118
-#, python-brace-format, python-format
+#, python-format, python-brace-format
 msgid "{0}% complete"
 msgstr "{0}% పూర్తి"
 
@@ -68,7 +70,7 @@ msgid_plural "&hellip;and {0} more"
 msgstr[0] "&hellip;మరియు {0} మరింత"
 msgstr[1] "&hellip;మరియు {0} మరింత"
 
-#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:705
+#: static/js/common/upload-addon.js:287 static/js/common/upload-addon.js:719
 msgid "See full validation report"
 msgstr "పూర్తి ధ్రువీకరణ నివేదికను చూడండి"
 
@@ -91,64 +93,64 @@ msgstr "సర్వరు నుండి ఖాళీ స్పందన వ�
 msgid "Your extension has to be compatible with at least one application."
 msgstr "మీ పొడగింత కనీసం ఒక అనువర్తనానికైనా అనుగుణ్యంగా ఉండాలి."
 
-#: static/js/common/upload-addon.js:473
+#: static/js/common/upload-addon.js:487
 msgid "Unexpected server error while validating."
 msgstr "ధృవీకరిస్తున్నప్పుడు ఊహించని సర్వర్ లోపం ఏర్పడింది."
 
-#: static/js/common/upload-addon.js:519
+#: static/js/common/upload-addon.js:533
 msgid "Explicitly marked as compatible with Firefox for Android in the manifest"
 msgstr "మానిఫెస్ట్‌లో Android కోసం Firefox కు అనుకూలంగా ఉన్నట్లు స్పష్టంగా గుర్తు పెట్టబడింది"
 
-#: static/js/common/upload-addon.js:561
+#: static/js/common/upload-addon.js:575
 #, python-brace-format
 msgid "Finished validating {0}"
 msgstr "సరిచూడడం పూర్తయింది {0}"
 
-#: static/js/common/upload-addon.js:568
+#: static/js/common/upload-addon.js:582
 msgid "Your add-on validation timed out, it will be manually reviewed."
 msgstr "మీ పొడగింత చెల్లుబాటు కాలం ముగిసింది, ఇది మానవీయంగా సమీక్షించబడుతుంది."
 
-#: static/js/common/upload-addon.js:573
+#: static/js/common/upload-addon.js:587
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} warning."
 msgid_plural "Your add-on was validated with no errors and {0} warnings."
 msgstr[0] "లోపాలు లేకుండా మరియు {0} హెచ్చరికలతో మీ పొడిగింత ధృవీకరించబడింది."
 msgstr[1] "లోపాలు మరియు {0} హెచ్చరికలు లేకుండా మీ పొడిగింత ధృవీకరించబడింది."
 
-#: static/js/common/upload-addon.js:582
+#: static/js/common/upload-addon.js:596
 #, python-brace-format
 msgid "Your add-on was validated with no errors and {0} message."
 msgid_plural "Your add-on was validated with no errors and {0} messages."
 msgstr[0] "లోపాలు లేకుండా మరియు {0} హెచ్చరికలతో మీ పొడిగింత ధృవీకరించబడింది."
 msgstr[1] "మీ పొడిగింత లోపాలు మరియు {0} సందేశాలతో ధృవీకరించబడలేదు."
 
-#: static/js/common/upload-addon.js:590
+#: static/js/common/upload-addon.js:604
 msgid "Your add-on was validated with no errors or warnings."
 msgstr "లోపాలు లేదా హెచ్చరికలతో మీ పొడిగింత ధృవీకరించబడింది."
 
-#: static/js/common/upload-addon.js:651
+#: static/js/common/upload-addon.js:665
 msgid "Include detailed version notes (this can be done in the next step)."
 msgstr "వివరణాత్మక వెర్షన్ గమనికలను చేర్చండి (ఇది తరువాతి దశలో చేయవచ్చు)."
 
-#: static/js/common/upload-addon.js:654
+#: static/js/common/upload-addon.js:668
 msgid "If your add-on requires an account to a website in order to be fully tested, include a test username and password in the Notes to Reviewer (this can be done in the next step)."
 msgstr "మీ పొడగింతను పూర్తిగా పరీక్షించటానికి ఒక వెబ్‌సైటు ఖాతా అవసరమైతే, సమీక్షకులకు గమనికలలో ఒక పరీక్షా వాడుకరి పేరు, సంకేతపదాన్ని ఇవ్వండి (దీన్ని తరువాతి అంచెలో చేయవచ్చు)."
 
-#: static/js/common/upload-addon.js:660
+#: static/js/common/upload-addon.js:674
 msgid "Add-on submission checklist"
 msgstr "పొడిగింతల సమర్పణ పరిశీలిత పట్టిక"
 
-#: static/js/common/upload-addon.js:664
+#: static/js/common/upload-addon.js:678
 msgid "Please verify the following points before finalizing your submission. This will minimize delays or misunderstanding during the review process:"
 msgstr "దయచేసి మీ సమర్పణను ఖరారు చేయడానికి ముందు ఈ క్రింది అంశాలను ధృవీకరించండి. ఇది సమీక్ష ప్రక్రియ సమయంలో ఆలస్యాన్ని లేదా అపార్థాలను తగ్గిస్తుంది:"
 
-#: static/js/common/upload-addon.js:671
+#: static/js/common/upload-addon.js:685
 msgid ""
 "Minified, concatenated or otherwise machine-generated scripts (excluding known libraries) need to have their sources submitted separately for review. Make sure that you use the source code upload "
 "field to avoid having your submission rejected."
 msgstr ""
 
-#: static/js/common/upload-addon.js:684
+#: static/js/common/upload-addon.js:698
 msgid "The validation process found these issues that can lead to rejections:"
 msgstr "సరిచూత ప్రక్రియ ఈ క్రింది తిరస్కరణకు దారితీసే సమస్యలను కనుగొంది:"
 
