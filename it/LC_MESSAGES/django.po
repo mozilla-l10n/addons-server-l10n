@@ -6298,7 +6298,7 @@ msgstr "Visualizza le estensioni scelte dallo staff"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
 msgid "Read more"
-msgstr ""
+msgstr "Ulteriori informazioni"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
