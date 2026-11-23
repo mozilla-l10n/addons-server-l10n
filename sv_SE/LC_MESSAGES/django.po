@@ -6237,7 +6237,7 @@ msgstr "Visa tillägg som har valts av anställda"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
 msgid "Read more"
-msgstr ""
+msgstr "Läs mer"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
