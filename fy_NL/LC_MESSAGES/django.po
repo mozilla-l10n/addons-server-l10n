@@ -6222,7 +6222,7 @@ msgstr "Karren fan de stêf besjen"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
 msgid "Read more"
-msgstr ""
+msgstr "Mear ynfo"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
