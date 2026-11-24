@@ -6257,7 +6257,7 @@ msgstr "Ver las selecciones de personal"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
 msgid "Read more"
-msgstr ""
+msgstr "Leer más"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
