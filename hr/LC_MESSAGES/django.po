@@ -6071,7 +6071,7 @@ msgstr ""
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr ""
+msgstr "U fokusu programera: Profile Manager Pro"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
