@@ -6235,7 +6235,7 @@ msgstr "Pacote Inicial de Extensões"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr ""
+msgstr "Destaque do Programador: Gestor de Perfil Profissional"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
@@ -6244,9 +6244,8 @@ msgstr "Consulte as escolhas da equipa"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
-#, fuzzy
 msgid "Read more"
-msgstr "Guardar e adicionar mais"
+msgstr "Ler mais"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
