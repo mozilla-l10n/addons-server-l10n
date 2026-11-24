@@ -6122,7 +6122,7 @@ msgstr "擴充套件新手包"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr ""
+msgstr "開發者焦點：Profile Manager Pro"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
