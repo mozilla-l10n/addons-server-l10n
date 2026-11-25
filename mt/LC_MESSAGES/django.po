@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-23 16:35+0000\n"
+"POT-Creation-Date: 2026-11-25 11:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -265,7 +265,7 @@ msgstr ""
 msgid "The \"other\" category cannot be combined with another category"
 msgstr ""
 
-#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1347
+#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1348
 msgid "Invalid category name."
 msgstr ""
 
@@ -324,7 +324,7 @@ msgstr ""
 msgid "Invalid \"{}\" parameter."
 msgstr ""
 
-#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2439 src/olympia/constants/base.py:72
+#: src/olympia/addons/models.py:2368 src/olympia/addons/models.py:2451 src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr ""
 
@@ -367,40 +367,40 @@ msgstr ""
 msgid "Invalid version range. For Firefox for Android, you may only pick a range that starts with version %(max)s or higher, or ends with lower than version %(min)s."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:971
+#: src/olympia/addons/serializers.py:972
 msgid "Add-ons need at least one owner."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:986
+#: src/olympia/addons/serializers.py:987
 msgid "Add-ons need at least one listed author."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1018
+#: src/olympia/addons/serializers.py:1019
 msgid "Account not found."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1031 src/olympia/devhub/forms.py:463 src/olympia/devhub/forms.py:533
+#: src/olympia/addons/serializers.py:1032 src/olympia/devhub/forms.py:463 src/olympia/devhub/forms.py:533
 msgid "An author can only be present once."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1042 src/olympia/devhub/forms.py:475
+#: src/olympia/addons/serializers.py:1043 src/olympia/devhub/forms.py:475
 msgid "The account needs a display name before it can be added as an author."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1327
+#: src/olympia/addons/serializers.py:1328
 msgid "This slug cannot be used. Please choose another."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1978
+#: src/olympia/addons/serializers.py:1983
 msgid "There is no rollback available in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1988
+#: src/olympia/addons/serializers.py:1993
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1997
+#: src/olympia/addons/serializers.py:2002
 msgid "Only approved versions can be rolled back, except the most recent version."
 msgstr ""
 

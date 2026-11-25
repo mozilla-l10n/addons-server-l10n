@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons-server 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-23 16:35+0000\n"
+"POT-Creation-Date: 2026-11-25 11:50+0000\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -343,7 +343,7 @@ msgstr "Prekoračen je najveći broj kategorija po programu ({MAX_CATEGORIES})"
 msgid "The \"other\" category cannot be combined with another category"
 msgstr "Kategorija „drugo” ne može biti kombinovana sa drugom kategorijom"
 
-#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1347
+#: src/olympia/addons/fields.py:76 src/olympia/addons/serializers.py:1348
 msgid "Invalid category name."
 msgstr "Neispravan naziv kategorije."
 
@@ -410,7 +410,7 @@ msgstr "Slike moraju biti manje od %dMB."
 msgid "Invalid \"{}\" parameter."
 msgstr ""
 
-#: src/olympia/addons/models.py:2356 src/olympia/addons/models.py:2439
+#: src/olympia/addons/models.py:2368 src/olympia/addons/models.py:2451
 #: src/olympia/constants/base.py:72
 msgid "Listed"
 msgstr "U listi"
@@ -467,42 +467,42 @@ msgstr ""
 "koji počinje izdanjem %(max)s ili višim, ili se završava izdanjem nižim od "
 "%(min)s."
 
-#: src/olympia/addons/serializers.py:971
+#: src/olympia/addons/serializers.py:972
 msgid "Add-ons need at least one owner."
 msgstr "Dodacima je potreban najmanje jedan vlasnik."
 
-#: src/olympia/addons/serializers.py:986
+#: src/olympia/addons/serializers.py:987
 msgid "Add-ons need at least one listed author."
 msgstr "Dodacima je potreban najmanje jedan navedeni autor."
 
-#: src/olympia/addons/serializers.py:1018
+#: src/olympia/addons/serializers.py:1019
 msgid "Account not found."
 msgstr "Nalog nije pronađen."
 
-#: src/olympia/addons/serializers.py:1031 src/olympia/devhub/forms.py:463
+#: src/olympia/addons/serializers.py:1032 src/olympia/devhub/forms.py:463
 #: src/olympia/devhub/forms.py:533
 msgid "An author can only be present once."
 msgstr "Ključ se može koristiti samo jednom."
 
-#: src/olympia/addons/serializers.py:1042 src/olympia/devhub/forms.py:475
+#: src/olympia/addons/serializers.py:1043 src/olympia/devhub/forms.py:475
 msgid "The account needs a display name before it can be added as an author."
 msgstr ""
 "Nalogu je potrebno ime za prikaz pre nego što može biti dodat kao autor."
 
-#: src/olympia/addons/serializers.py:1327
+#: src/olympia/addons/serializers.py:1328
 msgid "This slug cannot be used. Please choose another."
 msgstr "Ovaj slag ne može da se koristi. Izaberite drugi."
 
-#: src/olympia/addons/serializers.py:1978
+#: src/olympia/addons/serializers.py:1983
 msgid "There is no rollback available in this channel."
 msgstr "U ovom kanalu nije dostupno vraćanje."
 
-#: src/olympia/addons/serializers.py:1988
+#: src/olympia/addons/serializers.py:1993
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr "Vraćanje je u ovom kanalu dostupno samo za izdanje %s."
 
-#: src/olympia/addons/serializers.py:1997
+#: src/olympia/addons/serializers.py:2002
 msgid ""
 "Only approved versions can be rolled back, except the most recent version."
 msgstr "Samo odobrena izdanja mogu biti vraćena, izuzev najnovijeg izdanja."
