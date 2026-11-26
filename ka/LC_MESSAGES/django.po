@@ -6226,7 +6226,7 @@ msgstr "გაფართოებების საწყისი ნაკ�
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr "შემმუშავებლისგან: Profile Manager Pro"
+msgstr "შემმუშავებლის შერჩევით: Profile Manager Pro"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
