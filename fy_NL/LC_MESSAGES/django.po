@@ -419,7 +419,7 @@ msgstr "Dizze identifikator kin net brûkt wurde. Kies in oare."
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Tema’s stypje gjin piktogrammen."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
