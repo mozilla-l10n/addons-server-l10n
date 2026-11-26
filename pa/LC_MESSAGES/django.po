@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-25 11:50+0000\n"
+"POT-Creation-Date: 2026-11-26 14:01+0000\n"
 "PO-Revision-Date: 2015-07-18 03:09+0000\n"
 "Last-Translator: ubuntuser13 <ubuntuser13@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -394,16 +394,20 @@ msgstr ""
 msgid "This slug cannot be used. Please choose another."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1983
+#: src/olympia/addons/serializers.py:1357
+msgid "Themes do not support icons."
+msgstr ""
+
+#: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:1993
+#: src/olympia/addons/serializers.py:1997
 #, python-format
 msgid "Rollback is only available for version %s in this channel."
 msgstr ""
 
-#: src/olympia/addons/serializers.py:2002
+#: src/olympia/addons/serializers.py:2006
 msgid "Only approved versions can be rolled back, except the most recent version."
 msgstr ""
 
