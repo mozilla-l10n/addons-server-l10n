@@ -432,7 +432,7 @@ msgstr "Adresowe mjeno njeda so wužiwać. Prošu wubjerće druhe."
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Drasty symbole njepodpěruja."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."

@@ -429,7 +429,7 @@ msgstr "Tento slug (časť URL adresy) sa nedá použiť. Vyberte si prosím in�
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Ikony nie sú v témach podporované."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
@@ -6218,7 +6218,7 @@ msgstr "Štartovací balíček rozšírení"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr ""
+msgstr "Vývojár v centre pozornosti: Profile Manager Pro"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
@@ -6228,7 +6228,7 @@ msgstr "Pozrite si tipy od znalcov"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
 msgid "Read more"
-msgstr ""
+msgstr "Ďalšie informácie"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174

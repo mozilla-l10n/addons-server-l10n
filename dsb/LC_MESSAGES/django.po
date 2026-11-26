@@ -433,7 +433,7 @@ msgstr "Adresowe mě njedajo se wužywaś. Pšosym wubjeŕśo druge."
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Drastwy symbole njepódpěraju."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
