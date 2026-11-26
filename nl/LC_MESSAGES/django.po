@@ -417,7 +417,7 @@ msgstr "Deze identificator kan niet worden gebruikt. Kies een andere."
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Thema’s ondersteunen geen pictogrammen."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."

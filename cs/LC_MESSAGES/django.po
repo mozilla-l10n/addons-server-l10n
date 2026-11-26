@@ -415,7 +415,7 @@ msgstr "Tento slug (část adresy URL) se nedá použít. Zvolte si prosím jin�
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Vzhledy nepodporují ikony."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
