@@ -784,7 +784,7 @@ msgstr ""
 #: src/olympia/constants/activity.py:25
 #, python-brace-format
 msgid "{addon} was created."
-msgstr ""
+msgstr "{addon} සෑදිණි."
 
 #: src/olympia/constants/activity.py:35
 #, python-brace-format
@@ -2110,7 +2110,7 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/api/key.html:29 src/olympia/devhub/views.py:134 src/olympia/devhub/views.py:142
 msgid "Created"
-msgstr ""
+msgstr "සෑදිණි"
 
 #: src/olympia/devhub/views.py:135 src/olympia/devhub/views.py:144 src/olympia/stats/templates/stats/addon_report_menu.html:8
 msgid "Downloads"
