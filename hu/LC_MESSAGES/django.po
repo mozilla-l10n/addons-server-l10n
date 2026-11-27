@@ -431,7 +431,7 @@ msgstr "Ez a SEO webcím nem használható. Válasszon egy másikat."
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "A témák nem támogatják az ikonokat."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
