@@ -2544,7 +2544,7 @@ msgstr "Nos ha discoperite que tu email \"%(email)s\" non pote reciper emails ab
 
 #: src/olympia/devhub/templates/devhub/includes/modal_rollback_version.html:8 src/olympia/devhub/templates/devhub/suppressed_email.html:8
 msgid "Learn more"
-msgstr "Saper plus"
+msgstr "Pro saper plus"
 
 #: src/olympia/devhub/templates/devhub/validate_addon.html:12
 msgid "Use the field below to upload your add-on package."
