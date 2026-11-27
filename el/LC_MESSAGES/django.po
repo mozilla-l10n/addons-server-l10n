@@ -433,7 +433,7 @@ msgstr "Δεν είναι δυνατή η χρήση αυτού του αναγ�
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Τα θέματα δεν υποστηρίζουν εικονίδια."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
