@@ -2726,7 +2726,7 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:5
 msgid "Additional Details"
-msgstr ""
+msgstr "අතිරේක විස්තර"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:8 src/olympia/devhub/templates/devhub/addons/edit/describe.html:10
 #: src/olympia/devhub/templates/devhub/addons/edit/media.html:6 src/olympia/devhub/templates/devhub/addons/edit/technical.html:9 src/olympia/devhub/templates/devhub/addons/submit/describe.html:61
@@ -2737,7 +2737,7 @@ msgstr ""
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:15
 #, python-brace-format
 msgid "Additional Details for {0}"
-msgstr ""
+msgstr "{0} සඳහා අතිරේක විස්තර"
 
 #: src/olympia/devhub/templates/devhub/addons/edit/additional_details.html:19
 msgid "Tags"
@@ -4368,7 +4368,7 @@ msgstr ""
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:134
 msgid "Additional comments:"
-msgstr ""
+msgstr "අතිරේක අදහස්:"
 
 #: src/olympia/devhub/templates/devhub/versions/list.html:147
 msgid "Leave a reply"
