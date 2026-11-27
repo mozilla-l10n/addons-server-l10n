@@ -432,7 +432,7 @@ msgstr "Denne sluggen kan ikke brukes. Velg en annen."
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Temaer støtter ikke ikoner."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
@@ -6217,7 +6217,7 @@ msgstr "Startpakke for utvidelser"
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1165
 msgid "Developer Spotlight: Profile Manager Pro"
-msgstr ""
+msgstr "Utvikler i søkelyset: Profile Manager Pro"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1167 src/olympia/discovery/strings.jinja2:1169
@@ -6226,9 +6226,8 @@ msgstr "Se de ansattes valg"
 
 #. editorial content for the secondary hero shelves.
 #: src/olympia/discovery/strings.jinja2:1171
-#, fuzzy
 msgid "Read more"
-msgstr "Lagre og legg til mer"
+msgstr "Les mer"
 
 #. editorial content for the homepage shelves.
 #: src/olympia/discovery/strings.jinja2:1174
