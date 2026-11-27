@@ -425,7 +425,7 @@ msgstr "這個 slug 無法使用，請改用其他的 slug。"
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "佈景主題無法使用圖示。"
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
