@@ -431,7 +431,7 @@ msgstr "Этот слаг нельзя использовать. Пожалуй�
 
 #: src/olympia/addons/serializers.py:1357
 msgid "Themes do not support icons."
-msgstr ""
+msgstr "Темы не поддерживают значки."
 
 #: src/olympia/addons/serializers.py:1987
 msgid "There is no rollback available in this channel."
@@ -2059,7 +2059,7 @@ msgid ""
 "An enterprise add-on. <span class=\"helptext\">After your submission is signed by Mozilla, you can download the .xpi file from the Developer Hub and distribute it to your audience via a Firefox for "
 "Enterprise policy.</span>"
 msgstr ""
-"Корпоративное дополнение. <span class=\"helptext\">После того, как ваша заявка будет подписана Mozilla, вы можете загрузить .xpi-файл из Центра разработки и распространить его среди своей аудитории "
+"Корпоративное дополнение. <span class=\"helptext\">После того, как ваша заявка будет подписана Mozilla, вы можете скачать .xpi-файл из Центра разработки и распространить его среди своей аудитории "
 "через политику Firefox Enterprise.</span>"
 
 #: src/olympia/devhub/forms.py:1481 src/olympia/devhub/templates/devhub/includes/agreement.html:22
